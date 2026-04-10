@@ -1,0 +1,6815 @@
+/effects  of  freezing  and  thawing 
+ON  sensory  quality  and  thiamin  content 
+OF  spaghetti  and  meat  sauce 
+
+AFTER  REHEATING  IN  CONVENTIONAL  OR  MICROWAVE  OVEN/ 
+
+
+by 
+
+CINDY  LOU  BLOMQUIST 
+B.S.,  Kansas  State  University,  Manhattan,  1977 
+
+
+A  MASTER'S  THESIS 
+
+submitted  in  partial  fulfillment  of  the 
+requirements  for  the  degree 
+
+MASTER  OF  SCIENCE 
+Department  of  Foods  and  Nutrition 
+
+
+KANSAS  STATE  UNIVERSITY 
+Manhattan,  Kansas 
+
+
+1985 
+
+
+Approved  by: 
+
+
+U> 
+
+
+Major  Professor 
+
+
+I   [)  A115D2   iMeeoi 
+
+.74 
+
+W%^  TABLE  OF  CONTENTS 
+
+855 
+
+C-  <£  Page 
+
+INTRODUCTION  1 
+
+REVIEW  OF  LITERATURE 3 
+
+Food  Preservation 3 
+
+History  of  freezing  5 
+
+Effects  of  freezing  7 
+
+Physical  changes 8 
+
+Chemical  changes 11 
+
+Stability  of  frozen  foods  11 
+
+Fruits 11 
+
+Vegetables 13 
+
+Eggs  and  egg  products 17 
+
+Meat,  fish,  and  poultry 19 
+
+Baked  products  and  other  starch  products  22 
+
+Effects  of  thawing  on  frozen  foods 28 
+
+Temperature  fluctuation  ....  31 
+
+Reheating  frozen  foods  34 
+
+Foodservice  industry  41 
+
+Pasta  Products 42 
+
+Instrumental  and  sensory  texture  measurements 
+
+of  pasta  products 45 
+
+MATERIALS  AND  METHODS  48 
+
+Sample  Preparation  48 
+
+Instrumental  evaluation  of  spaghetti  with 
+
+meat  sauce 50 
+
+
+n 
+
+
+iii 
+
+
+Texture en 
+
+Co,or 50 
+
+Analysis  of  data 50 
+
+Sensory  Evaluation  of  spaghetti  with  meat  sauce  ...   51 
+
+Panel  selection ' 51 
+
+Panel  training 51 
+
+Scorecard 52 
+
+Panel  evaluation  sessions  52 
+
+Nutrient  measurements  of  spaghetti  and  meat 
+
+sauce 53 
+
+RESULTS  AND  DISCUSSION  54 
+
+Effects  of  treatments  of  appearance  factors  54 
+
+Strand  separation  54 
+
+Fat  separation 57 
+
+HunterLab  color  57 
+
+Effects  of  treatments  on  mouthfeel  and  texture  ...  60 
+
+Mouthfeel  -  dryness 60 
+
+Greasiness 60 
+
+Firmness  -  sensory  evaluation  61 
+
+Firmness  -  Instron  measurements 62 
+
+Flavor 54 
+
+Effects  of  reheating  method  with  freeze-thaw 
+
+treatments  on  spaghetti  and  meat  sauce 65 
+
+Moistness 65 
+
+Nutrient  analysis 65 
+
+SUMMARY 
+
+by 
+
+
+iv 
+
+
+REFERENCES 71 
+
+ACKNOWLEDGEMENTS  77 
+
+APPENDIX 78 
+
+
+LIST  OF  TABLES  AND  FIGURES 
+
+Table  1.  Frozen  foods  sales  7 
+
+Table  2.  Nutrient  concentration  in  macaroni  .  .  . 42 
+
+Table  3.  Freezing  and  thawing  schedule 49 
+
+Table  4.  Mean  squares  and  F-values  from  analysis  of  variance 
+
+of  sensory  properties  for  spaghetti  and  meat  sauce  .  .   55 
+
+Table  5.  Mean  squares  and  F-values  from  analysis  of  variance 
+for  chemical  and  instrumental  tests  on  spaghetti 
+and  meat  sauce 56 
+
+Tab'e  6.  Least  square  means  for  appearance  factors  for 
+
+varying  freeze-thaw  cycles  58 
+
+Table  7.  Least  square  means  for  significantly  different 
+
+appearance  factors  for  spaghetti  and  meat  sauce.  ...   59 
+
+Table  8.  Least  square  means  for  mouthfeel  and  texture  evaluation 
+
+of  spaghetti  for  effect  of  freeze-thaw  cycles.  .  .      61 
+
+Table  9.  Least  square  means  for  sensory  flavor  evaluations 
+
+for  effect  of  freeze-thaw  cycles  63 
+
+Table  10.  Least  square  for  reheating  by  conventional  and  micro- 
+wave ovens  and  freeze-thaw  treatments  on  moistness 
+and  thiamin  content  of  spaghetti  and  meat  sauce.  ...   67 
+
+Table  11.  Least  square  means  for  chemical  measurements  for 
+
+spaghetti  and  meat  sauce 68 
+
+Table  A-l.  Spaghetti  and  meat  sauce  formula 78 
+
+Figure  A-l.  Scorecard  for  evaluating  spaghetti  and  meat  sauce  .   79 
+
+Figure  A-2.  Effect  of  freeze-thaw  cycles  on  fat  and  strand 
+
+separation 82 
+
+Figure  A-3.  Effect  of  freeze-thaw  cycles  on  L,  a,  b  instrumental 
+
+color  values 84 
+
+Figure  A-4.  Effect  of  freeze-thaw  cycles  on  instrumental  CIE 
+
+L,  a,  b  values 86 
+
+
+vi 
+
+
+Figure  A-5.  Effect  of  reheating  method  on  instrumental  color 
+
+values gg 
+
+Figure  A-6.  Effects  of  freeze-thaw  cycles  on  moistness, 
+
+greasiness  and  firmness  gg 
+
+Figure  A-7.  Sensory  vs.  instrumetnal  firmness  values 92 
+
+Figure  A-8.  Effect  of  freeze-thaw  cycles  on  spice  intensity 
+
+and  off-flavor g4 
+
+Figure  A-9.  Effect  of  reheating  method  on  moistness  96 
+
+Figure  A-10.  Effect  of  freeze-thaw  cycles  on  thiamin  retention  .   98 
+
+Table  A-2.  Least  square  means  comparing  reheating  method  and 
+freeze-thaw  cycles  for  sensory  attributes  of 
+spaghetti  and  meat  sauce gg 
+
+Table  A-3.  Least  square  means  comparing  reheating  method  and 
+freeze-thaw  cycles  on  color  of  spaghetti  and  meat 
+
+
+sauce 
+
+
+100 
+
+
+Table  A-4.  Bacterial  counts  in  spaghetti 101 
+
+
+Introduction 
+
+Food  preservation  has  become  important  for  increasing  the  food 
+supply  throughout  the  world.  The  type  of  preservation  method  used 
+depends  upon  many  factors  including  type  of  food,  facilities  and  labor 
+availability  and  end  use  of  product.  Nutrient  retention  and  product 
+acceptability  varies  among  different  food  preservation  methods. 
+Freezing  is  used  more  frequently  in  home  and  institutional  settings 
+than  canning  or  drying  and  freeze-drying.  Freezing  maintains  high 
+nutritional  value  and  product  acceptability. 
+
+Freezing  pre-cooked  foods  is  increasing  in  the  food  service 
+industry  and  among  convenience  food  manufacturers.  As  the  number  of 
+women  working  outside  the  home,  single  parent  households,  and  single 
+family  units  increase,  more  precooked  food  is  frozen.  This  demands 
+less  time  for  meal  preparation  and  decreases  product  waste  because 
+excess  food  can  be  frozen  and  used  when  needed. 
+
+Although  freezing  has  advantages  over  other  food  preservation 
+methods  it  is  not  problem-free.  All  steps  in  the  freezing  process  must 
+be  done  using  sanitary  practices.  This  is  especially  important  because 
+freezing  only  retards  growth  of  microorganisms  and  if  food  is  handled 
+improperly  it  may  not  be  safe  to  eat. 
+
+"Freezing  abuse"  often  occurs  to  products  in  the  marketplace. 
+Partial  thawing  and  refreezing  may  occur  several  times  before  products 
+reach  final  destinations.  This  may  be  the  result  of  improper  handling 
+or  insufficient  temperature  control  during  the  transportation  phase. 
+
+
+It  is  almost  impossible  to  maintain  correct  temperatures  in  freezer 
+display  cases  in  the  supermarket.  Partial  or  total  thawing  of  products 
+also  may  occur  after  purchase  and  before  transfer  to  the  home  freezer. 
+Therefore,  it  is  important  to  study  the  effects  of  freezing  and  thawing 
+on  nutrient  retention  and  product  acceptability. 
+
+Modern  technology  has  increased  the  number  of  ways  a  product  can 
+be  heated  or  reheated.  Retortable  pouches  allow  cooking  in  boiling 
+water  with  small  nutrient  losses  and  high  eating  quality.  Microwave 
+ovens  are  becoming  popular  in  both  private  and  public  sectors. 
+Microwave  ovens  are  considered  energy  efficient,  and  often  require  less 
+time  for  reheating  foods  than  conventional  ovens  (Dahl  et  si.,  1981,  and 
+Snyder,  1978).  Also,  few  dishes  and  easy  oven  cleaning  increases 
+microwave  oven  usage. 
+
+Extensive  research  findings  have  been  published  on  various  food 
+preservation  methods.  Effects  of  heating  and  reheating  comparing 
+microwave  oven  with  conventional  methods  are  also  popular  topics. 
+However,  little  information  is  available  in  the  literature  concerning  the 
+effects  of  freezing  and  thawing  on  various  food  products. 
+
+The  objective  of  this  investigation  was  to  evaluate  spaghetti 
+with  meat  sauce  after  subjecting  the  product  to  several  freeze-thaw 
+cycles  and  reheating  by  a  conventional  or  microwave  oven. 
+
+
+REVIEW  OF  LITERATURE 
+Food  Preservation 
+
+Deterioration  of  food  results  from  chemical  and  enzymatic  reac- 
+tions within  the  food  system  as  well  as  from  microbial  contaminants 
+(Ley,  1980).  The  aim  of  food  preservation  (Fennema,  1975)  is  "to  pre- 
+vent undesirable  changes  in  the  wholesomeness,  nutritive  value  or  sen- 
+sory quality  of  food  by  economical  methods  which  control  growth  of 
+microorganisms;  reduce  chemical,  physical  and  physiological  changes  of 
+an  undesirable  nature;  and  obviate  contamination." 
+
+Food  can  be  preserved  through  chemical  means  by  adding  sub- 
+stances such  as  sugar,  salt  or  acids  to  foods.  Alcoholic  or  acidic 
+fermentations  preserve  foods  using  biological  means.  Physical  methods 
+are  most  common  and  include  heating  (canning),  irradiation,  chilling  or 
+freezing,  drying  or  freeze-drying. 
+
+Canning  usually  results  in  severe  overcooking,  because  of  the 
+high  temperatures  and  duration  of  heating  required  for  sterilization. 
+A  loss  of  flavor  results,  as  well  as  deterioration  in  texture  and 
+general  appearance  (Rogers  and  Binsted,  1972).  Hellendoorn  et  al . 
+(1971)  reported  on  the  nutritive  value  of  canned  meals  consisting  of 
+meat,  vegetables,  legumes  and  potatoes.  Considerable  losses  occurred 
+in  vitamin  A,  thiamin,  niacin  and  pantothenic  acid  during  sterilization 
+and  storage.  Vitamin  E,  riboflavin,  pyridoxine,  vitamin  Bi?,  folic 
+acid,  choline  chloride  and  inositol  were  relatively  stable.  Protein 
+quality  also  decreased  during  storage. 
+
+
+Freezing  usually  is  considered  superior  to  canning  for  long- 
+term  food  preservation  because  proper  freezing  is  effective  for 
+retaining  the  flavor,  color  and  nutritive  value  of  food  while  only 
+moderately  altering  textural  characteristics  (Fennema;  1975;  1977). 
+
+The  freezing  process  has  little  effect  on  the  nutritive  value 
+of  foods.  If  storage  temperatures  are  maintained  at  0°F  or  below,  the 
+nutrients  will  only  deteriorate  slightly  (Ley,  1980).  According  to 
+Ley  (1980),  freezing  generally  affects  nutrients  in  the  following  ways: 
+
+(1)  Proteins  usually  are  not  affected  by  frozen  storage,  except 
+during  prolonged  storage;  proteins  in  fish  and  shellfish  may 
+become  less  digestible. 
+
+(2)  Fats  become  rancid  due  to  oxidation,  and  fat-soluble  vita- 
+mins (A,D,E,  and  K)  will  oxidize  during  storage  if  not 
+packaged  or  frozen  properly. 
+
+(3)  Carbohydrates  generally  are  not  affected  by  frozen  storage. 
+The  exceptions  will  be  discussed  later. 
+
+(4)  Although  minerals  are  not  destroyed  by  freezing,  they  may 
+be  lost  during  blanching  or  thawing. 
+
+(5)  Water-soluble  vitamins  are  the  most  sensitive  to  food 
+processing;  thiamin  and  ascorbic  acid  are  frequently 
+studied  to  determine  nutrient  retention  in  foods. 
+
+The  rate  at  which  molecules  move  determines  the  rate  at  which  they 
+interact  with  others  or  initiate  chemical  reactions.  Generally,  reac- 
+tion rates  double  with  an  18°F  rise  in  temperature  (Ley,  1980). 
+Detrimental  effects  that  occur  during  freezing  and  severity  of  those 
+effects  depends  on  the  product  and  on  the  nature  of  the  freezing 
+process  (Fennema,  1975).  Livingston  et  al .  (1973)  cited  previous  stu- 
+dies concerning  the  effects  of  storage,  time,  temperature  and  container 
+size.  Ascorbic  acid  in  fruits  and  thiamin  and  riboflavin  in  low-acid 
+vegetables  were  found  to  be  especially  sensitive  to  extended  storage  at 
+
+
+high  temperatures.  They  concluded  that  nutrient  retention  was  higher 
+in  frozen  as  opposed  to  canned  foods.  However,  prolonged  storage 
+reduces  vitamin  content,  especially  thiamin,  regardless  of  preservation 
+method  used. 
+
+Methods  of  preservation  result  in  some  undesirable  effects  on 
+the  sensory  attributes  and  nutritional  content  of  foods  (Fennema, 
+1975).  For  example,  thermal  sterilization  softens  food  tissues,  de- 
+grades chlorophylls  and  anthocyanins,  alters  flavor  and  results  in  loss 
+or  degradation  of  substantial  amounts  of  some  nutrients.  The  advan- 
+tages almost  always  outweigh  the  disadvantages  of  food  preservation, 
+however,  research  must  be  continued  to  decrease  the  disadvantages 
+while  maintaining  the  advantages. 
+
+Lund  (1979)  summarized  effects  of  moisture  removal  from  studies 
+by  others  on  vitamins  A  and  C.  Since  both  vitamins  are  heat  labile  and 
+sensitive  to  oxidation,  the  dehydration  process  resulted  in  nutrient 
+losses  similar  to  losses  from  freezing  rather  than  canning. 
+
+History  of  freezing.  The  frozen  food  industry  was  initiated  in 
+1865  using  a  "weather  freezing"  system  for  fish  (Ley,  1980).  However, 
+it  was  not  until  the  early  1920's  that  the  first  successfully  prepared 
+product  (chicken  a'la  king)  was  marketed  by  Birdseye  Frosted  Foods 
+(Tressler  et  al.,  1968).  The  product  was  successful  because  it  (a) 
+retained  characteristics  extremely  well  after  frozen  storage,  (b)  had  a 
+long  shelf  life,  (c)  could  be  produced  to  sell  at  a  reasonable  price, 
+and  (d)  required  no  special  effort  by  consumers  to  prepare  the  product 
+at  home. 
+
+
+The  frozen  food  industry  prospered  until  1944  (Tressler  et  al., 
+1968).  A  drastic  decline  in  frozen  food  purchases  resulted  from  the 
+industries'  ignorance  of  proper  freezing  methods,  improper  selection  of 
+raw  materials,  handling  and  distribution  problems,  and  consumer 
+ignorance.  Initially,  a  bad  experience  with  one  package  of  frozen  food 
+was  likely  to  prejudice  the  consumer  against  all  frozen  foods.  After 
+consumer  confidence  returned,  the  industry  experienced  exponential 
+growth  resulting  in  inferior  products,  because  many  companies  entered 
+the  industry  without  proper  knowledge  or  product  experimentation 
+(Tressler  et  al.,  1968).  Therefore,  in  1947,  the  industry  experienced 
+a  87.5  per  cent  decrease  in  frozen  food  sales. 
+
+In  1948  the  Western  Utilization  Research  Branch  began  investi- 
+gations on  how  frozen  food  products  behave  under  conditions  of  time  and 
+temperature  such  as  they  may  encounter  in  the  commercial  distribution 
+system  (Van  Arsdel ,  1957).  Researchers  found  "freezing  abuse" 
+(temperature  fluctuation)  resulted  in  inferior  quality  and  decreased 
+acceptabilty  of  frozen  foods.  Also,  the  damage  which  occurred  was 
+progressive  and  irreparable. 
+
+Seafood  has  been  an  important  component  of  the  frozen  food 
+industry  almost  since  its  conception.   In  1949,  Rudy  Wagner,  owner  of 
+Redi  Foods,  "invented"  fish  sticks  to  satisfy  the  demand  in  Albany,  New 
+York  for  frozen  fish  strips  that  could  be  fried  in  roadside  stands  for 
+sandwiches  (Tressler  et  al . ,  1968).  Since  shrimp  was  available 
+regionally,  it  became  a  popular  frozen  food  item  and  sales  increased 
+from  17  million  pounds  in  1952  to  105  million  pounds  in  1966. 
+
+
+Birdseys,  realizing  its  potential,  added  precooked  frozen  foods 
+to  the  product  line  in  1952  (Tressler  et  al.,  1968).  Since  1953  frozen 
+dinner  sales  have  increased  annually  without  ever  experiencing  a 
+decline.  The  success  of  precooked  frozen  foods  has  been  attributed  to 
+the  fact  that  these  products  save  time,  and  make  foods  available  to  the 
+consumer  which  ordinarily  require  a  great  deal  of  skill  to  prepare 
+(Rogers  and  Binsted,  1972).  However,  food  which  has  been  precooked  is 
+subject  to  increased  chemical  changes  and  deterioration  during  frozen 
+storage  than  when  the  product  is  frozen  uncooked.  Also,  the  delicate 
+flavors  and  aromas  developed  during  cooking  are  easily  lost  during  fro- 
+zen storage,  because  of  the  chemical  reactions  such  as  oxidation  and 
+evaporation. 
+
+The  success  of  the  frozen  food  industry  is  evident  from  the 
+data  in  Table  1  (Anonymous,  1979). 
+
+Table  1.  Frozen  foods  sales. 
+
+Fruit     Prepared  Foods     Dinners     Total 
+(Millions  of  dollars) 
+
+
+1948 
+
+292 
+
+1958 
+
+88 
+
+2,320 
+
+1968 
+
+261 
+
+1,927 
+
+471 
+
+6,690 
+
+1978 
+
+461 
+
+5,511 
+
+657 
+
+20,442 
+
+Effects  of  Freezing 
+
+Although  food  preservation  methods  can  stop  growth  of  micro- 
+
+
+organisms  and  retard  the  rate  of  chemical  reactions,  some  chemical  and 
+physical  changes  do  occur  in  preserved  foods.  These  changes  must  be 
+considered  if  foods  are  to  be  frozen  successfully. 
+
+Physical  changes.  Supercooling,  the  first  step  in  the  freezing 
+process,  is  when  the  temperature  of  water  is  lowered  below  its  freezing 
+point  before  crystallization  occurs.  Studies  indicate  that  temporary 
+supercooling  generally  does  not  impair  the  quality  of  foods  (Fennema, 
+1975).  Therefore,  the  undesirable  side  effects  of  freezing  are  attri- 
+buted to  the  second  step  in  the  freezing  process,  crystallization  of 
+water. 
+
+Nucleation,  the  first  phase  in  water  to  ice  transformation,  is 
+the  association  of  molecules  into  an  ordered  particle  of  a  size 
+sufficient  to  survive  and  serve  as  a  site  for  crystal  growth  (Fennema, 
+1975).  The  location  of  ice  crystals  is  a  function  of  freezing  rate, 
+temperature  and  nature  of  the  cells  (Fennema  et  al . ,  1973).  Water 
+crystallization  resulting  in  separation  of  oil  and  aqueous  phsae  and 
+breaking  of  the  emulsion  occur  in  frozen  foods. 
+
+The  second  step  in  the  crystallization  process  is  the  growth  of 
+the  ice  crystals.  Unlike  nucleation,  crystalline  growth  can  occur  just 
+below  the  melting  point  (Fennema,  1975).  Water  molecules  must  move 
+from  the  liquid  phase  to  the  crystal  surface  while  the  solute  must  dif- 
+fuse away  from  the  crystal. 
+
+Slow  freezing  (cooling  at  a  rate  of  less  than  1°C  min) 
+generally  allows  only  a  few  nuclei  to  form  in  extracellular  areas, 
+resulting  in  large  ice  crystals,  maximum  dislocation  of  water,  a 
+
+
+shrunken  appearance  of  cells  and  usually  lower  food  quality  (Fennema  et 
+al.,  1973;  Fennema,  1975).  As  ice  forms  in  extracellular  regions,  the 
+solute  concentration  of  the  unfrozen  phase  gradually  increases  and 
+vapor  pressure  decreases.  At  relatively  high  subfre.ezing  tem- 
+peratures, ice  crystals  cannot  penetrate  cellular  membranes,  therefore, 
+intracellular  fluid  remains  supercooled  and  vapor  pressure  exceeds 
+extracelluar  fluid.  This  vapor  pressure  difference  causes  water  to 
+diffuse  from  the  cell  and  deposit  on  extracellular  ice  crystals 
+resulting  in  cellular  dehydration  (Fennema  et  al.,  1973).  Continued 
+freezing  increases  shrinkage  and  ice  crystal  size. 
+
+A  uniform  distribution  of  ice  crystals  results  in  products  fro- 
+zen rapidly  to  a  low  temperature  (Fennema,  1975).  Rapid  freezing 
+favors  intracellular  ice  crystal  formation  which  minimizes  cellular 
+dehydration. 
+
+Fennema  and  colleagues  (1973)  cited  studies  by  Mazur  (1966) 
+that  suggested  cell  membranes  were  effective  barriers  to  crystal  growth 
+during  slow  freezing,  but  the  barrier  suddenly  disappears  at  about 
+-10°C  during  rapid  cooling.  Possible  reasons  for  the  decline  in 
+barrier  effectiveness  as  temperature  decreases  are:  (1)  low  tem- 
+peratures damage  the  membrane  either  directly  or  indirectly  which  may 
+be  related  to  solute  concentration,  or,  as  Mazur  believes  (2)  membranes 
+are  not  damaged,  but  at  a  certain  temperature  (approximately  -15°C)  ice 
+crystals  develop  which  can  penetrate  the  minute  water-filled  pores  of 
+the  membrane. 
+
+Volume  change  is  another  physical  change  which  is  associated 
+
+
+10 
+
+
+with  ice  formation.  Pure  water  at  0°C  expands  approximately  9%  when 
+water  is  transformed  to  ice  (Fennema,  1975).  The  extent  of  volume 
+changes  in  a  food  system  depends  upon  the  following  factors: 
+
+(1)  Composition.  The  percentage  of  water  and  presence 
+of  solutes  or  suspended  matter  influence  volume  changes. 
+Since  water  is  responsible  for  the  expansion  during 
+freezing,  any  decrease  in  water  per  unit  volume  decreases 
+the  expansion. 
+
+(2)  Percentage  of  free  water.  Any  water  that  is  bound  or 
+supercooled  does  not  contribute  to  expansion  during  freez- 
+ing. 
+
+(3)  Temperature  range. 
+
+The  following  events  can  contribute  to  volume  changes:  cooling 
+prior  to  freezing  (contraction),  ice  formation  (expansion),  cooling  of 
+ice  crystals  (contraction),  solute  crystallization  (contraction), 
+cooling  of  solute  crystals  (contraction),  and  crystallization  and 
+cooling  of  nonsolutes  such  as  fat  (contraction). 
+
+Physical  changes  that  occur  during  frozen  storage  include  for- 
+mation of  eutectics,  freezer  burn  and  recrystal lization  (Fennema  et 
+al.,  1973).  The  percentage  of  frozen  water  to  free  water  increases  as 
+temperature  decreases,  for  example,  the  percentage  of  ice  in  lean  meat 
+is  approximately  74%  at  23°F,  83%  at  14°F  and  89%  at  -22°F.  When  lean 
+meat  is  reduced  to  a  temperature  range  of  -58°  to  -76°F,  the  eutectic 
+point  (where  further  temperature  decrease  will  not  cause  additional 
+water  solidification)  is  reached  (Ley,  1980).  The  eutectic  point  for 
+most  foods  occurs  near  -67°F.  At  temperatures  below  the  eutectic  point 
+approximately  8%  of  the  water  is  unfrozen,  but  it  is  bound  to  proteins. 
+
+Freezer  burn  is  initiated  by  sublimation  of  ice  and  results  in 
+
+
+11 
+
+
+inferior  food  quality.  Since  ice  crystals  are  not  stable,  changes  can 
+occur  in  number,  size,  shape,  orientation  or  perfection  of  crystals 
+after  initial  solidification;  this  is  referred  to  as  recrystallization 
+(Fennema  et  al .,  1973). 
+
+Chemical  changes.  Chemical  changes  that  can  occur  during  fro- 
+zen storage  are  lipid  oxidation,  enzymatic  browning,  flavor  deteriora- 
+tion, protein  insolubilization,  degradation  of  chlorophyll  and  vitamins 
+(Fennema  et  al.,  1973).  Since  food  systems  are  so  complex,  both  chemi- 
+cal and  physical  changes  are  responsible  for  damaging  frozen  foods. 
+These  changes  will  be  discussed  in  greater  detail  as  they  relate  to 
+specific  products. 
+Stability  of  Frozen  Foods 
+
+Resistance  to  freezer  damage  is  product  dependent.  Cell 
+breakage,  cell  separation  and  impaired  texture  are  observed  frequently 
+in  frozen  plant  tissues.  This  damage  has  been  attributed  to  the  semi- 
+rigid, poorly  aligned  nature  of  many  plant  cells  (Fennema,  1975). 
+Muscle  fibers,  however,  have  parallel  arrangements  allowing  flexibility 
+so  muscle  fibers  usually  separate  rather  than  break  during  freezing, 
+which  does  not  significantly  alter  meat  texture. 
+
+Fruits.  The  quality  of  fruits  and  vegetables  following  the 
+freezing  process  depends  on  variety,  growing  conditions  and  stage  of 
+maturity  at  harvest  (Fennema,  1975).  Enzymatic  browning  is  a  major 
+problem  in  fruits.  Since  heat  damages  desirable  sensory  properties  of 
+fruit,  enzymatic  browning  usually  is  retarded  through  the  use  of  chemi- 
+cal additives.  Sulfur  dioxide,  which  chemically  interacts  with  the 
+
+
+12 
+
+
+enzyme  substrate,  may  be  used  if  the  fruit  is  cooked  prior  to  consump- 
+tion. Lowering  the  pH  to  a  value  less  desirable  for  enzyme  activity  is 
+achieved  by  adding  acids  such  as  citric  and  malic,  thus  reducing 
+enzymatic  browning.  A  more  effective  acid  is  ascorbic  acid  (Fennema, 
+1975;  Guadagni  et  al.,  1957),  which  apparently  maintains  phenolic 
+substances  in  a  reduced  and  colorless  state  rather  than  significantly 
+changing  the  pH.  Although  more  expensive,  0. 1%  ascorbic  acid  is  fre- 
+quently used  in  sugar  syrup  (0.3%  required  for  complete  effectiveness) 
+to  control  enzymatic  browning,  and  it  is  also  a  valuable  nutrient. 
+
+Sucrose  or  sugar  syrups  often  are  added  to  fruit  prior  to 
+freezing  for  several  reasons:  for  sweetness;  to  retain  volatile 
+aromas;  to  decrease  the  amount  of  frozen  water;  and  to  act  as  an 
+oxygen  barrier,  which  decreased  enzymatic  browning  (Fennema,  1975; 
+Guadagni  et  al.,  1957).  However,  sucrose  hydrates  often  crystallize 
+in  cold  processed  frozen  fruit  spreads  during  storage  causing 
+deterioration  in  appearance  and  texture.  Studies  indicate  the 
+appearance  of  sucrose  hydrate  crystals  was  slowest  at  storage  tem- 
+peratures of  -30°F  (-34°C)  and  fastest  at  -10°F  (-23°C)  dressier  et 
+al.,  1968). 
+
+Thiamin  and  ascorbic  acid  routinely  are  used  to  measure 
+nutrient  retention  for  several  reasons  (Fennema,  1977).  These  vitamins 
+are  water-soluble  and  highly  susceptible  to  chemical  dehydration.  They 
+are  also  present  in  many  foods  and  are  essential  for  the  human  body. 
+If  these  nutrients  are  retained  well,  it  generally  is  assumed  that 
+other  nutrients  also  are  retained  well. 
+
+
+13 
+
+
+Ley  (1980)  reported  that  frozen  strawberries  and  raspberries, 
+with  juice  or  syrup,  contain  approximately  803J  of  their  ascorbic  acid 
+content  after  frozen  storage.  Crushed  or  sliced  fruits  experience  a 
+greater  loss  than  frozen  whole  fruits.  Since  ascorbic  acid  is  added 
+to  peaches  and  apricots  during  processing  to  prevent  discoloration,  a 
+high  ascorbic  acid  content  is  found  in  these  fruits  after  frozen  storage. 
+
+Somer,  et  al .  (1978)  found  ascorbic  acid  to  be  stable  under 
+extreme  temperature  fluctuations  (greater  than  10°F)  in  frozen  juice 
+concentrate.  The  B-vitamins  were  found  to  be  even  more  stable  than 
+ascorbic  acid.  Researchers  in  the  early  1950's  (Bennett  et  al.,  1954) 
+found  fruit  stored  at  0°F  and  -20°F  retained  more  ascorbic  acid  after  12 
+months  of  frozen  storage  than  those  stored  at  +10°F.  Guadagni  et  al . 
+(1957)  found  0°  to  be  a  satisfactory  storage  temperature  for  peaches 
+with  respect  to  economy  and  quality  retention. 
+
+Vegetables.  Vegetables  are  more  vulnerable  to  enzymatic 
+deterioration  during  frozen  storage  than  any  other  food  group  (Ley, 
+1980).  Crystallization  of  water  reduces  the  turgidity  of  cells  which 
+causes  wilting  of  frozen  vegetables  dressier  et  al.,  1968).  Enzymes 
+control  chemical  changes  and  will  initiate  undesirable  color  and  flavor 
+changes  if  not  deactivated.  Therefore,  heat  treatment,  or  blanching 
+(190°F  for  3  minutes  or  212°F  for  30  seconds)  is  necessary  to  control 
+enzyme  activity  during  frozen  storage  (Fennema,  1975;  Ley,  1980). 
+Blanching  will  inactivate  enzymes  (approximately  180oF),  reduce  micro- 
+bial populations  and  enhance  some  flavor  and  texture  characteristics. 
+
+Underblanching  vegetables  can  cause  greater  quality  deterioration 
+
+
+14 
+
+
+than  no  blanching,  because  partial  heating  will  disrupt  or  damage 
+tissues  causing  enzymes  and  natural  substrates  to  react  more  quickly 
+(Ley,  1980).  Also,  moderate  heat  can  inactivate  some  enzymes  and 
+increase  activity  of  others,  producing  an  imbalance  that  will  accel- 
+erate deterioration.  Toughness  is  another  result  of  underblanching. 
+
+Overblanching  will  cause  chlorophyll  to  break  down  and  form 
+pheophytin,  giving  green  vegetables  an  undesirable  color  change. 
+Excess  heat  also  softens  tissue  to  an  undesirable  degree  (Ley,  1980). 
+To  ensure  thorough  enzyme  deactivation,  large,  dense  food  should  be 
+warmed  to  120°F  prior  to  blanching. 
+
+Blanching  can  be  done  in  hot  water  or  steam.  Research  indi- 
+cates hot  water  deactivates  enzymes  faster  than  steam  (Ley,  1980). 
+However,  when  blanching  vegetables  with  a  large  quantity  of  cut 
+surfaces,  steaming  is  recommended  to  prevent  leaching  of  nutrients. 
+Stone  and  Young  (1984)  found  green  beans  blanced  in  a  microwave  oven 
+greener  and  firmer  when  compared  to  conventional  blanching.  Off- 
+flavors  and  a  "grassy"  aroma  were  found  in  green  beans  blanched  in  a 
+microwave  oven. 
+
+Vegetables  must  be  cooled  immediately  after  blanching  to  stop 
+the  heating,  thus  minimizing  texture  damage  and  nutrient  loss.  Ley 
+(1980)  reported  15-305!  of  vitamin  loss  occurs  during  blanching  and 
+freezing.  Little  vitamin  loss  occurs  during  storage  if  temperatures  do 
+not  rise  above  0°F,  which  prevents  oxidation.  Blanching  must  be  a 
+compromise  between  the  destruction  of  enzymes  and  undesirable  textural 
+changes  produced  by  the  heat  treatment. 
+
+
+15 
+
+
+Acceptability  of  cooked  and  uncooked  vegetables  prior  to 
+freezing  was  studied  by  Woodroof  and  Atkinson,  as  reported  by  Tressler 
+et  al .  (1968).  Lima  beans,  snap  beans,  soybeans,  okra  and  cream-style 
+corn  remained  in  excellent  condition  after  being  stored  for  one  year  at 
+0°F  (-18°C)  when  blanched  prior  to  freezing.  However,  if  these 
+products  were  precooked,  quality  was  rated  fair  to  poor  after  storage. 
+These  tests  indicated  that  as  heating  time  increased,  beyond  the  recom- 
+mended blanching  time,  color,  aroma  and  flavor  deteriorated.  Cooked 
+puree  of  pumpkin  and  sweet  potatoes  remained  in  excellent  condition 
+after  frozen  storage,  however.  The  highest  quality  rhubarb  was 
+obtained  when  blanching  was  omitted. 
+
+Hanson  et  al .  (1950)  compared  quality  attributes  of  blanched 
+and  precooked  frozen  peas,  sweet  corn,  Kentucky  Wonder  beans,  celery, 
+carrots,  lima  beans,  peppers  and  Chinese  water  chestnuts.  Cooked  peas 
+developed  an  off -flavor  faster  than  blanched  peas,  but  there  was  no  dif- 
+ference in  degree  of  off -flavor,  indicating  overcooking  was  not  the 
+cause  in  the  flavor  differences.  Packing  peas  in  liquid  such  as  cream 
+sauce,  kept  the  air  from  coming  in  direct  contact  with  the  peas,  which 
+prevented  the  development  of  off-flavors  during  storage.  Hanson  and 
+co-workers  also  concluded  that  desired  crispness  could  be  obtained  by 
+varying  cooking  times  prior  to  freezing. 
+
+Hein  and  Hutchings  (1974)  reported  that  ascorbic  acid  content 
+in  some  vegetables  decreased  as  much  as  fifty  percent  when  the  product 
+was  frozen  and  held  at  16°F  for  six  months.   In  another  study  (Fennema, 
+1977),  several  vegetables  (asparagus,  lima  beans,  green  beans,  broccoli 
+
+
+16 
+
+
+spears,  brussel  sprouts,  cauliflower,  whole  kernel  corn,  immature  green 
+peas,  mashed  potatoes  and  spinach)  were  cooked  after  frozen  storage. 
+Analysis  revealed  a  25  percent  decrease  in  thiamin  content  when  frozen 
+and  fresh  vegetables  were  compared.  However,  freezing  was  found  to  be 
+superior  to  canning,  because  three  times  more  thaimin  was  retained  in 
+the  frozen  vegetables.  Bennett  et  al.  (1954)  found  ascorbic  acid 
+retention  was  satisfactory  when  vegetables  were  stored  at  -20°F. 
+Higher  storage  temperatures  showed  a  gradual  decrease  in  the  retention 
+of  this  vitamin. 
+
+Reducing  agents  such  as  sulfite  sometimes  are  added  to  water  of 
+peeled  white  potatoes,  cabbage  and  salad  greens  when  food  is  held 
+before  cooking.  Van  Zante  and  Johnson  (1970)  found  higher  ascorbic 
+acid  retention  when  sulfites  were  used  to  inhibit  oxidation.  However, 
+thiamin,  riboflavin,  and  niacin  were  reduced  slightly. 
+
+The  nutritional  effects  of  unit  operations,  such  as  blanching, 
+deep  frying,  and  dehydrating,  in  commercial  potato  processing  were 
+investigated  by  Augustin  et  al .  (1979).  French  fries  and  preformed 
+patties  were  frozen  and  later  freeze-dried.  Overall  retention  ranged 
+from  53*  for  ascorbic  acid  to  90*  for  vitamin  B6,  in  preformed  patties. 
+The  lower  ascorbic  acid  retention  in  preformed  patties  (53*)  as  com- 
+pared to  French  fries  (small  fries  61%,  large  fries  69%)  was  attributed 
+to  the  deep-frying  operation. 
+
+Smaller  fries  had  significantly  lower  (p  <  0.05)  nutrient 
+•retention,  except  for  thiamin  and  folic  acid,  probably  a  result  of 
+nutrient  leaching.  Researchers  concluded  water  blanching  was  the  major 
+
+
+17 
+
+
+reason  for  nutrient  loss  during  commercial  frozen  French  fry  produc- 
+tion, and  blanching  with  steam  produced  fries  with  a  a  higher  vitamin 
+content. 
+
+Eggs  and  Egg  Products.  Raw  egg  white  is  not  affected  by 
+freezing  and  thawing  (Davis  et  al.,  1952).  However,  frozen  products 
+containing  cooked  egg  whites  are  not  freeze-thaw  stable.  Ice  crystal 
+formation  damages  the  coagulated  protein  gel  structure,  and  syneresis 
+occurs  during  thawing  as  is  evident  in  frozen  custards  (Feiser  and 
+Cotterill,  1983;  Tressler  et  al.,  1968). 
+
+Feiser  and  Cotterill  (1983)  studied  the  effect  of  sodium 
+chloride  on  the  composition,  serum  and  sensory  properties  of  cooked- 
+frozen-thawed  scrambled  eggs  and  cooked-frozen-thawed-reheated  (CFTR) 
+scrambled  eggs.  Mean  sensory  scores  of  fresh  compared  to  CFTR 
+scrambled  eggs  were  significantly  different  (p  <   0.05)  from  0.6  to  1.0% 
+salt.  Sensory  scores  for  unfrozen  eggs  indicated  that  no  difference 
+could  be  detected  in  varying  salt  treatments  to  0.6%,  but  CFTR  scores 
+showed  no  difference  to  0.4%  salt.  Mean  rankings  of  fresh  to  CFTR 
+samples  were  significantly  different  (p  <  0.05)  throughout  varying  salt 
+treatment.  Fresh  to  CFTR  sensory  scores  were  no  different  with  up  to 
+0.4%  salt.  Results  indicate  0.4%  is  the  maximum  level  of  salt  that 
+may  be  used  to  CFTR  egg  products  to  be  comparable  to  freshly  cooked 
+scrambled  eggs. 
+
+Researchers  concluded  that  the  addition  of  salt  (0-1.0%)  to 
+scrambled  egg  products  decreases  the  amount  of  serum  loss  probably 
+because  of  the  solubilizing  effect  of  salt  on  the  phosphorus-containing 
+
+
+18 
+
+
+components  (phospholipids,  ovalabumin,  and  phosvitin).  The  CFTR  pro- 
+cess for  scrambled  eggs  increases  salty  taste  compared  to  the  fresh 
+product.  This  may  be  related  to  the  decrease  in  moisture  loss  with  the 
+increased  percentage  of  salt  in  CFTR  scrambled  eggs.  Therefore,  salt 
+may  play  an  important  part  by  improving  moisture  retention.  They  also 
+found  that  serum  volume  decreases  as  salt  concentration  increases,  but 
+total  solids,  protein,  ash,  lipids,  sodium  chloride,  potassium,  iron 
+and  phosphorus  levels  in  the  serum  increases. 
+Gossett  and  Baker  (1983)  used  protein  modification  to  alter  the 
+functionality  of  proteins  in  egg  albumen.  The  researchers  believed 
+that  as  the  pH  is  raised,  the  negative  charges  might  cause  the 
+increased  repulsion  among  peptide  chains,  enabling  the  protein  matrix 
+to  entrap  more  water.  They  theorized  that  by  succinylating  the  pro- 
+teins, the  amino  groups  bind  to  succinate  anions  with  two  carboxyl 
+groups  causing  a  net  gain  in  the  negative  charge.  This  increased 
+repulsion  between  carboxyl  groups  may  decrease  protein-protein  interac- 
+tions, while  increasing  the  protein-water  interaction,  thus  improving 
+water-retention  properties  of  the  gel. 
+
+Gosset  and  Baker  (1983)  found  as  pH  increased  above  pH  9.5  the 
+percent  of  expressible  moisture  (EM)  decreased  for  both  unfrozen  and 
+nonfrozen  treatments  of  coagulated  egg  albumen.  As  proteins  were  suc- 
+cinylated  up  to  a  certain  level,  such  as  0.4%  (g  anhydride/g  albumen), 
+the  succinyl  groups  and  their  negative  charges  contributed  to  the 
+general  expansion  of  protein  allowing  greater  water  retention.  Further 
+levels  succinylation  exhibited  no  further  decrease  in  percentage  EM  of 
+
+
+19 
+
+
+coagulated  gel.  The  cook  value  did  not  change.  A  significant  increase 
+in  percentage  EM  was  observed  in  all  frozen  samples.  Raw  albumen 
+adjusted  to  pH  9.5  or  greater  exhibited  significantly  (p  <^  0.05) 
+decreased  percentage  EM  in  coagulated  albumen  and  whole  egg  gels  for 
+frozen  and  nonfrozen  treatments.  Raw  albumen  adjusted  to  pH  10.5  and 
+11.0  required  less  time  to  attain  the  same  cook  value  than  the  pH  9.0 
+control . 
+
+Meat,  fish  and  poultry.  Protein  denaturation  and  oxidation  are 
+responsible  for  the  major  undesirable  changes  which  occur  in  meat, 
+fish,  and  poultry  after  frozen  storage.  Also,  as  with  all  foods,  the 
+microbiological  aspect  of  frozen  meats  is  of  utmost  importance.  Frozen 
+storage  results  in  virtually  no  loss  of  thiamin  or  riboflavin  for  meat, 
+fish,  or  poultry,  (Ley,  1980). 
+
+After  comparing  raw  and  cooked  pork,  Watts  and  Peng  (1947) 
+found  rancidity  increased  rapidly  as  pH  decreased  (pH  6.5-4.8)  in  raw 
+ground  pork.  However,  pH  had  no  effect  on  the  rate  of  rancidif ication 
+if  ground  pork  was  cooked  prior  to  freezing.  Therefore,  they  concluded 
+that  precooked  frozen  pork  was  superior  to  raw  frozen  pork  after 
+storage.  They  also  found  some  salts  (sodium  chloride,  sodium  nitrate, 
+sodium  acetate,  magnesium  chloride  and  potassium  nitrate)  rapidly 
+increased  rancidity  in  raw  ground  pork,  but  not  precooked  pork  during 
+frozen  storage.  The  effects  of  acids  and  salts  on  rancidity  develop- 
+ment in  raw  pork  was  attributed  to  the  activity  of  a  fat  peroxidizing 
+enzyme,  possibly  on  hemoglobin.  Decomposition  of  hemoglobin,  resulting 
+in  meat  discoloration,  also  occurred  when  meat  became  rancid.  Watts 
+
+
+20 
+
+
+and  Peng  attributed  the  slower  rate  of  rancidif ication  in  the  cooked 
+pork  to  the  fact  that  peroxidizing  enzymes  are  inactivated  during 
+cooking. 
+
+Kraft  et  al.  (1979)  studied  the  influence  of  meat  composition 
+and  effects  of  different  freezing  methods  on  microbiological  quality  of 
+beef  patties.  After  beef  patties  containing  30?  fat,  20%  fat,  and  20% 
+fat  with  soy  protein  were  frozen  using  liquid  nitrogen,  liquid  carbon 
+dioxide,  or  by  mechanical  freezing  and  stored  for  five  months, 
+researchers  concluded  that  all  freezing  methods  were  effective  in 
+reducing  bacteria.  However,  cryogenic  freezing  of  beef  patties 
+containing  20%  fat,  with  or  without  soy  protein  had  significantly 
+greater  reduction  in  total  viable  mesophiles  and  psychrotrophs  than 
+patties  with  30%  fat,  mechanically  frozen. 
+
+Fennema  (1975)  reported  that  prompt  chilling  at  10  -  20°C 
+(below  10°C  "cold  shortening"  occurs)  for  at  least  20  hours  slowed  the 
+rate  of  glycolysis  of  slaughtered  animal  carcasses,  thus  reducing 
+microbial  growth  and  decreasing  muscle  contraction.  Although  aging  of 
+beef  enhances  flavor;  increases  tenderness,  juiciness  and  water-holding 
+capacity;  and  decreases  thaw  exudate  and  lipid  stability,  it  is  usually 
+not  done  prior  to  freezing.  Lamb  requires  little  or  no  aging,  and  pork 
+should  not  be  aged  because  of  its  unstable  lipid  content. 
+
+Fennema  (1975)  also  reported  that  papain  and  other  proteolytic 
+enzymes  are  sometimes  used  prior  to  freezing  to  tenderize  meat.  These 
+enzymes  are  injected  prior  to  slaughter  or  by  dripping,  spraying  or 
+injecting  the  carcass. 
+
+
+21 
+
+
+Thiamin  is  used  to  determine  vitamin  retention  in  meat. 
+According  to  Fennema  (1977),  thiamin  is  usually  studied  because  it  is 
+water-soluble,  highly  susceptible  to  chemical  dehydration,  present  in 
+many  foods,  required  in  the  diet,  and  sometimes  deficient  in  the  diet. 
+It  is  generally  assumed  that  if  thiamin  is  well  retained,  other 
+nutrients  are  also  well  retained.  Fennema  (1977)  found  thiamin  losses 
+to  be  insignificant  in  various  animal  tissues  after  frozen  storage. 
+
+The  major  problems  in  freezing  fish  are  oxidative  deteriora- 
+tion, dehydration,  toughening,  loss  of  juiciness  and  excessive  thaw 
+exudate  (drip),  according  to  Fennema  (1975).  Following  correct  sani- 
+tary procedures  and  freezing  as  promptly  as  possible  is  essential, 
+because  fish  are  especially  subject  to  deterioration  by  microorganisms. 
+To  minimize  contraction  and  lessen  toughening  during  freezing,  Fennema 
+suggests  completing  rigormortis  at  a  low  nonfreezing  temperature  prior 
+to  freezing.  However,  quality  is  maintained  when  large  pieces  of  fish 
+are  stored  at  least  2  months  at  -10°C  and  thawed  slowly  to  avoid  muscle 
+contraction. 
+
+Eliminating  oxygen,  avoiding  contamination  with  oxidative  cata- 
+lysts and  irradiation,  using  antioxidants  and  low  storage  temperatures 
+decrease  undesirable  oxidative  changes  in  fish  (Fennema,  1975). 
+According  to  results  reported  by  Tressler  and  associates  (1968),  pro- 
+tein denaturation  causes  the  toughening  of  cooked  lobster,  crab  and 
+shrimp  during  prolonged  frozen  storage. 
+
+Rapid  glycolysis  may  also  increase  toughness  in  poultry  as  well 
+as  fish  (Fennema,  1975).  Therefore,  slaughter  and  dressing  operations 
+
+
+22 
+
+
+should  be  done  in  a  manner  that  does  not  stimulate  the  rate  of  post- 
+mortem glycolysis  (chilling  and  aging  poultry  for  1-6  hours  above  0°C). 
+
+To  minimize  growth  of  microorganisms,  poultry  should  be  cooled 
+quickly  to  10°F  (50°F)  or  less.  Chilling  is  done  usually  in  crushed 
+ice  and  water  to  avoid  moisture  loss  (Fennema,  1975). 
+
+Oxidation  and  resultant  rancidity  are  chemical  changes  likely 
+to  occur  when  fatty  foods  are  frozen  and  stored.  Turkey  fat  is  par- 
+ticularly subject  to  oxidative  rancidity  (Tressler  et  al.,  1968). 
+Lineweaver  et  al .  (1952)  have  shown  that  the  addition  of  an  antioxidant 
+to  turkey  during  cooking  greatly  retards  rancidity  development. 
+
+Baked  products  and  other  starch-containing  products.  Freezing 
+has  been  a  popular  way  of  increasing  shelf  life  of  yeast  doughs  and 
+other  baked  goods  economically  while  retaining  a  high  quality  product. 
+However,  as  the  food  system  becomes  more  complex  the  problems  encoun- 
+tered during  freezing  and  frozen  storage  increase.  Each  ingredient 
+must  be  considered  independently  and  then  in  relation  to  one  another. 
+
+Starch  is  a  major  constituent  of  wheat  flour  which  is  used  in 
+baked  products  as  well  as  many  other  products  including  pasta,  gravies 
+and  sauces.  Therefore,  the  emphasis  here  will  be  placed  on  the  effects 
+of  freezing  on  starch. 
+
+Uncooked  starch  are  virtually  unaffected  by  freezing  in  the 
+presence  of  water  (Tressler  et  al.,  1968).  However,  if  starch  granules 
+are  gelatinized,  various  physical  changes  occur  during  frozen  storage. 
+Most  starches  contain  two  types  of  molecules,  amylopectin  (branched 
+fraction)  and  amylose  (linear  fraction),  the  former  being  the  major 
+
+
+23 
+
+
+component.  Amylose  fractions  have  a  strong  tendency  to  associate  with 
+one  another  through  hydrogen-bonding  between  hydroxyl  groups;  this  is 
+referred  to  as  starch  retrogradation  dressier  et  al.,  1968).  This 
+results  in  an  insoluble  precipitate  and  a  rigid  gel.  Retrogradation 
+of  linear  molecules  is  virtually  irreversible.   However,  retrograda- 
+tion of  branched  molecules  can  be  reversed  readily  by  heating  to 
+122-140°F  (50-60°C). 
+
+Association  of  starch  molecules  increases  viscosity  or  even 
+congelation  which  causes  thickened  sauces  to  lose  their  smooth,  creamy 
+consistency  during  freezing,  and  become  lumpy  or  curdled.  Reheating 
+only  partially  restores  the  original  product  appearance.  Retrograda- 
+tion also  causes  a  dull  opaque  appearance  to  fruit  pie-filling  when 
+frozen. 
+
+The  most  objectionable  effect  of  linear  and  branched  molecule 
+association  is  the  loss  of  water-holding  capacity  resulting  in  synere- 
+sis  when  frozen  food  is  thawed.  Although  recooking  will  frequently 
+reconstitute  a  homogenous  paste  because  branched  molecules  dissociate 
+and  expand  to  reabsorb  the  water,  consumers  find  syneresis  highly 
+objectionable  and  they  associate  it  with  "curdling"  and  microbiological 
+spoilage.  Also,  the  bottom  pie  crust  will  become  soggy  if  syneresis 
+occurs  during  thawing.  Slow  freezing  increases  the  starch  con- 
+centration which  promotes  associative  bonding  (Tressler  et  al . ,  1968). 
+Rapid  freezing  is  essential,  and  is  important  to  keep  the  pie  fully 
+frozen  until  baked.   If  thawing  and  refreezing  occur,  even  the  most 
+stable  food  will  break  down.  Slow  thawing  may  be  almost  as  detrimental 
+
+
+24 
+
+
+to  the  texture  and  consistency  of  starch  foods  as  slow  freezing. 
+
+Chan  and  Toledo  (1976)  studied  the  extent  of  starch  retrograda- 
+tion  of  gelatinized  starch  gels  by  measuring  the  water-holding  capacity 
+(WHO.  The  WHC  was  found  to  be  primarily  dependent  upon  the 
+resistance  where  water  to  ice  transformation  occurred  as  well  as  the 
+freezing  process  used.  Little  change  in  the  WHC  occurred  during  pre- 
+cooling  to  the  freezing  point  or  below  the  freezing  temperature.  An 
+inverse  relationship  was  observed  between  the  WHC  of  the  frozen  starch 
+gel  and  the  extent  of  reconstitution. 
+
+Normal  cereal  starches  (corn,  sorghum,  wheat  and  rice)  have  a 
+high  degree  of  linear  retrogradation  resulting  in  products  that  are 
+prone  to  form  gels,  develop  opacity  and  have  a  decreased  water-holding 
+capacity  (Tressler  et  al.,  1968).  While  unmodified  root  and  tuber 
+starches  (tapioca  and  potato)  have  a  lower  content  of  linear  fraction, 
+and  are  less  susceptible  to  retrogradation,  they  swell  extensively  when 
+cooked  in  water,  resulting  in  cohesive,  slimy  pastes.  "Waxy"  or  amylo- 
+pectin  starches  have  been  developed  which  contain  only  branched  starch, 
+but  are  also  cohesive;  subsequently,  they  usually  are  not  used  in 
+foods. 
+
+To  alleviate  some  of  the  above  problems,  ungelatinized  starch 
+granules  are  chemically  cross-bonded  in  alkaline  medium  (trace  amounts 
+of  ester  or  ether  crosslinking)  which  protects  the  granules  against 
+excessive  swelling  (Tressler  et  al.,  1968).  However,  cross-bonding 
+substantially  reduces  cold  storage  and  freeze  stability  of  starch.  A 
+second  modification  is  done  on  the  cross-bonded  starch  by  introducing 
+
+
+25 
+
+
+acetate  ester  groups  or  ionized  phosphate  ester  groups.  This  process 
+reduces  the  alignment  of  linear  chains  and  linear  segments  of  branched 
+molecules.  The  result  was  an  improved  freeze  resistant  product  while 
+the  desired  quality  attributes  of  the  pasted  starch  (clarity,  visco- 
+sity, acid  resistance  and  water-holding  capacity)  were  maintained 
+(Tressler  et  al.,  1968). 
+
+Schoch  (1968)  studied  the  cold  storage  stability  and  freeze 
+resistance  of  various  food  starches  by  subjecting  a  five  percent 
+cooked  starch  paste  to  successive  freeze-thaw  cycles  and  determining 
+the  rate  of  syneresis  or  water  separation  from  the  pasted  starch.  Two 
+patterns  of  instability  were  observed:  (1)  a  slow  progressive  synere- 
+sis with  each  successive  freeze-thaw  cycle,  and  (2)  no  water  separation 
+for  a  number  of  cycles,  followed  by  rapid  deterioration.  Specific 
+findings  by  Schoch  (1968)  include: 
+
+(1)  Normal  unmodified  sorghum  starch  was  highly  unstable, 
+having  more  than  305J  water  separation  after  one  freeze-thaw 
+cycle. 
+
+(2)  Unmodified  waxy  sorghum  and  waxy  maize  starch  withstood 
+three  freeze-thaw  cycles  before  substantial  syneresis  occurred. 
+
+(3)  Waxy  rice  flour  was  very  stable,  with  no  syneresis  until 
+after  seven  freeze-thaw  cycles. 
+
+(4)  Starch  stability  generally  decreases  substantially  at  pH  3. 
+
+(5)  Cross-bonding  waxy  sorghum  starch  with  0.06%  trimetaphos- 
+phate  considerably  decreased  stability,  probably  because  the 
+starch  is  less  dispersed,  thus  in  a  more  concentrated  state 
+allowing  for  more  molecular  association. 
+
+(6)  Freeze  resistance  of  waxy  sorghum  and  waxy  maize  starch  was 
+improved  when  either  phosphate  or  acetyl  ester  groups  were 
+cross-bonded  with  the  starch. 
+
+Gravies  and  sauces,  essential  to  many  precooked  frozen  meat 
+
+
+26 
+
+
+products,  often  curdle  and  become  unappetizing  in  appearance.  Baldwin 
+et  al.  (1972)  investigated  the  effects  of  freezing  on  waxy  milo  and 
+modified  waxy  maize  starches  than  for  those  thickened  with  waxy  rice 
+flour.  Also,  gravy  thickened  with  new  waxy  rice  flour  was  more  desir- 
+able (p  <  0.05)  in  texture,  mouthf eel ,  and  overall  acceptability  than 
+the  gravy  thickened  with  old  waxy  rice  flour  which  had  been  stored  at 
+ambient  temperatures  for  five  years. 
+
+Grains  of  filtrate,  obtained  after  centrifuging  and  filtering 
+gravies  were  greatest  in  the  product  containing  new  waxy  flour  and  at 
+least  in  that  made  with  cross-bonded  waxy  milo  starch.  A  significant 
+(p  <  0.01)  positive  correlation  (r  =  0.678)  was  found  between  viscosity 
+and  sensory  evaluation  for  consistency  for  gravies.  A  significant  (p  < 
+0.01)  negative  correlation  (r  =  -0.519)  occurred  between  viscosity  and 
+amount  of  filtrate. 
+
+Temperature  is  an  important  factor  in  determining  the  rate  of 
+retrogradation.  Wheat  starch  retrogradation  occurs  most  readily  at 
+-4°C  (Colli  son,  1968).  At  extreme  temperatures  the  Brownian  motion  of 
+the  macromolecules  are  either  too  intense  or  too  slow  for  association 
+to  take  place. 
+
+Freeze-thaw  studies  conducted  on  instant  dehydrated  potato  gra- 
+nules by  Ooraikul  and  associates  (1974)  indicate  retrogradation  of  amy- 
+lose  occurred  during  the  freezing  and  thawing,  which  decreased  the 
+strength  of  the  cell  binding  matrix.  Surfactants,  namely  glycerol 
+monostrearate  and  propylene  glycol -monostearate,  were  found  to  reduce 
+the  content  of  free  starch.  This  resulted  in  an  improvement  of 
+
+
+27 
+
+
+textural  quality  of  the  instant  dehydrated  potato  granules. 
+
+Escape  of  carbon  dioxide  is  the  major  problem  in  frozen  bat- 
+ters. The  separation  of  ice  increases  the  carbon  dioxide  in  the 
+remaining  liquid  phase  until  the  concentration  becomes  so  high  it  will 
+not  stay  in  solution  (Tressler  et  al.,  1968).  Also,  coagulation 
+resulting  from  protein  denaturation  allows  more  carbon  dioxide  to 
+escape. 
+
+The  longer  yeast  doughs  are  stored,  the  more  slowly  the  dough 
+will  rise  after  it  is  thawed.  Yeast  cells  gradually  lose  their 
+viability,  and  some  carbon  dioxide  is  lost  because  of  the  separation 
+and  growth  of  ice  crystals  (Tressler  et  al.,  1968). 
+
+Tressler  et  al .  (1968)  drew  the  following  conclusions  con- 
+cerning frozen  pasted  starch  systems. 
+
+(1)  The  higher  the  starch  concentration,  the  more  rapid  is  the 
+association,  because  the  closer  the  molecules  are  to  one 
+another,  the  greater  the  probability  of  intermolecular  com- 
+bination. 
+
+(2)  Associative  bonding  increases  as  the  temperature  nears  the 
+freezing  point,  due  to  slowing  kinetic  motion. 
+
+(3)  The  longer  the  pasted  starch  is  held  in  a  near-frozen 
+state,  the  greater  the  association.  However,  no  change  occurs 
+while  in  a  "deep-frozen"  state  (-12°F  or  -25°C). 
+
+(4)  High  initial  hydration  and  dispersion  of  starch  molecules 
+gives  more  stability  to  thoroughly  cooked  starch  pastes  than 
+under-cooked  starch. 
+
+(5)  The  higher  the  acidity,  down  to  pH  3,  the  greater  the 
+tendency  of  the  starch  to  associate. 
+
+(6)  Sugar  usually  reduces  association  of  starch,  but  higher 
+concentrations  interfere  with  optimum  cooking  which  limits 
+starch  hydration. 
+
+
+28 
+
+
+(7)  Introducing  chemical  derivative  groups  (esters  or  ethers) 
+into  starch  molecules  prevents  association  between  linear 
+chains  and  linear  segments  of  branched  molecules. 
+
+Effects  of  Thawing  on  Frozen  Foods 
+
+Unsafe  methods  have  contributed  to  the  recent  increases  in  the 
+incidence  of  foodborne  illness  (Ley,  1980).  Frozen  food  is  either 
+allowed  to  thaw  in  refrigerators,  sometimes  requiring  three  or  more 
+days  to  thaw,  or  thawed  at  room  temperature,  which  is  extremely  con- 
+ducive to  increased  microbial  contamination. 
+
+Precooked  frozen  foods  are  more  vulnerable  to  contamination 
+than  raw  frozen  products  because  of  additional  exposure  to  130-145°F 
+danger  zone  during  processing.  Therefore,  convenience  and  ready  pre- 
+pared foods  that  are  thawed  and  served  cold,  without  further  heat 
+treatment,  present  a  hazard  if  they  are  not  thawed  properly  to  restrict 
+microbiological  growth  (Ley,  1980). 
+
+Fluid  is  drawn  out  of  the  cell  to  form  ice  crystals  during 
+freezing.  A  controlled  thaw  of  a  raw  product  allows  time  for  the  cell 
+to  reabsorb  a  portion  of  the  fluid  from  the  melting  ice  crystals.  This 
+process  will  yield  a  moist,  reheated  end  product  with  less  water- 
+soluble  nutrient  loss.  However,  a  slow  rate  of  thawing  increases 
+"drip"  or  exudation  (Livingston  et  al.,  1973). 
+
+Damage  which  occurs  during  thawing  usually  is  caused  by  chemi- 
+cal (protein  insolubi 1 i zation  or  lipid  oxidation)  or  physical  changes 
+(recrystallization  and  volume  changes).  Microbial  growth  can  cause 
+significant  damage,  but  if  recommended  sanitary  practices  are  followed 
+
+
+29 
+
+
+throughout  the  freezing,  thawing  and  reheating  process,  this  is  not  a 
+problem. 
+
+Fennema  (1973)  described  an  experiment  using  a  non-flowable 
+starch  gel  to  compare  the  different  rates  of  freezing  and  thawing. 
+Large  temperature  gradients  were  found  in  the  outer  frozen  zone  during 
+freezing,  and  freezing  was  completed  in  approximately  26  minutes.  The 
+frozen  phase  rose  rapidly  to  the  melting  point  and  remained  there  for 
+the  duration  of  the  thawing  process,  which  was  not  close  to  completion 
+after  30  minutes.  Twice  as  much  time  was  required  to  thaw  the  center 
+of  the  starch  gel  as  was  needed  to  freeze  it. 
+
+Fennema  (1973)  stated  that  the  additional  time  required  for 
+thawing  just  below  the  melting  temperature  is  unfavorable  because 
+recrystall ization  and  growth  of  the  microorganisms  are  both  more  likely 
+here  than  at  any  other  subfreezing  temperature.  Also,  many  chemical 
+reactions  occur  rapidly  at  temperatures  just  below  freezing. 
+Differences  in  the  rates  of  freezing  and  thawing  would  be  less  than 
+previously  stated  in  foods  with  a  moderately  low  water  content  such  as 
+meat,  or  with  substantial  air  content  such  as  fruits  and  vegetables. 
+
+The  state  of  food  when  cooked  or  reheated  affects  quality 
+of  the  final  product.  Burr  (1971)  studied  the  effects  of  time  and  tem- 
+perature of  holding  par-fries  (partially  deep  fried  before  freezing)  in 
+thawed  condition  on  the  loss  of  water  and  uptake  of  fat  during  finish- 
+frying,  and  on  retrogradation  of  the  starch  in  par-fries. 
+
+Frozen  par-fried  French-fry  cuts  allowed  to  thaw  and  held, 
+decreased  in  weight  while  fat  uptake  increased.  Finished  product 
+
+
+30 
+
+
+decreased  in  weight  about  7%   after  holding  3  days  at  50°F  and  fat 
+uptake  increased  about  25%.     Substantial  loss  in  yield  occurs  in  a 
+little  as  1.5  hours  at  50°F  or  5  hours  at  40°F.  Yield  decreases  and 
+fat  absorption  increases  as  the  temperature  of  the  product  increases 
+prior  to  frying.  The  rate  of  retrogradation  decreases  with  increasing 
+temperature  suggesting  that  the  two  phenomena  are  unrelated. 
+
+Langlois  et  al .  (1979)  studied  the  effects  of  curing  frozen 
+hams  and  thawed  (13°C)  hams  with  and  without  nitrate  on  the  weight 
+loss,  visual  appearance,  eating  quality,  composition  and  microbiologi- 
+cal characteristics  of  dry-cured  aged  hams.  Nitrate  in  the  cure  had  no 
+effect  on  weight  loss.  However,  weight  loss  was  higher  when  hams  were 
+cured  after  being  thawed  as  compared  to  being  cured  from  the  frozen 
+state.  Subjective  evaluations  for  color,  aroma  and  general  appearance 
+revealed  no  significant  differences  among  the  hams.  Sensory  panel 
+members  scored  frozen  hams  more  tender  than  unfrozen  hams  (p  <  0.01). 
+However,  no  significant  differences  in  flavor  or  overall  satisfaction 
+were  found.  Warner-Bratzler  shear  values  were  lower  than  those  usually 
+reported  for  country  hams.  Moisture  contents  of  the  lean  of  the  frozen 
+hams  and  unfrozen  hams  were  57.3  and  56.3,  respectively. 
+
+Coliforms  were  detected  only  from  the  thawed  hams  before 
+curing.  Both  frozen  and  thawed  hams  contained  detectable  levels  of 
+Staphylococci,  but  were  not  detected  when  thawed  hams  were  cured  with 
+potassium  nitrite  (KN03)  and  sodium  nitrite  (NaNO?).  All  pre-cure 
+counts  were  significantly  higher  for  thawed  hams  than  frozen  hams  at 
+the  1%  level,  except  Pseudomanas  (7°C)  which  was  significant  at  the  5% 
+
+
+31 
+
+
+level.  Generally,  after  curing,  counts  were  higher  in  thawed  hams  than 
+frozen  ones.  However,  the  only  signficant  difference  (p  <  0.01)  not 
+related  to  KN03  was  the  aerobic  count  (37°C).  Cured,  frozen  hams  had 
+higher  counts  than  hams  thawed  prior  to  the  curing  after  3  months. 
+These  higher  counts  were  probably  related  to  lower  salt  and  high 
+moisture  content  of  the  frozen  hams.  Langlois  et  al .  (1979)  concluded, 
+dry-cured  hams  can  be  produced  using  frozen  hams  without  affecting 
+quality  and  without  excessive  microbial  growth. 
+Thawing  problems  include  (Fennema,  1973): 
+
+(1)  Thawing  is  slower  than  freezing. 
+
+(2)  Maximum  temperature  differential  permissible  during  thaw- 
+ing (approximately  100°C  or  less)  is  much  less  than  that  which 
+is  feasible  during  freezing  (200°C). 
+
+(3)  Thawing  is  potentially  more  detrimental  than  freezing, 
+because  much  time  is  spent  near  the  melting  point  where 
+recrystallization  and  even  microbial  growth. 
+
+(4)  Thawing  of  food  is  often  conducted  by  persons  who  are 
+unskilled  and  sometimes  unconcerned  with  correct  procedures. 
+
+Proper  thawing  is  an  important  step  in  the  preparation  of  quality  and 
+
+safe  meal  components  (Ley,  1980). 
+
+Temperature  Fluctuation 
+
+The  average  distribution  time  of  frozen  foods  is  five  and  one- 
+half  months  at  an  average  temperature  of  3°F.  Many  frozen  food  manu- 
+facturers estimate  the  products  may  be  subjected  to  as  many  as  five 
+freeze-thaw  cycles  before  it  is  consumed.  Quality  and  acceptability  of 
+frozen  foods  are  eroded  away  by  every  experience  (i.e.  extended  storage 
+
+
+32 
+
+
+or  temperature  fluctuation).  Quality  erosion  is  progressive  and  irre- 
+parable (Van  Arsdel,  1957;  Michener  et  al.,  1960). 
+
+Generally,  as  temperature  increases  quality  storage  life 
+decreases,  because  a  greater  amount  of  free  water  allows  chemical  reac- 
+tions to  occur,  contributing  to  spoilage  and  deterioration  (Ley,  1980). 
+Temperature  fluctuation  during  frozen  storage  will  cause  more  damage 
+than  freezing  above  0°F,  because  water  is  allowed  to  melt  and  slowly 
+refreeze,  resulting  in  the  formation  of  larger  ice  crystals.  These 
+larger  crystals  cause  more  structural  damage,  deteriorating  original 
+texture  characteristics,  increasing  drip  loss  and  increasing  the  loss 
+of  water-soluble  nutrients,  flavor  and  pigments.  An  example  of  a  tex- 
+tural  change  is  the  increase  in  graininess  of  ice  cream,  sherbets  and 
+ices  after  frozen  storage,  because  the  ice  crystals  have  increased  in 
+size  (Tressler  et  al.,  1968).  Fluctuating  and  high  storage  tem- 
+peratures accelerate  crystal  growth. 
+
+Michener  et  al .  (1960)  reported  data  from  earlier  studies  on 
+peas,  green  beans,  cauliflower  and  spinach.  When  these  vegetables  were 
+held  at  20°F  or  below,  taste  test  results  suggested  an  inverse  rela- 
+tionship between  temperature  and  the  time  elapsed  before  appearance  of 
+an  off-flavor.  Flavor  deteriorated  rapidly  at  higher  temperatures  in 
+all  cases. 
+
+If  maximum  storage  periods  are  extended  or  if  temperature  fre- 
+quently fluctuates  above  0°F,  the  following  changes  can  occur  (Ley, 
+1980): 
+
+
+33 
+
+
+(1)  Cured  meat  products  lose  red  color  turn  brownish  gray  and 
+change  flavor  due  to  oxidative  reactions  between  sodium 
+chloride  and  fatty  acids. 
+
+(2)  Batters  and  unbaked  goods  containing  baking  powder  have  a 
+short  storage  life  because  the  acid  and  soda  slowly  react 
+during  storage  causing  carbon  dioxide  to  escape  which  decreases 
+leavening  action. 
+
+(3)  Since  spices  are  volatile,  changes  occur  in  flavor  during 
+freezing. 
+
+(4)  Undesirable  flavor  changes  occur  in  egg  yolks. 
+
+(5)  Products  with  fruit  that  is  not  immersed  in  liquid  remain 
+exposed  to  oxidative  action  from  the  air. 
+
+(6)  Cooked  egg  whites  toughen. 
+
+(7)  Sauces  and  gravies  thickened  with  wheat  flour  or  corn 
+starch  will  retrograde  causing  fluid  separation  and  curdling. 
+
+(8)  Cooked  shellfish  toughen  because  of  protein  coagulation. 
+Oxidative  reactions  cause  color  and  flavor  changes. 
+
+(9)  Fried  products  are  subject  to  oxidative  reactions,  because 
+most  of  the  fat  remains  on  the  food  surface  which  is  in  direct 
+contact  with  the  air. 
+
+(10)  Breakdown  of  chlorophyll  to  pheophytin  changes  natural 
+green  to  olive  green  in  raw,  blanched  vegetables.  Ascorbic 
+acid  is  oxidized  to  dehydroascorbic  acid  and  then  to  diketogulo- 
+nic  acid  causing  flavor  changes. 
+
+(11)  Red  fruits  turn  brown,  because  anthocyanins  leach  into  the 
+packing  syrup. 
+
+(12)  Enzymatic  reactions  turn  yellow  fruits  brown,  because  of 
+oxidation.  Oxidation  also  reduces  ascorbic  acid  content. 
+
+As  previously  stated,  subjecting  foods  to  freeze-thaw  cycles 
+
+usually  results  in  inferior  products.  However,  a  freeze-thaw  process 
+
+for  production  of  potato  granules  has  been  developed  to  eliminate  or 
+
+minimize  some  of  the  major  problems  of  conventional  Add-Back  (A-B) 
+
+process  (Ooraikul,  1978).  Essential  steps  in  the  A-B  process  are 
+
+
+34 
+
+
+precooking,  mash-mixing  and  conditioning.  Precooking  is  important 
+because  it  strengthens  the  potato  cells  so  they  can  withstand 
+compression  and  shear  force  during  the  mash-mixing  step.  Without  pre- 
+cooking, potato  cells  may  be  damaged  resulting  in  a  texturally  inferior 
+product.  A  problem  in  the  A-B  process  is  incomplete  final  cooking 
+which  results  in  hard  lumps  causing  a  high  proportion  of  discard.  The 
+major  problem  occurs  during  the  mash-mixing  step  where  the  cooked 
+potato  tissue  is  subdivided  by  mixing,  pressing,  rubbing  and  shearing 
+with  recycled  dry  granules.  About  85-90%  of  the  total  granule  output 
+has  to  be  recycled  to  the  mash-mixer,  which  leaves  only  10-15%  of  the 
+granules  to  be  packed  as  product.  Most  granules  go  through  8-10  pro- 
+cessing cycles.  The  F-T  process  eliminates  the  pre-cooking  step  and 
+since  the  process  is  a  "straight-through"  one,  no  recycling  of  dry  gra- 
+nules is  necessary.  The  total  output  of  the  F-T  process  yields  85-90% 
+packaged  product  (Ooraikul,  1978).  Approximately  85-90%  of  the  total 
+granule  output  must  be  recycled  during  the  conventional  process,  com- 
+pared to  10%  when  the  freeze-thaw  process  is  used.  Other  advantages  of 
+the  freeze-thaw  process  include  minimal  microbial  growth,  superior 
+texture  and  flavor  as  well  as  higher  nutrient  retention,  because  pro- 
+cessing occurs  at  lower  temperatures. 
+
+Reheating  Frozen  Food  Products 
+
+The  final  phase  of  the  freezing  process  is  reheating.  The 
+first  consideration  is  whether  the  food  should  be  heated  from  the 
+
+
+35 
+
+
+thawed  or  frozen  state.  Ley  (1980)  suggested  that  convenience  and 
+ready  prepared  foods  that  are  served  hot  should  be  thawed  prior  to 
+reheating  to  retain  quality  and  reduce  surface  dehydration  and 
+scorching.  Reheating  in  a  conventional  oven  from  a  refrigerated  versus 
+a  frozen  state  will  reduce  total  heating  time  by  as  much  as  130  percent. 
+A  special  problem  arises  when  microwave  ovens  are  used  to  reheat 
+frozen  foods,  because  food  mass  temperatures  will  be  not  uniform. 
+Inconsistent  energy  distribution  within  the  oven  cavity  and  variations 
+in  product  densities  result  in  uneven  product  thawing  during  heating 
+(Ley,  1980;  Glew,  1973).  Thawed  portions  absorb  greater  amounts  of 
+energy,  rising  in  temperature  more  quickly  than  unthawed  portions. 
+Therefore,  controlled  thawing  is  necessary  prior  to  microwave  heating 
+to  reduce  total  heating  time  and  to  promote  uniform  product  tem- 
+peratures (Harrison,  1980). 
+
+Uncontrolled  thawing  and  rapid  heating  without  prior  thawing  of 
+many  frozen  products  can  result  in  waste,  spoilage,  flavor  and  texture 
+changes,  discoloration  and  increased  moisture  and  nutrient  loss  (Ley, 
+1980). 
+
+Energy  is  a  limited  resource  and,  therefore,  is  receiving 
+increased  attention  in  food  service  operations  (Dahl  et  al.,  1981). 
+Twelve  per  cent  of  the  total  energy  generated  in  the  United  States  is 
+used  in  food  systems  (Fennema,  1975).  In  1910  approximately  one 
+calorie  of  energy  output  was  needed  to  produce  one  calorie  of  food  out- 
+put. In  1970,  nine  calories  of  energy  output  were  required  per  calorie 
+of  food  output  (Fennema,  1975).  Since  microwave  ovens  are  considered 
+
+
+36 
+
+
+energy-efficient,  their  use  for  reheating  has  increased  dramatically  in 
+household  as  well  as  food  service  situations  (Dahl  et  al . ,  1981). 
+Snyder  (1978)  has  estimated  that  microwave  ovens  can  save  up  to  65%  of 
+the  energy  required  to  heat  small  portions  of  food  when  compared  to 
+convection  ovens. 
+
+Microwave  heating  has  been  used  for  approximately  30  years,  the 
+predominant  development  has  been  for  cooking  and  reheating  food  in 
+domestic  and  catering  situations  (Sale,  1976).  Characteristics  that 
+differentiate  microwave  heating  from  conventional  heating  include 
+(Sale,  1976): 
+
+(1)  Microwaves  generate  heat  within  the  food  itself;  no  heat 
+transfer  is  involved.  Little  heat  conduction  occurs  within  the 
+food  itself,  causing  the  temperature  of  the  food  to  rise  very 
+rapidly. 
+
+(2)  Microwaves  do  not  penetrate  metal,  but  pass  through  plas- 
+tics, glass  and  paper,  allowing  food  sealed  in  these  materials 
+to  be  heated. 
+
+(3)  Uneven  heating  occurs  because  of  the  geometry  of  the  food. 
+Edge  overheating  is  a  frequent  phenomenon  associated  with 
+microwave  heating. 
+
+(4)  Thermal  runaway  occurs  during  thawing,  because  water 
+absorbs  microwaves  more  readily  than  ice. 
+
+Microwave  cookery  has  different  effects  on  food  quality, 
+
+depending  on  the  physical  and  chemical  composition  of  the  product. 
+
+Many  vegetables  have  an  exceptionally  full  flavor  and  color. 
+
+Vegetables  may  be  cooked  in  many  cases  without  water,  since  the 
+
+microwave  energy  will  directly  cook  each  unit  in  its  own  water  content. 
+
+This  results  in  a  minimum  of  nutrient  loss  by  leaching  into  the  cooking 
+
+water.  Covering  the  food  is  also  unnecessary,  resulting  in  shorter 
+
+
+37 
+
+
+cooking  times.  However,  uniformity  in  food  pieces  is  essential  for 
+even  heating  (Copson,  1962). 
+
+The  purpose  of  the  investigation  by  Klein  et  al .  (1979)  was  to 
+determine  the  folacin  content  and  retention  of  conventionally  and 
+microwave  cooked  frozen  vegetables  (spinach,  peas,  green  beans  and 
+broccoli).  No  significant  differences  were  found  in  folacin  content 
+(78-105*)  among  the  cooking  methods,  except  broccoli  (51-59%).  The 
+lower  folacin  content  was  attributed  to  the  presence  of  heat  labile 
+forms  of  folacin. 
+
+Mabesa  and  Baldwin  (1979)  cooked  frozen  peas  with  and  without 
+water  in  a  domestic  microwave  oven  (115  V,  550  watts)  and  in  an  insti- 
+tutional microwave  oven  (220  V,  1150  watts).  Peas  cooked  without  water 
+had  a  higher  ascorbic  acid  content  (95.6  to  100.9%)  than  peas  cooked 
+with  water  (72.1  to  78.2%)  using  domestic  and  institutional  microwave 
+ovens,  respectively.  Conventionally  cooked  peas  had  a  79.7%  ascorbic 
+acid  retention. 
+
+If  there  is  any  predominant  quality  factor  at  issue  in 
+precooked  foods,  it  is  the  freshness  of  flavor  (Copson,  1975).  It  is  pro- 
+bably more  difficult  to  maintain  flavor  in  meat  than  in  vegetables. 
+Copson  (1975)  made  the  following  suggestions  when  preparing  meats  for  a 
+microwave  meal : 
+
+(1)  Select  meat  (slices  of  roast,  ham  or  turkey)  which  is  im- 
+proved by  the  process  of  preparation,  freezing  and  reheating. 
+
+(2)  Use  sauces  or  seasonings  which  lend  a  stable  appeal. 
+
+(3)  Adjust  the  amount  of  precooking  into  balance  with  the  final 
+heating. 
+
+
+38 
+
+
+(4)  Inhibit  flavor  deterioration  (particularly  in  the  fatty 
+substance  during  frozen  storage)  by  using  suitable  antioxidants 
+or  use  products  within  a  few  weeks. 
+
+The  effects  of  cooking  method,  and  reheating  method  on  physi- 
+cal, chemical  and  palatability  factors  of  restructured  pork  patties 
+were  studied  by  Campbell  and  Mandigo  (1978).  Per  cent  area  and 
+thickness  were  not  affected  by  reheating  method.  Infrared  ovens 
+resulted  in  higher  cooking  losses  (p  <  0.01)  than  microwave  and  convec- 
+tion oven  reheating.  Microwave  oven  reheating  resulted  in  greater 
+cooking  losses  (p  <  0.05)  than  convection  oven  reheating,  which  was 
+probably  related  to  surface  dehydration.  Panel  members  found  microwave 
+reheated  patties  significantly  less  juicy  (p  <  0.01)  as  compared  to 
+convection  oven  reheating,  however,  color,  visual  texture,  flavor  and 
+eating  texture  were  not  affected. 
+
+After  heating  frozen  bread-soy  patties,  raw  or  char-broiled 
+frozen  fried  breaded  chicken  parts  in  a  hot  air  convection  oven  and 
+holding  0.5,  1.5  or  3  hours;  infrared,  pressure  steam,  or  microwave 
+oven  followed  by  30  minute  hot  holding,  Ang  et  al .  (1978)  determined 
+riboflavin  and  thiamin  retentions.  Thiamin  retention  was  lowest  in 
+chicken  parts  reheated  by  convection  oven  and  held  3  hours  (74%) . 
+Infrared  heating  resulted  in  81-84%  thiamin  retention  in  beef  and 
+chicken,  and  80%  riboflavin  retention  in  beef.  Other  heating  methods 
+yielded  87-93%  riboflavin  in  chicken  and  86-96%  thiamin  retention  in 
+both  chicken  and  fish. 
+
+In  another  study,  Dahl  and  Matthews  (1980)  found  thiamin  loss 
+of  beef  loaf  to  vary  from  5-10%  after  heating  in  a  microwave  oven. 
+
+
+39 
+
+
+Bowers  and  Fryer  (1972)  compared  the  thiamin  and  riboflavin  retention 
+in  cooked,  cooked-reheated,  and  cooked-frozen-reheated  turkey  muscles 
+using  gas  and  microwave  ovens.  No  significant  differences  were  found 
+(moisture,  fat-free  basis)  in  thiamin  retention.  However,  riboflavin 
+content  was  higher  in  turkey  muscle  heated  by  gas  ovens  when  compared 
+to  muscle  heated  in  microwave  ovens.  In  a  later  study,  Engler  and 
+Bowers  (1975)  found  turkey  breasts  suffered  a  greater  (p  <  0.05)  vola- 
+tile loss,  but  less  (p  <  0.05)  drip  loss  when  reheated  in  a  microwave 
+oven  compared  to  those  reheated  in  an  electric  oven.  No  significant 
+differences  were  observed  among  treatments  when  vitamin  Bg  was  calcu- 
+lated on  a  cooked  weight  basis. 
+
+No  significant  differences  in  ascorbic  acid  and  thiamin  reten- 
+tion were  found  by  Kylen  et  al .  (1961;  1964)  when  fresh  and  frozen 
+vegetables  and  meat  were  cooked  in  microwave  or  conventional  ovens. 
+However,  thiamin  retention  in  pork  roasts  was  significantly  greater 
+after  microwave  cooking  (Kylen  et  al.,  1964). 
+
+Combination  foods,  such  as  in  frozen  dinners,  present  addi- 
+tional problems  in  reheating  because  of  the  variations  in  size,  shape 
+and  density  of  the  different  food  components.  Copson  (1962)  stated 
+that  hot  ovens  may  overheat  foods  where  contact  is  made  with  the  hot 
+aluminum  plate,  resulting  in  drying  or  even  crusting  of  the  food. 
+Also,  a  relatively  long  period  in  the  hot  oven  may  cause  flavors  to 
+mingle  so  the  distinct  qualities  of  each  component  are  impaired.  This 
+is  avoided  in  the  microwave  oven  because  the  cooking  time  is  generally 
+very  short.  However,  multiple  dinners  could  be  cooked  simultaneously 
+
+
+40 
+
+
+in  conventional  ovens,  while  only  individual  or  small  units  could  be 
+heated  in  a  microwave  oven. 
+
+Kahn  and  Livingston  (1970)  studied  the  retention  of  thiamin  in 
+beef  stew,  shrimp  newburg,  chicken  a  la  king  and  peas  in  cream  sauce 
+after  freezing  and  reheating  to  194°F  (90°C)  using  either  a  microwave 
+oven,  infrared  heating  or  boiling  water  immersion.  Average  thiamin 
+retentions  for  the  four  products  (based  on  100*  for  freshly  prepared 
+foods)  were  93.5%,  90%,  and  86%  for  microwave  oven,  infrared  and  immer- 
+sion reheating,  respectively. 
+
+Ang  et  al.  (1975)  evaluated  the  nutritional  quality  of  several 
+frozen  prepared  food  products  after  reheating  in  a  high  pressure 
+steamer,  or  convection,  infrared  or  microwave  oven.  Microwave  oven 
+heating  tended  to  retain  higher  amounts  of  heat-labile  nutrients  than 
+other  heating  methods.  However,  frequent  stirring  and  resting  periods 
+to  avoid  scorching,  in  heating  bulk  foods,  was  detrimental  to  ascorbic 
+acid  retention.  Infrared  heating,  which  required  longer  reheating 
+times,  but  fewer  disruptions,  resulted  in  similar  nutrient  retentions 
+as  microwave  reheating.  Convection  oven  reheating  required  the  longest 
+heating  times  for  bulk  frozen  foods.  Thiamin  retention  was  lower  in 
+mashed  potatoes  and  carrots  when  the  convection  oven  was  compared  to 
+infrared  and  microwave  ovens  for  reheating.  However,  fish  portions  (2 
+pounds  per  pan)  reheated  in  a  convection  oven  required  less  time  and 
+had  a  higher  thiamin  content  than  when  reheated  in  a  microwave  or 
+infrared  oven.  High  pressure  steam  reheating  in  all  instances  resulted 
+in  substantially  lower  levels  of  thiamin  and  riboflavin  than  other 
+
+
+41 
+
+
+methods. 
+
+Nicholanco  and  Matthews  (1978)  evaluated  beef  stew  in  a  hospi- 
+tal cook/chill  foodservice  system.  Thiamin  was  reduced  from  0.11 
+mg/100  g  in  raw  ingredients  to  0.03  mg/100  g  in  stew  after  cooking  and 
+chilled  storage  for  27  hours.  No  further  loss  of  thiamin  was  observed 
+when  stew  was  reheated  to  145°F  in  a  microwave  oven. 
+
+Foodservice  Industry 
+
+The  foodservice  industry  prepares  approximately  forty  per  cent 
+of  the  food  consumed  away  from  the  home  (Van  Dress,  1979).  The 
+increases  in  the  cost  and  the  decreased  number  in  the  labor  force  have 
+caused  centralization  of  food  preparation  to  increase  greatly  in  popu- 
+larity. Foodservice  operations  generally  procur  large  quantities  of 
+meat,  fish  and  poultry  and  chill  or  freeze  until  needed.  Vegetables 
+are  either  purchased  fresh,  canned  or  frozen  (Livingston  et  aj_. ,  1973). 
+Of  the  more  than  20  million  dollars  spent  in  1978  on  frozen  foods,  over 
+10  million  dollars  was  spent  by  institutions  (Anonymous,  1979). 
+
+In  the  early  1970 ' s  hospitals  began  implementing  the  cook/chill 
+foodservice  concept  (Kaud,  1972).  This  process  involves  chilling  hot 
+foods  immediately  after  preparation,  then  holding  in  refrigerators  for 
+at  least  24  hours  prior  to  serving.  The  chilled  food  is  then  propor- 
+tioned, placed  in  refrigerated  food  carts;  transported  to  patient  areas 
+where  microwave  ovens  are  used  to  heat  the  food  to  desired  temperatures. 
+
+Freezing  prepared  foods  has  become  more  popular  than  the  cook/ 
+chill  method  throughout  the  foodservice  industry.  Advantages  of 
+
+
+42 
+
+
+freezing  on-premise  food  production  include  (Ley,  1980;  Tressler  et 
+at.,  1968): 
+
+(1)  Individuality  may  be  maintained  by  using  original  recipes. 
+
+(2)  Reheating  food  at  time  of  service  increases  nutritional 
+retention  (as  opposed  to  hot-holding). 
+
+(3)  Sensory  attributes,  such  as  color,  flavor,  and  texture,  are 
+better  retained  when  compared  to  other  forms  of  food  preserva- 
+tion. 
+
+(4)  Skilled  labor,  which  is  expensive,  is  reduced,  because  re- 
+heating can  be  done  by  less  experienced  personnel. 
+
+(5)  Peak  activity  periods  are  reduced,  resulting  in  a  more 
+relaxed  working  atmosphere. 
+
+(6)  Seasonal  foods  can  be  purchased,  prepared,  frozen  and 
+served  at  a  later  date,  thus  reducing  cost  and  increasing  menu 
+variety. 
+
+(7)  Overproduction  is  virtually  eliminated,  because  only  the 
+amount  ordered  is  removed  from  storage. 
+
+(8)  Food  production  now  allows  more  flexibility  in  arranging 
+work  schedules. 
+
+Although  some  of  the  above  advantages  are  true  of  both  cook/chill  and 
+
+cook/freeze  systems,  freezing  increases  the  magnitude  of  each 
+
+advantage. 
+
+
+Pasta  Products 
+
+Pasta  products  are  economical  and  well-liked  by  consumers. 
+Pasta  sales  tend  to  increase  during  economically  tight  periods  (Katz, 
+1982).  These  products  are  also  easy  to  prepare  and  require  little  pre- 
+paration time.  Therefore,  the  use  of  pasta  has  been  escalating  in  the 
+foodservice  industry.  Approximately  two  billion  pounds  of  pasta  was 
+
+
+43 
+
+
+manufactured  in  1981  (Katz,  1982).  Approximately  three-fourths  of  the 
+production  was  sold  directly  to  consumers,  however,  many  manufacturers 
+and  restaurants  are  making  their  own  pasta.  A  variety  of  pasta  pro- 
+ducts can  be  found  in  frozen  food  cases  in  supermarkets,  which  reflects 
+the  trend  in  marketing  frozen  convenience  foods. 
+
+Standardized  pasta  products  must  contain  semolina,  durum  wheat 
+flour,  farina,  flour  or  a  combination  of  these  ingredients  (Douglass 
+and  Matthews,  1982).  Rheological  properties  and  color  are  superior 
+when  semolina  and  durum  flours  are  used,  therefore,  these  are  generally 
+the  predominant  ingredients. 
+
+Enriched  pastas,  according  to  federal  standards  of  identity 
+must  contain  13-16.5  mg  of  iron,  4-5  mg  of  thiamin,  1.7-2.2  mg  of 
+riboflavin  and  27-34  mg  of  niacin  per  pound.  Calcium  (500-625  mg/lb) 
+and  vitamin  D  (250-1,000  U.S. P.  units/lb)  enrichment  is  optional  and 
+not  common. 
+
+Many  researchers  have  tried  to  develop  high-protein  pasta  pro- 
+ducts. In  1972  a  new  standard  of  identify  for  fortified  macaroni  was 
+announced  by  the  Food  and  Drug  Administration  (Banasik  and  Dick,  1982). 
+Wheat  must  be  the  main  ingredient  in  enriched,  protein-fortified 
+macaroni  products  and  the  protein  source  may  be  from  any  edible  source. 
+Fortified  macaroni  must  contain  20%  protein  and  have  a  protein  effi- 
+ciency ratio  value  equal  to  95%  casein,  as  well  as  be  enriched  with 
+vitamins  and  minerals.  All  noodles  must  contain  at  least  5.5%  egg  or 
+egg  yolk  solids,  and  vegetable  pastas  must  contain  at  least  3%  vege- 
+table solids. 
+
+
+44 
+
+
+The  USDA  and  American  Institute  of  Baking  began  studies  in  the 
+late  1960 ' s  to  determine  the  nutrient  content  of  wheat  and  wheat  pro- 
+ducts. Nutrient  composition  of  macaroni,  as  compared  to  wheat,  is 
+listed  in  Table  2  (Toepfer  et  al.,  1972). 
+
+Table  2.  Nutrient  concentration  in  macaroni  (durum  wheat  yield  is  100%). 
+
+
+Nutrient  %   Yield 
+
+
+Thiamin  48 
+
+Riboflavin  86 
+
+Niacin  40 
+
+Vitamin  Bg  25 
+
+Linoleic  42 
+
+Reducing  sugar  371 
+
+Nonreducing  sugar  63 
+
+Starch  116 
+
+Iron  41 
+
+Phosphorus  46 
+
+Calcium  59 
+
+Amino  Acid  (average)  95 
+
+
+A  study  to  investigate  the  changes  affecting  the  carbohydrate 
+fraction  of  durum  wheat  following  pasta  processing  was  undertaken  by 
+Lintas  and  D'Appolanio  (1973).  Their  findings  include: 
+
+(1)  Semolina  starch  had  a  higher  peak  viscosity  than  starch 
+isolated  form  spaghetti.  The  decrease  in  peak  viscosity  as  a 
+result  of  processing  indicated  that  starch  damage  occurred  to 
+some  extent  during  processing. 
+
+(2)  Water-binding  capacity  was  obtained  from  the  starches 
+isolated  from  the  spaghetti.  The  starch  damage  values  revealed 
+that  during  pasta  processing,  the  percentage  of  damaged  starch 
+was  increased  greatly. 
+
+(3)  Change  in  free  sugar  content: 
+
+(a)  Maltose  increased  moderately  after  mixing  (dough), 
+greatly  increased  after  extruding  (wet  spaghetti ), "and 
+showed  no  change  after  drying. 
+
+(b)  The  change  in  glucose  took  place  mainly  during  drying. 
+
+
+45 
+
+
+(4)  The  yield  of  water-soluble  pentosans  was  much  higher  in 
+spaghetti  than  from  semolina.  The  opposite  was  true  of  the 
+water-insoluble  pentosans. 
+
+Little  literature  is  available  on  preserved  pasta  products, 
+however,  Douglas  and  Matthews  (1982)  reported  data  on  canned  pasta  mix- 
+tures. Canned  pasta  mixtures  are  higher  in  fat  and  ash,  and  lower  in 
+protein  and  carbohydrate  contents  than  plain  cooked  macaroni.  Nutrient 
+content  of  canned  pasta  is  product  dependent.  As  expected,  spaghetti 
+with  tomato  sauce  is  generally  lower  in  vitamin  and  mineral  content 
+when  compared  to  macaroni  and  cheese,  beef  ravioli  and  lasagna.  Two 
+exceptions  were  copper  and  ascorbic  acid  contents.   Iron,  thiamin, 
+riboflavin  and  niacin  contents  were  similar  in  all  products  because  of 
+the  enrichment  specifications.  Thiamin  (per  100  g  sample)  for  example 
+yielded  0.17  mg  in  enriched  macaroni  cooked  to  the  tender  stage,  0.06 
+mg  in  spaghetti  with  tomato  sauce,  0.09  in  macaroni  and  cheese,  0.05  mg 
+in  beef  ravioli,  and  0.05  mg  in  lasagna. 
+
+The  pasta  image  is  one  of  high  calorie  and  low  nutrition  (Katz, 
+1982).  In  reality,  a  cup  of  cooked  spaghetti  with  tomato  sauce  yields 
+179  calories;  meatballs  add  about  120  calories.  Spaghetti  and  meat- 
+balls also  contain  14  g  of  protein  and  44  g  of  complex  carbohydrates 
+and  many  vitamins  and  minerals  in  a  one-cup  serving.  One  cup  of  plain 
+yogurt  made  from  whole  milk  yields  151  calories  (fruit  adds  about  130 
+calories)  with  approximately  the  same  amount  of  protein. 
+
+Instrumental  and  Sensory  Texture  measurements  of  Pasta  Products 
+
+Texture  influences  the  acceptability  of  products.  Larmond  and 
+
+
+46 
+
+
+Voisey  (1973)  investigated  quality  attributes  of  eight  varieties  of 
+spaghetti.  A  taste  panel  rated  spaghetti  for  firmness,  chewiness,  gum- 
+miness,  adhesiveness,  starchiness  and  flavor.  The  results  were  com- 
+pared with  acceptance  tests  by  a  consumer  panel.  Researchers  concluded 
+that  flavor  contributes  little  in  predicting  consumer  reaction, 
+whereas,  firmness  and  gumminess  as  rated  by  the  laboratory  panel  were 
+sufficient  to  predict  consumer  acceptance. 
+
+Maintaining  product  texture  is  important  to  the  foodservice 
+industry,  and  a  great  deal  of  research  has  been  done  concerning  this 
+quality  attribute.  Starch  is  the  major  component  of  semolina,  and 
+firmness  in  cooked  spaghetti  is  influenced  by  gelatinized  starch  pro- 
+perties as  stated  previously.  Dexter  and  Matsuo  (1979)  investigated 
+the  effect  on  spaghetti  cooking  quality  of  some  starches  form  various 
+cereals.  Differences  appeared  to  be  mainly  attributable  to  variations 
+in  starch  water  absorption.  Waxy  maize  and  waxy  barley  starches  were 
+detrimental  to  spaghetti  cooking  quality,  but  high  amylose  corn  starch 
+appeared  to  impart  a  slight  improvement  in  cooked  spaghetti  firmness. 
+
+Instrumental  measurements  are  important  because  they  are  more 
+reproducible  than  human  measurements.  However,  a  correlation  between 
+sensory  and  instrumental  measurements  must  be  made  in  order  for 
+instrumental  measurements  to  be  meaningful.  The  Instron  Universal 
+Testing  Machine  (1UTM)  is  recognized  as  a  sensitive  device  for 
+measuring  texture  quality  (Lee  et  al.,  1978). 
+
+The  Ottawa  Texture  Measuring  System  developed  by  Voisey  can  be 
+adapted  to  the  IUTM  for  evaluating  products  of  undefined  shape  (Perry 
+
+
+47 
+
+
+and  Carroad,  1980).  Small  curd  cottage  cheese  was  evaluated  by  Perry 
+and  Carroad  (1980).  The  firmness  parameter  was  measured  by  determining 
+peak  heights  in  Newtons,  or  the  force  required  to  extrude  the  curd 
+through  the  test  cell.  Cohesiveness  was  evaluated  by  the  force  which 
+could  be  applied  to  the  curd  before  it  ruptured.  Peak  heights  also 
+were  measured  to  determine  the  energy  required  to  compress,  shear  and 
+extrude  curd  through  the  test  cell.  Results  showed  a  correlation  bet- 
+ween instrumental  and  sensory  measurements  for  texture.  Voisey  and 
+Larmond's  (1973)  use  of  the  Ottawa  System  with  the  plate  extrusion  cell 
+indicated  that  instrumental  measurements  were  more  sensitive  to  tex- 
+tural  differences  in  firmness  than  sensory  measurements. 
+
+A  high  positive  correlation  (r  =  0.812)  between  taste  panel 
+scores  and  shear  test  cells  using  the  Ottawa  system  when  measuring 
+spaghetti  firmness  was  evaluated  by  Walsh  and  Gilles  (1971).  Matsuo 
+and  Irvine  (1974)  found  differences  related  to  spaghetti  quality  could 
+be  measured.  Firmness  was  judged  organoleptical ly  as  the  force 
+required  to  penetrate  the  product  with  the  molar  teeth.  Chewiness  was 
+rated  organoleptically  in  terms  of  seconds  required  to  masticate  a 
+sample  at  a  rate  of  one  chew  per  second  until  a  satisfactory  con- 
+sistency for  swallowing  was  reached.  The  multiblade  shear  tests  on  the 
+IUTM  were  used  to  determine  textural  characteristics  instrumental ly. 
+Results  showed  high  correlations  between  firmness  and  chewiness  and 
+between  shear  force  and  shear  stress. 
+
+
+48 
+
+
+MATERIALS  AND  METHODS 
+
+Treatments 
+
+Frozen  spaghetti  with  meat  sauce,  subjected  to  one,  three  or  five 
+evenly  spaced  or  five  immediate  freeze-thaw  cycles  were  compared  with  the 
+fresh  product.  Two  methods  of  reheating  the  products  after  frozen 
+storage  also  were  compared.  A  randomized  complete  block  design  with  two 
+reheating  methods  and  five  freeze-thaw  treatments  was  used;  sensory  stu- 
+dies were  replicated  six  times  and  instrumental  data  were  replicated 
+three  times. 
+
+Sample  Preparation.  The  North  Central-120  regional  project  of 
+which  this  project  was  a  part,  provided  a  spaghetti  with  meat  sauce  for- 
+mula which  was  modified  and  used  in  preparing  spaghetti  samples. 
+Ingredients  and  specifications  are  listed  in  the  Appendix,  Table  A-l. 
+Ingredients  in  sufficient  quantities  for  the  entire  study  were  procured 
+at  the  beginning  of  the  study.  Locally  purchased  ground  beef  was  frozen 
+until  needed.  Preliminary  work  showed  that  cooking  spaghetti  until  the 
+"thread"  at  the  core  of  the  strand  disappeared  produced  a  mushy  product 
+after  preparation  and  reheating.  Therefore,  cooking  was  terminated  after 
+15  minutes. 
+
+Fresh  samples  were  tested  immediately  after  preparation. 
+Remaining  product  was  divided  into  approximately  750  g  portions  before 
+freezing  in  covered,  moisture-proof,  plastic  containers.  Temperature  was 
+maintained  at  -29°  +  4°C  throughout  the  39  day  storage  period.  Each 
+sample  was  frozen  and  thawed  one,  three  or  five  times  evenly  spaced 
+according  to  the  schedule  in  Table  3. 
+
+
+49 
+
+
+Table  3.  Freezing  and  thawing  schedule. 
+
+
+No.  Freeze-Thaws        Freeze-Thaw  Days3 
+
+
+1 
+
+3  9,  21 
+
+5  5,  12,  19,  27 
+
+5  Immediate  2,  3,  4,  5 
+
+
+aThawed  for  8  hours  at  room  temperature  and 
+returned  to  freezer. 
+
+The  five  freeze-thaw  cycles  immediately  (hereafter  designated  5-1)  were 
+
+included  in  this  study  to  determine  if  the  time  of  freezing  and  thawing 
+
+during  frozen  storage  affected  the  quality  attributes  of  this  product. 
+
+Large  ice  crystals  remained  in  the  interior  of  the  product 
+after  thawing  at  room  temperature  (approximately  21°C)  for  eight  hours. 
+On  day  39,  each  sample  was  removed  from  the  freezer  12  hours  before 
+reheating  in  microwave  ovens  because  ice  reflects  and  transmits 
+microwaves  resulting  in  uneven,  incomplete  heating  (Glew,  1973). 
+
+Spaghetti  samples  were  reheated  to  an  internal  temperature  of 
+74°C  +  2°  in  a  1  1/2  quart,  covered  glass  casserole  using  a  conven- 
+tional electric  (Whirpool,  Model  REF950P)  or  Sharp  Carousel  microwave 
+oven  (Model  R-8200).  Samples  designated  to  be  reheated  in  a  conven- 
+tional oven  were  reheated  approximately  30  minutes  to  165°F  internal 
+temperature  at  350°F  (176°C).  The  roast  setting  on  the  microwave  oven 
+was  used  to  reheat  the  remaining  samples  for  nine  minutes,  turning  the 
+samples  180  degrees  after  five  minutes.  Following  reheating,  all 
+samples  were  kept  warm  in  a  Blick-Built  Selective-Menu  food  conveyor, 
+
+
+50 
+
+
+(Model  no.  ALS-44324)  for  approximately  five  minutes  until  sensory 
+evaluation. 
+
+Instrumental  Evaluation  of  Spaghetti  with  Meat  Sauce 
+
+Texture.  Spaghetti  firmness  was  evaluated  using  the  Instron 
+Universal  Testing  Machine  (Model  1122).  A  back  extrusion  cell  was 
+used  with  a  500  kg  load  cell  to  compress  100  g  of  samples  of  spaghetti 
+after  manually  removing  all  meat  particles.  Crosshead  and  chart  speeds 
+of  20  mm/min  and  50  mm/min,  respectively,  were  used.  Previous  studies 
+(Christensen,  1981)  concluded  that  evaluating  time  and  temperature 
+influenced  results.  Therefore,  all  samples  were  covered,  held  at 
+approximately  22°C  and  evaluated  two  hours  after  reheating.  Peak 
+heights  represented  the  amount  of  force  (kg)  required  to  compress  the 
+spaghetti . 
+
+Color.  Spaghetti  and  meat  sauce  color  was  evaluated  using  the 
+HunterLab  spectrophotometer,  Model  D54-P.  The  Waring  blendor  was  used 
+to  prepare  a  slurry  from  100  g  of  spaghetti  and  10  ml  of  water  for  90 
+seconds  on  the  blend  setting.  Six  centimeter  diameter,  optically  clear 
+cups  were  filled  to  a  depth  of  approximately  1.5  cm.  Using  Illuminant 
+C,  four  readings  per  sample  were  taken  and  mean  L,  a,  b  and  CIE  L,  a,  b 
+values  were  reported.   Instrumental  values  were  used  to  calculate  hue 
+angle  (tan"1  b/a)  and  saturation  index  (a2  +  b2)i  (Little,  1976), 
+representing  hue  (color)  and  intensity,  respectively. 
+
+Analysis  of  Data 
+
+Instrumental  and  chemical  data  for  five  treatments  and  two 
+
+
+51 
+
+
+reheating  methods  were  analyzed  by  ANOV  as  follows: 
+
+Source  of  Variance    D/F 
+
+Replication  2 
+
+Method  1 
+
+Replication  x  Method  2 
+
+Treatment  4 
+
+Method  x  Treatment  4 
+
+Error  Jjj 
+
+Total  29 
+
+When  differences  were  indicated,  least  significant  differences 
+
+(p  <  0.05)  were  determined. 
+
+Sensory  Evaluation  of  Spaghetti  with  Meat  Sauce 
+
+To  ensure  food  safety  of  the  product,  microbiological  tests 
+
+were  made  prior  to  the  sensory  evaluations.  These  tests  revealed  very 
+
+low  bacterial  counts,  approximately  15  viable  counts  per  gram 
+
+(Appendix,  Table  A-4). 
+
+Panel  Selection.  Faculty  and  graduate  students  from  the  Foods 
+
+and  Nutrition  Department  who  were  experienced  in  sensory  methodology 
+comprised  the  eight  member  panel  to  evaluate  the  spaghetti  with  meat 
+
+sauce  for  appearance,  mouthfeel,  texture  and  flavor. 
+
+Panel  Training.  Four  training  sessions  were  held  before  the 
+study  commenced  to  familiarize  the  panelists  with  the  product  and  sen- 
+sory evaluation  procedures  of  this  study.  The  scorecard  was  introduced 
+and  terminology  discussed.  During  these  sessions  the  scorecard  deve- 
+loped by  NC-120  project  members  was  revised  in  order  to  better  evaluate 
+the  characteristics  of  interest  in  this  particular  study.  Examples  of 
+product  extremes  similar  to  those  which  would  be  evaluated  during  the 
+
+
+52 
+
+
+study  were  presented  to  panelists  during  training.  Aroma  bottles  were 
+available  to  panel  members  to  aid  in  the  recognition  of  spices  used  in 
+the  spaghetti  and  meat  sauce.  Several  procedures  were  modified  as  a 
+result  of  those  training  sessions  to  better  ensure  repeatability  among 
+panel  members  and  reproducibility  of  results.  The  length  of  time 
+required  for  frozen  storage  made  it  necessary  to  hold  two  retraining 
+sessions  prior  to  evaluation  of  reheated  samples.  At  this  time  the 
+panel  members  were  again  presented  with  product  extremes. 
+
+Scorecard.  A  15  cm  standard  unstructured  descriptive  rating 
+scale  with  anchors  and  descriptive  terms  1  cm  from  each  end  was  adopted 
+by  the  NC-120  Committee.  Those  scales  were  used  for  the  charac- 
+teristics important  to  this  study.  The  scales  for  the  characteristics 
+evaluated  are  shown  in  the  Appendix  (Figure  A-l). 
+
+Panel  Evaluation  Sessions.  Four  samples  coded  with  random 
+three-digit  numbers,  were  evaluated  at  each  of  the  two  sessions  per  day 
+with  a  fifteen  minute  break  after  each  two  samples.  Order  of  presen- 
+tation of  each  pair  of  samples  was  randomized  among  panelists. 
+Spaghetti  remained  in  the  casserole  while  panelists  evaluated  moistness 
+under  the  MacBeth  skylight.  Each  panelist  evaluated  remaining  charac- 
+teristics from  individual,  approximately  50  g  samples  in  heated  glass 
+custard  cups.  Preliminary  studies  indicated  greasiness  was  influenced 
+by  temperature,  therefore,  thermometers  were  provided  and  panelists 
+were  requested  to  evaluate  this  characteristic  at  49°C.  Deionized, 
+distilled  water  and  unsalted  crackers  were  provided  for  use  between 
+samples.  After  evaluations  were  completed,  numerical  values  were 
+
+
+53 
+
+
+assigned  to  each  panelist's  assessments  for  statistical  analysis. 
+
+Nutrient  Measurements  of  Spaghetti  and  Meat  Sauce 
+
+Thiamin.  After  blending  100  g  of  spaghetti  for  one  minute  in 
+a  Waring  blender  with  100  g  0.1N  hydrochloric  acid,  the  thiochrome 
+method  (AOAC  43.024,  1980)  was  followed  to  determine  thiamin  content 
+(wet  weight  basis)  of  spaghetti  with  meat  sauce. 
+
+Analysis  of  Data 
+
+Data  for  the  six  replications  of  the  sensory  data  were  analyzed 
+
+by  analysis  of  variance  (AN0V)  as  follows: 
+
+Source  of  Variance    D/F 
+
+Replication  5 
+
+Method  1 
+
+Replication  x  Method  5 
+
+Treatment  4 
+
+Method  x  Treatment  4 
+
+Error  36 
+
+Total  55 
+
+
+54 
+
+
+RESULTS  AND  DISCUSSION 
+
+Significant  differences  were  found  by  ANOV  (Tables  4  and  5)  among 
+the  five  freeze-thaw  treatments  for  moistness,  strand  separation,  mouth- 
+feel,  sensory  texture,  spice  intensity,  (p  <  0.001);  off -flavor  (p  <  0.01) 
+and  thiamin  content  (p  <  0.05).  Reheating  method  resulted  in  significant 
+differences  in  sensory  texture  (p  <  0.01),  HunterLab  b  values  (p  <  0.05), 
+the  1976  CIE  b  values,  and  saturation  index  using  the  CIE  1975  values 
+(p  <  0.01).  An  interaction  between  reheating  method  and  freeze-thaw 
+treatments  was  found  for  moistness  and  thiamin  content. 
+
+Effects  of  Treatments  on  Appearance  Factors 
+
+Strand  Separation.  The  only  sensory  factor  related  to  appearance 
+affected  by  the  freezing  and  thawing  treatments  was  strand  separation. 
+All  samples  which  were  frozen  had  more  clumping  (p  <  0.05)  than  the 
+freshly  prepared  spaghetti.  Strand  separation,  or  the  absence  of 
+clumping  of  strands,  is  an  important  characteristic  related  to  product 
+acceptance  by  consumers.  When  starch  freezes,  water  is  crystallized, 
+resulting  in  increased  pressure  within  the  cell  causing  the  cells  to  rup- 
+ture. This  breakdown  in  the  starch  molecules  is  partially  responsible  for 
+strand  clumping  in  frozen  samples.  Significant  differences  were  found 
+for  strand  separation  between  fresh  and  all  samples  which  had  been  frozen 
+and  thawed  (p  <  0.05),  as  expected.  Once  the  product  was  frozen,  indivi- 
+dual strands  were  less  apparent  when  compared  to  the  fresh  product. 
+Previous  work  done  by  Glew  (1973)  found  repeated  freeze-thaws  exaggerated 
+the  rupturing  of  cells,  however,  no  differences  were  noted  among  the 
+
+
+)  .-H         vo  ^J- 
+
+
+55 
+
+
+§ 
+
+s- 
+
+
+o  o 
+
+
+r-.  lt) 
+
+'-i  *T 
+in  cti 
+
+cn  cn 
+
+r- «    UD 
+
+(xi  ro 
+
+o  r-. 
+
+r-.  kd 
+
+ro  cm 
+
+t-H    O 
+
+cn  lo 
+
+<-t  CD 
+
+IT)  1X> 
+
+CO   LO 
+
+C\J  CM 
+
+tjD  to 
+
+CM   Cn 
+
+O  m 
+
+CO  cn 
+
+O   O  ^H 
+
+
+«tf-  CO 
+■X)  CM 
+
+o  o 
+
+CM   t— 1 
+
+•^    CNJ 
+
+CO  CO 
+
+CTi  UD 
+CO  U3 
+
+Lf>  CM 
+
+LT)   CNJ 
+
+CNJ   ,-H 
+
+ro  ,-h 
+
+«— 1  CNJ 
+
+»  "d  — ^  c 
+
+
+cnj  ro 
+
+.— i  cn 
+
+U3   CNJ 
+O  O 
+
+■a-  o 
+
+ro  cnj 
+
+CNJ  *g- 
+
+CNJ   KO 
+
+§ 
+
+ro  o 
+
+o  o 
+
+ro  -=3- 
+
+CO  ur> 
+cnj  cn 
+
+CNJ  CM 
+
+O 
+
+ID 
+
+rt 
+
+un 
+
+-d- 
+
+^r 
+
+vo 
+
+ro 
+
++j 
+
+Q. 
+
+(/I 
+
+L. 
+
+c 
+
+■*■ 
+
+<*- 
+
+0) 
+
+u 
+
+</> 
+
+IO 
+
+at 
+
+j-> 
+
+</> 
+
+at 
+
+o 
+
+3 
+
+-t-> 
+
+fO 
+
+■a 
+
+at 
+
+i/i 
+
+Li- 
+
+ID 
+
+ra 
+
+JD 
+
+LT>    CD  r-H    O 
+
+
+56 
+
+
+CD  i— 
+3    CJ) 
+
+dt  c 
+< 
+
+
+CD  in 
+O  CM 
+
+o  <x> 
+o  ^-« 
+
+o  ir> 
+o  ro 
+
+o  <x> 
+
+o  *d- 
+
+O  «3 
+
+o  o 
+
+o  o 
+
+o  o 
+
+o  o 
+
+o  o 
+
+O   .-H 
+
+vl 
+
+
+CO  CM 
+
+<■  O 
+
+i-t  O 
+
+r-  cm 
+
+CO      • 
+
+IT)        . 
+
+o  o 
+
+co  ro 
+
+•  «*■ 
+
+•  ro 
+
+«3-  KO 
+
+ro  co 
+
+o  o 
+
+CO  o 
+
+CM  KO 
+
+UD 
+
+*— * 
+
+« — 
+
+•—*  i— <  CD  CD  i-h 
+
+
+v| 
+
+
+CO  l£> 
+
+cm  ro 
+
+r-l   O 
+
+«3  O 
+
+P-.  CM 
+
+.-h  ro 
+
+r-»  cm 
+
+cm  p-. 
+
+o  o 
+
+*-t  o 
+
+i-H   O 
+
+1 — ' 
+
+w 
+
+w 
+
+t-t  # 
+
+O  CM 
+
+cd  u"> 
+
+CD  f-t 
+
+CD  ro 
+o  en 
+
+r-4  P-. 
+O  LD 
+
+o  <x> 
+o  o 
+
+O  .-H 
+
+O   r-H 
+
+o  o 
+
+O  iH 
+
+O   .-H 
+
+ro  *■ 
+ro  v 
+
+o>  o 
+
+*3"  CM 
+
+o  o 
+
+*d"   CM 
+CM   .-H 
+
+«3"  CM 
+
+.— 1 
+
+o 
+
+ro  cm 
+
+o  r^ 
+
+o  o 
+
+o  o 
+
+o  o 
+
+CM 
+
+r-  ro 
+
+r^  o 
+O  ro 
+
+ro  ro 
+ro  ud 
+
+•-t  *d- 
+
+CT>  *=r 
+
+cn  cr> 
+
+u">  «* 
+
+ro  cm 
+
+.-H  o 
+
+ro  i-* 
+
+*-H  O 
+
+O  CT> 
+
+co  r% 
+
+o  m 
+
+O  CO 
+
+en  «a- 
+o  r* 
+
+f-t  ro 
+
+OO  r-H    O 
+
+
+CM  O  r-H  CD 
+
+
+.-t  ,-4         r-H  CD  <-H 
+
+
+>  ~^jCM 
+CD  JD  .O 
+
+
+ro  O 
+
+CD  en 
+
+o  ro 
+
+CD    LT> 
+
+.—1  CO 
+
+o  ** 
+
+o  <* 
+
+CD  ** 
+
+O  «tf 
+
+o  o 
+
+o  o 
+
+O  ro 
+
+O  ro 
+
+aw  i.  vi 
+
+O    O   i- 
+
+C   I*-  <4-  <t- 
+
+
+qj  a)  +j 
+
+t/>   -M    4-> 
+
+QJ     ITJ     IT3    O 
+
+
+*0    <TJ    (/> 
+
+U.   UUP 
+
+IBJ2     UH 
+
+
+57 
+
+
+four  frozen-thawed  treatments  in  this  study  (Table  6  and  Figure  A-2). 
+
+Fat  Separation.  Subjecting  spaghetti  with  meat  sauce  to 
+several  freeze-thaw  cycles  had  no  significant  effect  on  fat  separation 
+when  compared  to  the  fresh  product  (Table  6  and  Figure  A-2).  The  product 
+which  was  frozen  and  thawed  once  had  the  highest  level  of  fat  separation 
+with  a  gradual  decrease  in  amount  of  fat  separation  noted  as  the  number 
+of  freeze-thaw  cycles  increased.  However,  none  of  those  differences  were 
+significant.  Some  fat  separation  might  have  been  expected  after  freezing 
+since  cell  destruction  occurs  during  freezing  and  allows  fat  to  escape 
+the  cell. 
+
+HunterLab  Color  Values.  Color  data  for  spaghetti  with  meat  sauce 
+are  presented  in  Tables  5,  6,  7  and  Figures  A-3,  A-4  and  A-5. 
+Anthocyanins,  xanthins,  and  carotenoids  are  stable  pigments  and  no  signi- 
+ficant differences  for  any  of  the  measurements,  among  fresh  and  frozen 
+samples  resulted,  as  expected.  The  calculated  hue  angles  and  saturation 
+indexes  did  not  vary  significantly  among  sample  treatments.  However, 
+fresh  samples  had  higher  saturation  index  values  than  frozen  samples 
+indicating  a  slightly  duller  product,  but  not  significantly  so,  after 
+freezing.  Dehydration  which  occurs  during  freezing  may  have  contributed 
+to  this  difference.  The  method  of  reheating  had  a  significant  dif- 
+ference, p  <  0.05,  and  p  <  0.01  on  the  b  and  b*  values,  respectively, 
+indicating  more  yellowness  in  the  product  reheated  in  a  microwave  oven 
+than  in  the  conventional  oven  (Table  7  and  Figure  A-5).  Also,  conven- 
+tional reheating  yields  a  duller  product  than  one  which  is  reheated  in  a 
+microwave  oven;  this  is  apparent  from  the  higher  saturation  index  values. 
+
+
+58 
+
+
+Table  6.  Least  square  means  for  appearance  factors  for  varying  freeze 
+thaw  cycles. 
+
+
+Freeze-Thaw  Cycles3 
+Characteristic     Fresh    13       5     BT     LSDg  05 
+
+
+Sensoryb 
+Fat  separationc    7.78    8.72    7.65    7.49    7.25      NS 
+
+Strand  separation^  9.18a   4.97b   5.59b   4.08b   4.78b  1.046e  0.89f 
+
+Color9 
+
+
+L 
+
+47.92 
+
+48.77 
+
+49.45 
+
+48.73 
+
+49.23 
+
+NS 
+
+a 
+
+11.13 
+
+10.38 
+
+10.40 
+
+10.18 
+
+9.13 
+
+NS 
+
+b 
+
+17.22 
+
+16.80 
+
+16.95 
+
+16.85 
+
+16.68 
+
+NS 
+
+Hue  Angle 
+(tan-lb/a) 
+
+1.00 
+
+1.02 
+
+1.02 
+
+1.03 
+
+1.08 
+
+NS 
+
+Saturation 
+L(a+b)i] 
+
+Index 
+
+20.51 
+
+19.75 
+
+19.89 
+
+19.69 
+
+19.14 
+
+NS 
+
+L* 
+
+55.02 
+
+55.77 
+
+56.55 
+
+55.83 
+
+56.23 
+
+NS 
+
+a* 
+
+13.02 
+
+12.07 
+
+12.07 
+
+11.95 
+
+11.77 
+
+NS 
+
+b* 
+
+26.80 
+
+25.05 
+
+25.17 
+
+25.15 
+
+24.78 
+
+NS 
+
+Hue  Angle* 
+
+1.11 
+
+1.12 
+
+1.12 
+
+1.13 
+
+1.13 
+
+NS 
+
+Saturation 
+
+Index* 
+
+29.81 
+
+27.81 
+
+27.91 
+
+27.85 
+
+27.44 
+
+NS 
+
+aEvenly  spaced  during  39  day  period  except  51  which  were  all  imme- 
+diately after  initial  freezing. 
+
+bSix  replications;means  in  the  row  sharing  a  common  letter  are  not 
+significantly  different  (p  <^  0.05). 
+
+Scale:  0,  no  fat  separation;  15,  much  fat  separation. 
+
+Scale:  0,  strands  clump  together;  15,  individual  strands  apparent; 
+
+Fresh  vs  all  frozen  treatments. 
+
+Among  frozen  treatments. 
+Measured  with  HunterLab  D-54P  spectrophotometer;  three  replications 
+1976  C1E  values  (Little,  1976). 
+
+
+59 
+
+
+Table  7.  Least  square  means  for  significantly  different  appearance 
+factors  for  spaghetti  and  meat  sauce. 
+
+
+a   p  <  0.05. 
+
+b   p  <  0.01;  SI  calculated  as  follows:  (a2  +  b2)* 
+
+
+Reheating  Color 
+
+Method  ba  b*b         SI*b 
+
+
+Conventional         17.08a        25.73a        28.53a 
+Microwave  16.72b        25.05b        27.78b 
+
+
+60 
+
+
+This  difference  may  be  attributed  to  a  greater  moisture  loss  in  conven- 
+tional as  compared  to  microwave  oven  reheated  spaghetti  and  meat  sauce. 
+
+Effects  of  Treatments  on  Mouthfeel  and  Texture 
+
+Mouthfeel:  Dryness.  A  significant  difference  (p  <  0.05)  in 
+moistness  was  found  between  fresh  spaghetti  with  meat  sauce  samples  and 
+those  samples  which  were  frozen  (Table  8  and  Figure  A-6).  The  frozen 
+ones  were  less  moist  in  every   instance.  The  difference  may  partially 
+result  from  overcooking  the  spaghetti  during  reheating.  Undercooking  the 
+spaghetti  during  initial  preparation  may  decrease  the  moisture  loss  after 
+subjecting  the  spaghetti  with  meat  sauce  to  frozen  storage  and  freezer 
+abuse.  In  this  study  we  found  the  differences  between  1  freeze-thaw  and 
+3  freeze-thaw  cycles  to  be  significant.  Products  subjected  to  3  freeze- 
+thaw  cycles  were  the  driest.  The  differences  were  not  significant  among 
+samples  subjected  to  3,  5  or  5-1  freeze-thaw  cycles.  These  results  were 
+expected  because  of  the  freezing  phenomena  where  water  expands,  forcing 
+it  out  of  the  cell.  However,  once  the  water  leaves  the  molecule  it  can- 
+not return,  even  after  thawing.  This  study  substantiates  that  phenomena 
+by  showing  a  change  which  occurred  only  due  to  the  freezing  process.  The 
+number  of  freeze-thaws  had  little  effect  on  product  dryness. 
+
+Greasiness.  No  significant  difference  was  found  in  product 
+greasiness  (Table  8  and  Figure  A-6).  Cellular  destruction  probably 
+contributed  to  a  slightly  less  greasy  fresh  product  than  frozen  products. 
+A  pattern  was  not  shown  in  the  amount  of  greasiness  found  in  the  product 
+as  the  number  of  freeze-thaw  cycles  increased.  Therefore,  the  freezing 
+
+
+61 
+
+
+process  itself  appears  to  be  responsible  for  the  slight  but  insignificant 
+increases  in  greasiness  detected  by  the  sensory  panelists. 
+
+Sensory  Evaluation  for  Firmness.  Significant  differences  in 
+sensory  firmness  were  found.  Firmness  is  a  characteristic  important  in 
+consumer  acceptance  for  many  products  including  spaghetti  and  meat 
+sauce.  The  results  presented  in  Table  8  and  Figure  A-6  indicate  the 
+fresh  product  is  firmer  than  the  frozen  products,  as  expected. 
+
+Table  8.  Least  square  means  for  mouthfeel  and  texture  evaluation  of 
+
+spaghetti  for  effect  of  increasing  (zero  to  five)  freeze-thaw 
+cycles3. 
+
+
+Freeze-Thaw  Cycles3 
+Characteristic    Fresh    1      3      5      BT    LSD0  05 
+
+
+Sensory 
+
+Mouthfeelb  A  B 
+
+Dryness^  4.73a  6.45b  7.56c  6.62bc  6.98bc  1.28  1  09 
+
+Greasiness0  6.66  7.29  7.17  7.26  7.16  NS 
+
+Firmnesse  8.61a  4.44b  3.68c  2.53d  2.95cd  0.88  0.74 
+
+Instron 
+Firmness,  kgf     25.36a  22.13b  21.73b  22.66b  21.46b   1.44    NS 
+
+
+e 
+
+
+aEvenly  spaced  during  39  day  period  except  51  which  were  all  immediately 
+after  initial  freezing. 
+
+Means  in  a  row  sharing  a  common  letter  are  not  siqnif icantl y 
+
+different,  p  <  0.05. 
+
+Scale:  0,  very   wet  and  15,  very   dry. 
+
+Scale:  0,  not  greasy  and  15,  very  greasy. 
+
+Scale:  0,  extremely  soft  and  15,  extremely  firm. 
+fBack  extrusion  cell  on  Instron  Universal  Testinq  Machine 
+"Fresh  vs  frozen 
+
+Among  frozen  treatments 
+
+Glutenin  and  gliadin  are  wheat  proteins  most  responsible  for 
+
+spaghetti  textural  characteristics.  Water  is  an  intrinsic  part,  of 
+
+
+62 
+
+
+protein  structure,  therefore,  water  removal  which  occurred  during 
+freezing  undoubtedly  caused  denaturation  of  protein.   Protein  denatura- 
+tion  and  starch  retrogradation  probably  caused  structural  changes  in 
+cells  leading  to  the  textural  changes  and  resulting  in  a  softer  product 
+after  freezing.  Undercooking  spaghetti  prior  to  freezing  would  eliminate 
+overcooking  during  reheating,  probably  resulting  in  a  firmer  end  product. 
+
+Fresh  pasta  products  were  two  to  three  times  firmer  than  frozen 
+products.  The  product  became  progressively  softer  as  the  number  of 
+freeze-thaw  cycles  increased.  With  increasing  number  of  freeze-thaw 
+cycles  the  potential  for  further  denaturation  occurs.  Therefore,  as 
+expected,  this  study  showed  an  inverse  relationship  between  spaghetti 
+firmness  and  number  of  freeze-thaw  cycles.  The  5-1  samples  were  firmer 
+than  those  frozen  and  thawed  5  times  spaced  throughout  the  study; 
+however,  those  differences  were  not  significant.  These  results  suggest 
+that  the  time  of  freezing  and  thawing  during  the  storage  period  has  no 
+effect  on  the  firmness  of  the  product. 
+
+Instrumental  Values  for  Firmness.  No  significant  differences 
+were  found  among  the  frozen  treatments  according  to  instrumental  texture 
+data,  however,  fresh  samples  required  more  force  than  frozen  samples, 
+supporting  the  sensory  data  (Table  8  and  Figure  A-7).  The  5-1  samples 
+had  the  lowest  Instron  values  and  suggest  a  slightly  less  firm  product 
+than  the  other  frozen  samples.  This  was  not  entirely  consistent  with  the 
+sensory  evaluation  which  indicated  the  five  evenly  spaced  freeze-thaw 
+cycles  resulted  in  the  softest  product.  However,  since  none  of  the  dif- 
+ferences were  significant,  the  data  are  in  agreement. 
+
+
+63 
+
+
+Table  9.  Least  square  means  for  sensory  flavor  evaluations  for  effect 
+of  increasing  the  number  of  freeze-thaw  cycles. 
+
+
+Freeze-Thaw  Cycles8 
+Characteristic     Fresh    1      3       5     51     LSD 
+
+
+0.05 
+
+
+Sensory 
+
+Flavor0                                       A  g 
+
+SPlceC    J      7.66a  4.44b   4.11c   4.13bc  4.23b   1.45  1.24 
+
+2.19a  3.33ab  3.77abc  5.09c   4.04bc  1.58  1.35 
+
+
+Off-flavord 
+
+
+aEvenly  spaced  during  39  day  period  except  51  which  were  all  imme- 
+diately after  initial  freezing 
+
+bMeans  in  a  row  with  same  letter  are  not  significantly  different  (p  < 
+0.05). 
+
+cScale:  0,  spice  intensity  weak  and  15,  strong. 
+^Scale:  0,  no  off -flavor  and  15,  strong  off -flavor. 
+"Fresh  vs  frozen 
+B  Among  frozen  treatments 
+
+
+64 
+
+
+Flavor 
+
+Flavor:  Intensity  of  Spice.  Spices  are  volatile,  resulting  in 
+diminished  spice  intensity.  Therefore,  the  sensory  panel,  as  expected, 
+indicated  a  stronger  spice  intensity  in  the  fresh  pasta  product  than  in 
+the  frozen  samples.  Those  differences  were  significant  (p  <  0.05)  and 
+are  found  in  Table  9  and  Figure  A-8.  Little  difference  was  found  in 
+spice  intensity  among  various  frozen  treatments. 
+
+Off -flavor.  Two  major  off -flavors  were  detected  by  panel  mem- 
+bers. The  stale  off -flavor  and  a  "cardboard"  off-flavor  detected  by  the 
+panel  members  was  probably  caused  by  hydrolytic  rancidity  (Tressler  et 
+al.,  1968).  This  type  of  rancidity  results  because  fats  are  cleaved  and 
+yield  individual  fatty  acids  which  causes  strong  off -flavors.  When  cells 
+are  ruptured,  the  excreted  lipids  are  exposed  to  oxygen  which  could 
+result  in  a  pronounced  "cardboard"  off -flavor.  No  significant  differ- 
+ences were  noted  for  off -flavor  when  fresh  or  frozen  samples  were  sub- 
+jected to  one  or  three  freeze-thaw  cycles  and  evaluated  by  panelists.  As 
+the  number  of  freeze-thaw  cycles  increased,  the  off -flavor  became  more 
+pronounced.  Results  showed  a  significant  difference  between  the  fresh 
+sample  and  those  subjected  to  5  and  5-1  freeze-thaw  cycles  (Table  9  and 
+Figure  A-8),  which  one  might  expect  because  accelerated  temperatures 
+increase  oxidative  rancidity.  As  stated  earlier,  oxidation  occurs  more 
+rapidly  at  -20°C  than  at  ambient  temperature  (Glew  1973).  Pasta  products 
+during  this  study  frequently  were  recorded  near  the  most  vulnerable  tem- 
+perature. Temperatures  noted  during  the  study  ranged  from  -25°  to  33°C. 
+However,  no  significant  differences  in  products  were  noted  between  1,  3 
+
+
+65 
+
+
+or  5-1  freeze-thaw  cycles.  The  strongest  off -flavors  were  detected  by 
+the  sensory  panelists  in  spaghetti  and  meat  sauce  after  5  freeze-thaw 
+cycles  spaced  evenly  throughout  frozen  storage.  These  samples  were 
+significantly  different  (p  <  0.05)  from  all  treatments  except  those 
+having  experienced  5-1  freeze-thaw  cycles. 
+
+Effects  of  Reheating  Method  with  Freeze-Thaw  Treatments  on  Spaghetti 
+and  Heat  Sauce  " 
+
+The  method  used  to  reheat  the  spaghetti  and  meat  sauce  resulted 
+in  no  significant  differences  in  the  quality  attributes  evaluated  in 
+this  study,  except  for  moistness  and  thiamin  retention. 
+
+Moistness.  A  significant  difference  (p  <  0.05)  was  found  between 
+samples  reheated  in  a  conventional  oven  and  those  reheated  in  a  microwave 
+oven  (Table  10  and  Figure  A-9).  No  differences  were  found  after  the 
+spaghetti  and  meat  sauce  was  frozen  and  thawed  once.  However,  the  pro- 
+duct was  more  moist  when  reheated  in  the  microwave  oven  after  three  and 
+five  freeze-thaws.  Conventional  oven  reheating  produced  a  moister  pro- 
+duct after  5-1  freeze-thaws  cycles. 
+
+Nutrient  Analysis 
+
+Thiamin.  Generally,  thiamin  content  of  this  pasta  product  was 
+not  affected  adversely  or  significantly  by  the  various  treatments 
+(Table  11)  in  this  study.  However,  spaghetti  which  had  5-1  freeze-thaw 
+cycles  contained  less  thiamin  (p  <  0.05)  than  the  fresh  spaghetti  with 
+meat  sauce.  Little  difference  was  found  in  thiamin  retention  between 
+microwave  and  conventional  oven  reheating  (Table  10  and  Figure  A-10), 
+unless  the  product  had  experienced  five  freeze-thaw  cycles,  either  evenly 
+
+
+66 
+
+
+spaced  or  immediately.  The  greatest  thiamin  loss  was  found  after  5-1 
+freeze-thaw  cycles  when  spaghetti  with  meat  sauce  was  reheated  in  a  con- 
+ventional oven. 
+
+When  microwave  ovens  were  used  in  this  study  to  reheat  products 
+which  had  been  frozen  and  thawed,  the  thiamin  content  is  equal  or 
+superior  to  samples  reheated  in  conventional  ovens.  Samples  reheated  in 
+a  microwave  oven  were  subjected  to  heat  for  a  shorter  time  than  samples 
+reheated  in  a  conventional  oven,  therefore,  the  thiamin  contents  found  in 
+this  study  were  expected. 
+
+
+67 
+
+
+Table  10.  Least  square  means  for  reheating8  by  conventional  and 
+
+microwave  ovens  and  freeeze-thaw  treatments'5. c  on  moistness 
+and  thiamin  content  (wet  weight  basis)  of  spaghetti  and  meat 
+sauce. 
+
+
+Fresh 
+
+F 
+
+reeze-Thaw 
+
+Cycles3 
+
+Characteristic 
+
+1 
+
+3 
+
+5 
+
+51 
+
+LSD0.05 
+
+Moistnessd 
+
+Conventional  oven 
+Microwave  oven 
+
+8.6ax 
+8. lax 
+
+5.3by 
+5.0by 
+
+3.9cy 
+5.16y 
+
+3.0cy 
+3.8cy 
+
+5.1by 
+4.2bcy 
+
+1.7c 
+1.046d 
+
+Thiamin,  mcg/g 
+Off-flavord 
+
+0.91a 
+0.68ax 
+
+0.68bx 
+0.74by 
+
+0.74aby 
+0.70a 
+
+0.56bc 
+0.68ax 
+
+0.49c 
+0.69a 
+
+0.00245c 
+0.1893d 
+
+0.029e 
+
+aAll  means  within  a  row  sharing  a  common  letter  are  not  significantly 
+different,  p  <  0.05. 
+
+bFor  comparisons  among  freeze-thaw  treatments;  a,  b,  c,  are  used. 
+<jFor  comparing  fresh  vs.  freeze-thaw  treatments;  a,  b,  c,  are  used. 
+aScale:  0  to  15  ;  0,  low,  15,  high. 
+
+
+68 
+
+
+69 
+
+
+SUMMARY 
+
+Freeze-thaw  stability  of  spaghetti  with  meat  sauce  was  investi- 
+gated. The  pasta  product  was  subjected  to  1,  3,  or  5  evenly  spaced  or 
+5-immediate  freeze-thaw  cycles  and  reheated  in  a  conventional  or 
+microwave  oven.  Products  were  evaluated  for  selected  chemical,  physi- 
+cal and  sensory  attributes. 
+
+Based  on  the  conditions  of  this  study,  the  following  conclusions 
+can  be  made: 
+
+1.  Appearance.  Strand  separation  decreased  after  spaghetti 
+with  meat  sauce  was  frozen.  Freezing  treatment  and/or  reheating  method 
+produced  no  significant  differences  in  fat  separation  or  product 
+color. 
+
+2.  Mouthfeel.  Freezing  produced  less  moist  and  less  greasy 
+samples  compared  to  fresh  pasta.  Spaghetti  with  meat  sauce  was  driest 
+after  3  freeze-thaw  cycles.  Reheating  method  also  affected  product 
+moistness.  Generally,  pasta  reheated  in  the  microwave  oven  was  more 
+moist,  however,  spaghetti  which  had  1  or  5-1  freeze-thaw  cycles 
+reheated  in  the  conventional  oven  was  as  moist  as  spaghetti  with  meat 
+sauce  with  1  or  3  freeze-thaw  cycles  when  reheated  in  a  microwave  oven. 
+No  differences  in  greasiness  were  found  among  frozen  samples. 
+
+3.  Texture.  Sensory  evaluation  indicated  fresh  spaghetti  with 
+meat  sauce  was  two  to  three  times  firmer  than  frozen  products. 
+Firmness  was  inversely  related  to  the  number  of  freeze-thaw  cycles  to 
+which  the  product  was  subjected.   Instrumental  readings  indicated  fresh 
+pasta  was  firmer  (p  <  0.05)  than  frozen  pasta;  however,  no  significant 
+
+
+70 
+
+
+differences  were  found  among  treatments. 
+
+4.  Flavor.  Spice  intensity  decreased  significantly  after 
+spaghetti  with  meat  sauce  was  frozen,  but  no  difference  appeared  among 
+the  frozen-thawed  treatments.  Off-flavors  such  as  stale,  rancid  and 
+"cardboard"  were  detected  in  samples  exposed  to  freeze-thaw  cycles. 
+Off -flavors  generally  increased  as  the  number  of  freeze-thaw  cycles 
+increased. 
+
+5.  Thiamin.  Thiamin  loss  was  nominal  unless  the  spaghetti 
+with  meat  sauce  experienced  5-1  freeze-thaw  cycles.  Conventional 
+reheating  of  the  pasta  product  after  5-1  freeze-thaws  resulted  in 
+greater  thiamin  loss  than  microwave  oven  reheating. 
+
+
+71 
+
+
+References 
+
+
+Ang,  C.Y.W.,  Chang,  CM.,  Fey,  A.E.  and  Livingston,  G.E.  1975. 
+
+Effects  of  heating  methods  on  vitamin  retention  in  six  fresh  or 
+frozen  prepared  food  products.  J.  Food  Sci.  40:997. 
+
+Ang,  C.Y.W.,  Basillo,  L.A.,  Cato,  B.A.  and  Livingston,  G.E.  1978. 
+Riboflavin  and  thiamin  retention  in  frozen  beef-soy  patties  and 
+frozen  fried  chicken  heated  by  methods  used  in  foodservice  opera- 
+tion. J.  Food  Sci.  43:1024. 
+
+Anonymous.  1979.  Frozen  foods  almanac.  Quick  Frozen  Foods.  42:101. 
+
+Assoc,  of  Official  Analytical  Chemists  Method  43.024,  1980. 
+
+Augustin,  J.,  Swanson,  B.G.,  Teitzel,  C,  Johson,  S.R.,  Pometto,  S.E., 
+Artz,  W.E.,  Haung,  C.P.  and  Schomaker,  C.  1979.  Changes  in  the 
+nutrient  composition  during  commercial  processing  of  frozen  potato 
+products.  J.  Food  Sci.  44:807. 
+
+Baldwin,  R.E.,  Moody,  D.,  Cloninger,  M.  and  Korschgen,  B.  1972. 
+
+Stability  of  gravies  to  freezing.  J.  Am.  Diet.  Assoc.  60(3) :218. 
+
+Banasik,  O.J.  and  Dick,  J.W..  1982.  Extruded  products  from  duram 
+wheat.  Cereal  Foods  World.  27(11): 553. 
+
+Bennett,  G.,  Cone,  J.F.,  Dodds,  M.L.,  Murphy,  J.F.,  Nicholas,  J.E., 
+Perry,  J.S.,  Pierce,  R.T.  and  Shaw,  M.D.  1954.  Some  factors 
+affecting  the  quality  of  frozen  food  II.  Penn.  Aqr.  Expt.  Sta. 
+Bull.  580. 
+
+Bowers,  O.A.  and  Fryer,  B.A.  1972.  Thiamin  and  riboflavin  in  cooked 
+and  frozen,  reheated  turkey:  Gas  vs.  microwave  ovens.  J.  Am. 
+Diet.  Assoc.  60:399. 
+
+Burr,  H.K.  1971.  Frozen  french-fried  potatoes.  Effect  of  thawing  and 
+holding  before  finish  frying  and  their  nonrelation  to  starch 
+retrogradation.  J.  Food  Sci.  36:392. 
+
+Campbell,  J.F.  and  Mandigo,  R.W.  1978.  Properties  of  restructured 
+pork  patties  as  affected  by  cooking  method,  frozen  storage  and 
+reheating  method.  J.  Food  Sci.  43:1648. 
+
+Chan,  U.S.  and  Toledo,  R.T.  1976.  Dynamics  of  freezing  and  their 
+
+effects  on  the  water-holding  capacity  of  a  gelatinized  starch  qel . 
+J.  Food  Sci.  41:301. 
+
+Christensen,  J.M.  1981.  Effects  of  hot-holding  time  on  spaghetti  and 
+meat  sauce.  MS  Thesis,  Iowa  State  University,  Ames,  IA. 
+
+
+72 
+
+
+Col  1 i son,  R.  1968.  Swelling  and  gelation  of  starch  in  "Starch  and  Its 
+Derivatives,"  4th  Ed.  Radley,  J. A.  Chapman  and  Hall,  Ltd., 
+London. 
+
+Copson,  D.A.  1962.  Microwave  Heating  in  Freeze-Drying,  Electronic 
+
+Ovens  and  Other  Applications.  AVI  Publ.  Co.,  Inc.  Westport,  Conn, 
+p.  309-345. 
+
+Copson,  D.A.  1975.  Microwave  Heating.  AVI  Publ.  Co.,  Inc.  Westport, 
+Conn.  2nd  edition  p.  324-327. 
+
+Dahl,  C.A.  and  Matthews,  M.E.  1980.  Cook/chill  foodservice  system 
+with  a  microwave  oven:  Thiamin  content  in  portions  of  beef  loaf 
+after  microwave  heating.  0.  Food  Sci .  45:608. 
+
+Dahl,  C.A.,  Matthews,  M.E.  and  Lund,  D.B.  1981.  Energy  balance  for 
+heating  beef  loaf,  effect  of  microwave  heating  in  cook/chill  food- 
+service  system.  J.  Am.  Diet.  Assoc.  79(3): 
+
+Davis,  O.G.,  Hanson,  H.L.  and  Lineweaver,  H.  1952.  Characteriziation 
+of  the  effect  of  freezing  on  cooked  egg  white.  Food  Res. 
+17:393-401. 
+
+Dexter,  J.E.  and  Matsuo,  R.R.  1979.  Effect  of  starch  on  pasta  dough 
+rheology  and  spaghetti  cooking  quality.  Cereal  Chem.  56(3): 
+190. 
+
+Douglass,  J.  and  Matthews,  R.H.  1982.  Nutrient  content.  Cereal 
+Foods  World.  27(11): 558. 
+
+Engler,  P.P.  and  Bowers,  J. A.  1975.  Vitamin  Bs  in  reheated,  held, 
+and  freshly  cooked  turkey  breast.  J.  Am.  Diet.  Assoc.  67(7) :42. 
+
+Feiser,  G.E.  and  Cotterill,  O.J.  1983.  Composition  of  serum  and 
+sensory  evaluation  of  cooked-frozen-thawed  scrambled  eggs  at 
+various  salt  levels.  J.  Food  Sci.  48:794. 
+
+Fennema,  O.R.,  Powrie,  W.D.  and  Marth,  E.H.  1973.  Low-Temperature 
+Preservation  of  Foods  and  Living  Matter.  Marcel  Dekker,  Inc. 
+N.Y.  pp.  86-193,  202-207,  and  22-227. 
+
+Fennema,  O.R.  1975.  Principles  of  Food  Science,  Part  II.  Physical 
+Principles  of  Food  Preservation.  Marcel  Oekker,  Inc.,  N.Y.  pp. 
+5-7  and  173-190. 
+
+Fennema,  0.  1977.  Loss  of  vitamins  in  fresh  and  frozen  foods.  Food 
+Technol.  23(12):32. 
+
+Glew,  G.  1973.  Cook/Freeze  Catering.  Faber  and  Faber,  London,  pp. 
+32-38  and  48-82. 
+
+
+73 
+
+
+Gossett,  P.M.  and  Baker,  R.C.  1983.  Effect  of  pH  and  of  suc- 
+
+cinylation  on  the  water  retention  properties  of  coagulated,  frozen 
+and  thawed  egg  albumin.  J.  Food  Sci.  48:1391. 
+
+Guadagni,  D.G.,  Nummo,  C.C.  and  Jansen,  E.F.  1957.  The  time-tempera- 
+ture tolerance  of  frozen  foods.  II.  Retail  packages  of  frozen 
+peaches.  Food  Technol.  7(1) :33. 
+
+Hanson,  H.L.,  Winegarden,  H.M.,  Horton,  M.B.  and  Lineweaver,  H.  1950. 
+Preparation  and  storage  of  frozen  cooked  poultry  and  veqetables 
+Food  Technol.  4:430. 
+
+Harrison,  D.L.  1980.  Microwave  versus  conventional  cooking  methods: 
+Effects  on  food  quality  attributes.  J.  Food  Protection.  43:633. 
+
+Hein,  R.E.  and  Hutchings,  I.J.  1974.   Influence  of  processing  on 
+
+vitamin-mineral  content  and  biological  availability  in  processed 
+foods.  In  "Nutrients  in  Processed  Foods,  American  Medical 
+Association".  Publishing  Sciences  Group,  Inc.,  Acton,  Mass   n 
+59-93.  v' 
+
+Hellendoorn,  E.N.,  deGroot,  A. P.,  Vander  Mijlldekker,  L.P.  and 
+
+Williams,  J.J.L.  1971.  1971.  Nutritive  values  of  canned  meals. 
+J.  Am.  Diet.  Assn.  58:434. 
+
+Kahn,  L.M.  and  Livingston,  G.E.  1970.  Effect  of  heating  methods  on 
+thiamin  retention  in  fresh  or  frozen  prepared  foods.  J.  Food  Sci 
+35:349. 
+
+Katz,  F.  1982.  Pasta-changing  images.  Cereal  Foods  World. 
+27{11): 552. 
+
+Kaud,  F.  1972.  Implementing  the  chilled  food  concept.  Hospitals 
+46  (Aug.,l):97. 
+
+Klein,  B.P.,  Lee,  H.C.,  Reynolds,  P. A.  and  Wangles,  N.C.  1979. 
+
+Folacin  content  of  microwave  and  conventionally  cooked  frozen 
+vegetables.  J.  Food  Sci.  44:286. 
+
+Kraft  A. A.  Reddy,  K.V.,  Sebranek,  J.G.,  Rust,  R.E.  and  Hotchkiss, 
+D.K.  1979.  Effect  of  composition  and  method  of  freezing  on 
+microbial  flora  of  ground  beef  patties.  J.  Food  Sci.  44:305. 
+
+Kylen  A.M.,  Charles,  V.R.,  McGrath,  B.H.,  Schleter,  J.M.  and  Van 
+
+Duyne,  F.0.  1961.  Microwave  cooking  of  vegetables.  0.  Am.  Diet. 
+Assn .  jy ; 321 . 
+
+Kylen  A.M.,  McGrath,  B.H.,  Hallmark,  E.L.  and  Van  Duyne,  F.0.  1964 
+Microwave  and  conventional  cooking  of  meat.  J.  Am.  Diet  Assn 
+45:139. 
+
+
+74 
+
+
+Langlois,  B.E.,  Kemp,  J.D.  and  Fox,  O.D.  1979.  Microbiology  and 
+quality  attributes  of  aged  hams  produced  from  frozen  qreen  hams 
+J.  Food  Sci.  44:505. 
+
+Larmond,  E.  and  Voisey,  P.M.  1973.  Evaluation  of  spaghetti  quality 
+by  a  laboratory  panel.  J.  Inst.  Can.  Sci.  Technol .  Aliment. 
+6(4):209. 
+
+Lee,  C.l,  Imoto,  E.M.  and  Rha,  C.  1978.  Evaluation  of  cheese  tex- 
+ture. J.  Food  Sci.  43(5):1600. 
+
+Ley,  S.O.  1980.  Foodservice  Refrigeration.  CBI  Publ.  Co.  Inc., 
+Boston,  Mass. 
+
+Lineweaver,  H.,  Anderson,  J.D.  and  Hanson,  H.L.  1952.  Effect  of 
+antioxidant  on  rancidity  development  in  frozen  creamed  turkey. 
+Food  Technol .  4:98. 
+
+Lintas,  C.  and  D'Appolonia,  B.L.  1973.  Effect  of  spaghetti  proces- 
+sing on  semolina  carbohydrates.  Cereal  Chem.  50:563. 
+
+Little,  A.C.  1976.  Physical  measurements  as  predictors  of  visual 
+appearance.  Food  Technol.  30(10):74,  76-77,  80  and  82. 
+
+Livingston,  G.E.,  Ang,  C.Y.W.  and  Chang,  CM.  1973.  Effects  of 
+foodservice  handling.  Food  Technol .  19:28. 
+
+Lund,  D.B.  1979.  Effect  of  commercial  processing  on  nutrients.  Food 
+Technol.  33(2):28. 
+
+Mabesa,  L.B.  and  Baldwin,  R.E.  1979.  Ascorbic  acid  in  peas  cooked 
+by  microwaves.  J.  Food  Sci.  44:932. 
+
+Matsuo,  R.R.  and  Irvine,  G.N.  1974.  Relationship  between  the  GRL 
+spaghetti  tenderness  tester  and  sensory  testing  of  cooked 
+spaghetti.  J.  Inst.  Can.  Sci.  Technol.  Aliment.  7(2) : 155. 
+
+Mazur,  P.  1966.  In  "Cryobiology",  ed.  by  H.T.  Meryman,  Academic,  N.Y. 
+pp.  213-215. 
+
+Michener,  H.D.,  Thompson,  P. A.  and  Dietrich,  W.C.  1960.  Time-tempera- 
+ture tolerance  of  frozen  foods.  XXII.  Relationship  of  bacterial 
+population  of  temperature.  Food  Technol.  14(6) : 290. 
+
+Nicholanco,  S.  and  Matthews,  M.E.  1978.  Quality  of  beef  stew  in 
+a  hospital  chill  food-service  system.  J.  Am.  Diet.  Assoc 
+72(1) : 31. 
+
+Ooraikul,  B.,  Packer,  G.J.K.  and  Hadziyev,  D.  1974.  Starch  and  pec- 
+tic  substances  as  affected  by  a  freeze-thaw  potato  qranule  pro- 
+cess. J.  Food  Sci.  39:358. 
+
+
+75 
+
+
+Ooraikul,  B.  1978.  Some  characteristics  of  the  freeze-thaw  process 
+for  potato  granule  production.  Am.  Potato  J.  55:171. 
+
+Perry,  C.  and  Carroad  ,  P.  1980.   Instrument  for  texture  of  small 
+
+curd  cottage  cheese  and  comparison  of  sensory  evaluation.  J.  Food 
+Sci.  45:798. 
+
+Rogers,  J.L.  and  Binsted,  R.  1972.  Quick-Frozen  Foods.  The  Commerce 
+and  Technology  of  Processing,  Packaging  and  Distribution.  Food 
+Trade  Press,  Ltd.  London,  2nd  ed.  pp.  327-332. 
+
+Sale,  J.H.  1976.  A  review  of  microwaves  for  food  processing.  J.  Food 
+Technol.  30:319. 
+
+Schoch,  T.J.  1968.  Effects  of  freezing  and  cold  storage  on  pasted 
+starches.  In  "The  Freezing  Preservation  of  Foods",  ed.  by  D.K. 
+Tressler,  W.B.  Van  Arsdel  and  M.J.  Copley.  AVI  Publ.  Co.  Inc. 
+vol.  4  pp.  44-56. 
+
+Snyder,  O.P.  1978.  The  role  of  the  microwave  oven  in  reducing  energy 
+consumption  in  commercial  food  service.  J.  MW  Power  13:262. 
+
+Somer,  I. I.,  Farrow,  R.P.  and  Reed,  J.M.  1978.  Influences  of  storage 
+and  distribution  upon  vitamin-mineral  content  and  biological 
+availability  in  processed  foods.  In  "Nutrients  in  Processed 
+Foods,  American  Medical  Association",  Publ.  Sci.  Group,  Inc., 
+Acton,  Mass.  pp.  72-76. 
+
+Stone,  M.B.  and  Young,  C.  1985.  Effects  of  cultivars,  blanching  tech- 
+niques and  cooking  methods  on  quality  of  frozen  green  beans  as 
+measured  by  physical  and  sensory  attributes.  J.  Food  Quality 
+(in  press). 
+
+Toepfer,  E.W.,  Polansky,  M.W.,  Eheart,  J.F.,  Slover,  H.T.,  Morris, 
+E.R.,  Hepburn,  F.N.  and  Quackenbush,  F.W.  1972.  Nutrient  com- 
+position of  selected  wheats  and  wheat  products.  XI.  Summary. 
+Cereal  Chem.  49:173. 
+
+Tressler,  O.K.,  Van  Arsdel,  W.B.  and  Copley,  M.J.  ed.  1968.  The 
+
+Freezing  Preservation  of  Foods.  Vol.  4-Freezing  of  precooked  and 
+Prepared  Foods.  AVI  Publ.  Co.  Inc.,  Westport,  Conn.  4th  ed.  pp. 
+1-22,  33-56  and  213-555. 
+
+Van  Arsdel,  W.B.  1957.  The  time-temperature  tolerance  of  frozen 
+foods.  I.  Introduction:  the  problem  and  the  attack.  Food 
+Technol.  7(1):  28. 
+
+Van  Dress,  M.  1979.  An  overview  of  the  foodservice  industry. 
+National  Food  Review,  Summer. 
+
+
+76 
+
+
+Van  Zante,  H.J.  and  Johnson,  S.K.  1970.  Effect  of  electronic  cookinq 
+on  thiamin  and  riboflavin  in  buffered  solutions.  J  Am  Diet 
+Assoc.   56:133. 
+
+Voisey,  P.W.  and  Larmond,  E.  1973.  Exploratory  evaluation  of  instru- 
+mental techniques  for  evaluating  some  textural  characteristics  of 
+cooked  spaghetti.  Cereal  Sci.  Today.  18:126-133  and  142. 
+
+Walsh,  D.E.  and  Gilles,  K.A.  1971.  The  influence  of  protein  com- 
+position on  spaghetti  quality.  Cereal  Chem.  48:544. 
+
+Watts,  B.M.  and  Peng,  D.  1947.  Rancidity  development  in  raw  versus 
+precooked  frozen  pork  sausage.  J.  Home  Econ.  39:88. 
+
+
+77 
+
+
+ACKNOWLEDGEMENTS 
+
+I  would  like  to  express  my  sincere  gratitude  to  Dr.  Carole 
+Setser  for  her  guidance  and  encouragement  during  the  course  of  this 
+study.  She  always  made  herself  available  whenever  help  was  needed,  and 
+I  appreciate  all  the  time  and  energy  she  gave  me. 
+
+I  would  also  like  to  thank  Jean  Craig  for  her  invaluable 
+assistance  for  the  thiamin  analysis,  and  Dr.  Daniel  Fung  for  his  micro- 
+biological assays.  I  am  also  grateful  to  the  faculty,  staff  and  fellow 
+graduate  students  of  the  Foods  and  Nutrition  Department  for  their  sup- 
+port, and  especially  to  Dr.  Martha  Stone  and  Dr.  Faith  Roach  for  their 
+continued  assistance  and  encouragement. 
+
+The  panel  members  deserve  special  recognition  for  their  par- 
+ticipation and  assistance  in  this  study:  Dr.  Jane  Bowers,  Dr.  Carole 
+Setser,  Dr.  Martha  Stone,  Kenneth  Prusa,  Anna  Kuzniar,  Karan  Dalgas, 
+Laura  Lee  Keller  and  Faustina  Bohannon. 
+
+A  very  special  thank  you  is  extended  to  my  husband,  David,  and  our 
+son,  Travis,  for  their  patience,  understanding,  encouragement  and  help 
+during  my  graduate  studies. 
+
+
+78 
+
+
+OJ 
+
+
+l_     OJ   +-»  ,-H 
+
+CD   4-»  »  t- 
+
++->  <d  l   cd  x   o 
+
+Ol  «3  j*i    CD    U    O  4- 
+
+o.     •  <o    m    O    Q.  i_ 
+
+w   w   Qj  'n  J         Q.  0) 
+
+r  s.    i         +J   rtj  -o 
+
+-*  ■*->   3   E    en  re         c 
+
+"O   niv>  nj  c        i —   to 
+<D   cz   fd   <U  t-  . —  -f-  <— 
+
+S-     CD    QJ  +J     J_  ,—    O 
+
+QQ  (—  2!    to  CD    HJQQ 
+
+
+4-)  -O 
+«3    CD 
+
+J-   -4->   " 
+
+
+tO    to 
+
+CD    <D 
+
+-C   E 
+
+
+0)    <D    fO    <D    o 
+
+
++J  'I- 
+oo    E 
+
+
+E    1-+J    tJ    w    flji — 
+-    c    to  JX.  SZ  • 
+
+c    o  jz   o    ~~ 
+
+
+■-"  QJ    3 
+
+
+s  aire 
+
+
+-M    O    CD    C 
+
+a)  o  s-  -i- 
+
+-i<:  O  4-    CX 
+
+
+</i    E  J*    ro    u 
+
+
+J-    O    O    U 
+<-J  4-»  O    O 
+
+
+3T1      _ 
+
+fltir   qj 
+
+
+ID  CM 
+CM  ^H 
+
+
+CO  CO 
+
+
+CL  Q--t-> 
+
+.   ■*->   4->  CM    I/) 
+I  
+
+*3"   t— «  t— I   CM  .—I  fr 
+
+
+■i—    m 
+
+■o  (j  -a 
+cu  -C   c 
+
+
+*J  r—   -r- 
+
+
+4J  E    Q. 
+
+
+a.  v> 
+Q.T3 
+
+
+"4-        i-  u 
+
+
+i~  CO 
+
+
+en  to  i_  4->    oj 
+
+n3    >  Q.^-   +j 
+
+CL  to  ex  to    to 
+
+tSI  DC  to  LO   H 
+
+
+en  o  4-J  <n| 
+
+CD   QJ  -.-  ,—  d,. 
+
+a>  s-  c  »e  3   o 
+
+i  CO  O  O  l/l  1/1  | —  t 
+
+
+CO 
+
+M 
+
+■H    TD 
+
+a; 
+
+CU     QJ 
+
+i 
+
+.C     Ql 
+
+j-j 
+
+en  o. 
+
+<u 
+
+to  o 
+
+c 
+
+I 
+
+Q..C 
+
+t— 
+
+■r- 
+
+OO   t_J 
+
+79 
+
+
+APPENDIX 
+FIGURE  A-l.  Scorecard  for  evaluating  spaghetti  and  meat  sauce. 
+
+
+Please  evaluate  the  samples  in  the  following  order: 
+
+Appearance 
+
+(1)  Moistness 
+
+
+looks  dry 
+(2)  Fat  Separation 
+
+
+looks  moist,  juicy 
+
+
+no  fat 
+separation 
+
+(3)  Spaghetti 
+
+
+much  fat 
+separation 
+
+
+strands  clump 
+together 
+
+
+Mouthfeel 
+
+
+individual  strands 
+apparent 
+
+
+(1)  Dryness-gives  sensation  of  a  reduction  in  free  fluids  in  oral 
+cavity  (wetness  is  the  sensation  of  an  increase  in  free  fluids  in 
+oral  cavity).  Use  approximately  1  tsp.  of  sample. 
+
+
+very  wet 
+
+
+very  dry 
+
+
+(2)  Greasiness  -  gives  lips  a  sensation  of  thick  immiscible  (greasy) 
+coating  in  mouth  or  on  lips.  Evaluate  at  120°F. 
+
+
+not  greasy 
+
+
+very  greasy 
+
+
+80 
+
+
+Figure  A-l.  Scorecard  for  evaluating  spaghetti  and  meat  sauce 
+(continued). 
+
+
+Spaghetti  Texture 
+
+(1)  Firmness  -  force  required  to  penetrate  the  spaghetti  with  the  molar 
+teeth. 
+
+
+extremely  extremely 
+
+soft  firm 
+
+
+Flavor 
+
+(1)  Intensity  of  spice 
+
+
+weak  strong 
+
+(2)  Intensity  of  off-flavor 
+
+
+no  off-flavor  strong  off-flavor 
+
+
+Describe  off -flavors  and  indicate  which  samples  have  these  flavors: 
+
+
+0>     3     "J     -S     -ti 
+
+
+<-< 
+
+Q. 
+
+rc 
+
+ro 
+
+-h 
+
+c/i 
+
+m 
+
+0) 
+
+n 
+
+O 
+
+rsg 
+
+M 
+
+n 
+
+O 
+
+tu 
+
+ro 
+
+-h 
+
+rt- 
+
+13 
+
+ro 
+
+UD 
+
+o 
+
+&■ 
+
+i/> 
+
+O- 
+
+-h 
+
+CO 
+
+en 
+
+=3 
+
+£ 
+
+-*> 
+
+O 
+
+Q- 
+
+T 
+
+-h 
+
+n 
+
+0) 
+
+Q- 
+
+"5 
+
+<< 
+
+IS 
+
+CU 
+
+a> 
+
+J 
+
+n 
+
+M 
+
+^ 
+
+a> 
+
+GJ 
+
+rt> 
+
+M 
+
+£ 
+
+fD 
+
+i 
+
+W 
+
+tn 
+
+e* 
+
+f-t- 
+
+^ 
+
+3 
+
+3- 
+
+O 
+
+LQ 
+
+uu 
+
+& 
+
+cu 
+
+-s 
+
+1 
+
+* 
+
+CU 
+
+PJ 
+
+"O 
+
+ro 
+
+UD 
+
+n 
+
+ftl 
+
+o 
+
+re 
+
+O- 
+
+1 
+
+Q-*< 
+
+n> 
+
+o 
+
+o 
+
+</> 
+
+3- 
+
+CL 
+
+a> 
+
+cu 
+
+to 
+
+in 
+
+£ 
+
+13 
+
+Q. 
+
+tu 
+
+o 
+
+3 
+
+C 
+
+3 
+
+CO 
+
+•1 
+
+O) 
+
+_i. 
+
+Cl 
+
+-h 
+
+*  -i  rt>  rt> 
+
+)  to  re  a> 
+rt>  3  -s 
+
+
+in  en  t/t  o 
+
+
+INCREASING   SEPARATION 
+
+
+82 
+
+
+fl> 
+
+> 
+
+I 
+
+CO 
+
+o_  — ■■  — h  ~n  m 
+a»   3   -j   -j  -h 
+
+
+<< 
+
+Q.  fD 
+
+fD    -»1 
+
+1/1 
+
+■*  fD 
+
+fD    fD 
+
+O     M 
+
+N    O 
+
+o 
+
+a>  -*« 
+
+fD    ft 
+
+(BID    rl-O 
+
+
+oj  en  3    £    -h 
+
+
+-h 
+
+n 
+
+fD 
+
+Q. 
+
+-1 
+
+r+^< 
+
+fD 
+
+Cu 
+
+fD 
+
+3" 
+
+o 
+
+fNJ 
+
+^< 
+
+fD 
+
+CU 
+
+fD 
+
+N 
+
+£ 
+
+fD 
+
+1 
+
+l/l 
+
+w 
+
+r-f 
+
+H- 
+
+15 
+
+3 
+
+3" 
+
+O 
+
+UD 
+
+UD 
+
+Oi 
+
+Cu 
+
+T 
+
+•1 
+
+£ 
+
+cu 
+
+PJ 
+
+"O 
+
+fD 
+
+UD 
+
+3 
+
+(D 
+
+O 
+
+fD 
+
+CL 
+
+1 
+
+o-<< 
+
+fD 
+
+r> 
+
+r+  O 
+
+l/l 
+
+3" 
+
+CL 
+
+fD 
+
+Cu 
+
+U~> 
+
+in 
+
+i/> 
+
+£ 
+
+3 
+
+Q. 
+
+cu 
+
+O 
+
+3 
+
+e 
+
+r+ 
+
+3 
+
+to 
+
+-* 
+
+fD 
+
+CL 
+
+TD 
+
+3 
+
+3 
+
+fD 
+
+UD 
+
+-h 
+
+(/) 
+
+1 
+
+O 
+
+•* 
+
+Cu 
+
+1 
+
+-5 
+
+CO 
+
+r+ 
+
+Cu 
+
+o 
+
+3 
+
+I- 
+
+tn 
+
+* 
+
+fD 
+
+Cu 
+
+r+    I    "O    O 
+
+
+84 
+
+
+I 
+
+
+r 
+
+
+I 
+
+
+I 
+
+
+I 
+
+
+m 
+m 
+N 
+m 
+
+
+Si 
+
+z 
+
+oQ 
+r< 
+
+mo 
+r 
+m 
+
+
+CL 
+
+O. 
+
+(T> 
+
+-h 
+
+fD 
+
+rD 
+
+rt 
+
+r* 
+
+IS) 
+
+o 
+
+3" 
+
+zr 
+
+ro 
+
+Oj 
+
+OJ 
+
+I 
+
+•a 
+
+£ 
+
+o 
+
+3" 
+
+-h 
+
+Z5 
+
+3 
+
+O) 
+
+mi 
+
+CO 
+
+£ 
+
+-i 
+
+■a 
+
+■o 
+
+O 
+
+ft) 
+
+a> 
+
+<T>  << 
+
+fD 
+
+-i 
+
+-i 
+
+O 
+
+ISI 
+
+fD 
+
+o 
+
+o 
+
+IB 
+
+1 
+
+CL 
+
+CL 
+
+i/j 
+
+<-*• 
+
+(/» 
+
+i/i 
+
+3* 
+
+Cu 
+
+CM 
+
+a. 
+
+Q. 
+
+-s 
+
+* 
+
+e 
+
+c= 
+
+rt 
+
+-5 
+
+1 
+
+o 
+
+Q-<< 
+
+=1 
+
+=3 
+
+a> 
+
+n 
+
+in 
+
+un 
+
+</> 
+
+rD 
+
+rt 
+
+a>  to 
+
+t/i 
+
+=T 
+
+3 
+
+(9 
+
+CO  c 
+
+o 
+
+kO 
+
+r* 
+
+3 
+
+-ti 
+
+a> 
+
+CL 
+
+CL 
+
+1 
+
+a> 
+
+3 
+
+VI  >< 
+
+-h  (/) 
+
+rt 
+
+O 
+
+r+ 
+
+v> 
+
+"1 
+
+1 
+
+en 
+
+r+ 
+
+C 
+
+o 
+
+t—  3 
+
+Q. 
+
+T 
+
+fD 
+
+PI 
+
+0> 
+
+3 
+
+*<  to 
+
+CO 
+
+r-i- 
+
+I/) 
+
+a> 
+
+&J 
+
+M  . 
+
+O 
+
+— 1 
+
+i—. 
+
+fD 
+
+to 
+
+< 
+
+P* 
+
+O 
+
+fD 
+
+=5 
+
+13 
+
+CL 
+
+CL 
+
+a> 
+
+&> 
+
+*« 
+
+*< 
+
+o 
+
+n 
+
+l/l 
+
+cr 
+
+co 
+
+r+-0 
+
+rt 
+
+a> 
+
+Q> 
+
+n 
+
+o 
+
+i/i 
+
+n 
+
+o 
+
+1 
+
+ro 
+
+Cu 
+
+en  Q.  O 
+
+to 
+
+I 
+
+T 
+
+fD 
+
+-ti 
+
+-h 
+
+-J 
+
+-i 
+
+< 
+
+fD 
+
+fD 
+
+Cv 
+
+fD 
+
+fD 
+
+N 
+
+N 
+
+C 
+
+— " 
+
+_j. 
+
+fD 
+
+86 
+
+
+I 
+
+
+I 
+
+
+* 
+
+
+I 
+
+
+H 
+
+ci 
+
+> 
+
+zo 
+
+o< 
+
+r  O 
+
+mr 
+*m 
+
+CO 
+
+
+I 
+
+
+CO 
+
+5 
+
+z 
+
+* 
+
+
+88 
+
+
+I 
+
+
+O 
+
+o 
+
+z 
+< 
+
+m 
+
+z 
+
+H 
+
+o 
+z 
+> 
+r 
+
+o 
+< 
+
+m 
+
+z 
+
+
+-»-»-»NNNNMt»l         ,  n 
+
+-t^OlOOOM-^OlOOO         U) 
+
+
+I 
+
+
+> 
+
+"D 
+
+> 
+
+z 
+o 
+m 
+
+n 
+
+H 
+
+o 
+'7a 
+
+
+o 
+
+7) 
+o 
+
+m 
+
+o 
+< 
+
+m 
+
+z 
+
+
+t 
+01 
+
+
+Q-  CXfO 
+
+H| 
+
+fD 
+
+n> 
+
+p» 
+
+r+ 
+
+NJ 
+
+o 
+
+ar 
+
+J  fD 
+
+c+ 
+
+Of 
+
+PJ 
+
+1 
+
+£ 
+
+£ 
+
+f*  o 
+
+3" 
+
+-h 
+
+13 
+
+=3 
+
+OJ 
+
+UD 
+
+to 
+
+£ 
+
+Hi 
+
+1 
+
+■o 
+
+-o 
+
+n 
+
+rD 
+
+rt> 
+
+n>  << 
+
+0) 
+
+-* 
+
+-% 
+
+o 
+
+Nl 
+
+a> 
+
+o 
+
+o 
+
+<D 
+
+CL 
+
+Cl  (/) 
+
+rt 
+
+l/l 
+
+</> 
+
+3" 
+
+(M 
+
+QJ 
+
+a.  o. 
+
+s: 
+
+c 
+
+e 
+
+a> 
+
+"5 
+
+-i 
+
+n 
+
+D-^ 
+
+=3 
+
+3 
+
+(D 
+
+n 
+
+<jD 
+
+ua 
+
+l/i 
+
+id 
+
+r+ 
+
+QJ 
+
+10 
+
+ui 
+
+ar 
+
+3 
+
+o 
+
+w  a> 
+
+o 
+
+■^  r+ 
+
+3 
+
+■* 
+
+rD 
+
+o.  a. 
+
+1 
+
+at 
+
+o 
+
+vi 
+
+<< 
+
+-h 
+
+«<  to 
+
+OJ 
+
+« 
+
+(/> 
+
+ro 
+
+o  <n 
+
+o 
+
+-s 
+
+-s 
+
+-n 
+
+ro 
+
+en  tn 
+
+0) 
+
+Q> 
+
+I 
+
+IS) 
+
+rD 
+
+CO 
+
+< 
+
+3 
+
+o 
+
+rr> 
+
+rD 
+
+Z2 
+
+3 
+
+i/i 
+
+a. 
+
+Q- 
+
+u-i 
+
+Di 
+
+<< 
+
+<< 
+
+O 
+
+OJ 
+
+PJ 
+
+m 
+
+=i 
+
+(/) 
+
+<-+-a 
+
+CL 
+
+o   i/»  o  -h 
+
+-S  fD  -»• 
+
+to    i  3 
+
+•     -l  -s  n> 
+
+f0  fD  i/> 
+
+fD  rD  w 
+
+M  M  • 
+
+3  13 
+
+
+90 
+
+
+O 
+7) 
+-< 
+
+z 
+m 
+
+U) 
+
+
+ni 
+
+o 
+•< 
+
+n 
+
+r 
+m 
+
+
+2] 
+
+z 
+m 
+
+CO 
+
+
+c*: 
+
+Q> 
+
+Q.  O 
+
+*n 
+
+LT> 
+
+a 
+
+3 
+
+c 
+
+"1 
+
+T 
+
+co 
+
+Q. 
+
+1 
+
+ro 
+
+3 
+
+a. 
+
+LT1 
+
+fD 
+
+c/i 
+
+OJ 
+
+r+ 
+
+13 
+
+rsi 
+
+o 
+
+*< 
+
+3"  (£3 
+
+a 
+
+fD 
+
+~S 
+
+Of 
+
+< 
+
+1 
+
+*< 
+
+£ 
+
+CU 
+
+ft) 
+
+r* 
+
+c* 
+
+3 
+
+31 
+
+< 
+
+o 
+
+13 
+
+W 
+
+a> 
+
+ft) 
+
+-1 
+
+in 
+
+^l< 
+
+£ 
+
+-i 
+
+tw 
+
+W 
+
+td 
+
+-o 
+
+a. 
+
+o 
+
+c 
+
+a> 
+
+fl) 
+
+0) 
+
+"O 
+
+^< 
+
+l/l 
+
+~5 
+
+<< 
+
+Di 
+
+o 
+
+o 
+
+O 
+
+iyi 
+
+fD 
+
+CD 
+
+Z3 
+
+Q. 
+
+a. 
+
+i/i 
+
+V) 
+
+Lrt 
+
+o 
+
+r+ 
+
+■J 
+
+-+i 
+
+OJ 
+
+T 
+
+CL 
+
+01 
+
+1 
+
+1 
+
+C 
+
+c: 
+
+^D 
+
+a> 
+
+ft) 
+
+3 
+
+-s 
+
+n> 
+
+fD 
+
+fD 
+
+M 
+
+Q. 
+
+3 
+
+=3 
+
+fD 
+
+f+ 
+
+ia 
+
+(_n 
+
+13 
+
+LTi 
+
+Q) 
+
+03 
+
+r+ 
+
+UD 
+
+J 
+
+Cu 
+
+13 
+
+-h 
+
+ft) 
+
+13 
+
+a> 
+
+3 
+
+O. 
+
+"5 
+
+-h 
+
+Cl 
+
+ft) 
+
+3 
+
+r+ 
+
+CL 
+
+3 
+
+1 
+
+O 
+
+3" 
+
+fD 
+
+(/> 
+
+a> 
+
+a> 
+
+-h 
+
+(/) 
+
+r+ 
+
+r+ 
+
+£ 
+
+O 
+
+t/» 
+
+<<     -h  fp    Ca)  ft) 
+
+
+92 
+
+
+INCREASING   FIRMNESS 
+
+
+a>   3   ~i   -i  -h 
+
+*<   Q-  rc>  n>  -h 
+
+t/i    -■•  fD    rt»  fD 
+
+n  n   n  n 
+
+o  a»   -j-  rD  rt 
+
+
+O  CL  -I 
+
+-h         O    fD 
+
+
+Q.  "1 
+
+rt 
+
+"< 
+
+(D 
+
+0> 
+
+tn 
+
+3" 
+
+o 
+
+N 
+
+<< 
+
+ro 
+
+Ot 
+
+fD 
+
+INI 
+
+£ 
+
+fD 
+
+1 
+
+(/I 
+
+1/1 
+
+rt- 
+
+rt 
+
+3 
+
+3 
+
+3" 
+
+o 
+
+UD 
+
+in 
+
+QJ 
+
+&J 
+
+T 
+
+1 
+
+s; 
+
+tu 
+
+CU 
+
+"O 
+
+fD 
+
+to 
+
+3 
+
+(b 
+
+n 
+
+ro 
+
+CL 
+
+-j 
+
+CL<< 
+
+n> 
+
+o 
+
+rt 
+
+o 
+
+I/) 
+
+3- 
+
+CL 
+
+fD 
+
+» 
+
+i/»  io 
+
+(/» 
+
+s 
+
+3 
+
+CL  Q> 
+
+o 
+
+3 
+
+c 
+
+Pt 
+
+3 
+
+UH 
+
+1 
+
+fD 
+
+CL  </> 
+
+■D 
+
+3 
+
+T3 
+
+CD  tQ 
+
+-h 
+
+1 
+
+O 
+
+O 
+
+o> 
+
+"5 
+
+n> 
+
+O 
+
+CL  CO 
+
+H- • 
+
+t/1 
+
+U3 
+
+" 
+
+3 
+
+CL 
+
+CL  CO 
+
+C 
+
+01 
+
+3 
+
+T 
+
+Q 
+
+o 
+
+</> 
+
+T 
+
+3 
+
+to 
+
+UD 
+
+rt-  cn^ 
+
+O 
+
+-5 
+
+fD 
+
+OJ 
+
+=r 
+
+Q) 
+
+< 
+
+3 
+
+fD 
+
+It 
+
+fD 
+
+3 
+
+CL 
+
+-h 
+
+o 
+
+*< 
+
+-*l 
+
+-j 
+
+-h 
+
+i/i 
+
+LH 
+
+1/1 
+
+1 
+
+"O 
+
+-+> 
+
+OJ 
+
+<_n 
+
+n 
+
+< 
+
+CL  o 
+
+94 
+
+INCREASING  INTENSITY 
+
+-nO-'N:OJ4^CnO)\IOO(DO-'MC»J-^ 
+
+Jl 
+
+sQ 
+
+1        I,       I        I        I        1        1    pi        1 
+
+1      U) 
+
+m 
+
+n          m 
+D           CO 
+
+I 
+
+CO 
+
+\                                / 
+
+z 
+
+"0 
+
+o 
+
+\                           / 
+
+(/) 
+
+m 
+
+\                      / 
+
+o 
+
+CO 
+
+o 
+
+\                 / 
+
+73 
+
+O        -n 
+
+30            I 
+
+\            / 
+
+-< 
+
+CO           ^ 
+
+T    T 
+
+»Jh 
+
+CO 
+
+o 
+
+71 
+
+o 
+
+m 
+m 
+
+73 
+
+N 
+
+m 
+
+I 
+
+m 
+
++  H      T 
+
+(/) 
+
+5      H- 
+
+-It 
+
+i 
+
+O^     OJ 
+
+\ 
+
+< 
+
+?9 
+
+. 
+
+U) 
+
+-L<~> 
+
+\ 
+
+^r 
+
+\ 
+
+£co 
+o 
+
+\ 
+
+7a 
+
+\ 
+
+m 
+
+i 
+
+-T  5 
+
+5COR 
+
+i 
+
+' 
+
+m 
+
+N 
+
+m 
+
+CO 
+
+/ 
+
+m 
+
+H 
+I 
+> 
+
+-n 
+
+^^ 
+
+1 
+
+H  -1 
+
+| 
+
+3 . 
+
+If) 
+
+Cn 
+
+oj  cu   cio  ~n  m 
+
+O  3  c:    1  -i   -h 
+Q.  -J         ro   -h 
+
+Q.  -*•  Ui  fD    fD 
+
+<<    3-tQ    fD    fD    rt 
+
+
+M 
+
+
+<      I 
+
+
+W    S    !!•    (D 
+
+e+  -*>        3  3-  -t) 
+
+O    3    OJ  — *  O* 
+
+
+QJ 
+
+
+tt 
+
+
+lO  "O    Q-  i/>    O    3" 
+fD    fD    P>  "O  <<    fD 
+•      "J  <<    D>    O    O) 
+-..  o    — i  r+ 
+
+OM  Alt** 
+Q.  <-+  Q.  i/l  3 
+(/)    O  (£i 
+
+-s  -h  at 
+
+Q-  (H    -1    -S    O 
+C  CO     fD    fD    3 
+-J    (D    fD 
+-..».   m   q.  3 
+
+3  -'■(BO 
+
+(D    Ul  3    1/1    -•■ 
+
+r+  i-«  to  c+ 
+3"  EH    3    3 
+
+fD    -•■  3    a>    fD 
+3    Q.  cf  t/i 
+- h  Q.  fD    I/) 
+
+-»•-».  r+  Q.  • 
+"J    O     3" 
+
+w  fl   a   -h 
+r+  n-  s:  o 
+
+fD    -<-  "J 
+
+U1W     3 
+
+l£3     I— I 
+Q.  Ul  * 
+
+ft*      I    T3 
+^C    -h  fD    U) 
+</>-*-* 
+
+fD  ->• 
+O  fD  O 
+-*>  N    Q- 
+
+-*•  i/> 
+CU    3 
+
+to 
+
+
+96 
+
+
+INCREASING  MOISTNESS 
+
+
+I 
+
+
+O 
+
+o 
+z 
+< 
+
+m 
+
+z 
+
+H 
+
+o 
+z 
+> 
+
+r 
+
+o 
+< 
+
+m 
+
+z 
+
+
+Mt/J-I^UlCn-NlOOtOO-'MU-^Ul 
+
+J I I I I l_ 
+
+
+■n 
+
+;o 
+m 
+m 
+
+N 
+
+m 
+
+
+U) 
+
+
+o 
+o 
+
+m 
+
+o 
+< 
+
+m 
+
+
+o 
+
+10 
+
+3  CO 
+o 
+
+Is 
+
+o  O 
+
+
+CO 
+H 
+Z 
+
+m 
+
+10 
+10 
+
+
+t 
+*-» 
+
+o 
+
+
+(D    ID    rt 
+
+
+W    £    Q»    (D    r+O 
+
+
+-s  lO   UD^   s:   -h 
+
+
+UD  T3 
+
+Gi- 
+
+i/i 
+
+o 
+
+ft) 
+
+fD    rt> 
+
+ft  T3  *< 
+
+fD 
+
+'    2  ** 
+
+ft 
+
+o 
+
+rsi 
+
+o 
+
+fD 
+
+o 
+
+IA 
+
+n> 
+
+fD 
+
+1 
+
+CL 
+
+r+- 
+
+CL  t/1 
+
+l/l 
+
+O 
+
+3" 
+
+~5 
+
+-h  ft 
+
+ft 
+
+CL 
+
+ft 
+
+-j 
+
+T 
+
+* 
+
+B 
+
+UD 
+
+(D 
+
+fD 
+
+-* 
+
+ro 
+
+fD 
+
+n 
+
+M 
+
+Cl<< 
+
+3 
+
+ro 
+
+n 
+
+tfl 
+
+(11 
+
+3 
+
+i/> 
+
+i 
+
+UD 
+
+IS 
+
+UD 
+
+l/l 
+
+3" 
+
+o> 
+
+3 
+
+fD 
+
+-*■ 
+
+3 
+
+ft 
+
+o 
+
+_.._..  rt  Cl  r+ 
+I    O     3"  3" 
+
+l/i    ft    ft     -«i  -*' 
+rr  c*  £    O    ft 
+
+
+<<    -hfD    WlD 
+
+
+98 
+
+THIAMIN   (mg/100g) 
+
+H 
+
+■n 
+
+m  - 
+
+0.8  -j 
+
+0.7  - 
+0.6  - 
+0.5  - 
+0.4  - 
+0.3  - 
+0.2  - 
+0.1    - 
+n  - 
+
+3        ± 
+D        > 
+
+X 
+
+J 
+
+I 
+
+z 
+
+/ 
+
+r 
+O 
+
+/ 
+
+CO 
+
+i 
+
+10 
+
+-n 
+
+3 
+
+m 
+
+N 
+
+m 
+
+H 
+
+3 
+
+-    THAW   CYCLES 
+THIAMIN 
+
+7] 
+
+1 
+
+m 
+
+m 
+
+N 
+
+m 
+i 
+
+Ul  - 
+
+1 
+
+i 
+
+H 
+I 
+> 
+
+m 
+
+\ 
+
+O 
+
+■< 
+
+o 
+
+rn 
+
+99 
+
+
+APPENDIX 
+
+Table  A-2.  Least  square  means  comparing  reheating  by  conventional  and 
+microwave  ovens  and  freeze  thaw  treatments  for  sensory 
+attributes  of  spaghetti  and  meat  sauce 
+
+
+Fresh 
+
+Freeze-Thaw 
+
+Cycles5 
+
+Characteristic 
+
+1 
+
+3 
+
+5 
+
+51 
+
+Fat  Separation13 
+Conventional  oven 
+Microwave  oven 
+
+7.74 
+8.01 
+
+9.70 
+7.74 
+
+7.70 
+7.61 
+
+7.80 
+7.19 
+
+7.62 
+6.87 
+
+Strandsc 
+
+Conventional  oven 
+Microwave  oven 
+
+9.15 
+9.22 
+
+4.45 
+5.49 
+
+5.22 
+5.96 
+
+4.60 
+5.01 
+
+4.97 
+4.60 
+
+Mouthfeeld 
+Conventional  oven 
+Microwave  oven 
+
+4.64 
+4.83 
+
+5.80 
+7.10 
+
+7.40 
+7.72 
+
+6.70 
+6.53 
+
+6.50 
+7.46 
+
+Greasinesse 
+Conventional  oven 
+Microwave  oven 
+
+6.86 
+6.47 
+
+7.64 
+6.93 
+
+7.20 
+7.14 
+
+7.94 
+6.59 
+
+7.41 
+6.92 
+
+Texture-Firmness^ 
+Conventional  oven 
+Microwave  oven 
+
+8.56 
+8.66 
+
+4.04 
+4.83 
+
+3.01 
+4.34 
+
+1.85 
+3.21 
+
+2.40 
+3.50 
+
+Spiciness9 
+Conventional  oven 
+Microwave  oven 
+
+6.82 
+8.49 
+
+4.47 
+4.40 
+
+3.92 
+
+4.31 
+
+4.10 
+4.15 
+
+4.22 
+
+4.23 
+
+Off -flavor" 
+Conventional  oven 
+Microwave  oven 
+
+2.11 
+2.67 
+
+3.33 
+3.33 
+
+4.19 
+3.35 
+
+6.45 
+3.74 
+
+4.14 
+3.94 
+
+aEvenly  spaced  during  39  day  period  except  51  which  were  all 
+immediately  after  initial  freezing. 
+
+
+Scale: 
+Scale: 
+Scale: 
+Scale: 
+Scale: 
+9Scale: 
+
+"c  -, 
+Scale: 
+
+
+0,  no  fat  separation;  15,  much  fat  separation. 
+
+0,  strands  clump  together;  15,  individual  strands  apparent. 
+
+0,  very  moist;  15,  very  dry. 
+
+0,  not  greasy;  15  very  greasy. 
+
+0,  extremely  soft;  15,  extremely  firm. 
+
+0,  weak  spice  flavor;  15,  strong  spice  flavor. 
+
+0,  no  off -flavor;  15,  strong  off-flavor. 
+
+
+100 
+
+
+APPENDIX 
+
+
+Table  A-3.  Least  square  means  comparing  reheating  by  conventional  and 
+microwave  ovens  and  freeze-thaw  treatments  on  color  of 
+spaghetti  and  meat  sauce. 
+
+
+Fresh 
+
+Freeze- 
+
+-Thaw  Cycles3 
+
+Characteristic 
+
+1 
+
+3 
+
+5 
+
+51 
+
+L 
+Conventional  oven 
+Microwave  oven 
+
+47.80 
+48.03 
+
+49.40 
+48.13 
+
+49.07 
+49.83 
+
+48.83 
+48.63 
+
+49.77 
+48.70 
+
+a 
+
+Conventional  oven 
+Microwave  oven 
+
+11.40 
+10.87 
+
+10.53 
+10.23 
+
+10.50 
+10.30 
+
+9.97 
+
+10.40 
+
+10.43 
+7.83 
+
+b 
+
+Conventional  oven 
+Microwave  oven 
+
+17.03 
+17.40 
+
+17.17 
+16.43 
+
+17.07 
+16.83 
+
+16.90 
+16.80 
+
+17.23 
+16.13 
+
+Saturation  Index 
+Conventional  oven 
+Microwave  oven 
+
+20.50 
+20.52 
+
+20.14 
+19.36 
+
+20.04 
+19.74 
+
+19.62 
+19.76 
+
+20.15 
+18.13 
+
+Hue  Angle 
+Conventional  oven 
+Microwave  oven 
+
+0.98 
+1.01 
+
+1.02 
+1.01 
+
+1.02 
+1.02 
+
+1.04 
+1.02 
+
+1.03 
+
+1.13 
+
+L* 
+
+Conventional  oven 
+Microwave  oven 
+
+54.90 
+55.13 
+
+56.30 
+55.23 
+
+56.20 
+56.90 
+
+55.90 
+55.77 
+
+56.67 
+55.80 
+
+a* 
+
+Conventional  oven 
+Microwave  oven 
+
+13.33 
+12.70 
+
+12.20 
+11.93 
+
+12.23 
+
+11.90 
+
+11.63 
+12.27 
+
+12.10 
+11.43 
+
+b* 
+
+Conventional  oven 
+Microwave  oven 
+
+26.67 
+26.93 
+
+25.47 
+24.63 
+
+25.53 
+24.80 
+
+25.23 
+25.07 
+
+25.77 
+
+23.80 
+
+♦Saturation  Index 
+Conventional  oven 
+Microwave  oven 
+
+29.84 
+29.78 
+
+28.24 
+27.37 
+
+28.31 
+27.51 
+
+27.79 
+27.91 
+
+28.47 
+26.41 
+
+*Hue  Angle 
+Conventional  oven 
+Microwave  oven 
+
+1.10 
+1.12 
+
+1.12 
+1.12 
+
+1.12 
+1.12 
+
+1.14 
+1.12 
+
+1.13 
+1.12 
+
+^Evenly  spaced  during  39  day  period  except  51  samples  which  were  free/P 
+thaw  cycled  immediately  after  initial  freezing. 
+
+
+101 
+
+
+APPENDIX 
+TABLE  A-4.  Bacterial  counts  in  spaghetti. 
+
+
+Sample  Viable  cell  counts/g 
+
+1  18 
+
+2  1170 
+
+3  21 
+
+4  15 
+439  A  15 
+
+439  B  Non  detectable 
+
+100  A  21 
+
+100  B  93 
+
+1224  A  Non  detectable 
+
+1224  B  9 
+
+1230  A  12 
+
+1230  B  12 
+
+17  A  15 
+
+17  B  9 
+
+115  A  12 
+
+121  A  15 
+
+121  B  18 
+
+
+EFFECTS  OF  FREEZING  AND  THAWING 
+
+ON  SENSORY  QUALITY  AND  THIAMIN  CONTENT 
+
+OF  SPAGHETTI  AND  MEAT  SAUCE 
+
+AFTER  REHEATING  IN  CONVENTIONAL  OR  MICROWAVE  OVEN 
+
+
+by 
+
+CINDY  LOU  BLOMQUIST 
+B.S.,  Kansas  State  University,  Manhattan,  1977 
+
+
+AN  ABSTRACT  OF  A  MASTER'S  THESIS 
+
+submitted  in  partial  fulfillment  of  the 
+requirements  for  the  degree 
+
+MASTER  OF  SCIENCE 
+
+Hepartment  of  Foods  and  Nutrition 
+
+KANSAS  STATE  UNIVERSITY 
+Manhattan,  Kansas 
+
+1935 
+
+
+ABSTRACT 
+
+Frown  spaghetti  with  meat  sauce  was  subjected  to  one,  three, 
+or  five  evenly  spaced  or  five  immediate  freeze-thaw  cycles  during  a  39 
+day  frozen  storage  period  and  compared  with  the  fresh  product. 
+Spaghetti  samples  were  reheated  to  74°C  in  a  conventional  or  microwave 
+oven  after  thawing  at  room  temperature  for  eight  hours.  Physical 
+measurements  for  color  and  firmness  were  obtained  using  the  HunterLab 
+spectrophotometer  and  Instron  Universal  Testing  Machine  (IUTM),  respec- 
+tively. The  chemical  measurement  for  thiamin  also  was  determined.  An 
+eight  member  trained  panel  evaluated  the  spaghetti  and  meat  sauce  for 
+appearance,  mouthfeel,  texture  and  flavor  using  a  15  cm  descriptive 
+rating  scale. 
+
+Analysis  of  variance  (ANOV)  of  sensory  data  indicated  that 
+treatment,  significantly  influenced  strand  separation.  Significant  dif- 
+ferences (p  <  0.05)  resulted  between  fresh  and  all  samples  which  had 
+been  frozen  and  thawed.  No  significant  differences  were  found  in  fat 
+separation  or  greasiness  among  the  various  treatments.  A  significant 
+difference  (p  <  0.05)  in  moistness  was  found  between  fresh  and  frozen 
+samples.  The  frozen  spaghetti  and  meat  sauce  was  consistently  less 
+moist  than  fresh  samples.  The  fresh  product  was  significantly  (p  < 
+0.001)  more  moist  than  the  frozen  product,  and  the  firmness  decreased 
+as  the  number  of  freeze-thaw  cycles  increased.  Stronger  spice  inten- 
+sity (p  <  0.05)  was  found  in  the  fresh  pasta  as  opposed  to  the  frozen 
+samples.  These  differences  were  significant  (p  <  0.05).  However, 
+
+
+little  difference  was  found  among  various  frozen  treatments.  A  pro- 
+nounced stale  and  "cardboard"  off -flavor  was  detected  by  panel  members 
+after  5  evenly  spaced  freeze-thaw  cycles.  These  samples  were  signifi- 
+cantly different  (p  <  0.05)  from  all  treatments  except  those  subjected 
+to  5  immediate  freeze-thaw  cycles.  Moistness  was  the  only  sensory 
+attribute  significantly  (p  <  0.05)  affected  by  the  reheating  method. 
+The  spaghetti  and  meat  sauce  was  more  moist  when  reheated  in  a 
+microwave  oven  rather  than  a  conventional  oven  after  three  or  five 
+freeze-thaw  periods. 
+
+ANOV  of  physical  measurements  for  texture  indicated  treatment 
+had  no  significant  effect  on  product  firmness,  however,  fresh  samples 
+were  firmer  than  frozen  ones.  Color  measurement  data  indicated 
+treatment  had  no  significant  effect  on  hue,  however,  the  saturation 
+indices  were  higher  for  fresh  samples  than  frozen  samples,  indicating 
+a  slightly  duller  product  after  freezing.  The  reheating  method  did 
+have  a  significant  effect  on  the  b  (p  <  0.05),  and  b*  (p  <  0.01)  values 
+which  were  higher  (yellower)  after  reheating  in  a  microwave  oven. 
+Also,  the  product  which  was  reheated  conventionally  was  duller  than  the 
+one  reheated  in  the  microwave  oven. 
+
+ANOV  indicated  freezing  treatment  and  reheating  method  did  not 
+significantly  (p  <  0.05)  decrease  the  thiamin  content  except  when  the 
+product  was  subjected  to  5-immediate  freeze-thaw  cycles.  The  greatest 
+thiamin  loss  was  found  after  conventionally  reheating  the  spaghetti  and 
+meat  sauce  subjected  to  5-immediate  freeze-thaw  cycles. 
+
+

@@ -1,0 +1,2910 @@
+Cop\i1glii  N° 
+
+COPYRIGHT  DEPOSIT. 
+
+
+FOOD  AND  NUTRITION 
+
+LABORATORY  MANUAL 
+
+DEPARTMENT  OF  HOUSEHOLD  SCIENCE 
+UNIVERSITY  OF  ILLINOIS 
+
+Revised  Edition 
+
+
+ISABEL   BEVIER,  Ph.M. 
+SUSANNAH  USHER,  S.B. 
+
+
+WHITCOMB  &  BARROWS 
+BOSTON.  1908 
+
+
+■^Vt-fi 
+
+
+l,ieftA8Y  of  C^NiaRESS 
+
+
+:?>' 
+
+
+Copyright  1908 
+
+BY 
+
+ISABEL   BEVIER  and   SUSANNAH   USHER 
+
+
+Composition  and  Electrotyping  by 
+
+THOMAS  TODD 
+
+14  Beacon  Street,  Boston,  Mass. 
+
+
+CONTENTS 
+
+Pack 
+
+Introduction 7 
+
+Protein  Substances 9 
+
+Fats 27 
+
+Carbohydrates     ^;^ 
+
+Milk 45 
+
+Meat      49 
+
+Wheat,  Flour,  Bread 57 
+
+Digestion  of  Starch 60 
+
+Digestion  of  Proteins 62 
+
+Digestion  of  Fat 66 
+
+Appendix      68 
+
+Bibliography     73 
+
+
+PREFACE   TO    SECOND    EDITION 
+
+In  the  second  edition  of  this  manual  the  general  plan 
+and  purpose  of  the  first  edition  have  been  retained.  The 
+results  of  later  investigations  have  been  utilized  in  regard 
+to  classification  and  methods  of  experimentation. 
+
+The  authors  wish  to  acknowledge  the  valuable  assistance 
+rendered  by  Miss  Helen  Isham,  Ph.D.,  in  the  revision  of 
+the  experimental  work;  also  their  indebtedness  to  Dr.  H.  S. 
+Grindley,  Professor  of  Animal  Chemistry,  and  Mr.  A.  D. 
+Emmett,  Research  Assistant  in  Animal  Chemistry  in  the 
+University  of  Illinois,  for  valuable  suggestions  about  the 
+work  in  meat  and  its  extractives. 
+
+I.  B. 
+S.  U. 
+
+
+LABORATORY   MANUAL 
+
+INTRODUCTION 
+
+TN  the  preparation  of  this  laboratory  guide  the  inten- 
+-■-  tion  has  not  been  to  devise  new  and  original  ex- 
+periments, but  rather  to  select  from  the  large  body  of 
+experiments  now  oiifered  in  physiological  chemistry  those 
+which  in  themselves,  or  in  their  applications,  have  a  more 
+or  less  direct  bearing  upon  the  principles  governing  the 
+selection  and  preparation  of  food. 
+
+The  task  is  a  somewhat  difficult  one,  because  the 
+greater  number  of  experiments  given  in  text-books 
+of  physiological  chemistry  are  designed  for  students  of 
+medicine,  and  therefore  put  the  emphasis  upon  the 
+medical  phase  of  the  subject. 
+
+This  manual  is  intended  primarily  for  the  use  of 
+students  in  the  Department  of  Household  Science  of  the 
+University  of  Illinois.  The  subject-matter  is,  therefore, 
+arranged  with  reference  to  the  correlation  of  the  work 
+of  this  department  with  that  of  the  pure  science  work 
+given  in  the  University.  For  these  students  the  guide 
+is  expected  to  serve  two  purposes:  first,  to  aid  the  stu- 
+dent to  recall  and  to  arrange  in  an  orderly  way  the 
+knowledge  gained  from  other  sources;  second,  to  apply 
+this  knowledge,  in  so  far  as  possible,  to  various  kinds 
+of  food  problems,  and  so  to  serve  as  an  introduction  to 
+individual  work  with  foods  which  follows. 
+
+7 
+
+
+FOOD   AND   NUTRITION 
+
+PROTEIN    SUBSTANCES 
+
+Among  food  principles  proteins  assume  first  impor- 
+tance, whether  we  consider  their  abundance,  the  variety 
+of  forms  in  which  they  occur,  their  part  as  tissue  builders, 
+or  their  decomposition  products.  Protein  is  an  essential 
+constituent  of  the  cell,  and  not  one  of  the  phenomena 
+of  life  is  performed  without  its  presence.  Different 
+varieties  of  protein  exist  in  both  animal  and  vegetable 
+organisms. 
+
+The  complexity  of  protein  substances  is  shown  by 
+the  number  of  compounds  obtained  from  them,  and 
+their  instability  by  the  ease  with  which  they  are  broken 
+up  into  other  compounds.  Neither  the  molecular  struc- 
+ture nor  the  chemical  formula  of  protein  is  known.  The 
+elements  always  found  in  protein  are  carbon,  hydrogen, 
+nitrogen,  and  oxygen.  Many  contain  sulphur,  a  few 
+phosphorus  and  iron. 
+
+The  percentage  composition  of  some  of  the  more 
+important  members  of  the  group  is  within  the  following 
+limits : 
+
+Carbon  51.3-55.0  per  cent 
+
+Hydrogen  6.^-  7.3  percent 
+
+Nitrogen  I5-5-I9-3  percent 
+
+Oxygen  20.8-23.5  percent 
+
+Sulphur  0.3-  2.2  per  cent 
+
+9 
+
+
+lO  Food  and  Nutrition 
+
+CLASSIFICATION 
+
+Owing  to  the  incompleteness  of  our  knowledge  con- 
+cerning protein  substances,  little  uniformity  exists  in 
+their  classification.  The  following  scheme  for  classifi- 
+cation has  been  recommended  by  the  joint  committees 
+of  the  American  Physiological  and  Bio-Chemical  Socie- 
+ties on  protein  nomenclature. 
+
+"Recommendations  of  the  Committee  on 
+
+Protein  Nomenclature" 
+
+Proteins 
+
+"Since  ^  chemical  basis  for  the  nomenclature  of  the 
+proteins  is  at  present  not  possible,  it  seemed  important 
+to  recommend  few  changes  in  the  names  and  definitions 
+of  generally  accepted  groups,  even  though  in  many  cases 
+these  are  not  wholly  satisfactory.  The  recommendations 
+are  as  follows: 
+
+"First.     The  word  proteid  should  be  abandoned. 
+
+"Second.  The  word  protein  should  designate  that 
+group  of  substances  which  consists,  so  far  as  at  present 
+is  known,  essentially  of  combinations  of  a-aniino-acids 
+and  their  derivatives ;  e.  g.,  a-amino-acetic  acid  or  glyco- 
+coll,  a-amino-propionic  acid  or  alanine,  phenyl-a-amino 
+propionic  acid  or  phenylalanine,  guanidine-amino-valeri- 
+anic  acid  or  arginine,  etc.,  and  are  therefore  essentially 
+polypeptides. 
+
+"Third.    That  the  following  terms  be  used  to  desig- 
+nate the  various  groups  of  proteins'': 
+I.     Simple   Proteins. — Protein    substances    which   yield 
+only    a-amino     acids    or     their     derivatives    on 
+hydrolysis. 
+
+
+Laboratory  Manual  ii 
+
+(o)  Albumins. — Soluble  in  pure  water  and  coag- 
+ulable  by  heat ;  e.  g.,  egg  albumin,  serum  albu- 
+min, lactalbumin,  vegetable  albumins. 
+
+(b)  Globulins. — Insoluble  in  pure  water,  but  soluble 
+in  neutral  solutions  of  salts  of  strong  bases  with 
+strong  acids,  e.  g.,  serum  globulin,  ovoglobulin, 
+edestin,  amandin,  and  other  vegetable  globulins. 
+
+(c)  Glutelins. — Proteins  present  in  seeds  of  cereals, 
+and  insoluble  in  all  neutral  solvents. 
+
+(d)  Alcohol  soluble  proteins. — Proteins  soluble  in 
+70  to  80  per  cent  alcohol,  insoluble  in  water, 
+absolute  alcohol,  and  other  neutral  solvents, 
+e.  g.,  zein,  gliadin,  hordein. 
+
+(e)  Albuminoids. — Proteins  possessing  a  similar 
+structure  to  those  already  mentioned,  but  char- 
+acterized by  a  pronounced  insolubility  in  all 
+neutral  solvents,  e.  g.,  elastin,  collagen,  keratin. 
+
+(/)  Histones. — Basic  proteins  which  stand  between 
+protamines  and  true  proteins,  e.  g.,  globin,  thy- 
+mus histone,  scombron,  etc. 
+{g)  Protamines.  —  The    simplest    natural    proteins, 
+possessing  strong  basic  properties  and  forming 
+stable    salts   with    strong   mineral    acids,    e.  g., 
+salmin,  sturin,  clupein,  scombrin. 
+II.     Conjugated    Proteins. — Substances    which    contain 
+the  protein  molecule  united  to  some  other  mole- 
+cule or  molecules  otherwise  than  as  a  salt, 
+(o)   Nucleoproteins.  —  Compounds  of  one  or  more 
+protein  molecules  with  nucleic  acid,  e.  g.,  cyto- 
+globulin,  nucleohistone. 
+
+
+12  Food  and  Nutrition 
+
+(b)  Glycoproteins. — Compounds  of  the  protein 
+molecule  with  a  substance  or  substances  con- 
+taining a  carbohydrate  group  other  than  a 
+nucleic  acid,  e.  g.,  mucine  and  mucoids  ( Osseo- 
+mucoid, tendomucoid,  ichthulin,  helicoprotein, 
+etc.). 
+
+{c)  Phosphoproteins. — Compounds  of  the  protein 
+molecule  with  some,  as  yet  undefined,  phos- 
+phorus— containing  substances  other  than  a 
+nucleic  acid  or  lecithin,  e.  g.,  caseinogen,  vitellin, 
+etc. 
+
+{d)  Haemoglobins. — Compounds  of  the  protein 
+molecule  with  haematin,  or  some  similar  sub- 
+stance, e.  g.,  haemoglobin,  haemocyanin. 
+
+(e)  Lecithoproteins. — Compounds    of    the    protein 
+molecule  with  lecithins,  e.  g,,   lecithans,  phos- 
+phatides. 
+III.    Derived  Proteins. 
+
+I.  Primary  Protein  Derivatives. — Derivatives  of  the 
+protein  molecule  apparently  formed  through  hy- 
+drolytic  changes  which  involve  only  slight  alter- 
+ation of  the  protein  molecule. 
+
+(a)  Proteans. — Insoluble  products  which  apparently 
+result  from  the  incipient  action  of  water,  very 
+dilute  acids,  or  enzymes,  e.  g.,  myosan,  edestan. 
+
+{b)  Metaproteins. — Products  of  the  further  action 
+of  acids  and  alkalis  whereby  the  molecule  is  so 
+far  altered  as  to  form  products  soluble  in  very 
+weak  acids  and  alkalis,  but  insoluble  in  neutral 
+fluids,  e.  g.,  acid  albuminate,  alkali  albuminate. 
+
+
+Laboratory  Manual  13 
+
+(c)  Coagulated  proteins. — Insoluble  products  which 
+
+result   from    (i)  the   action   of   heat  on   their 
+
+solutions,  or    (2)  the  action  of  alcohol  on  the 
+
+protein. 
+
+2.     Secondary  Protein  Derivatives. — Products  of  the 
+
+further  hydrolytic  cleavage  of  the  protein  molecule. 
+
+(a)  Proteoses. — Soluble  in  water,  non-coagulable 
+by  heat,  and  precipitated  by  saturating  their 
+solutions  with  ammonium,  or  zinc  sulphate, 
+e.  g.,  protoproteose,  deuteroproteose. 
+
+(b)  Peptones. — Soluble  in  water,  non-coagulable 
+by  heat,  but  not  precipitated  by  saturating  their 
+solutions  with  ammonium  sulphate,  e.  g.,  anti- 
+peptone,  amphopeptone. 
+
+(c)  Peptides. — Definitely  characterized  combina- 
+tions of  two  or  more  amino-acids,  the  carhoxyl 
+group  of  one  being  united  with  the  amino  group 
+of  the  other  with  the  elimination  of  a  molecule 
+of  water,  e.  g.,  dipeptides,  tripeptides,  tetrapep- 
+tides,  pentapeptides,  etc. 
+
+For  the  purposes  of  this  manual  the  following  scheme 
+is  deemed  sufficient : 
+I.     Proteins. 
+
+I.     Simple  Proteins. 
+
+(a)  Albumins — egg  albumin,  serum  albumin,  lacta 
+
+albumin,  and  vegetable  albumins. 
+(6)   Globulins — serum  globulin,  ovoglobulin,  edes- 
+
+tin,  and  other  vegetable  globulins. 
+(c)  Phospho-proteins    (nucleo-albumins) — caseino- 
+gen  and  vitellin. 
+
+
+14  Food  and  Nutrition 
+
+2.     Derived  Proteins. 
+
+(a)  Albuminates — acid  albuminate  and  alkali  albu- 
+minate. 
+
+(&)  Proteoses  (or  albumoses)  and  peptones — pro- 
+toproteose,  heteroproteose,  and  deuteroproteose ; 
+amphopeptone  and  antipeptone. 
+
+(c)  Coagulated  proteins — fibrin,  and  the  products 
+of  heat  coagulation,  etc. 
+
+II.  Compound  Proteins. 
+
+Include  compounds  of  simple  proteins  with  other 
+bodies ;  for  example,  with  coloring  matter,  haemo- 
+globin; with  carbohydrates,  glucoprotein ;  with 
+nuclein  or  nucleic  acid,  nucleoprotein. 
+
+III.  Albuminoids. 
+Collagen,  elastin,  gelatin. 
+
+For  fuller  information  on  the  subject  of  proteins  the 
+following  authors  may  be  consulted :  Hammarsten,  Hawk, 
+Jackson,  Long,  Mann,  Salkowski. 
+
+COMPOSITION   OF   PROTEINS 
+
+ExPT.  I.  Burn  a  small  piece  of  dry  albumin  in  a 
+test-tube.  Why  does  it  turn  black?  On  continued  heat- 
+ing, what  is  left?    Notice  the  characteristic  odor. 
+
+ExPT.  2.  Mix  a  small  amount  of  dry  powdered  tgg 
+albumin  with  an  excess  of  soda  lime.  Put  the  mixture 
+in  a  dry  test-tube  and  heat  gently.  Test  the  vapors  that 
+escape  with  moist  litmus  paper.     What  does  this  show? 
+
+ExPT.  3.  Place  about  5  cc.  of  dilute  NaOH  in  a  test- 
+tube   with   a   small   quantity   of  tgg  albumin   and   add 
+
+
+Laboratory  Manual  15 
+
+two  or  three  drops  of  lead  acetate.  Boil  the  mixture  a 
+few  minutes  and  note  the  change.  What  is  the  dark- 
+colored  precipitate  ? 
+
+ExPT.  4.  Mix  some  of  the  dry  egg  albumin  with 
+double  its  quantity  of  fusion  mixture  (Na2C03  4- 
+KNO3).  Place  in  a  crucible  and  heat  cautiously  until 
+the  mixture  becomes  colorless.  Dissolve  the  residue  in 
+warm  water.  Acidify  one  portion  of  the  solution  with 
+HCl  and  add  BaClg.  What  is  the  white  precipitate? 
+Write  the  equation.  To  another  portion  add  HNO3  ^^^ 
+ammonium  molybdate  solution,  warm  to  35°  C./  and 
+shake.    What  is  the  yellow  precipitate? 
+
+
+GENERAL  REACTIONS  OF  PROTEINS 
+
+Much  has  been  learned  concerning  the  constitution 
+of  protein  substances  by  a  study  of  the  decomposition 
+products.  This  decomposition  may  be  accomplished  by 
+oxidation  or  by  hydrolysis.  The  products  thus  formed 
+exhibit  a  great  variety  of  properties  due  to  the  presence 
+of  different  radicals  or  groups  of  radicals,  so  no  one 
+reaction  is  distinctive  for  all  proteins. 
+
+Among  the  most  important  reactions  used  for  identi- 
+fication are  those  which  give  a  distinctive  color  and  those 
+obtained  by  precipitation. 
+
+Prepare  a  2  per  cent  solution  of  white  of  egg  as 
+follows :  Put  the  white  of  an  egg  in  an  evaporating  dish, 
+cut  with  the  scissors,  and  then  dilute  20  cc.  to  i  liter  with 
+
+^  The  Centigrade  scale  is  used  in  all  these  experiments. 
+
+
+1 6  Food  and  Nutrition 
+
+distilled  water.     Shake  thoroughly  and  filter.     Reserve 
+the  solution  for  the  following  tests : 
+
+Color  Reactions 
+
+ExPT.  5.  Biuret  reaction. — To  5  cc.  of  the  albumin 
+solution  add  an  equal  value  of  NaOH  or  KOH.  Add 
+slowly  dilute  CuSO^  solution.    Notice  color. 
+
+ExPT.  6.  Xanthoproteic  reaction. — To  5  cc.  of  the 
+solution  add  an  equal  volume  of  concentrated  HNO3. 
+Heat  until  you  obtain  a  yellow  precipitate  or  a  yellow 
+solution.  Cool  and  add  an  excess  of  NH4OH.  Note 
+change  of  color. 
+
+ExpT.  7.  Millon's  reaction. — To  5  cc.  of  the  solution 
+add  a  few  drops  of  Millon's  reagent.    Heat  cautiously. 
+
+ExPT.  8.  Adamkiewicz's  reaction. — To  2  cc.  of  con- 
+centrated H2SO4  add  about  4  cc.  (two  volumes)  of 
+glacial  acetic  acid  ^  and  shake.  To  the  mixture  add 
+one  drop  of  the  undiluted  G.gg  albumin.  The  liquid 
+changes,  slowly  on  standing,  more  rapidly  when  slightly 
+warmed,  to  a  beautiful  reddish  violet  color.  This  re- 
+action is  not  given  by  gelatin.  Why?  To  what  are  the 
+preceding  reactions  due? 
+
+Report  the  results  obtained  with  albumin,  globulin, 
+proteose,  peptone,  and  gelatin,  in  tabular  form,  with 
+the  reagents  you  have  used. 
+
+1  This  color  reaction  is  due  to  the  presence  of  glyoxylic  acid  in  the 
+acetic  acid.  The  Hopkins-Cole  test  modifies  the  above  by  using  a 
+glyoxylic  acid  solution  in  place  of  the  acetic  acid  prepared  as  follows : 
+One  liter  of  a  saturated  solution  of  oxalic  acid  is  reduced  by  60  grams 
+of  sodium  amalgam  and  allowed  to  stand  until  the  evolution  of  a  gas 
+ceases,  filtered  and  diluted  with  two  to  three  volumes  of  water. 
+
+
+Laboratory  Manual 
+
+
+i; 
+
+
+Albumin. 
+
+Globulin. 
+
+Proteose. 
+
+Peptone. 
+
+Gelatin. 
+
+Water 
+
+Alcohol 
+
+Ether     
+
+Biuret     
+
+Xanthoproteic      .... 
+
+Millon's 
+
+Heat 
+
+HgCl2 
+
+Pb(C2Hs02)2 
+
+AgNOs      
+
+HNO3 
+
+H0SO4 
+
+HCl 
+
+H(C2H302)  strong  .    .    . 
+
+HC2H3O2  +  NaCl  .    .    . 
+
+HC2H3O2  +  KiFe  (Cn)6 
+
+Picric  acid 
+
+Tannin 
+
+(NH4)2S04  (saturated)   . 
+
+MgS04  (j^  saturated)     . 
+
+NaCl  (saturated)      .    .    . 
+
+Dilute  salt  solution      .    . 
+
+1 8  Food  and  Nutrition 
+
+Precipitation 
+
+ExPT.  9.  To  about  3  cc.  of  white  of  egg  solution 
+add  excess  of  strong  alcohol.  Does  this  produce  a  pre- 
+cipitate?   Does  alcohol  coagulate  proteid? 
+
+ExPT.  10.  Dilute  5  cc.  of  the  albumin  solution  with 
+twice  its  bulk  of  o.i  per  cent  H2SO4.  Add  ether  and 
+shake  briskly.    Note  the  result. 
+
+ExPT.  II.  To  3  cc.  of  albumin  solution  add  a  drop 
+or  two  of  mercuric  chloride.  A  white  precipitate  forms. 
+Repeat  experiments  with  lead  acetate  and  silver  nitrate. 
+
+Why  is  white  of  egg  given  in  cases  of  poisoning  with 
+metallic  salts? 
+
+ExPT.  12.  Try  the  effect  of  the  following  reagents 
+on  egg  albumin,  using  3-5  cc.  of  the  albumin  solution : 
+
+HCl,  HC2H3O2  strong, 
+
+H2SO4,  HC2H3O2  strong  -|-  excess  NaCl, 
+
+HNO3. 
+
+ExPT.  13.  To  about  5  cc.  of  albumin  solution  add 
+one  to  two  drops  strong  acetic  acid  and  then  one  to  two 
+drops  of  potassium  ferrocyanide.  Does  this  give  a 
+precipitate  ? 
+
+ExPT.  14.  Place  20  cc.  of  5  per  cent  egg  albumin 
+solution  in  a  beaker.  Add  powdered  (NH4)2S04  to 
+saturation,  and  keep  in  a  water-bath  at  about  35°  for 
+half  an  hour.  Stir  frequently  until  the  salt  ceases  to 
+dissolve.  Note  the  formation  of  a  precipitate.  Filter 
+and  test  the  filtrate  with  the  biuret  test  and  the  precip- 
+itate with   Millon's   test.      Explain   the   results.     When 
+
+
+Laboratory  Manual  19 
+
+making  the  biuret  test  in  the  presence  of   (NH4)2S04 
+or  MgSO^  add  a  large  excess  of  KOH  in  soHd  form. 
+
+ExPT.  15.  Place  20  cc.  of  5  per  cent  Qgg  albumin 
+solution  in  a  beaker  and  add  powdered  MgSO^  to  satura- 
+tion; digest  with  frequent  stirring  at  35°  for  about 
+half  an  hour.  Observe  formation  of  a  precipitate.  Filter 
+and  test  the  filtrate  and  precipitate  as  in  the  above  ex- 
+periment, using  the  same  caution  in  making  the  biuret 
+test    What  protein  is  present  in  the  filtrate? 
+
+Coagulation  by  Heat 
+
+ExPT.  16.  Place  about  5  cc.  undiluted  tgg  albumin 
+in  a  test-tube  with  a  perforated  cork,  through  which 
+passes  a  thermometer.  The  bulb  of  the  thermometer 
+should  be  immersed  in  the  albumin.  Suspend  the  tube 
+in  a  beaker  of  water  and  heat  gradually.  Note  the  tem- 
+perature at  which  the  albumin  clouds.  Note  the  temper- 
+ature at  which  it  becomes  solid.  The  albumin  is  heated 
+more  evenly  if  the  water  is  stirred  during  heating.  Try 
+Millon's  and  Xanthoproteic  tests  on  the  coagulated 
+protein. 
+
+Heat  and  Reagents 
+
+ExPT.  17.  In  each  of  four  test-tubes  place  5  cc.  of 
+the  e.gg  albumin  solution  (1-50).  To  tubes  i  and  2 
+add  respectively  i  cc.  and  ^  cc.  of  a  10  per  cent  NaCl 
+solution.  To  the  tubes  3  and  4  add  respectively  one 
+and  five  drops  of  a  i  per  cent  acetic  acid  solution  ( i  cc. 
+of  glacial  acetic  diluted  to  100 cc).  To  a  fifth  tube 
+containing  5  cc.  of  egg  albumin  solution  ( i-io)  add  i  cc. 
+
+
+20  Food  and  Nutrition 
+
+of  lo  per  cent  NaCl  solution.  Immerse  the  five  tubes 
+in  a  bath  of  boihng  water  for  about  five  minutes,  then 
+examine  and  note  the  results.  Now  add  one  or  two 
+drops  of  the  i  per  cent  acetic  acid  to  tubes  i,  2,  5,  and 
+to  tube  4  add  i  cc.  of  10  per  cent  NaCl,  and  heat  again. 
+What  is  the  result? 
+
+Globulin 
+
+See  Meat 
+
+See  Flour 
+ExPT.  18.  Extract  20  grams  of  crushed  hemp  seed 
+with  100  cc.  of  5  per  cent  solution  of  NaCl  for  one-half 
+hour  at  60°  C.  Filter  while  hot  through  a  paper  moist- 
+ened with  5  per  cent  NaCl  solution,  and  allow  the  filtrate 
+to  cool  slowly.  Upon  cooling,  the  globulin  separates  out 
+in  crystalline  form. 
+
+(a)  Try  two  color  reactions  and  two  precipitation 
+tests  on  portions  of  the  filtrate. 
+
+(b)  Test  the  coagulability  of  the  filtrate. 
+
+(c)  Pour  some  of  the  solution  drop  by  drop  into  a 
+beaker  of  water. 
+
+Phospho-Proteins  (  Nucleo-Albumin ) 
+For   separation  of  casein   from  milk   see  pages   45, 
+
+46,  47- 
+
+ExPT.  19.     (a)  Apply  the  Millon  and  the  Xanthopro- 
+teic tests  to  powdered  casein. 
+
+(b)  Try  its  solubility  in  water  and  in  a  weak  NaaCOg 
+solution. 
+
+(c)  Test    some    of   the   casein    for    phosphorus    as 
+follows : 
+
+
+Laboratory  Manual  21 
+
+Grind  about  0.2  gram  of  the  casein  with  four  times 
+its  volume  of  a  mixture  made  up  of  equal  parts  of 
+NagCOg  and  KNO3,  and  fuse  until  the  evolution  of  gas 
+has  ceased.  Cool,  dissolve  in  a  small  amount  of  warm 
+water,  acidify  with  HNO3,  and  add  5  cc.  of  ammonium 
+molybdate  solution  and  shake  vigorously  for  five  minutes. 
+Precipitation  will  take  place  more  rapidly  from  warm 
+solutions,  but  care  must  be  taken  not  to  heat  above  70°  C. 
+or  M0O3  may  be  precipitated. 
+
+
+DERIVED    PROTEINS 
+Albuminates 
+
+ExPT.  20.  Acid  Albuminate. — Dilute  white  of  tgg 
+with  about  four  volumes  of  water.  To  25  cc.  of  the 
+solution  add  5  cc.  of  two-tenths  per  cent  HCl  and  warm 
+on  the  water-bath  for  two  hours  at  about  45°.  Filter 
+and  neutralize  the  filtrate  with  dilute  NaOH  solution, 
+being  careful  not  to  get  enough  to  redissolve  the  precipi- 
+tate. Dissolve  some  of  the  precipitate  in  a  little  water 
+to  which  dilute  HCl  has  been  added.  Boil  some  of  this 
+solution.  Does  it  coagulate?  Add  some  NaCl.  Does 
+this  cause  precipitation  ? 
+
+ExPT.  21.  Alkali  Albuminate.  —  Put  the  white  of  an 
+tgg  in  an  evaporating  dish  and  add  concentrated  KOH, 
+drop  by  drop,  with  constant  stirring.  The  mass  will 
+gradually  assume  the  consistency  of  jelly.  An  excess  of 
+KOH  dissolves  the  jelly.  Cut  the  jelly  in  pieces  and 
+wash  on  a  cloth  with  water.  Dissolve  some  of  the  jelly 
+in  water   (sufficient  alkali  is  present  to  make  a  weak 
+
+
+22  Food  and  Nutrition 
+
+alkaline  solution)  by  means  of  gentle  heat.  Cool  and 
+neutralize  with  dilute  HCl.  Does  the  alkali  albuminate 
+precipitate  ? 
+
+Proteoses 
+
+Proteoses  and  peptones  may  be  prepared  from  com- 
+mercial peptones  such  as  Witte's. 
+
+ExPT.  22.  Prepare  a  20  per  cent  solution  of  the  pep- 
+tone. Heat  sufficiently  to  make  the  solution  complete. 
+Put  some  of  this  solution  in  a  test-tube  and  heat  to  boil- 
+ing.   Does  it  coagulate? 
+
+ExPT,  23.  To  10  cc.  of  the  solution  in  an  evaporating 
+dish  add  10  cc.  of  saturated  (NH4)2S04  solution.  Does 
+a  precipitate  form?  Add  about  8  grams  of  powdered 
+(NH4)2S04,  and  let  it  stand  in  a  water-bath  at  about 
+25°-32°  for  one-half  hour.  Notice  the  sticky  precipitate 
+that  adheres  to  the  rod  and  to  the  sides  of  the  beaker. 
+Transfer  the  precipitate  to  a  filter  and  wash  with  about 
+10  cc.  of  saturated  (NH4)2S04  solution. 
+
+By  means  of  a  glass  rod  gather  up  the  sticky  proteose 
+precipitate  and  transfer  it  to  about  20  cc.  of  water  in  a 
+test-tube.  While  stirring,  heat  the  liquid  carefully,  and 
+the  proteose  dissolves  completely. 
+
+With  this  aqueous  solution  of  proteose  make  the 
+following  tests,  employing  small  quantities  of  the  liquid : 
+
+(a)  Biuret  test. 
+
+(6)  Precipitation  with  HNO3. 
+
+{c)   Picric  acid. 
+
+{d)  Acetic  acid  and  potassium  ferrocyanide. 
+
+
+Laboratory  Manual  23 
+
+Peptones 
+
+ExPT.  24.  To  some  of  the  filtrate  from  Experiment  23 
+add  excess  of  solid  KOH  and  try  the  biuret  test. 
+
+For  the  preparation  of  peptone  and  further  tests  see 
+pages  63,  64,  71,  72. 
+
+COMPOUND    PROTEINS 
+
+Glucoproteins 
+
+ExPT.  25.  Mucin. — Obtain  saliva  by  chewing  some 
+paraffin  to  start  the  flow  of  the  secretion.  Filter  the 
+saliva  and  use  it  in  the  following  experiments. 
+
+ExPT.  26.  Add  60  cc.  of  saliva  to  200  cc.  of  95  per 
+cent  alcohol.  Filter  off  the  precipitated  mucin  and  make 
+the  following  tests : 
+
+(o)  Try  some  color-reactions  for  proteins. 
+
+(&)  Dissolve  some  of  the  precipitate  in  weak  NaOH 
+and  then  add  dilute  acetic  acid,  drop  by  drop.  Note 
+results. 
+
+(r)  Boil  the  remaining  precipitate  in  25  cc.  of  10 
+per  cent  (by  volume)  HCl  for  two  to  four  hours.  The 
+result  is  much  more  satisfactory  if  a  condenser  is  used 
+to  prevent  evaporation.  Cool  and  render  the  solution 
+alkaline  with  concentrated  KOH ;  filter,  and  then  test  for 
+reducing  substance  by  Fehling's  solution.  Let  the  solu- 
+tion stand,  as  the  reduction  may  not  be  evident  at  first. 
+
+Nucleo-Proteins 
+In  recent  years  much  interest  has  been  shown  in  this 
+group  of  the  compound  proteins,  partly  because  of  their 
+relation  to  the  purin  bodies. 
+
+
+24  Food  and  Nutrition 
+
+Nucleo-proteins  consist  of  protein  and  nucleic  acid 
+or  nuclein.  They  are  widely  distributed  in  the  animal 
+body,  and  while  they  occur  chiefly  in  cell  nuclei  they  are 
+also  found  in  the  protoplasm. 
+
+Particular  importance  attaches  to  their  decomposition 
+products.  On  digestion  with  pepsin  hydrochloric  the 
+more  complex  nucleo-proteins  are  split  into  protein  sub- 
+stance and  a  simpler  nucleo-protein  rich  in  phosphorus, 
+known  as  nuclein.  On  further  decomposition  this  nuclein 
+yields  nucleic  acid,  which  serves  to  distinguish  this  group 
+from  phospho-proteins  or  nucleo-albumins. 
+
+On  hydrolysis  they  yield  three  types  of  decomposition 
+products : 
+
+1.  Purin  bases — xanthin,  guanin,  hypoxanthin. 
+
+2.  Pyrimidin  derivatives — mucin,  thymin. 
+
+3.  A  carbohydrate  group. 
+
+As  purin  bases  upon  oxidation  yield  uric  acid,  the 
+importance  of  nucleo-proteins  is  readily  understood. 
+
+Nucleo-protein  may  be  prepared  in  the  laboratory 
+from  the  pancreas.    See  page  70. 
+
+ALBUMINOIDS 
+
+Gelatin 
+
+ExPT.  27.  Use  a  2  per  cent  solution  of  commercial 
+gelatin,  or  prepare  gelatin  from  tendon. 
+
+Try  the  following  tests : 
+
+(o)  Three  color  tests. 
+
+{h)  Behavior  with  H2SO4,  alcohol,  tannic  acid,  and 
+AgN03. 
+
+
+Laboratory  Manual  25 
+
+ExPT.  2^.  Procure  a  tendon,  cut  it  into  small  pieces, 
+and  to  10  grams  add  200  cc.  of  distilled  water  and  3  cc. 
+of  dilute  acetic  acid.  Boil  one-half  hour,  strain  through 
+cheese  cloth,  and  evaporate  it  on  the  water-bath  to  15  cc. 
+Transfer  it  to  a  warm  test-tube,  insert  a  thermometer, 
+and  note  the  temperature  at  which  the  gelatin  solidifies. 
+
+Decomposition  of  Proteins 
+
+In  studying  the  constitution  of  protein  substances 
+they  have  been  separated  into  simpler  compounds.  These 
+compounds  are  known  as  dissociation  or  decomposition 
+products.  Through  the  work  of  E.  Fischer  and  his 
+associates,  many  of  these  products  have  been  obtained. 
+Mann  groups  them  as  follows : 
+
+(a)  Open-chain  amino-acids ;  (/?)  ring  compounds; 
+(c)  ammonia;  {d)  thio-amino  acids.  Leucin,  glycocoll, 
+and  tyrosin  are  all  members  of  the  first  group,  and  at 
+the  same  time  the  best  known  of  all  the  dissociation 
+products.  Leucin  was  the  first  of  these  products  to  be 
+discovered. 
+
+For  the  preparation  of  tyrosin  and  leucin  see  Diges- 
+tion, page  64. 
+
+Questions 
+
+1.  Name  the  forms  of  protein  that  you  have  obtained 
+in  the  laboratory. 
+
+2.  Name  some  common  food  in  which  each  may  be 
+found. 
+
+3.  What  protein  substances  would  you  expect  to 
+find  in  the  following:  raw  custard,  cooked  custard,  con- 
+somme, beef  tea  ? 
+
+
+26  Food  and  Nutrition 
+
+4.  Have  you  been  able  to  deduce  any  principles 
+concerning  the  cooking  of  foods  rich  in  proteins? 
+
+5.  Distinguish  between  precipitation  and  coagulation. 
+
+6.  Give  some  commercial  use  of  the  coagulation  of 
+proteins. 
+
+7.  In  what  forms  may  protein  be  precipitated? 
+
+8.  Explain  the  use  of  fractional  coagulation. 
+
+9.  Why  is  tannin  used  in  curing  hides? 
+
+10.  Why  is  white  of  ^gg  given  in  cases  of  lead 
+poisoning?  Explain  the  use  of  white  of  ^gg  in  the 
+clearing  of  soups. 
+
+11.  Is  there  any  reason  why  vinegar  should  be  used 
+in  the  preparation  of  tough  meat? 
+
+12.  How  is  the  setting  of  gelatin  explained? 
+
+13.  How  is  this  power  lost  or  destroyed? 
+
+14.  What  is  the  chief  use  of  gelatin  in  the  household? 
+
+15.  How  does  it  rank  among  food  materials? 
+
+
+FATS 
+
+Chemically  considered  the  fats  are  glycerides  of  the 
+fatty  acids.  They  are  widely  distributed  in  nature  in 
+both  plants  and  animals.  When  used  as  food  they  be- 
+come an  important  source  of  energy  for  the  body,  as  they 
+are  rich  in  carbon. 
+
+References:  Hammarsten,  Allen,  Sherman,  Thorpe,  Leff- 
+mann  and  Beam. 
+
+ExPT.  29.  Compare  some  of  the  common  fats,  such 
+as  tallow,  lard,  and  butter,  with  respect  to  their  color, 
+odor,  and  taste. 
+
+ExPT.  30.  Place  a  drop  of  fat  on  a  piece  of  paper. 
+Do  the  same  with  a  drop  of  ethereal  oil  and  compare  the 
+results  upon  standing. 
+
+ExpT.  31.  Test  a  small  portion  of  rancid  fat  by  dis- 
+solving in  alcohol  and  adding  a  solution  of  neutral  litmus 
+or  red  rosalic  acid.    To  what  is  the  rancid  odor  due  ? 
+
+ExPT.  32.  Test  the  solubility  of  fats  in  water,  alcohol, 
+ether,  and  chloroform. 
+
+ExPT.  33.  Shake  a  drop  of  neutral  olive  oil  with 
+about  5  cc.  of  water  in  a  test-tube.  Repeat,  using  a  very 
+dilute  NagCOg  solution,  a  soap  solution,  and  a  dilute 
+albumin  solution,  in  place  of  the  water.  Compare  the 
+permanency  of  the  emulsions  so  formed.  What  is  an 
+emulsion  ? 
+
+ExPT.  34.  Saponification.  —  Dissolve  15  grams  of 
+KOH  in  10  cc.  water,  add  to  the  solution  100  cc.  of  90 
+
+27 
+
+
+28  Food  and  Nutrition 
+
+per  cent  alcohol,  and  heat  on  the  water-bath.  Add  to 
+this  solution  50  grams  of  lard  which  has  been  dissolved 
+by  warming  in  an  equal  volume  of  alcohol.  Saponifica- 
+tion takes  place  readily  on  mixing  the  solutions,  and  is 
+complete  when  a  drop  of  the  solution  dissolves  completely 
+in  water,  leaving  no  fat  globules  suspended.  The  fatty 
+acid  may  be  obtained  from  this  alcoholic  soap  solution 
+by  bringing  to  acid  reaction  with  dilute  HoSO^  and  cool- 
+ing, when  the  fatty  acid  comes  to  the  top  and  solidifies 
+as  a  cake,  which  may  be  further  purified  by  melting  in 
+hot  water,  and  after  vigorous  stirring  cooling  to  the 
+solidification  temperature  again. 
+
+Save  the  alcoholic  solution  for  the  preparation  of 
+glycerol. 
+
+Soap  from  Fatty  Acid  and  NaoCOo 
+
+ExPT.  35.  Melt  a  small  amount  of  the  acids  prepared 
+from  lard  in  a  beaker  on  the  water-bath.  Add  grad- 
+ually, with  constant  stirring,  a  half-saturated  NaoCOg 
+solution  until  all  the  fatty  acid  has  dissolved.  This  may 
+take  some  time ;  an  excess  of  NaXOa  should  be  avoided. 
+After  solution  has  been  accomplished  pour  a  small  por- 
+tion into  a  test-tube  and  add  an  equal  volume  of  cold 
+water.  A  jelly  will  form.  Immerse  another  portion  in 
+a  dish  of  cold  water.  Soap  is  precipitated  from  solution. 
+Allow  the  rest  to  stand  and  cool  slowly. 
+
+Separation  of  Glycerol 
+
+ExPT.  36.  Filter  the  solution  remaining  after  pre- 
+cipitation of  the  fatty  acids  and  make  it  nearly  neutral 
+
+
+Laboratory  Manual  29 
+
+with  NaOH  solution,  and  then  neutrahze  with  NagCOg 
+solution.  Evaporate  nearly  to  dryness,  first  over  the 
+free  flame  and  then  over  the  water-bath.  Mix  the  resi- 
+due with  about  50  cc.  of  90  per  cent  alcohol.  Let  this 
+solution  stand  for  some  time,  and  then  filter  and  evap- 
+orate the  filtrate  on  the  water-bath.  Dissolve  the  residue 
+in  absolute  alcohol,  so  that  the  mixture  makes  about 
+25  cc.  Add  25  cc.  ether,  shake,  and  let  it  stand  until  the 
+next  day.  Filter  and  evaporate  the  filtrate  cautiously 
+on  the  water-bath.  The  glycerol  is  obtained  as  a  light 
+yellow  sirup.    The  acrolein  test  may  be  tried  as  follows : 
+
+Mix  a  small  amount  of  the  glycerol  with  some 
+powdered  potassium  bisulphate  and  heat  the  mixture 
+in  a  dry  test-tube.  Notice  the  penetrating  odor.  Test 
+the  fumes  with  some  filter  paper  moistened  with  some 
+ammoniacal  silver  oxide  solution.  The  paper  turns  black. 
+What  does  this  show  ? 
+
+The  ammoniacal  silver  solution  is  prepared  by  adding 
+to  5  cc.  of  silver  nitrate  solution  one  half  the  volume  of 
+NaOH  solution  and  dissolving  the  precipitation  in 
+NH.OH. 
+
+ExPT.  37.  Melting  point  of  fats. — Find  melting 
+points  of  butter,  lard,  beef  fat,  and  mutton  tallow  accord- 
+ing to  the  method  used  in  work  on  food  analysis  or  in 
+"Principles  and  Practice  of  Agricultural  Analysis" 
+(Wiley).  To  what  is  the  difference  in  melting  point 
+due? 
+
+Lecithin 
+
+ExPT.  38.  Preparation  of  egg  lecithin. — Separate 
+the  yolks  of  two  eggs  from  the  white.     Mix  the  yolks 
+
+
+30  Food  and  Nutrition 
+
+with  60  cc.  of  ether  and  let  stand  over  night ;  in  the 
+morning  add  100  cc.  of  alcohol  and  filter  the  solution. 
+Evaporate  the  filtrate  on  the  water-bath.  Dissolve  the 
+residue  from  the  filtrate  in  15  cc.  of  ether;  filter,  and 
+add  50  cc.  of  acetone  to  the  filtrate  obtained.  Filter  this 
+through  a  small  filter  and  save  the  filtrate  for  cholesterin. 
+With  the  lecithin  thus  obtained  perform  the  following 
+experiments : 
+
+(a)  Add  a  small  piece  of  lecithin  to  water;  shake; 
+notice  cloudy  appearance  of  water.  No  true  solution 
+takes  place,  but  an  emulsion  is  formed  which  can  be 
+filtered  unchanged.  Notice  myelin  forms,  under  micro- 
+scope. 
+
+{h)  Tests  for  phosphorus. — Fuse  one-fourth  of  the 
+lecithin  with  a  fusion  mixture  in  a  porcelain  crucible. 
+When  well  fused  allow  to  cool,  dissolve  in  water,  acidify 
+with  nitric  acid,  and  add  ammonium  molybdate.  Heat 
+to  50°  and  shake.     Does  a  yellow  precipitate  form? 
+
+(c)  Tests  for  fatty  acid. — Heat  one-third  of  the 
+lecithin  with  20  cc.  of  sodium  alcoholate  in  a  flask  for 
+one  hour;  evaporate  the  alcohol.  Notice  the  residue. 
+It  is  soap.  Dissolve  this  in  water;  boil,  and  notice  the 
+formation  of  soap  bubbles.  Make  the  solution  acid  and 
+allow  it  to  stand  in  a  warm  closet  over  night.  Fatty 
+acids  collect  at  the  surface.  Cool  on  ice  and  the  layer 
+of  fatty  acids  may  be  removed. 
+
+{d)  Tests  for  glycerin.  —  Fuse  a  small  portion  of 
+the  lecithin  with  some  potassium  bisulphate.  Note  the 
+peculiar  irritating  odor  of  acrolein  given  off.  This  shows 
+presence  of  glycerin.     Give  the  formula  for  lecithin. 
+
+
+Laboratory  Manual  31 
+
+(e)  Test  for  nitrogen. — Fuse  some  lecithin  in  a 
+test-tube  with  a  piece  of  metalHc  sodium  or  soda  Hme 
+the  size  of  a  pea.  Notice  the  smell  of  ammonia  and  test 
+with  a  moist  piece  of  red  litmus  paper. 
+
+Cholesterin 
+
+ExPT.  39.  Preparation  of  cholesterin. — Evaporate 
+the  acetone  solution  from  which  the  lecithin  has  been 
+precipitated  on  the  steam-bath.  Dissolve  the  residue 
+in  50  cc.  of  alcoholic  sodium  hydroxide  (10  per  cent) 
+and  heat  on  the  steam-bath  in  a  flask  until  all  the  alcohol 
+has  evaporated.  Dissolve  the  residue  in  50  cc.  of  water, 
+transfer  to  an  evaporating  dish,  add  10  grams  of  sodium 
+chloride,  and  again  evaporate  to  complete  dryness.  Grind 
+this  residue  fine  in  a  mortar,  dry  at  105°,  and  extract 
+with  30  cc.  of  cold  ether.  Filter  the  ether  solution,  and 
+crystals  of  cholesterin  remain  after  evaporation  of  the 
+ether. 
+
+Reactions  of  cholesterin: 
+
+(a)  Evaporate  with  nitric  acid.  A  yellow  mass  is 
+obtained.    Add  ammonia.    What  change  takes  place? 
+
+(b)  Mix  in  the  dry  state  with  strong  sulphuric  acid. 
+Add  chloroform.  Note  change.  Does  it  change  further 
+on  exposure  to  air  ? 
+
+(c)  Evaporate  with  a  mixture  of  two  volumes  of 
+sulphuric  acid  and  one  volume  of  ferric  chloride  solution. 
+Is  there  a  change  of  color? 
+
+(d)  Dissolve  in  chloroform  and  observe  crystals 
+under  microscope.     Write  the  formula  for  cholesterin. 
+
+
+32  Food  and  Nutrition 
+
+Questions 
+
+1.  To  what  series  of  fatty  acids  are  the  fats  related? 
+
+2.  Give  an  example  of  an  unsaturated  fatty  acid  and 
+a  saturated  fatty  acid. 
+
+3.  How  do  you  distinguish  oils,  fats,  and  waxes  ? 
+
+4.  Why  is  linseed  oil  used  in  paint? 
+
+5.  What  forms  of  fat  have  you  worked  with  in  your 
+laboratory  courses? 
+
+6.  Name   some  of  the  ethereal  oils  that  you  have 
+used  in  the  laboratory. 
+
+7.  Do   they    all    come    under    one    classification    in 
+chemistry  ? 
+
+8.  How  is  renovated  butter  made?  oleomargarine? 
+
+9.  What    change    takes    place    when    fats    become 
+rancid  ? 
+
+10.  What  is  the  effect  of  heat  on  fats? 
+
+11.  What  makes  the  fumes  of  hot  fat  irritating? 
+
+12.  What  is  the  effect  of  cold  on  fats? 
+
+13.  What  are  the  qualities  to  be  desired  in  a  fat  used 
+for  cooking  purposes  ? 
+
+14.  What  are  the  relative  merits  of  beef  suet,  mutton 
+tallow,  lard,  and  olive  oil  for  cooking  purposes  ? 
+
+
+CARBOHYDRATES 
+
+This  is  a  name  applied  to  a  class  of  compounds  which 
+are  especially  abundant  in  the  vegetable  kingdom.  While 
+protein  bodies  form  the  larger  part  of  the  solids  in 
+animal  tissue,  carbohydrates  form  the  chief  part  of  the 
+plants,  and  occur  in  the  animal  kingdom  only  in  small 
+quantities.  Owing  to  their  wide  distribution,  ease  of 
+digestion,  and  relative  cheapness  they  constitute  a  very 
+important  source  of  food.  Because  of  their  easy  oxida- 
+tion they  are  one  of  the  principal  sources  of  energy  in 
+the  animal  body.  Carbohydrates  are  compounds  of 
+carbon,  hydrogen,  and  oxygen.  The  statement  frequently 
+made  that  the  carbohydrate  molecule  contains  six  atoms 
+of  carbon  or  a  multiple  of  six,  and  that  the  H  and  O 
+are  in  the  proportion  to  form  water  is  not  true  in  all 
+cases.  Example,  Rhamnose  CeH^oOg. 
+References:  Hammarsten,  Richter-Smith,  W.  A.  Noyes. 
+
+The  principal  divisions  of  the  carbohydrates  are: 
+I.     Monosaccharides  or  Glucoses,  CgHisOg. 
+II.     Disaccharides  or  Sucroses,  QaHgoOn. 
+
+III.     Polysaccharides  or  Amyloses,  (C6Hio05)n. 
+
+Monosaccharides  are  further  divided  (see  table), 
+according  to  the  number  of  carbon  atoms  they  contain, 
+into  trioses,  tetroses,  pentoses,  hexoses,  etc.  Again,  they 
+are  classified  according  to  derivation  into  aldehydes  and 
+ketones.  Ordinary  glucose  is  an  aldehyde;  ordinary 
+fructose  is  a  ketone.  By  oxidation  (see  table)  the  alde- 
+hydes yield  acids ;  ordinary  glucose  yields  gluconic  acid, 
+and,  on  further  oxidation,  saccharic  acid. 
+
+33 
+
+
+34 
+
+
+Food  and  Nutrition 
+
+
+f4 
+
+1 
+
+.    . 
+
+1 
+
+o    «^      ■     §     i 
+
+1  §8       1  1 
+
+1 
+< 
+
+k  1 
+
+ui          m  —         >-i 
+
+o 
+
+I     1 
+
+o    oo     5     A 
+
+i 
+< 
+
+1 
+
+o 
+
+u      u          <i1 
+
+1 
+
+o  i  -1 1 1 
+i  ^:s  1 1 1 
+
+u    u       o    s    o 
+
+i 
+
+1 
+
+< 
+
+1 
+
+o 
+u 
+
+-  i      - 
+
+1    o§    1 
+
+1 
+
+o 
+
+°:  g§  i  1  1 
+
+^  w^  ^  i^  ^ 
+
+U      U          Q      ^      O 
+
+o    o 
+
+O       O             0)       -2        a; 
+
+;^    "^        .-s     ■;=!     .1=! 
+
+ii       w 
+
+
+Laboratory  Manual 
+DIVISIONS    OF   CARBOHYDRATES 
+
+
+35 
+
+
+Example. 
+
+Preparation  and  occurrence. 
+
+Monosaccharides 
+
+Trioses  CsHeOg 
+
+Glycerose 
+
+Oxidation  of  glycerin 
+
+Tetroses  C4H8O4 
+
+Erythrose 
+
+Oxidation  of  erythrite  which 
+is  found  in  some  plants 
+
+Pentoses  C5H10O5 
+
+Arabinose 
+
+Action  of  acid  on  cherry  gum 
+
+Xylose 
+
+Action  of  acid  on  wood  gum 
+
+Rhamnose  1 
+
+Decomposition  of  various 
+glucosides 
+
+Fucose 
+
+Action  of  acid  on  sea  weed 
+
+Hexoses  CeHigOe 
+
+Mannose 
+
+Oxidation  of  mannite  which  is 
+found  in  plants 
+
+Dextrose 
+
+Widely  distributed  in  the  veg- 
+etable kingdom,  as  in  sweet 
+fruits,  honey,  etc. 
+
+Galactose 
+
+Action  of  dilute  acid  on  milk 
+sugar 
+
+Levulose 
+
+Found  in  connection  with  dex- 
+trose in  vegetable  kingdom 
+
+Sorbinose 
+
+Found  in  the  juice  of  service 
+berries 
+
+Heptose  C7H14O7 
+
+Octose  CsHieOg 
+
+Nonose  CgHigOg 
+
+Disaccharides  C12H22O11 
+
+Sucrose 
+
+Widely  distributed  in  nature 
+
+Maltose 
+
+Found  in  germinating  cereals 
+
+Lactose 
+
+Found  in  the  milk  of  animals 
+
+Trisaccharides  C18H32O16 
+
+Raffinose 
+
+In  sugar  beet 
+
+Polysaccharides  (C6Hio05)n 
+
+Pentosans 
+
+Found  in  plants,  wheat  bran 
+
+Cellulose 
+
+In  nature  as  cell  wall  of  plants 
+
+Starch 
+
+Found  in  plants  as  reserve 
+material 
+
+Dextrin 
+
+By  heating  starch  to  200-210° 
+
+Glycogen 
+
+Found  in  the  liver 
+
+Inulin 
+
+Found  in  the  roots  of  com- 
+positae 
+
+Lichinin 
+
+Found  in  lichens 
+
+Pectin 
+
+Found  in  fruits  and  vege- 
+tables 
+
+CeHiaO.;    CH-AHoOs 
+
+
+36  Food  and  Nutrition 
+
+The  carbohydrates  which  have  the  greatest  physio- 
+logical importance  and  are  most  used  for  food  are  either 
+hexoses  or  pentoses.  A  list  of  the  more  common  forms, 
+with  the  place  of  their  occurrence,  is  in  the  foregoing 
+table.  Later,  typical  forms  of  the  different  classes  will 
+be  studied. 
+
+ExPT.  40.  Compare  dextrose,  levulose,  cane  sugar, 
+lactose,  dextrin,  and  starch  as  follows : 
+
+1.  Solubility  in  cold  water. 
+
+2.  Trommer's  test  and  Fehling's  test. 
+
+3.  Iodine. 
+
+4.  Molisch's  test. 
+
+5.  Fermentation. 
+
+(a)  Solubility. — Take  10  cc.  water,  add  4  grams  of 
+the  substance  to  be  examined,  and  shake  thoroughly. 
+When  the  substance  is  dissolved  add  4  grams  more,  and 
+so  on  until  no  more  dissolves. 
+
+Dilute  the  solutions  already  made  to  2  per  cent  and 
+use  them  in  the  following  experiments. 
+
+(b)  Trommer's  test.  —  To  5  cc.  of  the  solution  add 
+about  one-half  its  volume  of  KOH  solution.  Shake  and 
+add,  drop  by  drop,  a  dilute  solution  of  cupric  sulphate. 
+When  a  slight  permanent  precipitate  of  cupric  hydroxide 
+appears,  heat  and  notice  if  reduction  takes  place. 
+
+(c)  Fehling's  test.  —  Put  a  small  amount  of  Fehling's 
+solution  in  a  test-tube  and  add  four  times  its  volume  of 
+water.  Boil,  to  see  that  the  solution  itself  does  not  cause 
+precipitate  of  cuprous  oxide.  If  the  precipitate  forms, 
+a  new  solution  must  be  prepared.  Add  the  solution  to 
+be  tested  a  few  drops  at  a  time  and  boil  after  each  addi- 
+
+
+Laboratory  Manual  37 
+
+tion.    A  yellowish  or  a  brownish  red  precipitate  shows 
+that  reduction  has  taken  place. 
+
+(d)  Iodine. — To  5  cc.  of  each  solution  add  a  drop 
+or  two  of  iodine  dissolved  in  potassium  iodide.  Note 
+color. 
+
+(e)  Molisch's  test  {Hawk). — "Place  approximately 
+5  cc.  of  concentrated  H2SO4  in  a  test-tube.  Incline  the 
+tube,  and  slowly  pour  down  the  inner  side  of  it  approxi- 
+mately 5  cc.  of  the  sugar  solution  to  which  2  drops  of 
+o-naphthol  solution  (about  15  per  cent  alcohoHc  solution) 
+has  been  added,  so  that  the  sugar  solution  will  not  mix 
+with  the  acid.  A  reddish  violet  zone  is  produced  at  the 
+point  of  contact." 
+
+(/)  Fermentation. — Mash  up  a  compressed  yeast 
+cake  in  16  cc.  of  water ;  place  i  cc.  of  this  homogeneous 
+mixture  in  each  of  six  fermentation  tubes,  then  add  to 
+each  fermentation  tube  10  cc.  of  a  5  per  cent  solution 
+of  each  of  the  substances  to  be  tested.  Examine  after 
+ij^  hours  and  after  24  hours. 
+
+Name  the  products  of  fermentation  obtained  in  the 
+above  experiment. 
+
+Glucose  and  Levulose 
+
+Use  a  2  per  cent  solution  of  glucose  unless  otherwise 
+indicated. 
+
+ExPT.  41.  Place  some  of  the  dry  glucose  in  a  tube 
+and  heat  gently  over  a  flame.  Note  changes.  The 
+peculiar  odor  is  that  of  burnt  sugar.  Allow  the  tube  to 
+cool,  then  add  water  and  warm  slightly.    Explain  results. 
+
+ExPT,  42.     To  some  dry  glucose  add  cold,  concen- 
+
+
+38  Food  and  Nutrition 
+
+trated  H2SO4  and  let  stand.  The  liquid  remains  color- 
+less, or  at  most  is  light  yellow.  Compare  with  similar 
+experiment  under  cane  sugar.  Then  gently  heat  the 
+glucose  tube.    What  is  formed? 
+
+ExpT.  43.  To  some  95  per  cent  alcohol  in  a  test-tube 
+add  a  few  cc.  of  dextrose  solution.  Compare  with  ex- 
+periment under  dextrin. 
+
+ExPT.  44.  Formation  of  osazones  from  dextrose. — 
+In  a  test-tube  prepare  a  mixture  of  5  drops  of  phenyl- 
+hydrazin,  10  drops  of  glacial  acetic  acid,  and  i  cc.  of 
+saturated  salt  solution,  and  boil  for  a  few  minutes. 
+Yellow  phenylglucosazone  crystals  will  appear  on  cool- 
+ing. Write  the  equations  for  the  formation  of  the  osa- 
+zones.   For  more  exact  experiments  see  Sherman. 
+
+ExPT.  45.  Try  the  effect  of  dry  heat  and  H2SO4  on 
+cane  sugar  (see  experiments  under  dextrose). 
+
+ExPT.  46.  Place  50  cc.  of  the  cane  sugar  solution  in 
+a  small  beaker,  add  6-8  drops  of  concentrated  HCl,  and 
+boil  for  2-3  minutes.    Has  the  cane  sugar  been  inverted? 
+
+ExPT.  47.  Compare  the  sweetening  power  of  cane 
+sugar,  dextrose,  and  commercial  glucose. 
+
+Lactose 
+For  preparation  of  lactose  see  milk. 
+
+Maltose 
+
+For  formation  of  osazone  see  dextrose. 
+
+ExPT.  48.  Hydrolysis  of  starch  by  maltose. — Make 
+a  malt  extract  by  allowing  5  grams  of  malt  to  soak  in 
+50  cc.  of  water  for  i>^  to  2  hours  at  room  temperature. 
+
+
+Laboratory  Manual  39 
+
+This  malt  extract  contains  some  reducing  substances, 
+so  in  order  to  prove  the  formation  of  a  reducing  sub- 
+stance by  the  action  of  malt  on  starch  it  is  necessary  to 
+proceed  as  follows : 
+
+Add  to  one  Erlenmeyer  flask  50  cc.  of  a  5  per  cent 
+solution  of  starch  paste  and  about  i  cc.  of  chloroform  and 
+mark  A.  To  another  Erlenmeyer  flask  add  50  cc.  of 
+water  and  i  cc.  of  chloroform  and  mark  B.  Then  to 
+each  add  10  cc.  of  the  malt  extract,  cork,  and  allow  to 
+stand  until  the  starch  solution  gives  no  color  reaction 
+with  iodine.  This  will  take  two  or  three  days.  Prepare 
+two  test-tubes  containing  the  same  amounts  of  Fehling's 
+solution  (about  5  cc.  after  dilution)  and  heat  to  boiling. 
+To  the  first  add  10  drops  of  the  pure  malt  solution 
+(flask  B)  from  a  pipette,  and  to  the  second  the  same 
+amount  of  the  reaction  mixture  of  malt  on  starch 
+(flask  A).  Compare  the  reducing  powers  of  the  two 
+solutions. 
+
+
+POLYSACCHARIDES 
+
+Starch 
+
+ExPT.  49.  Examine  wheat,  potato,  oat,  and  corn 
+starch  under  the  microscope.    Make  drawings. 
+
+ExPT.  50.  Soak  dried  peas  in  water  over  night,  then 
+cut  thin  slices  and  examine  under  the  microscope. 
+
+ExPT.  51.  Examine  with  the  microscope  raw,  boiled, 
+baked,  and  mashed  potato.  Cut  thin  slices  when  possi- 
+ble. Make  drawings  to  represent  the  difference  in 
+appearance. 
+
+
+40  Food  and  Nutrition 
+
+ExPT.  52.  Place  100  cc.  of  water  in  a  beaker  and  boil 
+it;  then  add  i  gram  of  powdered  starch  and  continue 
+boiling  for  2-3  minutes,  stirring  constantly.  Reserve 
+for  following  experiment. 
+
+ExpT.  53.  To  about  50  cc.  of  the  starch  solution  in 
+a  beaker  add  ^  cc.  of  H2SO4,  cover  with  a  watch-glass, 
+and  boil  for  15  minutes.  Replace  the  water  that  may 
+be  lost  by  evaporation.  Now  place  some  of  the  liquid 
+in  a  tube;  render  alkaline  with  sodium  or  potassium 
+hydroxide.  Make  Fehling's  test.  If  no  reduction  takes 
+place  continue  heating  the  contents  of  the  beaker  for 
+another  15  minutes  and  test  as  before.  Has  inversion 
+taken  place? 
+
+ExPT.  54.  Spread  one  teaspoonful  of  wheat  starch 
+on  a  tin  plate  and  heat  in  the  oven  in  which  a  ther- 
+mometer is  suspended.  When  the  oven  temperature 
+reaches  200°  take  out  a  small  amount  of  starch  and  test 
+with  iodine  on  a  white  plate.  Repeat  the  test  for  each 
+rise  of  10°.    How  are  these  changes  explained? 
+
+ExPT.  55.  Gelatinization  of  starch. — Put  i  gram 
+of  potato  starch  into  100  cc.  of  water.  Shake  well,  then 
+distribute  this  solution  equally  among  ten  test-tubes. 
+Put  a  rubber  band  around  these  tubes  and  place  them 
+in  a  water-bath.  Heat  gradually  to  55°  C.  Then  remove 
+one  tube  and  cool  it  quickly.  Repeat  for  each  rise  of  5°. 
+Boil  the  last  tube  over  the  free  flame.  Place  in  test-tube 
+rack,  let  stand,  and  compare.  Look  at  a  drop  from  each 
+test-tube  under  the  microscope  and  make  drawings. 
+
+This  experiment  may  also  be  tried  using  3  grams  of 
+potato  starch  and  100  cc.  water.     In  this  case  there  is 
+
+
+Laboratory  Manual  41 
+
+sufficient  starch  present  to  form  a  paste  when  it  is  heated 
+to  the  proper  temperature. 
+
+ExPT.  56.  Test  for  starch,  substances  in  which  it  is 
+Hkely  to  be  found  as  an  adulterant  or  extender. 
+
+Dextrin 
+
+ExPT.  57.    Examine  dextrin  under  the  microscope. 
+
+ExpT.  58.  Add  tannin  to  a  solution  of  dextrin.  Is 
+a  precipitate  formed? 
+
+ExPT.  59.  Add  alcohol  to  a  solution  of  dextrin. 
+What  happens  ? 
+
+ExPT.  60.  Obtain  dextrin  from  toasted  bread.  Is 
+toasted  bread  thoroughly  dextrinized? 
+
+ExPT.  61.  Chop  a  half  pint  of  oysters  as  fine  as 
+possible.  To  this  material  add  500  cc.  of  boiling  water 
+slightly  acidulated  with  acetic  acid.  Strain  the  liquid 
+through  muslin.  This  liquid  contains,  besides  glycogen, 
+some  proteins  and  gelatin.  To  remove  the  latter,  first 
+concentrate  to  a  small  volume,  then  add  alternately  a 
+few  drops  of  HCl  and  of  potassium  mercuric  iodide  till 
+a  precipitate  ceases  to  form.  Finally,  filter  off  a  little  of 
+the  liquid  and  test  it  with  acid  and  reagent  to  make 
+sure  that  all  the  proteins  are  precipitated.  If  this  is  the 
+case,  strain  the  liquid  through  muslin,  then  filter  through 
+paper,  and  to  the  filtrate  add  two  volumes  of  alcohol  and 
+stir  thoroughly.  Allow  the  glycogen  to  settle,  then  filter 
+off,  wash  with  dilute  alcohol  (2  parts  alcohol  to  i  part 
+water).  Finally  transfer  to  a  beaker,  cover  with  abso- 
+lute alcohol,  and  let  stand  an  hour  or  more.  Then  filter 
+off  the  glycogen,  fold  the  filter,  and  gently  squeeze  off 
+
+
+42  Food  and  Nutrition 
+
+excess  of  alcohol ;  finally  press  between  several  layers  of 
+filter  paper  till  dry.     Powder,  and  save  for  use  later. 
+
+(o)  To  some  glycogen  in  a  small  beaker  add  20-30  cc. 
+of  water  and  warm.  The  glycogen  dissolves,  forming 
+an  opalescent  liquid. 
+
+{h)  To  a  portion  of  the  solution  just  obtained  add 
+a  few  drops  of  iodine  solution  (in  potassium  iodide). 
+A  reddish  brown  color  forms.  Then  heat  the  contents  of 
+the  tube.    The  color  disappears,  to  reappear  on  cooling. 
+
+{c)  Boil  another  portion  of  the  glycogen  solution 
+with  Fehling's  solution.    Note  the  result. 
+
+{d)  To  some  of  the  glycogen  solution  add  a  few 
+drops  of  HCl  and  boil  a  few  minutes.  Then  cool  and 
+neutralize,  and  test  a  portion  with  iodine.  Try  Fehling's 
+on  another  portion. 
+
+Cellulose 
+
+Hydrolysis  of  Cellulose 
+ExPT.  62.  To  one  sheet  filter  paper  add  15  cc.  H2SO4 
+(50  per  cent).  To  this  add  gradually  enough  concen- 
+trated H2SO4  to  bring  the  filter  paper  into  solution.  If 
+this  H2SO4  solution  is  tested  with  iodine  directly,  or  upon 
+allowing  a  few  drops  of  water  to  run  onto  it,  but  not 
+get  thoroughly  mixed  with  it,  a  blue  starch  iodide  color 
+results.  If  the  amylocellulose  solution  is  precipitated  by 
+dilution  with  water  (three  times  volume),  then  iodine 
+added,  no  color  is  given.  Dilute  to  about  30  cc.  with 
+water  and  boil  one  hour.  Make  the  solution  alkaline 
+with  potassium  hydroxide  and  test  with  Fehling's 
+solution. 
+
+
+Laboratory  Manual  43 
+
+Pectin 
+
+ExPT.  62,.  Preparation  of  pectase. — Pare  young 
+carrots  and  reduce  them  to  a  pulp.  Express  the  juice, 
+filter,  and  save  it  to  add  to  the  solution  of  pectin. 
+
+ExPT.  64.  Preparation  of  pectin.  —  Put  the  residue 
+from  the  previous  experiment  into  a  beaker,  cover  with 
+water,  and  boil  15  minutes.  Filter.  Put  5  cc.  of  the 
+solution  into  a  test-tube  and  add  a  few  drops  of  the  liquid 
+containing  the  pectase.  Does  the  juice  form  a  jelly? 
+How  long  does  it  take  to  form  a  jelly?  Extract  pectin 
+from  apples  and  repeat  the  above  experiment.  Does  acid 
+interfere  with  the  action  of  pectase  ?  What  is  the  reason 
+for  the  non-production  of  jelly  in  the  juice  of  many 
+fruits  ? 
+
+Questions 
+
+1.  What  are  the  legitimate  uses  of  commercial 
+glucose  in  the  home  ? 
+
+2.  In  what  form  are  the  carbohydrates  of  food 
+absorbed  in  the  body? 
+
+3.  Where  and  in  what  forms  do  glucose  and  levulose 
+occur  ? 
+
+4.  When  cane  sugar,  lactose,  and  maltose  are  hydro- 
+lyzed,  what  monosaccharides  are  obtained? 
+
+5.  What  changes  take  place  in  boiling  sugar  for 
+fondant  ? 
+
+6.  What  factors  influence  the  final  temperature  in 
+making  fondant? 
+
+7.  Why  is  acid  or  glucose  added  in  making  candy? 
+
+8.  What  is  the  source  of  commercial  lactose  ?  What 
+is  its  use? 
+
+
+44  Food  and  Nutrition 
+
+9.  What  is  the  commercial  use  of  maltose? 
+
+10.  How  is  dextrin  prepared  commercially? 
+
+11.  Do  our  cooking  processes  affect  cellulose? 
+
+12.  Where  is  pectin  found? 
+
+13.  What  transformations  does  pectose  undergo  in 
+fruits  ? 
+
+14.  What  transformations  does  pectin  undergo  in 
+jelly  making? 
+
+15.  Discuss  the  problems  of  jelly  making. 
+
+16.  What  principles  of  starch  cookery  are  you  able 
+to  deduce  from  above  experiments? 
+
+17.  How  would  you  separate  fructose  and  glucose 
+from  invert  sugar? 
+
+18.  How  does  the  strength  of  the  acid  influence  the 
+rate  of  inversion  of  cane  sugar  ? 
+
+19.  Compare  HCl  and  HC2H3O2  in  this  respect. 
+
+
+MILK 
+
+References:  Salkowski. 
+
+Blyth  (5th  ed.). 
+
+Sherman. 
+
+Richards  and  Woodman. 
+
+Leffmann  and  Beam. 
+
+Conn.     Yeasts,  Molds,  and  Bacteria  in  the 
+
+Home. 
+Farmers'  Bulletin,  No.  74. 
+Separation  into  constituents;  use  of  preservatives. 
+ExPT.  65.    Examine  a  drop  of  milk  under  the  micro- 
+scope.    Sketch  the  different  sized  globules  present  and 
+measure  their  diameter. 
+
+ExPT.  66.  Examine  microscopically  a  drop  of  skimmed 
+milk.  What  difference  is  observed  between  this  and 
+whole  milk? 
+
+ExPT.  67.  Boil  about  25  cc.  of  milk  in  a  small  beaker 
+for  5  minutes.  No  coagulation  proper,  but  scum  may 
+form.  Remove  the  scum  with  a  spoon  or  spatula  and 
+heat  again ;  a  new  scum  forms.  This  formation  of  scum 
+will  repeatedly  take  place.  What  is  the  nature  of  this 
+scum? 
+
+ExPT.  68.  To  about  10  cc.  of  milk  in  a  test-tube  add 
+one  drop  of  dilute  acetic  acid  (i-io),  then  boil.  The 
+casein  is  coagulated  and  carries  down  with  it  the  fat. 
+The  serum  is  clear. 
+
+45 
+
+
+46  Food  and  Nutrition 
+
+ExPT.  69.  Place  10  cc.  of  milk  in  each  of  five  test- 
+tubes.  To  No.  I  add  >4  cc.  of  very  dilute  HCl  (10  drops 
+of  HCl  to  50  cc.  of  water).  To  No.  2  add  )4  cc.  of 
+2  per  cent  NaaCOs  solution.  To  No.  3  add  Y^  cc.  of 
+saturated  (NH^)  2C2O4  solution  ( 1-20) .  Then  add  to  each 
+of  these  three  tubes,  and  also  to  Nos.  4  and  5,  2  drops  of 
+rennet  solution,  and  mix.  Heat  the  contents  of  tube 
+No.  5  to  boiling.  Then  place  all  the  tubes  in  a  water- 
+bath  at  40°  and  examine  every  3-5  minutes  and  explain 
+results.  What  can  you  say  of  the  action  of  alkali  on 
+rennet  ?  of  acid  ? 
+
+What  is  the  composition  of  coagulum?  What  is  the 
+clear  liquid  that  separates  from  the  coagulum  on  stand- 
+ing? Why  does  not  tube  No.  3  coagulate?  Continue 
+heating  tube  No.  3  at  40°  for  about  one-half  hour,  then 
+add  2-3  drops  of  CaClg  solution.  The  liquid  instantly 
+solidifies.    Why  ? 
+
+ExPT.  70.  To  some  milk  in  a  test-tube  add  1-2  vol- 
+umes of  ether,  close,  and  shake  thoroughly.  Do  the  fat 
+globules  dissolve?  Now  add  a  few  drops  of  NaOH  and 
+shake  again.  Observe  and  explain  results.  This  re- 
+action was  taken  at  one  time  to  indicate  that  the  globules 
+were  surrounded  by  an  albuminous  envelope. 
+
+ExPT.  71.  To  some  milk  in  a  test-tube  add  a  few 
+drops  of  NaOH  and  heat.    Result? 
+
+ExPT.  y2.  To  about  10  cc.  of  milk  in  a  test-tube  add 
+5  grams  of  powdered  MgSO^  and  shake  thoroughly. 
+Then  pour  onto  a  filter,  resting  in  a  test-tube,  and  set 
+aside  to  filter  over  night.  Boil  the  clear  filtrate.  Result? 
+The  casein  is  precipitated  almost  completely  by  MgSO^. 
+
+
+Laboratory  Manual  47 
+
+ExPT.  73.  To  5  cc.  of  milk  add  4  volumes  (20  cc.) 
+of  strong  alcohol;  shake  thoroughly  and  set  aside.  All 
+the  proteins  present  are  precipitated. 
+
+ExPT.  74.  Add  50  cc.  of  milk  to  about  125  cc.  of 
+water,  mix  well,  and  while  stirring  add  dilute  acetic  acid 
+(i-io),  drop  by  drop,  till  the  precipitate  becomes  coarsely 
+flocculent  and  ceases  to  increase.  Stir  thoroughly  and 
+set  aside  over  night.  Do  not  add  more  acid  than  is 
+necessary.  What  does  this  precipitate  contain?  Filter 
+off  the  precipitate  and  allow  to  drain  well,  then  fold 
+over  half  the  filter  in  the  funnel  and  apply  gentle  pressure 
+with  the  fingers  until  no  more  water  can  be  squeezed  out. 
+
+Transfer  the  precipitate  to  a  small,  dry  beaker,  add 
+about  30  cc.  of  strong  alcohol,  and  stir  thoroughly  so  as 
+to  dehydrate  the  caseinogen.  Then  filter  and  again 
+squeeze  the  contents  of  the  filter  as  dry  as  possible. 
+Transfer  the  precipitate  to  a  small,  dry  beaker ;  add  about 
+50  cc.  of  ether  and  stand  over  night.  Filter,  wash  with 
+ether,  and  squeeze  as  dry  as  possible. 
+
+Spread  open  the  filter  on  the  table ;  allow  the  remain- 
+ing ether  to  evaporate,  then  powdfer.  The  white,  chalky 
+powder  is  caseinogen. 
+
+(a)  The  ether  filtrate  received  in  a  small  beaker  or 
+evaporating  dish  and  evaporated  cautiously  on  the  water- 
+bath  gives  the  milk-fat. 
+
+(b)  The  aqueous  filtrate  from  the  casein  and  fat 
+precipitate  contains  albumin  and  milk  sugar.  Place  it 
+in  a  beaker  and  boil  for  15  minutes,  in  order  to  coagu- 
+late the  albumin.  Filter,  and  treat  the  filtrate  as  follows : 
+Heat  on  a  wire  gauze  over  flame  until  it  becomes  cloudy 
+
+
+48  '  Food  and  Nutrition 
+
+and  bumps.  If  the  liquid  is  cooled  the  cloudiness  dis- 
+appears. Why?  Heat  again  to  boiling  and  filter  hot. 
+Concentrate  the  filtrate  on  the  water-bath,  and  if  the 
+cloudiness  continues  to  appear  filter  several  times  more. 
+When  the  filtrate  is  reduced  to  a  sirupy  consistency, 
+set  it  aside  until  the  next  day.  Crystals  of  milk  sugar 
+should  separate  on  standing. 
+
+Preservatives 
+
+References:  Leffmann  and  Beam. 
+Leach. 
+ExPT.  75.    Test  milk  for  (a)  formaldehyde,  {b)  sali- 
+cylic acid,  {c)  boric  acid,  {d)  NaaCOg  or  NaHCOg. 
+
+Questions 
+
+1.  What  is  the  problem  for  the  housewife  in  the 
+use  of  soda  and  sour  milk? 
+
+2.  Explain  the  curdling  of  milk  soups. 
+
+3.  What  are  the  sources  of  danger  in  ice  cream? 
+
+4.  Explain   the   Babcock   test   used   in   analysis   of 
+milk. 
+
+5.  What  is  the  use  of  sucrate  of  lime  in  the  dairy 
+industry  ? 
+
+6.  Discuss  alkaline  fermentation  of  milk. 
+
+
+MEAT 
+
+References:  Mitchell,  C.  A,    Chapters  I,  VIII,  IX,  X. 
+Grindley  and  Sprague.     A  Precise  Method 
+
+of    Roasting    Beef.      The    University    of 
+
+Illinois  Studies,  Vol.  II,  No.  4. 
+Grindley,  H.  S.     Journal  of  Amer.  Chem. 
+
+Soc,  Vol.  XXVI,  No.  9,  September,  1904. 
+
+(Nitrogenous  constituents.) 
+Grindley  and   Emmett.     Journal  of  Amer. 
+
+Chem.    Soc,   Vol.  XXVII,    No.  6,   June, 
+
+1905  ;  Vol.  XXVIII,  No.  I,  January,  1906. 
+
+(Analysis.) 
+Emmett  and  Grindley.     The  Chemistry  of 
+
+Flesh. 
+Trowbridge    and    Grindley.      Chemistry   of 
+
+Flesh.      Journal    of    Amer.    Chem.    Soc, 
+
+April,  1906. 
+Grindley  and  Associates.  Bulletins  Nos.  102, 
+
+141,  162,  193,  U.  S.  Dept.  of  Agriculture, 
+
+Office  of  Experiment  Stations.     (Cooking 
+
+and  digestion.) 
+Mann,  Gustav.     Chemistry  of  the  Proteids. 
+Bevier    and    Van    Meter.      Selection    and 
+
+Preparation  of  Food. 
+ExPT.  76.     Put  25  grams  of  finely  chopped  meat  in 
+75  cc  of  water  and  allow  it  to  stand  for  one  or  two 
+hours.     Stir  frequently.     Strain  through  cheese  cloth, 
+
+49 
+
+
+50  Food  and  Nutrition 
+
+then  filter  through  paper.  Reserve  the  residue  for  the 
+next  experiment.  Test  the  reaction  of  the  solution  with 
+litmus  paper. 
+
+Slowly  heat  a  portion  of  the  filtrate  in  a  test- 
+tube  in  which  a  thermometer  is  placed.  Put  the  test-tube 
+in  a  beaker  half  filled  with  water  and  heat  the  beaker 
+on  the  wire  gauze.  By  frequent  stirring  of  the  water 
+with  a  glass  rod,  on  the  under  end  of  which  is  a  piece 
+of  rubber  tubing,  the  even  distribution  of  the  heat  may 
+be  accomplished.  Even  at  a  slight  elevation  of  temper- 
+ature, usually  at  45°-56°,  coagulation  occurs.  Filter. 
+Heat  the  filtrate  again  to  65°  and  observe  results. 
+Filter,  Heat  to  75°  and  filter.  Make  two  color  tests 
+for  protein  with  the  filtrates.  Boil  some  of  the  original 
+filtrate,  filter,  and  divide  into  three  portions. 
+
+Test  one  portion  with  Millon's  reagent;  to  another 
+portion  add  i  cc.  of  a  5  per  cent  NaCl  solution  and  5  cc. 
+of  a  20  per  cent  tannic  acid  solution,  drop  by  drop. 
+Observe  precipitation.  To  another  portion  add  a  few 
+crystals  of  NH4NO3  and  10  cc.  of  a  neutral  ammonium 
+molybdate  solution.  Heat  to  60°  C.  This  should  pre- 
+cipitate the  inorganic  phosphates.^ 
+
+ExPT.  yy.  Digest  the  meat  residue  from  the  previous 
+experiment  in  100  cc.  of  a  15  per  cent  NH^Cl  solution 
+for  24  hours  in  a  covered  beaker,  then  filter  and  test  the 
+filtrate  as  follows: 
+
+(a)  Pour  a  part  of  the  solution  into  a  test-tube  two- 
+thirds  full  of  water.  Myosin  forms  as  a  cloudlike 
+precipitate. 
+
+iThe  molybdate  solution  should  have  for  every  50  cc,  of  the 
+reagent  4  cc.  of  HN03(i.2  sp.  gr.). 
+
+
+Laboratory  Manual  5 1 
+
+{h)  Heat  some  of  the  solution  in  a  test-tube.  Does 
+it  coagulate? 
+
+{c)  Try  two  color  tests.  How  does  this  protein 
+differ  from  the  one  obtained  in  the  first  experiment? 
+Give  the  names  of  the  proteins  obtained  from  meat. 
+
+ExPT.  78.  Influence  of  cooking  upon  the  composition 
+of  meat. 
+
+(a)   Boil  meat  under  known  conditions. 
+
+1.  Examine  cooked  meat.  Repeat  experiments 
+under  raw  meat. 
+
+2.  Examine  broths.  Concentrate  some  of  the  broth 
+and  make  protein  tests.  Take  200  cc.  of  the  original 
+broth,  add  15  cc.  of  a  10  per  cent  HCl  solution.  Evap- 
+orate to  25  cc,  filter,  test  for  creatinin  by  Jaffe's  reaction. 
+
+(&)  Roast  meat  under  known  conditions. 
+
+1.  Examine  roasted  meat.  Repeat  experiments 
+under  raw  meat. 
+
+2.  Examine  drippings  for  proteins. 
+
+Extractives 
+
+References:  Grindley,  H.   S.,  and  Woods,  H.  S.     Cre- 
+atinin.   Jour.  Biol.  Chem.,  Vol.  H,  p.  309. 
+Emmett,  A.  D.,  and  Grindley,  H.  S.     Cre- 
+atinin.   Jour.  Biol.  Chem.,  Vol.  HI,  p.  491. 
+Hammarsten. 
+Salkowski. 
+ExPT.    79.      Creatin    and    creatinin. — Extract    500 
+grams   chopped   beef   with   500   cc.    water   for   half   an 
+hour   over   the   water-bath   at   50°.      Strain   as    dry   as 
+possible  through  muslin  and  make  a  second  extraction 
+
+
+52  Food  and  Nutrition 
+
+in  the  same  way,  with  an  equal  amount  of  water  (save 
+residue).  Unite  the  two  extracts,  and  after  concentra- 
+tion to  about  200  cc.  (test  20  cc.  for  creatinin  by  Jaffe's 
+reaction;  also  test  Liebig's  extract  in  the  same  manner) 
+acidify  the  solution  with  2  or  3  drops  of  acetic  acid. 
+Remove  the  coagulated  proteins  by  filtration,  and  to 
+the  filtrate  (this  filtrate  corresponds  to  Liebig's  extract, 
+and  the  extract  may  be  used  for  study  instead  of  the 
+chopped  meat)  add  basic  lead  acetate,  carefully  avoiding 
+any  excess;  the  precipitate  consists  of  phosphates,  chlo- 
+rides, sulphates,  etc.  Allow  this  to  settle  and  then  filter. 
+Warm  the  filtrate  and  pass  HoS  through  it  to  remove 
+the  excess  of  lead.  Filter  hot.  Concentrate  the  clear 
+filtrate  on  a  water-bath  to  a  thin  sirup  and  allow  to 
+stand  in  a  cool  place.  Crystals  of  creatin  will  deposit. 
+Filter  off  the  crystals,  and  wash  them  with  88  per  cent 
+alcohol. 
+
+Place  some  of  the  crystals  in  a  small  flask  with 
+10  cc.  dilute  H2SO4,  and  heat  for  half  an  hour  on  the 
+water-bath,  keeping  the  volume  constant.  While  still 
+warm  add  powdered  BaCOg  to  neutralization.  Filter, 
+and  evaporate  the  filtrate  to  10  cc.  The  creatin  has  been 
+changed  to  creatinin.  Write  the  equation.  Perform  the 
+following  tests  with  the  solution: 
+
+(a)  Place  2  drops  of  the  solution  upon  a  watch-glass 
+and  add  to  it  a  few  drops  of  an  alcoholic  solution  of 
+ZnCl, ;  allow  it  to  stand  and  then  examine  the  crystals 
+under  the  microscope. 
+
+{h)  WeyVs  reaction.  —  To  2  cc.  of  the  creatinin 
+solution  add  3  drops  of  a  freshly  prepared  dilute  solu- 
+
+
+Laboratory  Manual  53 
+
+tion  of  sodium  nitroprusside.  Then  add,  drop  by  drop, 
+dilute  NaOH.  A  ruby-red  color  is  produced,  which 
+quickly  changes  to  yellow.  If  the  solution  is  now  acid- 
+ified with  acetic  acid  and  heated,  a  green  color  is 
+obtained,  and  upon  continued  boiling  a  precipitate  of 
+Prussian  blue  settles  out. 
+
+(c)  Jaife's  reaction. — Treat  5  cc.  of  the  solution 
+with  a  saturated  solution  of  picric  acid,  and  make  it 
+alkaline  with  i  cc.  of  a  10  per  cent  NaOH.  The  solution 
+immediately  becomes  a  deep  red. 
+
+ExPT.  80.  Xanthine  and  hypoxanthine  (Salkowski). 
+—  "Dissolve  50  grams  of  meat  extract  in  500  cc.  of  water 
+in  a  flask,  and  after  the  addition  of  75-100  cc.  of  nitric 
+acid  (1.2  sp.  gr.),  to  destroy  substances  which  hinder 
+the  precipitation  of  the  xanthine  bases  by  silver  nitrate, 
+heat  on  the  sand-bath  until  the  solution  has  cleared  up, 
+which  will  require  about  three-quarters  of  an  hour. 
+After  cooling  make  strongly  alkaline  with  ammonia, 
+filter  from  the  phosphates  which  separate,  and  add  an 
+ammoniacal  solution  of  2.5  grams  of  silver  nitrate  in 
+about  100  cc.  of  water.  The  precipitate,  which  consists 
+for  the  most  part  of  hypoxanthine  silver,  besides  a  little 
+xanthine  silver,  is  then  collected  on  a  filter  and  washed 
+a  few  times  with  water. 
+
+"The  separation  of  these  two  xanthine  bases  is  ac- 
+complished by  converting  them  into  the  silver  nitrate 
+compounds.  These  compounds  conduct  themselves  dif- 
+ferently towards  nitric  acid.  The  hypoxanthine  silver 
+nitrate  compound  is  very  difficultly  soluble  in  nitric  acid ; 
+the  xanthine  silver  nitrate  compound  is  far  more  readily 
+soluble.    The  following  is  the  best  method  of  procedure : 
+
+
+54  Food  and  Nutrition 
+
+"Put  the  still  moist  precipitate  into  a  flask  and  pour 
+over  it  a  mixture  of  lOO  cc.  of  nitric  acid  and  lOO  cc. 
+of  water;  add  i  gram  of  urea,  heat  just  to  boiling,  and 
+let  cool.  The  hypoxanthine  silver  contained  in  the  pre- 
+cipitate is  converted  into  hypoxanthine  silver  nitrate, 
+which  remains  partly  undissolved  and  partly  goes  into 
+solution,  but  separates  out  of  the  solution  again  on  cool- 
+ing. The  addition  of  the  urea  is  to  prevent  the  formation 
+of  nitrous  acid,  which  might  decompose  the  xanthine 
+bases.  Filter  the  hypoxanthine  silver  nitrate  off  after 
+a  few  hours,  and  wash  until  the  wash  water  no  longer 
+reacts  strongly  acid.  Let  the  filtrate  (without  the  wash 
+water)  stand  till  next  day  and  filter  (without  working 
+up  the  precipitate,  which  is  a  mixture  of  hypoxanthine 
+silver  nitrate  and  xanthine  silver  nitrate).  The  filtrate 
+is  used  to  show  the  presence  of  xanthine.  The  hypo- 
+xanthine silver  nitrate  is  examined  under  the  microscope 
+(fine  needles  frequently  grouped  in  the  form  of  stars). 
+
+"(a)  Pour  upon  a  small  portion  of  the  substance  on 
+a  porcelain  crucible  cover  a  few  drops  of  strong  or 
+fuming  nitric  acid,  and  evaporate  cautiously  to  dryness 
+over  a  small  flame.  A  lemon-yellow  residue  results, 
+which  takes  on  an  orange  color  when  moistened,  after 
+cooling,  with  caustic  soda  solution.  If  a  drop  of  water 
+be  then  added,  a  yellow  solution  results,  and  this  when 
+evaporated  again  leaves  an  orange  residue  (distinction 
+from  the  murexide  reaction  for  uric  acid). 
+
+"{h)  Pour  upon  a  small  portion  of  the  substance  in 
+a  dish  a  httle  pure  nitric  acid  of  the  specific  gravity  1.2, 
+and    evaporate    on    the    water-bath    to    dryness.      The 
+
+
+Laboratory  Manual  55 
+
+residue  is  scarcely  perceptibly  colored.  On  the  addition 
+of  caustic  soda  it  becomes  pale  yellow  (distinction  from 
+xanthine  and  guanine,  which  under  these  conditions  give 
+the  xanthine  reaction).  Hypoxanthine  is  further  dis- 
+tinguished by  its  solubility  in  ammonia  and  the  insolu- 
+bility of  its  compound  with  silver  nitrate  in  nitric  acid, 
+and  also  by  the  crystal  form  of  this  compound. 
+
+"(r)  The  filtrate  from  hypoxanthine  silver  nitrate 
+contains  xanthine,  as  previously  stated,  but  only  in  small 
+quantity.  Make  it  alkaline  with  ammonia  (or,  in  order 
+to  save  ammonia,  neutralize  the  greater  part  of  the  acid 
+with  soda  or  lime  and  then  make  alkaline  With  ammonia). 
+Xanthine  silver  precipitates  in  brown  or  reddish  flakes. 
+These  are  filtered  off,  washed,  suspended  in  water,  some 
+drops  of  ammonia  added,  heated,  treated  with  a  few 
+drops  of  ammonium  sulphide,  shaken  thoroughly,  filtered 
+from  the  silver  sulphide,  and  evaporated  (or  the  precip- 
+itate may  also  be  decomposed  with  hydrochloric  acid  and 
+xanthine  hydrochloride  obtained  on  evaporation).  Very 
+frequently  the  silver  sulphide  passes  through  the  filter; 
+we  then  evaporate  to  dryness  and  extract  the  residue 
+with  boiling  water.  The  xanthine  thus  obtained  is  usu- 
+ally not  quite  pure  and  the  quantity  is  very  small.  It 
+suffices,  however,  for  the  xanthine  test  as  wxll  as  for 
+the  so-called  Weidel's  reaction. 
+
+"(ff)  Xanthine  test. — Dissolve  the  residue  or  half 
+of  it  in  nitric  acid  and  evaporate  cautiously  to  dryness 
+on  a  crucible  cover  over  a  small  flame.  A  lemon-yellow 
+residue  results,  which  becomes  intensely  red  on  moisten- 
+ing with  caustic  soda,  and  on  further  heating  purplish 
+
+
+56  Food  and  Nutrition 
+
+red.  Add  a  few  drops  of  water  and  warm;  a  yellow 
+solution  results,  which  again  gives  a  red  residue  on 
+evaporation  (distinction  from  the  murexide  reaction  for 
+uric  acid). 
+
+"(^)  The  so-called  WeideVs  reaction. — Dissolve  half 
+of  the  xanthine  obtained  in  bromine  water,  warming 
+gently,  evaporate  the  solution  on  the  water-bath  to  dry- 
+ness, and  invert  the  dish  over  another  which  contains 
+some  ammonia.     The  residue  becomes  red." 
+
+Questions 
+
+1.  In  what  ways  is  salt  used  in  the  preparation  of 
+meat? 
+
+2.  If  you  wish  rare  roast  beef,  what  should  be  the 
+maximum  interior  temperature  of  the  roast? 
+
+3.  What  are  the  factors  in  producing  flavor  in 
+preparation  of  meat? 
+
+4.  What  inferences  concerning  making  of  soup  do 
+you  draw  from  Dr.  Grindley's  investigations  in  meat? 
+
+5.  Discuss  the  subject  of  basting  of  meats. 
+
+6.  What  protein  substances  are  drawn  out  in  cold 
+water  extracts  of  meat? 
+
+7.  Do  the  substances  extracted  by  hot  and  cold 
+water  differ  in  character  or  quantity  ?  What  is  the  chief 
+loss  in  cooking  meat?  How  is  the  percentage  of  loss 
+of  water  influenced  by  method  of  cooking? 
+
+8.  Discuss  in  a  general  way  the  changes  which 
+take  place  in  meat  during  cold  storage. 
+
+
+WHEAT,  FLOUR,  AND    BREAD 
+
+References:  Jago. 
+Allen. 
+
+Leffmann  and  Beam. 
+Osborne.      The     Proteins    of    the    Wheat 
+
+Kernel. 
+Osborne   and   Voorhees.     The   Proteids   of 
+the    Wheat    Kernel.      Journal    of    Amer. 
+Chem.  Soc,  Vol.  XV,  No.  6. 
+Division   of   Chemistry.      Bulletin    No.    13, 
+
+Pt.  9. 
+Office    of    Experiment    Stations,    Bulletins 
+
+Nos.  52,  67,  85,  loi,  126,  143,  156. 
+South  Dakota  Exp.  Sta.,  Bulletin  No.  82. 
+U.  S.  Dept.  of  Agriculture,  Office  of  Sec- 
+retary, Circular  No.  13. 
+ExPT.  81.    Examine  wheat  kernel.    Examine  sections 
+of  wheat  kernel  under  microscope  and  make  drawings. 
+ExPT.  82.     Review  physical  tests  of  flour  which  you 
+have  made  with  low  grade  and  high  grade  flours  from 
+winter  and  spring  wheat. 
+
+ExPT.  83.  Make  "doughing  tests"  with  three  differ- 
+ent kinds  of  flour  as  follows:  Mix  in  an  evaporating 
+dish  with  a  glass  rod  or  spatula  45  grams  of  flour  and 
+a  measured  quantity  of  water,  enough  to  make  stiff 
+dough.  Repeat  the  experiment  with  the  other  flours, 
+using  water  enough  to  make  doughs  of  the  same  con- 
+
+57 
+
+
+58  Food  and  Nutrition 
+
+sistency  as  No.  i.  Observe  the  cubic  centimeters  of 
+water  used  in  each  case  and  estimate  the  amount  of 
+water  to  "dough"  i  pound  of  each  of  the  flours. 
+
+ExPT.  84.  Preparation  of  gluten. — 45  grams  flour; 
+water  to  make  a  stiff  dough.  Let  it  stand  one  hour. 
+Put  in  cheese  cloth  and  wash  in  stream  of  water.  For 
+large  amount  of  flour  (as  i  pound)  better  to  lay  cloth 
+over  sieve  and  wash.  The  gluten  remains  on  the  cheese 
+cloth.    If  gluten  is  to  be  baked,  put  in  oven  immediately. 
+
+{a)  Treat  a  small  portion  of  this  gluten  with  10  per 
+cent  sodium  chloride  solution.  Does  it  dissolve  the 
+gluten?  Grind  some  of  the  gluten  in  a  mortar  with 
+alcohol  (70  per  cent  by  volume).  Filter.  Observe 
+change  in  residue.  Explain  it.  Test  the  filtrate  as  fol- 
+lows: To  one  portion  add  distilled  water.  Boil  one 
+portion.  Make  biuret  test  on  another  portion.  What 
+proteins  have  you  obtained? 
+
+(&)  Test  two  flours  in  the  aleurometer  (see  Allen). 
+For  further  work  in  separation  of  proteins  of  wheat 
+flour  see  Osborne. 
+
+Questions 
+
+1.  Compare  the  flours  obtained  from  spring  and 
+winter  wheats,  giving  characteristics  of  each  kind. 
+
+2.  What  dift'erence  in  manipulation  do  these  flours 
+require  in  the  making  of  bread? 
+
+3.  Describe  the  changes  which  the  different  food 
+principles  undergo  in  the  making  of  bread. 
+
+4.  Discuss  the  factors  that  produce  sour  bread. 
+
+5.  What  qualities  of  bread  are  affected  by  the  stage 
+at  which  fermentation  is  arrested? 
+
+
+Laboratory  Manual  59 
+
+6.  What  are  the  characteristics  of    a  good  macaroni 
+flour? 
+
+7.  Discuss  American  macaroni. 
+
+8.  Describe    the    general    structure    of    the    wheat 
+grain. 
+
+9.  From  what  part  of  the  grain  is  the  larger  part 
+of  the  flour  obtained  ? 
+
+10.  What  do  you  understand  by  the  term  "aleurone 
+layer"? 
+
+11.  Do  "long "and  "short"  process  bread  differ  in 
+flavor,  texture,  or  chemical  composition? 
+
+12.  How  can  you  distinguish  gliadin  and  glutenin? 
+
+13.  In  what  way  do  these  substances  influence  the 
+bread-making  qualities  of  a  flour? 
+
+14.  Upon  what  do  the  bread-making  qualities  of  a 
+flour  depend? 
+
+15.  Upon  what  does  the  nutritive  value  of  a  flour 
+depend  ? 
+
+
+DIGESTION   OF  STARCH 
+
+ExPT.  85.  Prepare  an  iodine  solution.  Make  a 
+starch  paste  by  boiling  30  grams  of  starch  in  500  cc. 
+of  water.  Boil  until  it  becomes  translucent,  stirring 
+thoroughly.  Put  25  cc.  of  this  paste  into  each  of  six 
+bottles  and  stand  five  of  them  on  the  water-bath,  to  be 
+kept  at  a  temperature  of  40°  C. 
+
+Number  the  bottles  i,  2,  3,  4,  5,  and  6,  respectively. 
+Place  No.  5  in  ice  water.  Weigh  out  carefully  i  deci- 
+gram of  pepsin  for  No.  i,  i  decigram  of  pancreatin  for 
+No.  2,  I  decigram  of  amylopsin  each  for  3  and  5.  Put 
+a  small  amount  of  saliva  in  No.  6. 
+
+Put  these  weighed  quantities  of  the  ferments  into 
+their  respective  bottles,  and  shake  thoroughly.  Notice 
+that  (4)  is  only  for  comparison. 
+
+How  does  the  ferment  in  each  case  affect  the  starch 
+mass?  In  which  does  it  liquefy  most?  Take  five  ordi- 
+nary test-tubes  and  fill  with  water.  Set  them  in  a  row, 
+or  number  with  a  gummed  label.  Drop  one  small  drop 
+of  iodine  solution  into  each  by  means  of  a  pipette,  and 
+shake  to  mix. 
+
+When  the  enzymes  have  been  at  work  for  five  min- 
+utes, take  a  clean  pipette  and  drop  one  drop  of  No.  i 
+into  the  first  tube  of  iodine  solution  and  put  one  drop 
+of  No.  2  into  second  iodine  tube,  and  so  on  for  each 
+tube.  Rinse  the  pipette  each  time.  Then  shake  the 
+iodine  solutions.     Test  tube  (6)  every  few  seconds  by 
+
+60 
+
+
+Laboratory  Manual  6 1 
+
+adding  a  drop  of  solution  from  (6)  to  a  drop  of  iodine 
+on  a  white  plate. 
+
+No.  4  will  show  what  pure  starch  and  iodine  will 
+give.  How  do  the  others  compare?  In  which  do  you 
+find  the  least  change  of  color  of  the  iodine?  Allow  to 
+stand  5  minutes  more  and  repeat  the  same,  having  re- 
+plenished your  test-tubes  with  iodine  solution.  What 
+is  the  effect  of  temperature  as  shown  by  the  ice  water? 
+
+After  you  have  settled  the  question  as  to  which  of 
+these  ferments  is  most  active  in  digesting  starch,  test 
+the  product  of  digestion  to  determine  what  change  has 
+taken  place  in  the  starch.  Compare  the  action  of  saliva 
+on  starch  paste  and  raw  starch.    What  do  you  conclude  ? 
+
+
+DIGESTION    OF   PROTEINS 
+
+ExPT.  86.      Fibrin   may   be   used   in   the    following 
+experiments  instead  of  white  of  egg,  also  natural  instead 
+of  artificial  gastric  and  pancreatic  juices. 
+References:  Howell. 
+
+Hammarsten. 
+Salkowski. 
+
+Grindley.     Bulletin  No.  193,  U.  S.  Dept.  of 
+Agriculture,  Office  of  Experiment  Stations. 
+I.     Make  up  solutions  as  follows: 
+
+1.  Dilute  6  cc.  HCl  (1.19  sp.  gr.)  to  i  liter. 
+
+2.  Add  to  solution  (1)1  gram  pepsin  (or  2  grams). 
+
+3.  Add  to  1,000  cc.  water  i  gram  pepsin. 
+
+4.  Add  to    1,000  cc.    I   per  cent   NagCOg,    i    gram 
+pepsin. 
+
+5.  1,000  cc.  I  per  cent  Na2C03  +  2  to  3  grams  pan- 
+creatin. 
+
+6.  2  to  3  grams  pancreatin  to  i  liter  solution  ( i ) . 
+
+7.  2    grams    amylopsin   +    1,000  cc.     i    per    cent 
+NaoCOg. 
+
+II.     Prepare  test-tubes  or  bottles  as  follows: 
+Boil  an  egg  hard  and  put  the  white  through  sieve. 
+Use  in  following  experiments: 
+
+(a)  In  tube  (a)  put  >4  gram  white  of  egg  and  20  cc. 
+solution  (2). 
+
+(b)  y2  gram   white   of   egg  in   one   piece  +  20 cc. 
+solution  (2). 
+
+62 
+
+
+Laboratory  Manual  63 
+
+(0)^2  gram  white  of  egg  in  20 cc.  solution  (i). 
+
+(d)   Yz  gram  white  of  egg  in  20 cc.  solution  (3). 
+
+(^)   /^  gram  white  of  egg  in  20  cc.  solution  (4). 
+
+(/)  V^  gram  white  of  egg  in  20  cc.  solution  (5)  and 
+thymol. 
+
+(^)   y^  gram  white  of  egg  in  20  cc.  solution  (6). 
+
+(K)   Yz  gram  white  of  egg  in  20 cc.  solution  (7). 
+
+(i)   Yz  gram  yolk  of  egg  in  20  cc.  solution  (5). 
+
+(/)  Prepare  a  second  tube  like  (a)  and  put  in  a  cool 
+place. 
+
+(^)  Prepare  a  tube  like  (2)  and  add  a  few  shreds 
+of  muscle  fiber  washed  until  white. 
+
+(/)  Prepare  a  tube  like  {i)  and  add  washed  muscle 
+fiber. 
+
+{m)  Prepare  a  fifth  tube  containing  20  cc.  solu- 
+tion (5)  and  add  washed  muscle  fiber. 
+
+Place  tubes  thus  prepared  and  labeled  in  warm  oven 
+at  40°  C.  Let  the  materials  digest  for  2  or  3  days  and 
+note  carefully  the  results.  At  the  end  of  2  or  3  days 
+test  the  contents  of  the  tube  for  the  products  of  digestion. 
+
+Products  of  Protein  Digestion 
+
+(a)  Peptic  digestion. — Dilute  3  cc.  of  concentrated 
+HCl  to  500  cc.  with  distilled  water,  and  add  Y  gram 
+of  soluble  pepsin.  Add  this  solution  to  the  whites  of 
+four  boiled  eggs  rubbed  through  a  sieve.  Allow  to 
+stand  in  a  warm  place,  preferably  at  40°  C,  and  not 
+above  56°  C,  with  frequent  shaking.  After  four  days 
+filter,  and  test  a  small  portion  of  the  solution  for  acid 
+albuminates  by  just  neutralizing  with  NaOH;  filter  out 
+
+
+64  Food  and  Nutrition 
+
+the  acid  albuminate  and  test  the  filtrate  for  proteoses 
+and  peptones  with  Millon's  reagent.  Neutralize  the 
+main  bulk  of  the  filtrate  with  NaoCOg  and  filter  out  the 
+acid  albuminate.  Heat  the  filtrate  to  boiling.  A  pre- 
+cipitate here  is  due  to  coagulable  proteins.  Filter  and 
+evaporate  the  filtrate  to  200  cc.  on  the  water-bath.  Sat- 
+urate the  solution  with  solid  (NH4)2S04  and  filter  out 
+the  albumose  precipitated.  The  precipitate  of  the  albu- 
+mose  is  complete  only  after  long  standing  of  a  completely 
+saturated  solution. 
+
+Make  tests  for  acid  albuminate  in  precipitate  and  for 
+peptone  in  filtrate. 
+
+{h)  Pancreatic  digestion  of  egg  white. — Boil  four 
+eggs  hard  and  rub  the  whites  through  a  sieve.  Put 
+them  in  a  stoppered  flask  with  500  cc.  of  i  per  cent 
+NagCOg  solution  containing  2  or  3  grams  of  pancreatin 
+(commercial).  Use  a  little  thymol  or  chloroform  to 
+prevent  putrefaction.  The  mixture  is  digested  at  40°  C. 
+for  about  72  hours,  then  the  content  of  the  flask  is  made 
+faintly  acid  with  acetic  acid  and  boiled.  Filter  and 
+evaporate  the  filtrate  to  a  thin  sirup.  Set  in  a  cool 
+place  until  crystals  of  tyrosin  appear.  Examine  some 
+of  the  crystals  under  the  microscope.  Decant  through 
+muslin  (reserve  filtrate  for  separation  of  leucin)  and 
+wash  with  water.  These  crystals  may  be  used  for  the 
+following  experiments.  (If  crystals  of  leucin  have 
+separated  also,  heat  material  cautiously  in  a  little  water 
+and  filter.    The  leucin  is  dissolved.) 
+
+I.  Put  a  few  crystals  of  tyrosin  in  a  test-tube  with 
+a  little  water,  add  a  few  drops  of  Millon's  reagent,  and 
+
+
+Laboratory  Manual  6$ 
+
+heat  gently.  The  Hquid,  especially  on  standing,  turns 
+deep  red. 
+
+2.  Piria's  test  {Hawk). — "Warm  a  little  tyrosin  on 
+a  watch-glass  on  a  boiling  water-bath  for  20  minutes 
+with  3-5  drops  of  concentrated  H2SO4.  Tyrosin-sul- 
+phuric  acid  is  formed  in  the  process.  Now  add  CaCOg 
+in  substance  slowly,  with  stirring,  until  the  reaction  of 
+the  solution  is  no  longer  acid.  Filter,  concentrate  the 
+filtrate,  and  add  to  it  a  few  drops  (avoid  an  excess)  of 
+very  dilute  neutral  ferric  chloride.  A  purple  or  violet 
+color,  due  to  the  formation  of  the  ferric  salt  of  tyrosin- 
+sulphuric  acid,  is  produced.  This  is  one  of  the  most 
+satisfactory  tests  for  the  identification  of  tyrosin." 
+
+Leucin.  —  The  solution  decanted  from  the  tyrosin  is 
+evaporated  further  on  the  water-bath,  and  on  standing 
+crystals  of  leucin  form  on  the  surface.  Examine  under 
+the  microscope.  Compare  with  tyrosin.  For  further 
+experiments  see  Hawk. 
+
+
+DIGESTION    OF   FAT 
+
+ExPT.  87.  Digestion  of  fat  (or  action  of  pancreatin 
+on  fats). — Free  a  fresh  pancreas  (pig  or  beef)  from  fat. 
+Cut  up  with  the  scissors.  Then  grind  a  few  grams  with 
+fine  sand  in  a  mortar  to  a  paste.  Add  water  until  it  is 
+a  creamy  consistency.  Melt  some  butter  in  a  test-tube 
+and  let  curd  settle.  Mix  a  few  grams  with  an  equal 
+volume  of  pancreas  paste.  Add  some  chloroform  water 
+and  keep  at  a  temperature  of  40°  for  several  hours. 
+Then  test  the  reaction  with  rosolic  acid.  It  is  well  to 
+know  the  reaction  of  the  mixture  before  it  is  put  in  the 
+warm  oven. 
+
+"Litmus-Milk"  test.  —  Into  each  of  two  test-tubes 
+introduce  10  cc.  of  milk  and  a  small  amount  of  litmus 
+powder.  To  the  contents  of  one  tube  add  3  cc.  of  neutral 
+pancreatic  extract,  and  to  the  contents  of  the  other  tube 
+add  3  cc.  of  water  or  of  hoiled  neutral  pancreatic  ex- 
+tract. Keep  the  tubes  at  40°  C.  and  note  any  changes 
+which  may  occur.  What  is  the  result,  and  how  do  you 
+explain  it? 
+
+Questions 
+
+1.  In  what  forms  are  the  carbohydrates  of  the  food 
+absorbed  in  the  body? 
+
+2.  What  are  the  bad  effects  of  an  excessive  use  of 
+sugar  in  the  diet  ? 
+
+3.  What  is  saccharine?    What  is  its  place  in  the  diet? 
+
+66 
+
+
+Laboratory  Manual  6/ 
+
+4.  Under  what  circumstances  are  sugar  and  starch 
+avoided  in  the  diet? 
+
+5.  What  protein  foods  would  you  use  in  the  diet  of 
+children  ? 
+
+6.  What  objections  are  urged  against  a  high  protein 
+diet?    A  low  protein  diet? 
+
+7.  Name  some  foods  that  yield  purin  bodies. 
+
+8.  What  results   are  likely  to   follow   an  excessive 
+use  of  fat  in  the  diet? 
+
+9.  In  what  pathological  condition  is  fat  particularly 
+prescribed  ? 
+
+10.  Why  is  cows'  milk  modified  in  infant  feeding? 
+
+
+APPENDIX 
+
+1.  Constant  temperature  hath  for  gelatinization  of 
+starch.  —  Place  about  15  cc.  of  a  i  per  cent  starch  sus- 
+pension in  a  test-tube  inserted  in  a  cork,  which  will  serve 
+as  a  stopper  to  the  outside  tube  of  an  ordinary  Beekmann 
+boiling  point  apparatus.  The  outside  tube  may  then  be 
+filled  with  any  desired  liquid  of  constant  boiling  point, 
+and  the  inner  tube  suspended  so  as  to  be  in  contact  with 
+only  the  vapors  of  the  boiling  bath.  The  vapors  are  con- 
+densed and  run  back  into  the  tube  from  a  side  arm 
+connected  with  a  condenser.  Samples  of  the  starch  may 
+be  removed  from  the  inner  tube  periodically  and  exam- 
+ined under  the  microscope.  By  using  baths  of  various 
+liquids  boiling  below  100°  C,  the  effect  of  long-continued 
+but  low  heat  on  starch  granules  may  be  easily  observed. 
+
+2.  Egg  albumin.  —  Cut  up  with  scissors  the  v/hites 
+of  one  dozen  eggs,  turn  these  into  an  equal  volume  of 
+saturated  (NH4)2S04,  then  filter  (the  precipitate  is 
+globulin).  To  the  filtrate  add  acetic  acid  (10  per  cent) 
+until  a  permanent  precipitate  appears,  then  add  i  cc. 
+acetic  acid  for  each  100  cc.  of  solution.  Stand  over 
+night;  filter.     Dry  the  precipitate  and  powder. 
+
+3.  Globulin.  —  Dissolve  the  globulin  precipitate  by 
+adding  water  (the  ammonium  sulphate  in  the  precipitate 
+is  sufficient  to  make  a  dilute  salt  solution).  Reprecipi- 
+tate  by  adding  about  an  equal  volume  of  alcohol.  Filter, 
+dry,  powder. 
+
+68 
+
+
+Laboratory  Manual  69 
+
+4.  Ovovitellin.  —  Shake  the  yolks  of  two  eggs  with 
+200  cc.  of  ether  and  add  5  cc.  of  alcohol.  Let  the  pre- 
+cipitate settle  and  pour  off  the  ether  solution  as  com- 
+pletely as  possible,  then  add  100  cc.  of  a  15  per  cent  NaCl 
+solution  to  the  precipitate.  On  shaking,  the  precipitate 
+dissolves  in  the  salt  solution,  which  is  somewhat  turbid. 
+Put  the  liquid  in  a  separatory  funnel  and  shake  it  with 
+an  equal  volume  of  ether.  Separate  the  aqueous  fluid 
+from  the  ether  and  let  it  stand  until  the  next  day.  If 
+it  is  turbid  shake  it  again  with  ether.  Draw  off  the 
+aqueous  fluid  again,  measure  it,  and  pour  into  it  ten 
+times  its  volume  of  water.  Let  this  stand  until  next  day 
+and  filter.  Wash  with  water  and  then  with  alcohol.  This 
+precipitate  is  mixed  with  some  lecithin.  This  may  be 
+removed  by  adding  absolute  alcohol  to  the  precipitate 
+and  boiling  in  a  flask  on  the  water-bath.  Filter,  wash 
+with  alcohol,  then  with  ether,  then  grind  in  a  mortar  and 
+dry  in  a  desiccator.  A  fine  yellow  powder  is  different 
+from  that  of  the  first  precipitate  (see  "A  Laboratory 
+Manual  of  Physiological  Chemistry,"  by  Salkowski, 
+1904). 
+
+5.  Ovomucoid. — Add  to  whites  of  six  eggs  four 
+times  their  volume  of  water,  shake  thoroughly,  and  pour 
+into  twice  the  volume  of  boiling  water  made  very  slightly 
+acid  by  acetic  acid.  Boil  briskly  over  free  flame  (granite 
+pan)  to  thoroughly  coagulate  albumin  and  globulin. 
+Filter  and  evaporate  filtrate  (which  should  give  no  pre- 
+cipitate with  mercuric  chloride)  on  water-bath  to  about 
+40  cc,  pour  into  100  cc.  absolute  alcohol,  let  stand  until 
+precipitate  settles.  Filter,  wash  with  alcohol  and  ether, 
+and  dry. 
+
+
+70  Food  and  Nutrition 
+
+{a)  Hydrolysis  of  ovomucoid. — To  a  small  portion 
+of  the  ovomucoid  add  locc.  dilute  HCl  (lo  per  cent) 
+and  boil  for  five  minutes,  adding  water  as  necessary. 
+Add  KOH  to  neutralize,  and  test  the  resulting  solution 
+with  Fehling's  reagent  for  reducing  substances.  If  a 
+precipitate  does  not  appear  at  once  allow  the  solution  to 
+stand  until  it  becomes  cool.  If  this  method  does  not 
+give  satisfactory  proof  of  a  reducing  substance,  long- 
+continued  boiling  with  HCl  as  directed  in  the  hydrolysis 
+of  mucin  may  be  employed. 
+
+According  to  Salkowski,  nucleo-protein  may  be  ob- 
+tained as  follows: 
+
+6.  Free  the  pancreas  from  fat.  Heat  200  grams  of 
+finely  chopped  pancreas  to  boiling  with  i  liter  of  water, 
+keep  boiling  for  ten  minutes,  filter,  and  add  cautiously 
+to  the  filtrate,  while  still  warm,  about  10-15  cc.  of 
+30  per  cent  acetic  acid,  until  a  fine,  flocculent  precipitate 
+begins  to  settle.  If  the  precipitate  does  not  settle  well 
+it  is  advisable  to  heat  again.  Filter,  wash  with  water, 
+remove  the  precipitate  from  the  filter,  grind  it  with  50  cc. 
+of  absolute  alcohol,  filter,  treat  the  precipitate  with  about 
+50  cc.  of  ether,  filter  next  day,  wash  once  with  ether, 
+and  grind.  The  presence  of  phosphorus  and  pentose 
+may  be  very  easily  shown  in  the  somewhat  impure 
+nucleo-protein  thus  obtained. 
+
+{a)  To  detect  the  phosphorus  fuse  a  small  quantity 
+with  the  oxidizing  mixture,  and  then  proceed  as  under 
+Casein. 
+
+{h)  To  detect  the  pentose  the  phloroglucin  and  the 
+orcin  tests  may  be  used. 
+
+
+Laboratory  Manual  yi 
+
+Phloroglucin  test. — Pour  on  a  very  small  quan- 
+tity of  the  substance  in  a  few  cubic  centimeters  of 
+hydrochloric  acid,  add  a  little  phloroglucin,  and  heat  to 
+boiling — cherry-red  color,  then  turbidity.  Let  cool  some- 
+what, shake  with  an  equal  volume  of  amyl  alcohol,  and 
+examine  this  with  the  spectroscope — absorption  band  be- 
+tween D  and  E. 
+
+Orcin  test.  —  Instead  of  phloroglucin  take  a  few 
+orcin  crystals  and  proceed  in  the  same  way — reddish 
+blue  color,  then  precipitation  of  a  blue  pigment.  The 
+amyl  alcohol  turns  red  and  after  some  time  emerald 
+green.  Examine  with  the  spectroscope — absorption  band 
+between  C  and  D. 
+
+y.  Separation  of  proteose  and  peptones  according  to 
+Hawk. — "Place  50 cc.  of  proteose-peptone  solution  in 
+an  evaporating  dish  or  casserole,  and  half  saturate  it  with 
+(NH4)2S04  solution,  which  may  be  accomplished  by 
+adding  an  equal  volume  of  saturated  {']>[Y{^)^SO^  solu- 
+tion. At  this  point  note  the  appearance  of  a  precipitate 
+of  the  primary  proteoses  (protoproteose  and  heteropro- 
+teose).  Now  heat  the  half-saturated  solution  and  its 
+suspended  precipitate  to  boiling,  and  saturate  the  solution 
+with  solid  (NH4)2SO^.  At  full  saturation  the  secondary 
+proteoses  (deuteroproteoses)  are  precipitated.  The  pep- 
+tones remain  in  solution. 
+
+"Proceed  as  follows  with  the  precipitate  of  proteoses: 
+Collect  the  sticky  precipitate  on  a  rubber-tipped  stirring 
+rod,  or  remove  it  by  means  of  a  watch-glass  to  a  small 
+evaporating  dish,  and  dissolve  it  in  a  little  water.  To 
+remove  the  (NH4)2SO^,  which  adhered  to  the  precipitate 
+
+
+72  Food  and  Nutrition 
+
+and  is  now  in  solution,  add  BaCOg,  boil,  and  filter  off 
+the  precipitate  of  BaSO^.  Concentrate  the  proteose 
+solution  to  a  small  volume  and  make  the  following  tests : 
+
+"(a)  Biuret  test. 
+
+''(b)  Precipitation  by  HNO3. — What  would  a  pre- 
+cipitate at  this  point  indicate? 
+
+"(c)  Precipitation  by  trichloracetic  acid. — This  pre- 
+cipitate dissolves  on  heating  and  returns  on  cooling. 
+
+"(d)  Precipitation  by  picric  acid. — This  precipitate 
+also  disappears  on  heating  and  returns  on  cooling. 
+
+"(e)  Precipitation  by  potassio-mer curie  iodide  and 
+HCl. 
+
+"(f)  Coagulation  test. — Boil  a  little  in  a  test-tube. 
+Does  it  coagulate? 
+
+"(g)  Acetic  acid  and  potassium  ferrocyanide  test. 
+
+"The  solution  containing  the  peptones  should  be 
+cooled  and  filtered,  and  the  (NH4)2S04  in  solution  re- 
+moved by  boiling  with  BaCOg.  After  filtering  off  the 
+BaS04  precipitate,  concentrate  the  peptone  filtrate  to  a 
+small  volume  and  repeat  the  tests  as  given  under  the 
+proteose  solution.  In  the  biuret  test  the  solution  should 
+be  made  very  strongly  alkaline  with  solid  KOH." 
+
+
+BIBLIOGRAPHY 
+
+Allen:  Commercial  Organic  Analysis,  Vol.  I  (3d  ed.).  Phila- 
+delphia, 1898.  Vol.  II,  Pt.  I  (3d  ed.).  Philadelphia,  1901. 
+Vol.  IV  (2d  ed.).     Philadelphia,  1898. 
+
+Beddard^  Hill,  Ed  kins,  and  McCleod:  Practical  Physiology. 
+London,  1902. 
+
+BiGELOw:  Fruit  and  Fruit  Products.  United  States  Department 
+of  Agriculture,  Bureau  of  Chemistry,  Bulletin  No.  66,  1902. 
+
+Blyth  :  Foods,  Their  Composition  and  Analysis.  New  York, 
+1903. 
+
+Conn:  Bacteria,  Yeasts,  and  Molds  in  the  Home.    Boston,  1905. 
+
+Effront:  Enzymes  and  Their  Applications.  Vol.  I,  The  En- 
+zymes of  Carbohydrates  (translated  by  Prescott).  New 
+York,  1902. 
+
+Green:  Soluble  Ferments  and  Fermentation.     Cambridge,  1901. 
+
+Grindley  :  Nitrogenous  Constituents  of  Flesh.  Journal  American 
+Chemical  Society,  Vol.  XXVI,  No.  9,  September,  1904. 
+
+Grindley  and  Emmett:  The  Chemistry  of  Flesh.  Journal 
+American  Chemical  Society,  Vol.  XXVH,  No.  6,  June,  1905. 
+
+Grindley  and  Emmett:  The  Influence  of  Cooking  upon  the 
+Nutritive  Value  of  Meats.  United  States  Department  of 
+Agriculture,  Office  of  Experiment  Stations,  Bulletin  No.  162, 
+
+Grindley  and  Sprague:  A  Precise  Method  of  Roasting  Beef. 
+
+Halliburton:  A  Text-book  of  Physiological  Chemistry.  Lon- 
+don and  New  York,  1891. 
+
+Hammarsten:  A  Text-book  of  Physiological  Chemistry.  (4th 
+ed.,  translated  by  Mandel.)     New  York,  1904. 
+
+Hawk:  Practical  Physiological  Chemistry.    Philadelphia,  1907. 
+
+Howell:  American  Text-book  of  Physiology,  Vol.  I.  Philadel- 
+phia, 1900. 
+
+73 
+
+
+74  Food  and  Nutrition 
+
+Jackson:  Directions  for  Laboratory  Work  in  Physiological 
+Chemistry  (2d  ed.).     New  York,  1903. 
+
+Jagg:  The  Science  and  Art  of  Bread-Making.    London,  1895. 
+
+Lafar:  Technical  Mycology,  Vol.  L  London,  1898.  Vol.  II, 
+Pt.  I.     (Translated  by  Salter.)     London,  1903. 
+
+Leach  :  Food  Inspection  and  Analysis.    New  York,  1904. 
+
+Leffmann  and  Beam  :  Food  Analysis.     Philadelphia,  1901. 
+
+Lincoln  and  Walton:  Elementary  Quantitative  Chemical 
+Analysis. 
+
+Lippmann:  Chemie  der  Zuckerarten.     Braunschweig,  1905. 
+
+Long:  A  Text-book  of  Physiological  Chemistry.  Philadelphia, 
+1905. 
+
+Mann  :  Chemistry  of  the  Proteids.    London,  1906. 
+
+Maquenne:  Les  Sucres.    Paris,  1900. 
+
+Meyer:  Utersuchungen  iiber  die  Starkekorner.    Jena,  1895. 
+
+Mitchell:  Flesh  Foods.    London,  1900. 
+
+NoYES:  A  Text-book  of  Organic  Chemistry.     New  York,  1903. 
+
+Osborne:  Proteids  of  Wheat.  Connecticut  Agricultural  Experi- 
+ment Station,  17th  Annual  Report,  Pt.  4. 
+
+Osborne:  The  Proteins  of  the  Wheat  Kernel.  Washington, 
+D.  C,  1907. 
+
+Osborne  and  Campbell:  The  Proteids  of  Egg  Yolk.  Journal 
+American  Chemical  Society,  Vol.  XXII,  No.  7,  1900. 
+
+Osborne  and  Harris  :  Nitrogen  in  Protein  Bodies.  Journal 
+American  Chemical  Society,  Vol.  XXV,  No.  4,  1903. 
+
+Osborne  and  Voorhees:  The  Proteids  of  the  Wheat  Kernel. 
+Journal  American  Chemical  Society,  Vol.  XV,  No.  6. 
+
+Salkowski  :  A  Laboratory  Manual  of  Physiological  and  Patho- 
+logical Chemistry  (translated  by  Orndorff).  New  Yo-rk, 
+1904. 
+
+Schafer  :  A  Text-book  oi  Physiology.    New  York,  1898. 
+
+Sherman:  IMethods  of  Organic  Analysis.    New  York,  1905. 
+
+
+Laboratory  Manual  ^$ 
+
+Simon:  A  Text-book  of  Physiological  Chemistry.  New  York, 
+1901. 
+
+Thorpe:  Outlines  of  Industrial  Chemistry.     New  York,  1907. 
+
+ToLLENs:  Chemie  der  Kohlendydrate,  Band  I.  Breslau,  1888. 
+Band  II.     Breslau,  1895. 
+
+Trowbridge  and  Grindley:  Chemistry  of  Flesh.  Journal  Amer- 
+ican Chemical  Society,  April,  1906. 
+
+Webster  and  Koch  :  A  Laboratory  Manual  of  Physiological 
+Chemistry.     Chicago,  1903. 
+
+Wiley:  Principles  and  Practice  of  Agricultural  Chemistry. 
+
+Wiley  :  Cereals  and  Cereal  Products.  United  States  Depart- 
+ment of  Agriculture,  Division  of  Chemistry,  Bulletin  No.  13, 
+Pt.  9. 
+
+Wiley  and  Bigelow:  Preserved  Meats.  United  States  Depart- 
+ment of  Agriculture,  Bureau  of  Chemistry,  Bulletin  No.  13, 
+Pt.  10,  1902. 
+
+United  States  Department  of  Agriculture,  Office  of  Experiment 
+Stations,  Bulletins  Nos.  52,  67,  85,  loi,  126,  143,  and  156; 
+Office  of  the  Secretary,  Circulars  Nos.  13  and  17. 
+
+
+SEP  23   \^^^ 
+
+
+II 
+
+
+LIBRARY  OF  CONGRESS 
+
+
+0  014  485  963  7  '^ 
+
+
+1 
+
+
+1 
+
+'  i" 
+
+
+lliili  illiillllill 
+lilPiiliPi 
+
+llllll  liiliiiii 
+I 
+
+

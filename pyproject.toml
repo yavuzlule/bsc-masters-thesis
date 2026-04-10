@@ -1,0 +1,58 @@
+[project]
+name = "bsc_relish"
+version = "0.1.0"
+description = "Automated Text Extraction from Historical Manuscripts"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Ahmet Yavuz Lülecioğlu" }
+]
+
+dependencies = [
+  "pandas>=2.0",
+  "scikit-learn>=1.3",
+  "pyyaml>=6.0",
+  "joblib>=1.3",
+  "sentence_transformers",
+  "xgboost"
+]
+
+# Optional but useful for CLI entrypoint
+[project.scripts]
+train = "src.bsc_relish.train:main"
+
+# -------------------------
+# Build system (required)
+# -------------------------
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+# -------------------------
+# Tooling
+# -------------------------
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]  # pycodestyle, pyflakes, import sorting
+
+[tool.ruff.format]
+quote-style = "double"
+
+# -------------------------
+# Optional: pytest
+# -------------------------
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+# -------------------------
+# Optional: packaging config
+# -------------------------
+
+[tool.setuptools.packages.find]
+where = ["src"]

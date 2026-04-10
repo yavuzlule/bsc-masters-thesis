@@ -1,0 +1,79 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.envrc/
+.venv/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =====================
+# Jupyter Notebook
+# =====================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =====================
+# Logs
+# =====================
+*.log
+logs/
+
+# =====================
+# ML / Data (IMPORTANT)
+# =====================
+data/processed/
+datasets/
+
+
+# Model checkpoints
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Hugging Face cache
+.cache/
+huggingface/
+transformers_cache/
+
+# =====================
+# OS / System files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# IDEs / Editors
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================
+# Testing / coverage
+# =====================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =====================
+# Temporary files
+# =====================
+*.tmp
+*.bak
+*.orig

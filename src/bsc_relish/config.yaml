@@ -1,0 +1,50 @@
+model:
+  name: logistic_regression
+  type: sklearn.linear_model.LogisticRegression
+
+  params:
+    C: 1.0
+    solver: saga
+    max_iter: 500
+    class_weight: "balanced"
+    random_state: 42
+
+pipeline:
+  run_preprocessing: true
+  run_training: true
+
+data:
+  raw_text_dir: "data/raw"
+  train_path: "data/interim"
+  target_column: label
+
+preprocessing:
+  chunking:
+    enabled: true
+    chunk_size: 500
+    overlap: 50
+
+  embeddings:
+    enabled: true
+    model_name: "all-MiniLM-L6-v2"
+
+training:
+  test_size: 0.2
+  stratify: true
+
+  cross_validation:
+    enabled: false   # enable later if needed
+    folds: 5
+    scoring: roc_auc
+
+evaluation:
+  metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1
+    - roc_auc
+
+output:
+  base_dir: results
+  save_model: true

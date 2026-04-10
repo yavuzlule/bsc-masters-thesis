@@ -1,0 +1,5915 @@
+This  is  a  digital  copy  of  a  book  that  was  preserved  for  generations  on  library  shelves  before  it  was  carefully  scanned  by  Google  as  part  of  a  project 
+to  make  the  world's  books  discoverable  online. 
+
+It  has  survived  long  enough  for  the  copyright  to  expire  and  the  book  to  enter  the  public  domain.  A  public  domain  book  is  one  that  was  never  subject 
+to  copyright  or  whose  legal  copyright  term  has  expired.  Whether  a  book  is  in  the  public  domain  may  vary  country  to  country.  Public  domain  books 
+are  our  gateways  to  the  past,  representing  a  wealth  of  history,  culture  and  knowledge  that's  often  difficult  to  discover. 
+
+Marks,  notations  and  other  marginalia  present  in  the  original  volume  will  appear  in  this  file  -  a  reminder  of  this  book's  long  journey  from  the 
+publisher  to  a  library  and  finally  to  you. 
+
+Usage  guidelines 
+
+Google  is  proud  to  partner  with  libraries  to  digitize  public  domain  materials  and  make  them  widely  accessible.  Public  domain  books  belong  to  the 
+public  and  we  are  merely  their  custodians.  Nevertheless,  this  work  is  expensive,  so  in  order  to  keep  providing  this  resource,  we  have  taken  steps  to 
+prevent  abuse  by  commercial  parties,  including  placing  technical  restrictions  on  automated  querying. 
+
+We  also  ask  that  you: 
+
++  Make  non-commercial  use  of  the  files  We  designed  Google  Book  Search  for  use  by  individuals,  and  we  request  that  you  use  these  files  for 
+personal,  non-commercial  purposes. 
+
++  Refrain  from  automated  querying  Do  not  send  automated  queries  of  any  sort  to  Google's  system:  If  you  are  conducting  research  on  machine 
+translation,  optical  character  recognition  or  other  areas  where  access  to  a  large  amount  of  text  is  helpful,  please  contact  us.  We  encourage  the 
+use  of  public  domain  materials  for  these  purposes  and  may  be  able  to  help. 
+
++  Maintain  attribution  The  Google  "watermark"  you  see  on  each  file  is  essential  for  informing  people  about  this  project  and  helping  them  find 
+additional  materials  through  Google  Book  Search.  Please  do  not  remove  it. 
+
++  Keep  it  legal  Whatever  your  use,  remember  that  you  are  responsible  for  ensuring  that  what  you  are  doing  is  legal.  Do  not  assume  that  just 
+because  we  believe  a  book  is  in  the  public  domain  for  users  in  the  United  States,  that  the  work  is  also  in  the  public  domain  for  users  in  other 
+countries.  Whether  a  book  is  still  in  copyright  varies  from  country  to  country,  and  we  can't  offer  guidance  on  whether  any  specific  use  of 
+any  specific  book  is  allowed.  Please  do  not  assume  that  a  book's  appearance  in  Google  Book  Search  means  it  can  be  used  in  any  manner 
+anywhere  in  the  world.  Copyright  infringement  liability  can  be  quite  severe. 
+
+About  Google  Book  Search 
+
+Google's  mission  is  to  organize  the  world's  information  and  to  make  it  universally  accessible  and  useful.  Google  Book  Search  helps  readers 
+discover  the  world's  books  while  helping  authors  and  publishers  reach  new  audiences.  You  can  search  through  the  full  text  of  this  book  on  the  web 
+
+
+at|http  :  //books  .  google  .  com/ 
+
+
+ft 
+
+< 
+
+
+Ct 
+
+
+If* 
+
+
+.      -  *  !> 
+
+
+r  c 
+
+
+V 
+
+
+U.  S.  Navy  Cook-Book 
+
+
+SECOND  EDITION 
+
+
+REVISED 
+
+•ttb« 
+
+CommUtary  School  |U^  S.  Naral  Training 
+Station,  Nowport*  Rko4o  Island 
+
+
+JANUARY,  1920 
+
+
+PUBLISHED  BY 
+
+THE  U.  S.  NAVAL  INSTITUTE 
+
+ANNAPOLIS.  MD, 
+
+
+Digitized  by  VjOOQ  IC 
+
+
+\  ■ 
+
+
+Copyright,  1920 
+
+BY 
+
+J.  W.  CONROY 
+
+Trustee  for  U.  S.  Naval  Institute 
+
+Annapolis,  Mo. 
+
+
+•  •  «       a 
+
+•  ft  •      * 
+
+•  «    • 
+
+
+•         •  *    *      • 
+
+
+<.    ♦  •     •  •      •  « 
+
+•      •      ••    •  •     • 
+
+••         ••         »•••( 
+
+
+BALTIMOBS,  MS.,  0.  S.  A. 
+
+Digitized  by  VjOOQ  iC 
+
+
+fi^ 
+
+
+PREFACE 
+
+The  Commissary  School  established  at  the  Naval  Train- 
+ing Station,  Newport,  Khode  Island,  is  for  the  purpose  of 
+qualifying  men  for  the  various  ratings  of  the  commissary 
+branch. 
+
+The  present  capacity  of  the  school  is  as  follows:  Com- 
+missary stewards  class,  30;  ship's  class,  130;  and  bakers 
+class,  80.  The  length  of  the  course  of  instruction  in  each 
+class  is  four  months. 
+
+Candidates  for  the  rate  of  commissary  steward  must  be 
+ship's  cooks,  first  class,  or  bakers,  first  class,  and  recom- 
+mended by  their  commanding  officer  to  the  Bureau  of 
+Navigation  for  a  course  of  instruction  in  the  Commissary 
+School.  On  arrival  at  the  school  they  are  given  an  oral 
+examination  to  determine  their  qualifications.  They  are 
+then  given  lectures  and  practical  work  in  the  general  duties 
+of  a  commissary  steward,  the  navy  rations,  the  organization 
+of  the  general  mess,  the  routine  of  the  commissary  depart- 
+ment, placing  the  commissary  department  in  and  out  of 
+commission,  accounting,  dietary  principles,  provisions,  the 
+menu  and  the  efficiency  in  the  commissary  department. 
+The  course  of  instruction  is  divided  into  four  grades  or 
+classes;  the  time  required  to  complete  each  grade  is  about 
+four  weeks.  A  new  class  is  started  on  the  first  of  each 
+month  and  men  who  are  in  the  waiting  class  are  admitted 
+to  the  first  grade.  Students  received  during  the  month  are 
+placed  in  the  waiting  class.  Before  advancing  from  one 
+grade  to  another,  students  are  required  to  pass  a  satis- 
+factory examination.  Monthly  reports  of  fitness  are  made 
+of  each  student  and  after  completing  the  course  he  is  given 
+
+ivilG044:3 
+
+
+4  Peefaob 
+
+a  written  examination  and,  if  found  qualified,  is  recom- 
+mended for  the  rating  of  conmiissary  steward  and  sent  to 
+general  service. 
+
+Candidates  for  the  rate  of  ship^s  cook  are  enlisted  in 
+the  rating  of  ship's  cook,  third  or  fourth  class,  or  landsman. 
+On  arrival  at  the  Training  Station  they  are  given  one 
+month  of  military  training  before  being  transferred  to  the 
+Commissary  School.  On  entering  they  are  given  an  oral 
+examination  to  determine  their  knowledge  of  cooking  and 
+butchering.  They  are  then  given  lectures  and  practical 
+work  in  the  experimental  galley.  The  practical  work  con- 
+sists of  butchering  and  the  preparation  and  cooking  of  the 
+different  foodstuffs.  Lectures  cover  the  personnel  of  the 
+commissary  department,  the  general  duties  of  a  ship's  cook, 
+cooking,  preparation  of  dishes,  beverages,  carving,  the 
+daily  bill  of  fare,  dietary  principles  and  efl&ciency  in  the 
+galley.  After  satisfactorily  completing  the  course,  they 
+are  rated  according  to  their  ability  as  ship's  cooks,  third 
+or  fourth  class,  and  sent  to  general  service. 
+
+Candidates  for  the  rate  of  baker  are  enlisted  as  baker, 
+second  class,  or  landsman,  and  receive  the  same  military 
+training  as  ship's  cooks.  On  entering  the  school  they  are 
+given  an  oral  examination  and  lectures  and  practical  work. 
+The  practical  work  consists  of  making  bread  and  pastry. 
+The  lectures  cover  the  personnel  of  the  commissary  depart- 
+ment, general  duties  of  a  baker  in  the  navy,  dietary  prin- 
+ciples, materiais,  baking  wheat  bread  and  other  breads, 
+cakes,  past/y,  aesserts,  efficiency  in  the  bake  shop  and 
+adverse  conditions.  After  satisfactorily  completing  the 
+course  they  are  rated  baker,  second  class,  and  sent  to  gen- 
+
+,  .  Digitizedby  VjOUy  It: 
+
+era!  service.  *^ 
+
+
+METHODS  OF  COOKING 
+
+The  cooking  of  foodstuffs  for  the  proper  nutrition  of  the 
+human  body  while  necessary  to  some  articles  of  food  is 
+riot  necessary  to  all  articles.  Foods  are  cooked  for  various 
+reasons ;  for  instance,  to  render  mastication  easy  by  soften- 
+ing the  tissues  and  fibers  of  meats  and  vegetables,  to  facili- 
+tate and  aid  digestion,  to  eliminate  certain  foreign  para- 
+sites, such  as  tinea  of  tapeworm  in  beef  and  mutton, 
+trichina  in  pork  and  the  ptomain  poisons  of  decayed  tis- 
+sues, especially  in  fish. 
+
+The  actual  cooking  of  food  should  not  be  confounded 
+with  the  preparation  of  dishes  of  food;  as  there  are  only 
+about  eight  methods  of  cooking,  while  in  the  preparation 
+of  dishes  the  methods  are  almost  countless. 
+
+Whatever  method  is  used  in  the  cooking  of  food  the 
+results  are  the  same,  the  only  difference  obtained  being  the 
+flavors  produced  by  the  method  employed.  For  example: 
+It  would  be  impossible  to  obtain  the  flavor  of  roast  beef  by 
+boiling  it,  yet  as  far  as  the  eupeptic  properties  of  the  meat 
+go  they  would  be  the  same  cooked  by  either  method,  as 
+both  methods  soften  the  tissues  and  fibers,  and  aside  from 
+the  individual  flavors  obtained  by  the  manner  of  cooking 
+there  would  be  but  little  difference. 
+
+Whether  meats  are  roasted,  boiled  or  fried  it  is  our  ob- 
+ject to  retain  as  much  as  possible  of  the  nutritive  and 
+flavoring  extracts  in  the  meats,  and  this  result  can  be 
+obtained  only  by  using  the  proper  tempefatlft€s.     The 
+
+
+6'':  .••     •.   ;:  :tf.:S:  Navy  Cook  Book 
+
+•  \  .'      :  •   ^ 
+
+meats  should,  first  be  ^subjected  to  a  high  temperature,  as 
+'.  tQT'ffiiS/Kieitis 'tlie  pores  of  the  meat  are  quickly  closed  and 
+'the  alUuinih  nearest  to  the  surface  of  the  meat  is  coagulated ; 
+then  the  temperature  is  reduced  to  enable  the  heat  to 
+slowly  penetrate  to  the  center  of  the  meat,  thus  cooking  it 
+through;  then  the  temperature  again  reduced  and  con- 
+tinued until  the  cooking  has  become  complete. 
+
+ROASTING  AND  BROILING 
+
+Both  these  forms  of  cooking  are  practically  the  same 
+and  consist  of  exposing  the  meats  to  the  action  of  the  heat 
+from  an  open  fire.  In  roasting,  the  meats  are  continually 
+turned  while  in  the  process  of  cooking,  this  turning  being 
+accomplished  by  means  of  a  mechanical  device  known  as  a 
+roasting  jack;  but  this  form  of  cooking  meats  is  practiced 
+very  little  outside  of  the  larger  hotels.  However,  a  similar 
+result  may  be  obtained  if  the  meat  is  broiled,  whereby  it  is 
+placed  in  a  broiler  and  held  over  a  very  hot,  clear  fire  and 
+allowed  to  remain  until  the  Surface  has  become  seared 
+and  the  pores  of  the  meat  have  become  closed;  the  meat 
+should  then  be  turned  and  the  other  side  treated  in  the  same 
+manner.  The  meat  is  then  moved  further  from  the  heat 
+when  the  cooking  is  continued  until  done. 
+
+The  broiler  should  be  clean,  well  heated,  and  greased 
+before  using.  As  salt  applied  to  raw  meat  tends  to  toughen 
+the  fibers,  it  should  not  be  applied  to  the  meat  until  it  is 
+very  nearly  cooked. 
+
+BAKING 
+
+The  practice  of  baking  meats  is  much  more  general  than 
+roasting  or  broiling,  and  when  meats  ga^eby^operly  baked 
+
+
+TJ.  S.  Navy  Cook  Book  7 
+
+they  have  a  flavor  ahnost  as  good  as  that  produced  before 
+the  open  fire.  The  meat  should  first  be  cut  into  pieces  of 
+desired  size,  then  wiped  with  a  damp  cloth  and  placed  in 
+a  baking  pan,  into  which  small  pieces  of  fat,  or  some  drip- 
+pings, have  previously  been  placed.  The  oven  should  have 
+a  temperature  of  at  least  450°  F.,  then  the  meat  placed 
+within  and  allowed  to  remain  for  at  least  30  minutes.  At 
+the  end  of  this  time  the  meat  has  become  well  seared  (or 
+browned),  and  in  the  meanwhile  should  have  been  turned 
+and  basted  with  the  fats  in  the  bottom  of  the  pan.  The 
+temperature  of  the  oven  should  then  be  reduced  to  about 
+350°  F.,  the  meat  seasoned  with  salt  and  pepper,  and  a 
+small  quantity  of  stock  or  water  poured  over  it.  The  meat  . 
+should  then  be  turned  and  baited  frequently  until  it  has 
+finished  cooking.  Whether  the  meat  has  been  thoroughly 
+cooked  or  not,  may  be  determined  by  the  color  of  the  juices 
+that  flow  from  it  when  it  is  cut;  this  juice  should  be  of  a 
+dark  wine  color. 
+
+BOILING  AND  SIMMERING 
+
+These  are  two  methods  of  cooking  that  are  simply  the 
+result  of  the  temperature  used,  and  the  principle  is  identi- 
+cal with  that  of  roasting  with  the  exception  that  the 
+flavor  of  roasted  meat  is  lacking;  however,  meats  may  be 
+boiled  and  be  just  as  juicy  and  tender  as  meats  that  have 
+been  roasted,  if  proper  attention  is  given  to  the  process. 
+In  the  first  place,  we  must  obtain  the  maximum  tem- 
+perature of  212°  F.  (or  boiling),  the  meats  should  be  as 
+near  as  possible  all  of  one  size,  placed  in  the  boiling  water, 
+and  allowed  to  remain  for  at  least  30  minutes;  then  the 
+heat  should  be  reduced  until  the  water  but  simmers.    This 
+
+Digitized  by  Vj U<jy  I tT 
+
+
+8  TJ.  S.  Navy  Cook  Book 
+
+simmering  should  be  continued  until  the  toeats  have  be- 
+come tender.  Boiling  should  never  be  allowed  to  take  place 
+after  the  meat  has  been  in  the  water  for  the  first  30  minutes, 
+as  the  continued  boiling  would  serve  to  toughen  the  fibers 
+of  the  meat  and  spoil  the  flavor  near  its  surface.  Season 
+at  the  end  of  the  first  30-minute  period.  The  process  of 
+simmering  should  be  strictly  adhered  to  in  order  that 
+proper  results  may  be  obtained  when  meats  are  cooked  by 
+boiling.  The  proper  temperature  for  simmering  is  about 
+180°  F.    Serve  the  meat  with  a  good  sauce. 
+
+FRYING  AND  SAUT^INQ 
+
+Prying  consists  of  completely  submerging  the  article  to 
+be  cooked  in  deep  fat  or  oil.  The  fat  should  always  be  at 
+the  boiling  point,  otherwise  the  food  would  absorb  the  fat 
+and  produce  a  very  indigestible  article.  It  must  be  kept 
+in  mind  that  fat  at  a  boiling  heat  does  not  bubble,  but  re- 
+mains perfectly  still  with  a  thin,  blue  vapor  rising  from  its 
+surface,  and  this  thin,  blue  vapor  must  not  be  confounded 
+with  the  thick,  dark-colored  smoke  that  arises  from  burn- 
+ing fats.  Poods  cooked  by  frying  are  usually  first  coated 
+with  beaten  egg  and  then  covered  with  bread-  or  cracker- 
+crumbs,  which  is,  indeed,  a  very  good  method,  serving  as 
+it  does  to  retain  the  juices  of  the  meats.  The  articles  to 
+be  fried  should  be  placed  within  the  hot  fat  in  very  small 
+quantities  or  their  entrance  would  serve  to  cool  the  fat 
+below  the  desirable  temperature  and  thus  cause  the  food 
+to  absorb  the  fat. 
+
+Care  should  be  taken  that  the  fat  does  not  burn,  as  fat 
+that  reaches  this  temperature  imdergoes  a  chemical  change 
+and  is  split  up  into  fatty  acids  and  glycerine;  and  from 
+
+Digitized  by  Vj U<jy  I tT 
+
+
+U.  S.  Navy  Cook  Boor  9 
+
+glycerine  is  produced  a  substance  called  acrolein  which  has 
+a  very  irritating  effect  upon  the  mucous  membrane ;  hence, 
+the  disfavor  in  which  fried  food  is  held. 
+
+Unlike  frying,  sauteing  is  a  method  of  cooking  food  in 
+only  enough  fat  to  keep  the  article  from  sticking  to  the  pan 
+in  which  it  is  being  cooked.  The  pan  should  be  well  heated 
+and  then  a  small  quantity  of  fat  or  oil  put  in  it,  then  the 
+article  should  be  placed  in  it  and  quickly  seared  on  both 
+sides,  the  temperature  then  reduced  and  the  article  allowed 
+to  finish  cooking.  The  article  should  never  be  completely 
+cooked  on  one  side  as  this  method  would  serve  to  drive  out 
+all  the  juices  of  the  meat,  making  it  tough  and  tasteless. 
+
+BRAISING 
+
+This  manner  of  cooking  comprises,  three  distinct 
+methods:  First,  the  meats,  with  a  small  quantity  of  fats, 
+are  placed  within  a  closed  vessel  or  braising  pan  and  al- 
+lowed to  remain  there  imtil  the  meats  have  become  thor- 
+oughly brown;  then  flavoring  herbs  and  vegetables  are 
+added.  The  whole  is  then  cooled  for  about  15  minutes, 
+after  being  well  dredged  with  flour;  then  sufficient  water 
+or  stock  to  half  cover  the  meat  is  added.  The  temperature 
+is  then  sufficiently  reduced  to  allow  the  article  to  simmer 
+for  about  3  or  four  hours,  or  until  tender.  Thus  we  have 
+the  three  distinct  methods  which  comprise  sauteing,  steam- 
+ing and  simmering,  obtaining  the  flavor  of  roast  meat  with 
+the  tenderness  produced  by  the  prolonged  steaming  and 
+simmering.  Tough  meats  may  be  treated  in  this  way  with 
+a  marked  tenderness  resulting.  In  braising  meats  they 
+should  at  all  times  be  kept  tightly  covered  in  order  that  the 
+steam  may  be  retained  in  the  vessel.  r^^^^i 
+
+Digitized  by  VjOOQ  l€ 
+
+
+10  U.  S.  Navy  Cook  Book 
+
+STEAMING 
+
+This  is  a  process  useful  in  cooking  puddings,  etc.  It 
+has  no  advantages  over  boiling  such  articles  of  food.  The 
+steam  merely  tends  to  keep  the  article  dry  while  cooking. 
+Such  articles  may  be  steamed  in  an  ordinary  pot  or  copper 
+by  placing  a  small  quantity  of  water  in  the  bottom  of  such 
+receptacles  and  inverting  a  pan  over  the  water,  then  placing 
+the  article  to  be  cooked  upon  the  inverted  pan.  The  water 
+should  be  replaced  as  it  boils  away  until  the  article  is 
+cooked. 
+
+
+Digitized  by  VjOOQ IC 
+
+
+U.  S.  Navy  Cook  Book  11 
+
+
+THE  PREPARATION  OF  SOUP  STOCK 
+
+Strictly  speaking,  soups  should  be  regarded  more  as  a 
+stimulant  than  as  a  food,  composed,  as  they  are,  chiefly  of 
+water  combined  with  flavoring  juices  of  meats,  herbs  and 
+vegetables.  Soups  are  divided  into  two  classes:  clear  and 
+thick.  In  the  latter,  such  materials  as  are  rich  in  carbo- 
+hydrates are  used,  as  beans,  peas,  rice,  lentils  and  starch, 
+and  in  this  class  of  soups  the  caloric  value  is  greatly  in- 
+creased, so  that  practically  the  main  function  of  soups  is 
+that  of  a  stimulant.  They  excite  the  salivary  glands,  caus- 
+ing a  copious  flow  of  saliva  and  gastric  juices,  which  mate- 
+rial is  very  necessary  to  the  proper  digestion  of  the  more 
+solid  foods. 
+
+The  basis  of  all  soups  is  commonly  known  as  stock,  which 
+is  simply  a  combination  of  water,  the  flavoring  juices  of 
+meats,  vegetables  and  spices,  together  with  a  small  per- 
+centage of  the  nutritive  principles  contained  in  meats. 
+When  meats  that  are  used  in  the  preparation  of  stock  are 
+white  (such  as  chicken  and  veal)  the  stock  is  known  as 
+white  stock  and  is  used  in  the  preparation  of  soup  that  is 
+required  to  be  of  a  light  color.  Stocks  required  for  light  or 
+brown  soup  may  be  prepared  from  any  kind  of  meats, 
+cooked  or  raw.  All  stocks  are  prepared  in  the  same  man- 
+ner, with  one  object  in  view,  namely:  to  extract  as  much 
+as  is  possible  of  the  flavoring  and  nutritive  juices  of  the 
+materials  used.  The  flavoring  juices  are  readily  extracted 
+by  the  process  of  long  and  slow  cookiif^.'^'^^yTfri^^yjooking 
+
+
+12  U.  S.  Navy  Cook  Book 
+
+should  take  place  at  a  temperature  of  less  than  160®  F., 
+as  the  nutritive  juices  are  of  an  albuminous  nature  and  wil] 
+coagulate  at  a  temperature  above  160°  F.,  after  which  il 
+becomes  insoluble  in  water.  To  illustrate  the  meaning 
+more  fully,  we  may  take  a  bowl  of  cold  water  and  mix  the 
+water  with  the  white  of  an  egg ;  it  will  be  noticed  that  noj 
+change  takes  place  with  the  exception  that  the  liquid  turns 
+a  little  opaque.  But  if  the  water  should  be  boiling  and  then 
+the  egg  mixed  with  it,  we  see  a  decided  change.  ThQ 
+albumin  immediately  becomes  coagulated  and  it  is  thei^ 
+impossible  to  bring  it  back  to  a  liquid  state.  That  should 
+teach  us  that  in  order  to  extract  the  greater  amount  of  the 
+nutritive  principles,  it  is  necessary  to  keep  the  temperature 
+of  the  water  in  which  the  meats  are  cooking  as  low  as  pos- 
+sible for  some  considerable  time  to  facilitate  the  dissiolving 
+of  the  albumen. 
+
+Aside  from  the  flavoring  and  nutritive  extracts  from  the 
+meats,  we  have  the  flavors  of  herbs,  vegetables  and  spices, 
+These,  combined  with  various  minerals  and  salts,  tend  to 
+produce  palatable  stock.  Great  care  should  be  exercised  in 
+the  use  of  these  vegetables  and  herbs,  as  each  has  a  dis- 
+tinctive flavor  and  no  one  flavor  should  be  allowed  to  pre- 
+dominate over  the  others,  but  all  should  blend  to  produce 
+a  palatable  flavor. 
+
+Nothing  is  more  nauseating  than  the  excessive  use  ol 
+bay-leaves  or  strong  turnips  in  a  soup,  as  they  will  pre- 
+dominate over  the  natural  flavor  of  the  meats;  the  lattei 
+flavor  being  much  desired  in  a  properly  prepared  soup 
+stock. 
+
+The  following  rules  may  be  found  useful  in  the  prepara- 
+tion of  soup  stocks : 
+
+
+U.  S.  Navy  Cook  Book  13 
+
+2.  Bones  should  be  broken  and  the  large  joints  cut  with 
+cleaver. 
+
+3.  Vegetables  should  be  cleaned,  washed  and  cut  into 
+halves. 
+
+4.  Spices  should  be  placed  in  a  muslin  bag. 
+
+Meats,  bones  and  vegetables  should  be  placed  in  cold 
+water  and  allowed  to  remain  so  for  30  minutes,  then  the  heat 
+applied  slowly  and  kept  near,  but  below,  160°  F.  for  some 
+time,  then  more  heat  applied  until  the  simmering  point  is 
+reached.  The  simmering  should  be  allowed  to  continue 
+without  ceasing  for  at  least  5  hours.  The  spices  should  be 
+cooked  for  1  hour  and  then  removed.  The  fats  should  be 
+removed  and  the  stock  strained,  and  then  it  is  ready  for 
+use  in  the  preparation  of  soups.  The  stock  should  never 
+be  allowed  to  boil. 
+
+The  following  is  a  summary  of  ingredients  needed  for 
+the  preparation  of  soup  stock  for  100  men : 
+
+Bones  and  soup  meats 25     lbs. 
+
+Carrots   2 
+
+Onions    4 
+
+Parsley   i 
+
+Celery ^ 
+
+Leeks    ^ 
+
+Cloves   12     No. 
+
+Whole  peppers i  oz. 
+
+Mace  i   " 
+
+SuflBcient  water  to  make  12  gals,  of  stock. 
+
+In  consideration  of  the  fact  that  the  amount  of  soup  pre- 
+pared for  a  number  of  men  depends  somewhat  on  the 
+amount  of  other  dishes  that  will  be  served  in  the  dinner, 
+the  quantity  of  soup  must,  of  course,  be  lowered  where  the 
+
+
+14  U.  S.  Navy  Cook  Book 
+
+quantity  of  the  other  part  of  the  meal  is  raised;  however, 
+the  following  recipes  are  given : 
+
+MACARONI   SOUP 
+
+12  gals,  stock  12  egg  yolks 
+
+4  lbs.  macaroni  Salt  and  pepper  to  taste 
+
+Break  the  macaroni  into  2-inch  lengths.  Place  in  boil- 
+ing salted  water  and  cook  for  20  minutes,  then  remove  and 
+add  it  to  the  stock  and  cook  it  for  15  minutes.  Beat  the 
+egg  yolks  and  add  them  gradually  to  some  of  the  soup,  then 
+mix  the  whole  amount  together  5  minutes  before  serving. 
+
+NOODLE  SOUP 
+
+12  gals,  stock  12  egg  yolks 
+
+4  lbs.  noodles  Salt  and  pepper  to  taste 
+
+Prepare  in  the  same  manner  as  the  previous  recipe. 
+
+VERMICELLI  SOUP 
+
+12  gals,  stock  12  egg  yolks 
+
+5  lbs.  vermicelli  Salt  and  pepper  to  taste 
+
+Prepare  in  the  same  manner  as  the  previous  recipe,  but 
+the  vermicelli  should  be  cooked  in  the  stock  for  20  minutes. 
+
+VEGETABLE  SOUP 
+
+12  gals,  stock  r  lbs.  tomatoes 
+
+2  lbs.  carrots  3  lbs.  flour 
+
+1  lb.  turnips  Salt  and  pepper  to  taste 
+
+2  lbs.  onions 
+
+Vegetables  should  all  be  cut  into  small  dice  shape.  In 
+preparing  vegetable  soup  the  flavor  of  the  vegetables  is 
+
+Digitized  by  VjU<J*?lt: 
+
+
+U.  S.  Navy  Cook  Book  15 
+
+gieatly  improved  if  the  vegetables  are  slightly  saut6d  in 
+hot  butter  or  fat.  Prepare  as  for  soup  stock.  After  remov- 
+ing the  bones  from  the  stock,  the  tomatoes  are  added  and 
+cooked  for  1  hour  longer.    Thicken  with  the  flour  and  serve. 
+
+ENGLISH   BEEF  SOUP 
+
+Use  the  same  ingredients  as  for  vegetable  soup,  except 
+that  4  pounds  of  pearl  barley  are  substituted  for  the  flour, 
+also  that  small  pieces  of  the  soup  meat  may  be  served  in  the 
+soup.  The  barley  should  first  be  soaked  in  cold  water  for 
+30  minutes  and  then  either  boiled  separately  or  in  the  soup. 
+If  boiled  separately,  the  liquid  should  be  added  to  the  soup. 
+
+SCOTCH   BROTH 
+
+12  gals,  stock  2  lbs.  carrots 
+
+•J  oz.  thyme  2  lbs.  turnips 
+
+5  lbs.  pearl  barley  1  lb.  leeks  or  onions 
+
+This  soup  is  best  prepared  from  the  stock  of  boiled 
+mutton.  Strain  the  stock  and  add  the  barley  and  vegeta- 
+bles, and  then  simmer  until  the  barley  is  soft.  Season  with 
+the  thyme,  and  salt  and  pepper  as  required.  (This  soup 
+may  be  slightly  thickened  with  flour.) 
+
+ONION  SOUP 
+
+12  gals,  stock  3  lbs.  milk 
+
+10  lbs.  onions     .  5  lbs.  bread  for 
+
+4  lbs.  flour  croutons 
+
+Boil  the  onions  in  the  stock  until  tender ;  then  thicken 
+with  a  good  white  roux;  then  add  the  milk,  and  season. 
+
+Digitized  by  VjOU^  ItT 
+
+
+16  U.  S.  Navy  Cook  Book 
+
+Just  before  serving,  the  croutons  are  added.  A  little 
+chopped  parsley  greatly  improves  the  appearance  and  flavor 
+of  this  soup. 
+
+CREAM  OF  CELERY  SOUP 
+
+12  gals,  stock  3  lbs.  milk 
+
+5  lbs.  celery  5  lbs.  bread  for 
+
+5  lbs.  flour  croutons 
+
+Wash  the  celery  well  and  separate  the  whitest  parts. 
+Cook  the  remainder  in  the  stock  until  tender.  Eeraove  the 
+celery  and  strain  the  stock.  Dice  the  white  parts  of  the 
+celery  and  boil  them  in  salted  water  until  they  are  tender ; 
+then  prepare  a  white  roux,  with  which  thicken  the  soup ; 
+add  the  diced  celery,  and  bring  to  a  boil.  Add  the  milk, 
+season,  and  just  before  serving  add  the  croutons. 
+
+RICE  AND  TOMATO  SOUP 
+
+10  gals,  stock  4  lbs.  rice 
+
+10  lbs.  tomatoes  5  lbs.  onions 
+
+Add  the  tomatoes  and  the  flnely  chopped  onions  to  the 
+stock  and  cook  until  tender;  then  add  the  rice  and  cook 
+until  it  is  well  starred.    Season  and  serve. 
+
+CREAM  OF  TOMATO  SOUP 
+
+10  gals,  stock  3  lbs.  milk 
+
+20  lbs.  tomatoes  J  oz.  baking  soda 
+
+3  lbs.  onions  5  lbs.  bread  for 
+5  lbs.  flour  croutons 
+
+Boil  together  the  tomatoes  and  onions  until  they  become 
+a  pulp,  then  mash  and  strain  through  a  flne  colander ;  add 
+
+Digitized  by  VjOU^  ItT 
+
+
+to  the  stock  and  thicken  well  with  a  white  roux.  Simmer 
+for  30  minutes;  then  add  the  soda  and  then  the  milk. 
+Season  and  serve  with  the  croutons.  The  consistency  of 
+this  soup  should  be  that  of  a  good  thick  cream. 
+
+POTATO  SOUP 
+
+12  gals,  stock  or  water  ^  lb.  butter 
+
+40  lbs.  potatoes  4  ^z.  mace 
+
+10  lbs.  onions  5  lbs.  bread  for  croutons 
+
+If  water  is  used  instead  of  the  stock,  3  pounds  of  milk 
+should  be  added.  Peal  and  boil  the  potatoes  until  they  are 
+fit  to  mash ;  then  add  the  stock  or  boiling  water.  Chop  the 
+onions  very  fine  and  add  them  to  the  stock  and  boil  until 
+they  are  tender ;  add  milk  (if  used) .  Season  with  the  mace, 
+»alt  and  pepper,  also  a  handful  of  chopped  parsley.  Add 
+the  croutons  just  before  serving. 
+
+PRINTANIER  SOUP 
+
+
+2  gals,  stock 
+
+3  lbs.  peas 
+
+4  lbs.  carrots 
+
+3  lbs.  strmg  beans 
+
+4  lbs.  turnips 
+
+2  lbs.  celery 
+
+3  lbs.  leeks 
+
+Cut  the  celery  into  small  squares  and  saute  for  a  few 
+minutes,  add  it  to  the  stock  and  cook  until  tender;  then 
+add  the  peas  and  the  string  beans,  the  latter  cut  into  small 
+pieces.    Season  and  serve. 
+
+JULIENNE  SOUP 
+12  gals,  stock  3  lbs.  cabbage 
+
+4  lbs.  carrots  3  lbs.  string  beans 
+
+4  lbs.  turnips  ?  lbs.  celery 
+
+3  lbs.  leeks 
+
+Digitized  by  VjOOQ  IC 
+
+
+18  U.  S.  Navy  Cook  Book 
+
+This  Boup  is  prepared  in  the  same  manner  as  printanier 
+soup,  with  the  exception  that  any  vegetables  capable  of 
+being  cut  into  long,  thin  strings  may  be  used,  such  as 
+carrots,  cabbage,  turnips,  onions,  etc. 
+
+BEAN  SOUP 
+
+12  gals,  ham  stock  or  water  5  lbs.  onions 
+
+3  gals,  beans  12  lbs.  tomatoes 
+
+In  preparing  this  soup  the  beans  should  first  be  soaked 
+in  cold  water  for  about  two  hours,  then  the  water  removed 
+and  replaced  with  fresh  water,  and  the  beans  allowed  to  boil 
+slowly.  In  ihe  meantime,  cut  the  onions  into  small  slices 
+and  add  them  to  the  soup  with  some  ham  stock  or  ham 
+bones.  Cook  all  together  until  the  beans  are  well  broken. 
+One  hour  before  serving,  the  tomatoes  should  be  added; 
+the  ham  bones  should  be  removed  after  a  slight  boiling. 
+
+DRIED  PEA  SOUP 
+
+12  gals,  ham  stock  or  water         5  lbs.  carrots 
+15  lbs.  peas  5  lbs.  bread  or 
+
+5  lbs.  onions  croutons 
+
+Prepare  in  the  same  manner  as  for  bean  soup,  estimating 
+the  quantity  of  tomatoes  needed.  A  few  carrots  improve 
+the  flavor  of  this  soup. 
+
+OYSTER  SOUP 
+
+5  gals,  milk  2  lbs.  butter 
+
+3  gals,  oysters 
+
+Blanch  the  oysters  in  their  own  liquid  until  they  are  half 
+cooked,  then  skim  them  out  and  set  aside.     Strain  the 
+
+Digitized  by  VjLXjy  It: 
+
+
+U.  S.  Navy  Cook  Book  19 
+
+liquid  and  add  the  milk;  when  this  boils^  thicken  slightly 
+with  roux,  boil  for  three  minutes,  then  add  the  oysters  and 
+cook  them  until  they  are  firm.  Season  and  serye.  Do  not 
+let  the  milk  boil  too  long  or  it  will  curdle. 
+
+
+Digitized  by  VjOOQ IC 
+
+
+20  '        tJ.  S.  Navy  Cook  Book 
+
+
+HOW  TO  CLEAR  STOCK 
+
+The  clearing  of  soup  stock  for  consomme  may  be  accom- 
+plished by  careful  preparation.  Stock  may  be  cleared 
+without  trouble  if  the  following  directions  are  adhered  to : 
+Keep  the  stock  continually  simmering,  but  do  not  allow  to 
+boil.  Use  a  stock  pot  if  available,  whereby  the  stock  may 
+be  drawn  off  through  a  spigot  and  strained  through  a 
+flannel  cloth;  but  as  this  method  cannot  be  used  where  a 
+ship  is  in  motion,  the  following  directions  are  given: 
+
+Chop  fine,  some  lean  beef,  add  2  egg  whites  together  with 
+the  shells  of  same  to  every  pound  of  meat;  and  after  the 
+stock  has  cooled,  add  this  to  it,  mix  well  and  gradually  bring 
+to  a  boil ;  then  reduce  the  temperature  and  allow  to  simmer 
+slowly  for  about  30  minutes;  strain  through  a  fine  cloth. 
+The  liquid  thus  produced  is  called  consomme,  and  may  be 
+drunk  either  hot  or  cold,  and  is  used  in  the  preparation  of 
+the  following  soups : 
+
+CONSOMME  ROYAL 
+
+12  gals,  cleared  stock  (consomme^  24  egg  yolks 
+
+Mix  the  well-beaten  yolks  with  a  little  more  than  their 
+bulk  of  milk,  season,  and  pour  into  a  pan  1  or  2  inches  deep ; 
+then  place  in  a  second  pan  containing  boiling  water  and 
+bake  in  a  moderate  oven  until  firm ;  cut  into  half -inch  dice, 
+add  to  the  consomm6  and  then  serve.     ^        i 
+
+Digitized  by  VjOOQlC 
+
+
+IT.  S.  Navy  Cook  Book  21 
+
+CONSOMME    WITH    MACARONI,    NOODLES    OR 
+VERMICELLI 
+
+12  gals,  cleared  stock  (consomme) 
+5  lbs.  macaroni,  noodles  or  vermicelli 
+
+All  of  the  above-mentioned  pastes  must  be  boiled  in 
+salted  water,  seasoned  and  then  added  to  the  consomme. 
+
+CONSOMME  WITH  TAPIOCA 
+
+12  gals  cleared  stock  (consomm^)  4  lbs.  tapioca 
+
+Soak  the  tapioca  over  night,  drain  and  add  to  the  con- 
+somme ;  boil  for  40  minutes,  season  and  serve. 
+
+CONSOMME  WITH  SAGO 
+12  gals,  cleared  stock  (consomme)  4  lbs.  sago 
+
+Prepare  as  for  consomm6  with  tapioca. 
+
+
+Digitized  by  VjOOQ IC 
+
+
+22  U.  S.  Navy  Cook  Book 
+
+
+CHOWDERS 
+
+CLAM  CHOWDER 
+
+30  lbs.  potatoes  2  lbs.  milk 
+
+3  gals,  clams  i  oz.  thyme 
+
+5  lbs.  salt  pork  or  bacon  5  lbs.  tomatoes 
+
+5  lbs.  onions  Water  sufficient  to 
+5  lbs.  flour  make  10  gallons 
+
+Peel  and  dice  the  potatoes  and  then  boil  in  slightly 
+salted  water  until  about  three-quarters  cooked,  drain  and 
+reserve  the  stock.  Dice  the  salt  pork  or  bacon  and  place 
+in  the  pan  with  a  little  water  and  fry  until  the  meat  becomes 
+slightly  brown;  then  add  the  onions,  finely  chopped,  and 
+cook  for  5  minutes;  add  the  flour  and  stir  well.  Remove 
+from  the  fire  and  add  to  the  potato  stock  and  simmer 
+slowly.  If  soft-shell  clams  are  used  the  bellies  are  removed 
+and  the  tough  parts  are  added  io  the  potato  stock  together 
+with  the  liquid,  onions  and  meat,  and  allowed  to  simmer 
+for  30  minutes.  Fifteen  minutes  before  serving  add  the 
+potatoes,  clam  bellies,  seasoning,  and  pepper  and  salt,  and 
+a  small  pinch  of  thyme.  If  the  clams  ar  tough  they  should 
+be  finely  chopped  and  cooked  for  30  minutes  in  the  stock. 
+This  chowder  may  be  greatly  improved  if  the  milk  is  added 
+just  before  serving.  Tomatoes  may  or  may  not  be  used 
+with  this  chowder. 
+
+Digitized  by  VjOOQ  IC 
+
+
+^      TJ.  S.  Navy  Cook  Book  23 
+
+FISH  CHOWDER 
+
+to  lbs.  fish  2  lbs.  milk 
+
+30  lbs.  potatoes  ^  oz.  thyme 
+
+5  lbs.  salt  pork  or  bacon  Fish  stock  or  water 
+
+5  lbs.  onions  enough    to    make 
+
+10  lbs.  tomatoes  10  gallons 
+
+Prepare  the  stock  from  the  head  and  tails  of  the  fish. 
+Dice  the  salt  pork  or  bacon  and  fry  it  out  on  the  range ;  then 
+add  finely  chopped  onions  and  fry  until  brown.  Cut  the 
+fish  small  and  boil  with  the  diced  potatoes  until  the  potatoes 
+are  well  cooked;  thicken  slightly  with  roux.  Season  with 
+thyme^  salt  and  pepper.    Just  before  serving  add  the  milk. 
+
+
+Digitized  by  VjOOQ IC 
+
+
+24  U.  S.  Navy  Cook  Book 
+
+
+FISH  DISHES 
+
+Great  care  should  be  taken  to  see  that  fish  to  be  used  for 
+food  are  fresh.  The  best  way  to  determine  this  is  by  the 
+firmness  of  the  flesh,  the  brightness  of  the  eye  and  the 
+bright  red  color  of  the  .gills. 
+
+The  most  common  methods  of  cooking  are  boiling,  bak- 
+ing and  frying.  Large  fish  are  generally  boiled,  medium- 
+sized  are  baked  or  broiled  and  the  smaller  ones  are  fried. 
+Extremely  large  ones,  such  as  cod,  haddock  and  halibut,  are 
+usually  cut  into  steaks  and  then  fried.  When  boiling  fish 
+the  flavor  may  be  greatly  improved  by  adding  vinegar,  salt, 
+bay-leaves,  whole  peppers,  parsley,  onions,  or  a  few  slices 
+of  lemon  to  the  water. 
+
+Fish  for  baking  should  be  well  cleaned  and  scaled  and 
+have  fins  and  tails  removed.  A  prepared  dressing  of  stale 
+bread,  well  seasoned  with  butter  and  sage,  onions,  pepper, 
+salt  and  any  other  aromatic  herbs  that  may  be  fancied 
+should  be  placed  in  the  fish.  The  fish  should  then  be  placed 
+in  well-greased  baking  pans  and  have  a  little  melted  butter 
+or  fat  poured  over  it,  then  covered  with  bread-crumbs  or 
+cracker  dust,  and  a  few  slices  of  bacon  or  salt  pork  laid  on 
+the  top  of  it.  The  addition  of  tomatoes  and  a  few  slices  of 
+onion  will  improve  the  fish. 
+
+FRIED  FISH 
+
+60  lbs.  fish  4  lbs.  flour 
+
+8  eggs  Bread-crumbs  or  cracker  dust 
+
+Clean  and  scale  the  fish,  wash  well  in  cold  water,  then 
+^^ain  and  dip  it  in  dry  flour,  then  in  well-beaten  eggs,  and 
+
+
+U.  S.  Navy  Cook  Book  25 
+
+lastly  in  bread-crumbs.    Allow  it  to  stand  for  10  minutes 
+and  then  fry  in  deep,  hot  fat. 
+
+FISH   FRIED  IN   BATTER 
+
+60  lbs.  fish  4  lbs.  flour 
+
+4  eggs  3  oz.  baking  powder 
+
+Clean  as  before,  and  then  prepare  a  frying  batter  from  the 
+flour,  eggs  and  baking  powder,  seasoned  with  salt.  Dip  the 
+fish  into  the  batter  and  then  fry  in  deep,  hot  fat. 
+
+FISH   FRITTERS 
+
+25  lbs.  fish  8  eggs 
+
+10  lbs.  flour  2  lbs.  milk 
+
+8  oz.  baking  powder 
+
+Cold  boiled  fish  or  salt  cod  may  be  used  for  these  fritters. 
+If  using  salt  fish  it  must  first  be  well  freshened  and  then 
+picked  apart  and  added  to  a  batter  composed  of  the  follow- 
+ing: Flour,  egg,  milk  and  baking  powder.  When  using 
+cold  boiled  fish  salt  will  be  necessary.  Mix  well  and  fry  as 
+ordinary  fritters  in  hot  fat. 
+
+CANNED  SALMON   FRITTERS 
+
+25  lbs.  salmon  8  oz.  baking  powder 
+
+10  lbs.  flour  2  lbs.  milk 
+
+Prepare  the  batter  as  above  and  season  with  salt  and 
+pepper ;  drain  off  the  liquor,  break  the  fish  in  small  pieces 
+and  add  to  the  batter.    Fry  in  deep,  hot  fat. 
+
+Digitized  by  VjOOQIC 
+
+
+J 
+
+
+26  TJ.  S.  Navy  Cook  Book 
+
+CANNED  CODFISH   FRITTERS 
+
+Use  the  same  quantity  of  ingredients  as  for  the  preyious 
+recipe,  prepare  in  the  same  manner,  except  that  canned 
+codfish  is  used. 
+
+OYSTER  FRITTERS 
+
+2  gals,  oysters  8  oz.  baking  powder 
+
+10  lbs.  flour  2  lbs.  milk 
+
+First  blanch  the  oysters  slightly  in  their  own  liquid; 
+remove  oysters  and  strain  the  liquid.  Prepare  the  fritter 
+batter  as  in  the  previous  recipes,  adding  the  oyster  liquid. 
+Add  the  oysters  and  fry  in  deep,  hot  fat.  If  canned  oysters 
+are  used  it  is  not  necessary  to  blanch  them. 
+
+CLAM  FRITTERS 
+
+2  gals,  clams  8  eggs 
+
+10  lbs.  flour  2  lbs.  milk 
+
+8  oz.  baking  powder 
+
+Use  soft-shell  clams  for  fritters.  Drain  the  liquid  from 
+the  clams,  let  come  to  a  boil,  skiin  and  strain  and  then 
+allow  to  get  cold.  Mix  a  fritter  batter  as  above,  making  it 
+quite  thick,  add  the  clams  and  fry. 
+
+CANNED  SALMON  CROQUETTES 
+
+30  lbs.  salmon  4  bimches  of  parsley 
+
+5  lbs.  flour  Cracker  dust 
+
+8  eggs 
+
+Bemove  the  salmon  from  the  liquid  and  mince  up  into 
+nnall  pieces.  Prepare  a  well-seasoned  heavy  rouz  and  mix 
+with  the  salmon,  then  set  aside  to  become  cold.  Chopped 
+parsley  may  be  added,  if  desired.    When  cold  mold  into 
+
+
+U.  S.  Navy  Cook  Book  27 
+
+cones  or  cylinders,  roll  first  in  flour,  then  in  beaten  eggs, 
+and  lastly  in  the  cracker  dust.  Allow  to  stand  for  10 
+minutes  and  fry  in  deep,  hot  fat. 
+
+LOBSTER  CROQUETTES 
+
+60  lbs.  lobster,  fresh,  or  35  lbs.  lobster,  canned 
+
+Prepare  in  the  same  manner  as  salmon  croquettes,  sub- 
+stituting the  lobster.  If  fresh  lobster  is  used  it  should  be 
+chopped  fine. 
+
+CRAB  CROQUETTES 
+
+35  lbs.  crab  meat 
+
+Prepare  in  the  same  manner  as  lobster  croquettes,  sub- 
+stituting canned  or  fresh  crab  meat. 
+
+CANNED  SALMON  CAKES 
+
+50  lbs.  peeled  potatoes  8  eggs 
+
+25  lbs.  salmon  3  lbs.  flour 
+
+Boil  the  potatoes,  mash  well  and  let  cool.  Remove 
+salmon  from  the  tins,  drain,  chop  very  fine,  add  to  the 
+mashed  potatoes  and  season.  Mold  in  round  flat  cakes,  dip 
+in  flour  and  fry  in  a  small  quantity  of  hot  fat.  The  addi- 
+tion of  eggs  greatly  improves  this  dish. 
+
+CODFISH  CAKES 
+
+60  lbs.  peeled  potatoes  8  eggs 
+
+»6  lbs.  codfish  3  lbs.  flour 
+
+Prepare  the  same  as  salmon  cakes,  using  codfish  instead 
+of  salmon.  If  shredded  codfish  is  used  and  is  too  salty, 
+freshen  with  cold  water.  Digitized  by  vjuuy  it: 
+
+
+28  U.  S.  Navy  Cook  Book 
+
+
+MEATS 
+
+ROAST  BEEF 
+
+Cut  80  pounds  ribs  of  beef  into  6-pound  pieces;  wipe 
+dry.  Place  in  roasting  pans  and  rub  in  as  much  flour  all 
+over  as  the  meat  will  hold,  letting  a  little  of  the  flour  drop 
+over  the  bottom  of  the  pan.  Place  dots  of  drippings  over 
+the  top  of  the  roast,  using  about  4  tablespoonfuls  in  all. 
+Place  pan  in  the  oven  and  let  alone  for  25  minutes  or  until 
+browned  nicely.  Then  draw  out  the  pan  and  pour  in  about 
+3  cupfuls  of  boiling  water.  Baste  the  meat  all  over,  place 
+back  in  the  oven  and  close  drafts,  reducing  the  temperature 
+of  the  oven  to  a  very  moderate  heat.  Baste  every  10  or  15 
+minutes.  When  nearly  done  season  with  salt  and  pepper; 
+baste  again.  You  cannot  baste  the  meat  too  often.  Figure 
+about  13  minutes  to  the  pound  to  cook  the  meat.  The  first 
+intense  heat  of  the  oven  sears  the  meat,  retaining  the  juices. 
+Reducing  the  heat  cooks  th^.  inside  without  further  scorch- 
+ing the  surface. 
+
+When  meat  is  done,  remove  from  pan.  Set  pan  on  top  of 
+the  range,  add  a  little  hot  water  and  stir  well  to  detach  all 
+the  particles  of  flour  that  have  adhered  to  tlie  pan.  Boil 
+and  stir  for  4  or  5  minutes,  then  strain  into  a  gravy  dish. 
+Skim  off  all  fat  which  you  keep  for  drippings. 
+
+The  practice  of  adding  flour  to  the  roasting  pan,  to  burn 
+and  thicken  the  gravy,  and  with  burned,  bitter  tasting 
+sugar,  should  be  discouraged.  No  more  thickening  is  really 
+required  than  the  stray  particles  of  flour  which  fell  from 
+
+
+U.  S.  Navy  Cook  Book  29 
+
+the  meat  when  first  started  to  roast.     These  have  cooked 
+well  and  brow'ned  during  the  time  of  roasting. 
+
+BRAISED  BEEF 
+
+56  lbs.  beef  4  bay-leaves 
+
+2  lbs.  salt  pork  12  cloves 
+
+2  lbs.  carrots  Celery  tops 
+
+2  lbs.  turnips  3  lbs.  onions 
+
+Flour 
+
+The  kind  of  meat  best  for  this  purpose  is  round,  vein 
+and  shoulder-clods.  Cut  the  fat  pork  3  inches  long  and 
+i  inch  square ;  dice  the  vegetables.  Cut  the  meat  in  about 
+8-pound  pieces,  take  a  steel  and  punch  a  hole  parallel  with 
+the  grain  of  tlie  meat  and  insert  one  of  the  lardons  of  pork, 
+continue  this  until  all  the  pork  is  used.  Place  a  baking 
+pan  on  top  of  the  range,  put  remaining  scraps  of  salt  pork 
+together  with  some  beef  drippings  in  the  bottom  of  the  pan, 
+allow  to  become  hot,  then  add  the  beef  which  has  been  pre- 
+viously well  dredged  with  flour,  allow  to  become  well 
+browned,  then  add  the  diced  vegetables  and  cook  for  20 
+minutes,  then  add  the  stock  or  water  to  fill  the  pan,  invert 
+another  pan  to  prevent  escape  of  steam  and  finish  cookinix 
+in  the  oven,  turning  the  basting  the  meat  frequently;  this 
+process  of  braising  may  be  carried  out  in  the  same  manner 
+by  using  the  steam  coppers.  Eemove  the  fat  from  the  liquid, 
+strain,  season  and  serve. 
+
+BOILED  BEEF 
+
+70  lbs.  beef  2  lbs.  turnips 
+
+2  lbs.  onions  2  lbs.  carrots 
+
+Cut  the  beef  in  8-pound  pieces,  place  in  boiling  water  and 
+allow  it  to  boil  hard  for  15  minutes,  then  reduce  the  tem- 
+
+
+30  U.  S.  Navy  Cook  Book 
+
+perature  to  simmering,  add  the  onions,  carrots  and  turnips 
+whole,  a  little  salt  and  pepper  may  be  added;  this  meat 
+should  be  served  with  one  of  the  following  sauces :  pickled 
+horse  radish  sauce,  onion  sauce  or  tomato  sauce. 
+
+FRIED  BEEFSTEAK 
+
+60  pounds  of  steak  in  ^-pound  pieces,  place  some  drip- 
+pings in  pan  and  allow  to  become  very  hot,  then  add  the 
+steak,  searing  on  both  sides ;  remove  from  the  pan,  place  in 
+another  pan  and  sprinkle  with  salt,  pepper  and  a  little 
+butter.  In  cooking  large  quantities  of  steak  the  first  cooked 
+should  be  rather  rare.  Steak  may  be  cooked  on  top  of  the 
+range,  first  wiping  oflE  the  plates  and  well  greasing  with 
+fat;  in  cooking  steak  in  this  manner  it  may  be  left  in  large 
+pieces  and  cut  later. 
+
+BROILED  STEAK 
+
+Cut  60  pounds  of  steak  1  inch  thick,  have  a  good  clear 
+fire  and  very  hot,  heat  a  broiler  and  grease  well,  lay  a  steak 
+on  the  broiler  and  sear  both  sides  as  quickly  as  possible, 
+then  remove  a  little  further  from  the  fire  and  finish  cooking, 
+place  in  the  pan  or  dish,  season  with  salt,  pepper  and  butter. 
+
+STEWED  STEAK   (SPANISH) 
+
+60  lbs.  steak  8  lbs.  tomatoes 
+
+5  lbs.  onions  1  lb.  flour 
+
+Cut  the  steak  in  ^-pound  pieces,  sear  quickly  on  top  of 
+the  range,  place  in  the  copper,  dredge  with  flour,  cook  5 
+minutes ;  slice  the  onions  and  add  them  to  the  steak,  then 
+the  tomatoes  and  sufficient  water  or  stock  to  cover,  stew 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  31 
+
+Tery  gently  until  tender,  season  with  salt  and  pepper,  or 
+green  peppers  may  be  sliced  and  cooked  with  the  steak. 
+
+HAMBURGER  STEAK  NO.  1 
+
+40  lbs.  hamburger  10  lbs.  bread 
+
+5  lbs.  onions 
+
+Chop  the  onions  very  fine,  soak  the  bread  in  cold  water, 
+squeeze  dry  and  add  to  the  meat,  season  with  salt  and 
+pepper,  mix  well  and  mold  in  cakes,  then  fry  on  the  range 
+in  very  little  grease. 
+
+HAMBURGER  STEAK  NO.  Z 
+
+50  lbs.  hamburger  5  lbs.  onions 
+
+Chop  the  onions  very  fine,  mix  well  with  the  hamburger 
+meat,  season  with  salt  and  pepper,  mold  in  flat  cakes  and 
+fry  on  a  smoking  hot  griddle,  using  a  small  quantity  of  fat 
+to  keep  from  sticking. 
+
+BEEF  LOAF 
+Pass  35  pounds  of  meat  through  meat  grinder,  add  10 
+pounds  of  bread-crumbs,  season  with  2  ounces  of  pepper, 
+8  ounces  of  salt,  add  2  pounds  of  chopped  onions,  1^  dozen 
+eggs,  1^  gallons  of  stock ;  mix  all  ingredients  well  and  form 
+in  loaves.  Place  in  pans  and  bake  for  1^  hours  in  moderate 
+oven,  basting  with  a  little  stock ;  serve  cold. 
+
+BEEFSTEAK  PIE 
+
+40  lbs.  beefsteak  2i  lbs.  lard 
+
+5  lbs.  onions  6  oz.  baking  powder 
+
+10  lbs.  flour  8  oz.  salt 
+
+Cut  the  steak  in  6-ounce  pieces,  sear  well  in  a  hot,  well- 
+greased  pan ;  place  the  meat  in  the  baking  pan,  slice  and  fry 
+
+
+32  U.  S.  Navy  Cook  Book 
+
+the  onions  slightly,  make  a  thin  brown  roux  in  the  pan  the 
+steak  was  fried  in,  and  pour  over  the  steak,  there  should  be 
+suflficient  to  just  cover  the  meat ;  prepare  a  biscuit  dough, 
+cover  meat  and  bake  for  40  minutes. 
+
+ROAST  BEEF  HEARTS 
+
+40  pounds  of  beef  hearts,  salt  and  pepper,  bay-leaves, 
+beef  drippings  and  flour.  Wash  the  hearts  in  cold  water, 
+removing  all  the  blood  from  the  cavities;  have  some  water 
+boiling  in  the  copper,  drop  the  hearts  and  bay-leaves  in  and 
+boil  for  30  minutes,  remove  from  the  copper,  prepare  a 
+bread  dressing,  place  a  layer  in  a  black  pan,  then  place  the 
+hearts  on  top,  dredge  with  flour,  season  with  salt  and 
+pepper  and  a  little  beef  drippings,  bake  in  a  moderate  oven, 
+baste  with  stock  and  serve  very  hot  with  a  brown  sauce. 
+
+BEEF  STEW 
+
+40  lbs.  peeled  potatoes  2  lbs.  tomatoes 
+
+30  lbs.  beef  2  lbs.  flour 
+
+10  lbs.  carrots  Salt  and  pepper  to 
+
+10  lbs.  onions  taste 
+
+Cut  the  meat  in  small  pieces,  pare  the  vegetables,  cut  in 
+fc /en-size  pieces  and  keep  separate  in  cold  water;  place  the 
+meat  in  the  copper,  cover  with  water  and  cook  for  30 
+minutes,  add  the  carrots,  onions  and  tomatoes,  cook  until 
+tender,  skim  off  the  surplus  fat,  thicken  with  flour  and 
+serve. 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  -Sa 
+
+BEEF  SEA  PIE 
+
+Prepare  as  for  beef  stew  and  place  in  baking  pans;  pre- 
+pare a  biscuit  dough,  cover  the  pans,  wash  with  beaten 
+eggs  and  cook  30  minutes  in  hot  oven. 
+
+RAGOUT  OF  BEEF 
+
+Prepare  as  for  beef  stew,  except  after  cutting  the  meat  in 
+pieces  place  some  drippings  or  fat  in  the  copper  and  allow  to 
+become  hot,  then  flour  the  meat  well  and  add  to  the  fat  in 
+the  copper.  When  meat  is  brown,  add  the  carrots  and 
+onions  and  cook  a  little  longer,  add  the  tomatoes  and  suf- 
+ficient water  to  well  cover  the  meat,  simmer  until  all  is 
+tender  and  add  the  potatoes,  cook  until  done,  thicken  with 
+brown  roux,  season  with  salt  and  pepper. 
+
+BEEF  KIDNEYS 
+
+Wash  and  soak  in  salt  water  35  pounds  of  kidneys  and 
+cut  into  1-inch  cubes,  then  wash  and  put  on  in  cold  fresh 
+water  and  bring  to  a  boil,  draw  off  the  water  and  wash 
+thoroughly ;  place  scouse  kettle  on  range  with  drippings  and 
+simmer  until  brown;  add  4  pounds  of  finely  chopped 
+onions  and  4  tins  of  tomatoes,  season  with  8  ounces  of  salt, 
+and  i  ounce  of  cayenne  pepper,  simmer  for  IJ  hours,  add 
+4  gallons  of  stock  or  boiling  water  and  thicken  with  flour; 
+this  can  be  served  with  boiled  rice  or  mashed  potatoes. 
+
+BEEF  PLATES  BOILED 
+
+« 
+
+40  poimds  of  clear  meat,  sage  dressing.  Bone  the  meat 
+and  split  to  make  an  even  surface,  prepare  a  sage  dressing, 
+
+Digitized  by  VjLXjy  It: 
+
+
+34  U.  S.  Navy  Cook  Book 
+
+aaid  spread  evenly  on  the  surface,  then  roll  the  meat,  tie 
+well  with  twine,  place  in  boiling  water,  to  which  has  been 
+a(ided  a  few  bay-leaves,  cloves  and  thyme,  salt  and  pepper ; 
+allow  to  boil  rapidly  for  30  minutes,  then  reduce  to  sim- 
+mering and  slowly  cook  until  tender;  remove  and  slice. 
+To  be  served  hot,  or  may  be  allowed  to  cool  and  serve  as 
+cold  meats. 
+
+BEEF  PLATES  BRAISED 
+
+Same  quantities  as  above;  after  rolling  the  plates  they 
+should  be  placed  in  the  copper  with  some  good  beef  drip- 
+pings and  well  dredged  with  flour;  after  they  are  well 
+ibrowned,  sufficient  water  should  be  added  to  partly  cover 
+them,  then  add  spices,  let  simmer  until  very  tender,  and 
+.serve  as  described  for  boiled  beef  plates. 
+
+MINCED  BEEF  NO.  1 
+
+Take  30  pounds  of  lean  beef  and  cook  (left  over  meats 
+can  be  used),  put  through  meat  chopper  with  5  pounds  of 
+onions,  place  in  scouse  kettle  with  a  little  butter,  add  2 
+cans  of  tomatoes  and  place  on  back  of  range  to  simmer, 
+add  8  ounces  of  salt,  2  ounces  of  pepper,  1  ounce  of  mace, 
+4  ounces  of  chopped  parsley,  and  stock  enough  to  cover; 
+thicken  with  flour  and  serve  on  toast. 
+
+MINCED  BEEF  NO.  2 
+
+Prepare  meat  same  as  recipe  No.  1.  Place  2  pounds 
+of  butter  in  scouse  kettle,  when  melted  add  2  pounds  of 
+flour,  stir  continuously,  when  smooth  add  3  gallons  of 
+
+Digitized  by  VjLXjy  It: 
+
+
+XJ.  S.  Navy  Cook  Book  35 
+
+stock,  i  ounce  of  cayenne  pepper,  8  ounces  of  salt.  Divide 
+roux  into  two  scouse  kettles  or  receptacles  holding  8  gal- 
+lons ;  take  6  pounds  of  onions,  parboil  for  30  minutes,  then 
+run  through  chopper,  add  onions  to  chopped  meat,  then  add 
+to  the  roux  and  simmer  20  minutes  and  serve  on  toast,  or 
+serve  in  border  of  mashed  potatoes.  If  Spanish  minced 
+beef  is  desired,  add  Spanish  peppers  and  lemon  juice. 
+
+BEEF  A  LA  MODE  NO.  1 
+
+60  pounds  of  clear  meat  cut  in  4-ounce  pieces.  Place  in 
+copper  with  4  pounds  of  beef  drippings,  and  simmer 
+slowly  for  one-half  hour,  then  add  5  pounds  of  carrots,  cut 
+in  1-inch  cubes,  6  pounds  of  sliced  onions  and  1  quart  of 
+vinegar;  cover  and  simmer  20  minutes  longer,  stirring 
+occasionally,  then  add  3  cans  of  tomatoes,  salt  and  pepper 
+to  taste ;  add  6  gallons  of  stock  or  water,  simmer  15  minutes 
+thicken  with  2  or  3  pounds  of  flour  thickening;  serve  with 
+boiled,  peeled  potatoes. 
+
+BEEF  A  LA  MODE  NO.  2 
+
+Cut  60  pounds  of  round  of  beef  in  5-  or  6-pound  pieces, 
+daub  with  3  pounds  of  fat,  salt  pork,  cut  in  ^-inch  strips, 
+sesj  in  scouse  ketttle  with  beef  suet  until  brown,  add  1 
+quart  of  vinegar,  1  ounce  cloves,  1  ounce  allspice,  8  ounces 
+of  salt,  2  ounces  of  pepper,  add  stock  to  cover,  sinmier  3 
+hours,  take  the  meat  out  and  thicken  the  gravy  with  about 
+3  pounds  of  flour  thickening;  serve  with  mashed  potatoes 
+or  stewed  macaroni  and  tomatoes. 
+
+Digitized  by  VjOOQ  IC 
+
+
+36  U.  S.  Navy  Cook  Book 
+
+ROAST  VEAL 
+
+Using  80  pounds  of  veal,  prepare  and  cook  in  the  same 
+manner  as  roast  beef.  This  meat  should  be  cooked  well 
+done,  and  may  be  served  with  a  dressing. 
+
+FRICASSEE  OF  VEAL 
+
+Cut  into  small  pieces  50  pounds  of  veal,  place  in  copper 
+with  sufficient  water  to  cover,  add  10  pounds  of  finely 
+chopped  onions  and  cook  until  tender.  Then  prepare  a 
+good  cream  sauce  from  the  veal  stock,  add  the  yolks  of  a 
+few  eggs,  and  mix  with  the  veal.  Season  and  simmer  a  few 
+minutes.    Garnish  with  chopped  parsley  and  green  peas. 
+
+VEAL  STEW 
+
+Prepare  in  the  same  manner  as  beef  stew. 
+
+RAGOUT  OF  VEAL 
+
+Prepare  in  the  same  manner  as  ragout  of  beef. 
+
+CREAM  OF  VEAL 
+
+30  pounds  of  veal  and  5  pounds  of  ham  chopped  fine; 
+prepare  roux.  Place  3  pounds  of  butter  or  drippings  in 
+scouse  kettle,  add  2^  pounds  of  flour,  when  smooth  add 
+2  gallons  of  milk,  cream  or  stock;  dilute  4  cans  of  cream 
+in  3  gallons  of  water,  having  it  boiling  hot  before  adding 
+to  roux,  stir  constantly,  adding  6  ounces  of  salt;  when 
+smooth  add  meats,  1  ounce  of  nutmeg  and  ^  ounce  of 
+cayenne  pepper,  simmer  10  minutes  and  serve  on  toast. 
+Chicken  and  mutton  may  be  prepared  the  same  way. 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  37 
+
+VEAL  SALAD 
+
+30  pounds  of  cooked  veal  and  5  pounds  of  pork,  chopped 
+very  fine,  an  equal  quantity  of  chopped  cabbage  and  celery 
+in  equal  proportion  to  meat.  Salt  and  pepper  to  taste  and 
+serve  with  boiled  dressing.  Cooked  potatoes  can  be  used  in 
+place  of  so  much  cabbage  and  celery.  Dressing  is  made  of 
+i  dozen  eggs,  2  quarts  of  vinegar,  4  oimces  of  mustard,  2 
+cans  of  cream,  i  pound  of  butter,  "1  pound  of  sugar,  4 
+ounces  of  flour,  and  4  quarts  of  water. 
+
+VEAL  OR  BEEF  AND  POTATO  SALAD 
+
+Peel  40  pounds  of  boiled  potatoes,  6  pounds  of  onions, 
+sliced  thin,  chop  30  pounds  of  meat  very  fine,  and  cut  up 
+potatoes  in  cubes,  add  2  ounces  of  pepper,  8  ounces  of  salt, 
+1  gallon  of  hot  stock  or  boiling  hot  water,  2^  quarts  of  salad 
+oil,  2  quarts  of  vinegar,  mix  thoroughly;  have  2  bunches 
+of  parsley  chopped  fine  and  add  to  mixture,  which  means 
+a  great  improvement.  Save  some  of  the  parsley  for  gar- 
+nishing with  the  addition  of  hard-boiled  eggs,  cut  in  thin 
+slices  (lettuce  may  also  be  used) ;  this  salad  can  be  pre- 
+pared with  boiled  dressing  or  mayonnaise  dressing,  omitting 
+the  vinegar  and  oil. 
+
+VEAL  CROQUETTES 
+
+Prepare  in  the  same  manner  as  beef  croquettes. 
+
+VEAL  OR  BEEF  LOAF 
+
+40  pounds  of  meat,  2  bunches  of  parsley,  put  through  the 
+meat  chopper,  add  6  pounds  of  stale,  soaked  bread,  8  eggs 
+and  a  little  good  stock,  season  with  salt,  pepper  and  a  little 
+
+Digitized  by  VjUUy  It: 
+
+
+38  U.  S.  Navy  Cook  Book 
+
+mace  and  thyme.  Mold  in  loaves  and  place  in  baking  pans, 
+cover  with  a  little  beef  drippings,  bacon  or  butter,  cook  in 
+the  oven  about  1  hour,  basting  frequently  with  a  little  stock, 
+then  it  may  be  served  hot  or  cold. 
+
+BOILED  LEG  OF  MUTTON 
+
+76  pounds  of  mutton  cooked  the  same  as  boiled  beef; 
+serve  with  caper,  onion  or  pickle  sauce. 
+
+ROAST  LEG  OF  MUTTON 
+
+Wash  75  pounds  of  mutton,  remove  shank  bone,  wipe 
+dry  and  rub  well  with  ground  ginger  (this  removes  rank 
+flavor),  then  cook  as  roast  beef;  serve  with  mint  sauce. 
+
+ROAST  PORK  LOINS 
+
+80  pounds  of  pork  loins,  remove  chine  bone  and  proceed 
+as  for  roast  beef.  This  meat  must  be  served  well  done. 
+Eeserve  the  bones  for  beans  or  pork  stew. 
+
+STUFFED  SHOULDERS  OF  MUTTON  OR  VEAL 
+
+80  pounds  of  shoulders,  remove  the  bones  and  fill  the 
+cavities  with  a  good  sage  dressing,  then  proceed  as  for 
+roast  beef. 
+
+ROAST  LEG  OR  SHOULDER  OF  PORK 
+
+76  pounds  of  pork,  remove  the  bone,  skin  the  fat,  and 
+reserve  the  fat  for  baked  beans  or  fry  it  out  for  lard,  then 
+place  the  meat  in  the  baking  pans  and  proceed  as  in  the 
+usual  manner. 
+
+Digitized  by  VjOOQIC 
+
+
+TJ.  S.  Navy  Cook  Book  39 
+
+FRIED  PORK  CHOPS 
+
+70  pounds  of  pork  loins,  cut  the  chops  very  thin,  season 
+with  salt  and  pepper,  then  fry  in  hot  pans  on  the  range 
+until  well  done. 
+
+
+Digitized  by  VjOOQ IC 
+
+
+40  U.  S.  Navy  Cook  Book 
+
+
+VARIOUS  MEAT  RECIPES 
+
+CORNED   BEEF  HASH 
+
+Peel  and  boil  75  pounds  of  potatoes,  mash  them,  add  25 
+pounds  of  chopped  corned  beef  and  5  pounds  of  chopped 
+onions ;  season  with  salt  and  pepper ;  place  in  a  well-greased 
+baking  pan,  smooth  over  the  top,  baste  with  beef  drippings, 
+bake  brown  in  the  oven.  This  hash  may  be  fried  and 
+browned  on  both  sides  in  a  frying  pan  on  the  top  of  the 
+range. 
+
+BOILED  CORNED  BEEF 
+
+Wash  75  pounds  of  corned  beef,  place  in  the  copper  in 
+cold  water  and  bring  to  a  boil.  If  the  stock  is  too  salty, 
+renew  the  water  and  let  boil  slowly  or  simmer  for  about 
+3  hours. 
+
+FRESH   BEEF   HASH 
+
+Peel  and  cut  into  cubes  70  pounds  of  potatoes,  cook  in 
+copper  until  almost  done,  then  drain.  Cut  25  pounds  of 
+meat  into  small  cubes.  Have  5  pounds  of  partly  fried 
+onions  in  4  pans,  add  the  meat  and  potatoes  to  them, 
+season  with  salt  and  pepper,  and  saute  on  the  range  until 
+brown. 
+
+BEEF  CROQUETTES 
+
+Eun  through  the  meat  chopper  40  pounds  of  cooked 
+meats  and  3  pounds  of  parboiled  onions.  Put  in  the 
+scouse  kettle  2  pounds  of  drippings  and  2  pounds  of  flour 
+and  prepare  a  thick,  white  roux.     Add  this  to  the  meat 
+
+Digitized  by  VjOU^  ItT 
+
+
+U.  S.  Navy  Cook  Book  41 
+
+and  season  with  salt,  pepper,  mace  and  chopped  parsley. 
+When  shaped,  dredge  with  flour,  dip  in  beaten  eggs,  then 
+in  cracker  or  bread-crumbs,  and  fry  to  a  golden  brown  it 
+deep,  hot  fat. 
+
+BEEF  POTATO  CROQUETTES 
+
+Eun  through  the  meat  chopper  25  pounds  of  cooked 
+meat  and  3  pounds  of  parboiled  onions,  add  25  pounds  of 
+cooked  mashed  potatoes,  mix  well,  let  cool,  shape,  ?ind  pro- 
+ceed as  for  beef  croquettes.    Fry  in  deep,  hot  fat. 
+
+FRIED  BEEF   LIVER 
+
+Wash,  skin  and  remove  sinew  from  45  pounds  of  liver. 
+Cut  into  slices  about  ^  inch  thick,  sprinkle  with  salt  and 
+pepper,  dip  in  plenty  of  flour  and  fry  in  a  little  hot  fat  until 
+well  browned.  Cooking  liver  too  long  makes  it  hard  and 
+tough.  I  If  bacon  is  to  be  served  with  the  liver,  use  only 
+40  pounds  of  liver  and  add  10  pounds  of  bacon.  This  dish 
+should  be  served  with  a  good  onion  gravy. 
+
+VEAL  CUTLETS 
+
+Take  60  pounds  of  veal  cutlets,  cut  thin.  Sprinkle  with 
+salt  and  pepper,  clip  in  flour,  then  in  beaten  eggs,  then  in 
+bread-crumbs.    Fry  in  deep,  hot  fat  until  a  golden  brown. 
+
+COLD  SLICED  CORNED   BEEF 
+
+Place  the  tins  of  corned  beef  in  the  refrigerator  for  at 
+least  24  hours  before  using,  then  remove  it  from  the  cans, 
+cut  in  slices  ^  inch  thick,  and  replace  in  ice  box  until  ready 
+to  serve. 
+
+Digitized  by  VjOOQ  IC 
+
+
+42  U.  S.  Navy  Cook  Book 
+
+CORNED  BEEF  FRIED  IN   BATTER 
+
+Slice  cold  corned  beef  in  J-inch  slices,  dip  in  good  batter 
+and  fry  quickly  in  deep,  hot  fat,  then  serve  with  tomato 
+sauce. 
+
+RISSOLES  AND  CROQUETTES  OF  CORNED  BEEF 
+
+Gut  the  cold  corned  beef  in  2-inch  cubes,  place  in  black 
+pans  and  sauU  in  hot  oven,  drain  off  the  liquid,  then  brown 
+some  salt  pork  (cut  in  small  dice)  on  the  range,  add  some 
+chopped  onions,  then  add  sufficient  flour  to  absorb  all  the 
+fat;  reduce  this  roux  with  the  liquid  from  some  tinned 
+peas  and  the  strained  liquid  from  the  corned  beef,  season 
+with  thyme,  pepper  and  a  little  salt,  then  add  some  parsley, 
+and  cooked  diced  potatoes ;  add  the  peas  to  the  meat,  pour 
+on  the  sauce,  cover  with  a  good  biscuit  paste  and  bake  in 
+a  good  oven.  The  addition  of  canned  tomatoes  greatly 
+improves  the  dish. 
+
+BOILED  SALT  PORK   (NAVY) 
+
+Remove  the  pork  from  the  barrels  and  cut  off  the  fat> 
+allowing  only  about  i  inch  to  remain  on  the  lean  (return 
+the  fat  to  the  barrels  and  reserve  for  other  use) ;  place  the 
+pork  in  cold  water  to  soak  all  night.  When  ready  to  cook 
+place  the  pork  in  the  copper  with  plenty  of  cold  water, 
+allow  to  come  very  slowly  to  a  boil,  then  repeat  the  process 
+twice  more,  and  the  last  time  allow  to  remain  simmering 
+until  tender. 
+
+FRIED  SALT  PORK 
+
+After  the  pork  has  soaked  all  night  and  has  been  par- 
+boiled, it  may  be  cut  in  slices  and  fried  on  the  range,  in  this 
+case  it  is  advisable  to  allow  a  little  more  fat  to  remain.    A 
+
+Digitized  by  VjOU^  ItT 
+
+
+U.  S,  Navy  Cook  Book  43 
+
+brown  gravy  may  be  made  by  frying  some  onions  in  a  pan, 
+after  the  pork  has  cooked,  then  add  flour  and  reduce  with 
+water. 
+
+BOILED   HAM 
+
+Ham  should  be  placed  in  cold  water  to  soak  over  night, 
+then  washed  off  and  placed  in  the  copper  with  plenty  of  cold 
+water  (if  very  salty  bring  very  slowly  to  a  boil  and  remove 
+the  water  once  or  twice),  then  bring  to  a  boil,  simmer 
+slowly  until  the  small  bone  in  the  hock  can  be  easily  removed. 
+This  process  will  take  about  4  hours.  A  better  way  is  to 
+allow  the  hams  to  boil  about  2  hours,  then  turn  off  the  steam 
+and  cover  tight  and  allow  the  hams  to  finish  cooking  and 
+cooling  at  the  same  time  in  their  own  liquid,  this  will  be  in 
+about  4  hours  more.  This  method  produces  a  very  juicy 
+ham. 
+
+FRIED  SMOKED   HAM 
+
+Take  65  pounds  of  ham,  wipe  clean  and  trim  the  hams. 
+Cut  into  thin  slices,  place  in  pan  or  copper  of  cold  water 
+(just  enough  to  cover  the  ham),  bring  water  to  a  boil  and 
+strain  off.  Put  as  many  pans  as  necessary  on  the  range  and 
+cover  the  bottom  with  clean  grease,  fry  ham  slowly  until 
+brown  on  both  sides,  season  with  pepper  and  serve  with 
+fried  eggs  or  with  fried  potatoes  (omitting  eggs),  or  with 
+fried  hominy,  or  it  can  be  served  with  creamed  potatoes. 
+Compressed  ham  can  be  used  in  place  of  smoked  ham,  in 
+which  case  it  is  not  necessary  to  bring  the  ham  to  a  boil, 
+and  use  only  35  pounds  of  ham. 
+
+BAKED  SPICED  HAM 
+
+Take  hams  that  have  not  been  boiled  too  much^  remove 
+the  skin  and  stick  whole  cloves  in  the  faf  fliichSapart,  then 
+
+
+44  U.  S.  Navy  Cook  Book 
+
+dust  with  cinnamon,  sprinkle  with  powdered  sugar  and 
+fine  bread-crumbs,  and  bake  in  a  good  oven,  basting  with 
+fat  in  pan.  The  addition  of  a  few  sliced  onions  in  the  pan 
+improves  the  flavor. 
+
+TINNED  HAM 
+
+Canned  ham  for  use  should  be  prepared  in  this  manner : 
+Remove  the  hams  from  the  cans,  break  apart,  place  in 
+black  pans  and  bake  in  a  good  hot  oven,  removing  the  fat 
+and  liquid  from  time  to  time.  In  this  manner,  the  ham  will 
+be  browned  and  will  have  the  flavor  of  fried  ham. 
+
+FRIED  BACON 
+
+The  bacon  may  be  sliced  in  thin  slices,  then  placed  in  cold 
+water  and  allowed  to  come  to  a  slow  boil,  drain  off  all  the 
+water  and  fry  on  top  of  the  range.  Bacon  should  not  be 
+cooked  too  much,  for  it  has  a  tendency  to  dry  out  after 
+cooking. 
+
+SMOKED  TONGUE 
+
+Tongues  should  be  soaked  in  cold  water  over  night,  then 
+cooked  in  the  same  way  as  ham ;  when  done  the  small  bone 
+in  the  root  may  be  detached  and  the  skin  should  be  removed. 
+As  with  ham,  tongues  are  greatly  improved  by  allowing 
+them  to  cool  off  in  the  liquid  in  which  they  were  cooked. 
+
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  45 
+
+
+POULTRY 
+
+When  preparing  poultry,  if  frozen  it  should  be  thawed 
+out  in  cold  water,  wiped  dry  and  all  the  pin  feathers  re- 
+moved ;  then  cut  off  the  tips  of  the  wings,  feet  at  the  knee- 
+joints,  cut  off  head  at  the  end  of  the  neck,  remove  crop, 
+remove  the  oil  sack,  cut  around  the  vent,  make  a  cut  across 
+the  belly,  and  remove  the  entrails,  taking  care  not  to  break 
+the  gall  sack,  trim  off  the  liver,  gizzard  and  heart,  wash  the 
+chicken  or  turkey.  All  poultry  should  be  singed  to  remove 
+the  fine  hair. 
+
+ROAST  TURKEY  OR  CHICKEN 
+Clean  as  above,  stuff  with  bread  dressing,  place  in  baking 
+pans,  place  a  slice  of  salt  pork  or  some  good  drippings  over 
+the  breast  and  roast  in  oven,  basting  frequently. 
+
+CHICKEN  STEW 
+
+Cut  the  chicken  in  small  pieces,  wash  and  place  in  cold 
+water,  add  some  peeled  aiid  sliced  onions,  simmer  slowly 
+until  leg  of  chicken  is  tender,  add  some  cooked  diced 
+potatoes,  thicken  with  flour,  season  and  serve. 
+
+
+Digitized  by  VjOOQ  IC 
+
+
+46  U.  S.  Navy  Cook  Book 
+
+
+METHOD  OF  PREPARING  AND  COOKING 
+VEGETABLES 
+
+All  vegetables  should  be  as  fresh  as  possible;  look  tlieni 
+over,  wash  well,  removing  all  decayed  or  unripe  parts;  let 
+them  stand  in  cold  water  for  some  time  before  using. 
+Always  have  the  water  boiling  before  putting  them  in  it. 
+Young  or  summer  vegetables  do  not  require  as  much  cook- 
+ing as  old  ones*.  All  green  vegetables  should  be  cooked 
+uncovered.  Potatoes  may  be  boiled  in  cold  or  hot  water. 
+If  vegetables,  such  as  beets,  turnips  and  cabbage,  are  very 
+old  and  tough,  a  little  bicarbonate  of  soda  cooked  in  the 
+water  with  them  will  help  the  cooking.  All  dried  vegetables 
+should  be  allowed  to  soak  in  cold  water  for  some  time 
+before  using. 
+
+BOILED   POTATOES 
+
+Pare  and  eye  the  potatoes  and  boil  in  slightly  salted 
+water ;  when  cooled,  drain  off  half  the  water,  place  a  little 
+butter  on  top  of  the  potatoes,  drain  off  the  remainder  of  the 
+water  and  pour  over  two  or  three  times,  finally  drain  off 
+the  water,  then  allow  the  potatoes  to  steam. 
+
+PEELED  BAKED  POTATOES 
+
+Prepare  potatoes  as  for  boiling,  cut  large  ones  in  half, 
+place. some  drippings  in  a  pan,  add  the  potatoes,  sprinkle 
+with  salt  and  pepper  and  tfake  in  hot  oven,  or  they  may  be 
+browned  on  top  of  the  range  and  allowed  to  finish  cooking 
+in  the  oven. 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  47 
+
+BAKED  POTATOES 
+
+Wash,  wipe  and  cut  off  the  ends  of  some  good  round 
+potatoes,  place  in  black  pan  and  bake  in  good  oven  until 
+soft ;  these  potatoes  are  improved  if  a  little  grease  is  placed 
+in  the  pan  in  which  they  are  cooked,  as  it  softens  the  skin. 
+
+MASHED  POTATOES 
+
+Prepare  as  for  boiled  potatoes;  when  boiled  remove  all 
+the  water,  then  add  butter,  pepper  and  salt,  mash  well, 
+being  careful  to  remove  all  lumps,  then  add  the  milk  and 
+some  of  the  potato  stock  and  beat  well  to  make  light. 
+
+SAUTE   POTATOES 
+
+Take  whole  boiled  potatoes,  remove  the  skin  and  cut  in 
+^-inch  slices,  have  a  pan  ready  containing  a  good  quantity 
+of  beef  drippings,  heat  it  and  place  the  potatoes  in  the  pan, 
+season  with  salt  and  pepper  and  sprinkle  with  chopped 
+parsley,  fry  on  top  of  the  range  until  well  done. 
+
+LYONNAISE   POTATOES 
+
+Prepare  as  for  saute  potatoes,  with  the  exception  that 
+before  placing  the  potatoes  in  the  pan,  have  some  sliced 
+onions  fried  in  the  pan,  mix  all  together,  then  fry  as  for 
+saute  potatoes. 
+
+HASH   BROWN   POTATOES 
+
+Take  cold  boiled  potatoes,  peel  and  chop  up  in  small  dice, 
+have  a  pan  ready  on  the  range  with  some  beef  drippings  in 
+it,  heat  well  and  add  the  potatoes,  season  with  salt  and 
+pepper  and  some  chopped  parsley,  fry  a  few  minutes,  this 
+
+Digitized  by  VjLXjy  It: 
+
+
+48  U.  S.  Navy  Cook  Book 
+
+makes  the  potatoes  into  a  compact  mass,  and  brown  well 
+on  both  sides ;  or,  after  frying  them  they  may  be  browned 
+in  the  oven,  first  covering  them  with  a  little  grease. 
+
+FRENCH   FRIED  POTATOES 
+
+Wash  and  peel  the  potatoes,  cut  into  long  cubes  and 
+place  in  cold  water  to  stand  for  one  hour,  then  drain  off 
+the  water  and  remove  as  much  as  possible  from  the  potatoes ; 
+have  a  pan  of  boiling  fat  ready  and  fry  the  potatoes  a  golden 
+brown,  season  with  salt  after  cooking. 
+
+AMERICAN   FRIES 
+
+Take  some  cold  boiled  potatoes,  remove  the  skin  and  cut 
+into  1-inch  cubes,  fry  a  golden  brown  in  good,  deep,  hot  fat, 
+season  with  salt  after  frying. 
+
+COTTAGE  FRIED  POTATOES 
+
+Take  new  peeled  potatoes  and  cut  into  thin  slices,  have 
+a  pan  ready  in  which  there  is  a  quantity  of  fat,  then  add  the 
+potatoes,  season  with  salt  and  pepper  and  fry  on  a  range, 
+then  finish  cooking  in  the  oven. 
+
+STUFFED  BAKED  POTATOES 
+
+Prepare  and  cook  potatoes  as  for  baked  potatoes;  when 
+cooked  cut  through  the  center  and  remove  the  potatoes  from 
+the  skin,  mash,  season  with  salt,  butter,  chopped  parsley 
+and  milk,  mash  well,  refill  the  skin,  brush  the  surface  of  the 
+potatoes  with  a  little  milk  or  with  the  white  of  an  egg,  then 
+rook  in  a  quick  oven. 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  49 
+
+POTATO  CROQUETTES 
+
+Prepare  some  thick  mashed  potatoes  adding  some  egg 
+yolks,  when  ahnost  cold,  mold  in  any  desired  shape,  dip  in 
+flour  and  beaten  eggs  and  then  roll  in  cracker  dust  or 
+bread-crumbs,  fry  quickly  in  deep,  hot  fat. 
+
+POTATO  CAKES 
+
+,  Make  preparations  as  for  potato  croquettes,  mold  in 
+round,  flat  cakes,  dip  in  flour  and  fry  in  a  small  quantity 
+of  fat  until  slightly  brown  on  both  sides. 
+
+CREAMED  POTATOES 
+
+Peel  and  cut  into  salted  water,  and  boil  until  about  three 
+parts  cooked,  remove  the  water  and  prepare  a  good  cream 
+sauce,  pour  the  sauce  over  the  potatoes  and  allow  them  to 
+simmer  for  a  few  minutes,  then  sprinkle  with  chopped 
+parsley  and  serve. 
+
+BOILED  SWEET  POTATOES 
+
+Wash  and  remove  the  ends  of  the  potatoes,  place  in  boil- 
+ing water  and  cook  until  soft,  peel  and  return  to  copper, 
+pour  over  some  melted  butter,  then  allow  them  to  steam  for 
+a  few  minutes  and  serve. 
+
+FRIED  SWEET  POTATOES 
+
+Prepare  as  for  boiled  potatoes,  allow  them  to  become  cold, 
+remove  the  skins  and  cut  into  thick  slices,  fry  in  deep,  hot 
+fat,  or  cut  in  thick  slices  and  saute  in  a  very  little  fat,  the 
+same  as  for  saute  potatoes. 
+
+Digitized  by  VjOOQ  IC 
+
+
+50  U.  S.  Navy  Cook  Book 
+
+CANDIED  SWEET  POTATOES 
+
+Prepare  as  for  boiling,  remove  the  skins,  place  in  well- 
+greased  pans,  sprinkle  with  powdered  sugar  and  brown  in  a 
+good  hot  oven. 
+
+BAKEP  SWEET  POTATOES 
+
+Prepare  in  the  same  manner  as  white  potatoes. 
+
+BOILED  CABBAGE 
+
+Remove  the  decayed  parts,  cut  the  cabbages  in  fourths 
+or  eighths  according  to  size,  remove  the  stem  and  place  in 
+cold  water  to  soak,  wash  well,  drain  and  place  in  boiling 
+water  and  cook  until  thickest  stems  are  tender.  A  handful 
+of  salt  thrown  in  the  water  when  soaking  young  spring 
+cabbage  will  cause  any  worms  that  may  be  in  it  to  come  out ; 
+care  should  be  taken  that  none  remain  in  the  cabbage. 
+
+HOT  SLAW 
+
+After  washing  the  cabbage,  take  a  vegetable  slicer  or  a 
+sharp  knife  and  slice  the  cabbage  very  fine  in  strips,  have 
+sufficient  boiling  water  in  the  copper  to  half  cov^r  the 
+cabbage,  cook  until  about  half  done,  then  add  the  following 
+ingredients:  Oil,  vinegar,  sugar,  pepper  and  salt  sufficient 
+to  taste.  The  addition  of  a  few  sliced  onions  cooked  with 
+the  cabbage  is  relished  by  some  people. 
+
+COLD  SLAW 
+
+Slice  the  cabbage  same  as  for  hot  slaw,  and  add  a  good 
+Prench  dressing  one  hour  before  using. 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  51 
+
+
+BOILED  TURNIPS 
+
+
+The  best  turnips  for  serving  boiled  are  early  summer 
+turnips,  white ;  these  should  be  peeled,  cut  in  quarters  and 
+boiled  in  salted  water.  The  most  common  turnips  are  the 
+yellow  ones,  and  are  difficult  sometimes  to  soften;  these 
+should  be  peeled,  washed,  cut  in  small  pieces  and  placed 
+in  boiling  water,  to  which  has  been  added  a  small  quantity 
+of  baking  soda,  boil  until  tender.  When  serving  turnips 
+this  way  they  are  usually  cooked  with  salt  pork  or  corned 
+beef  to  give  them  a  flavor. 
+
+MASHED  TURNIPS 
+
+Prepare  in  the  same  manner  as  boiled  turnips ;  after  cook- 
+ing tender  drain  off  the  water,  add  butter,  pepper  and  salt, 
+mash  well  and  drain  through  colander. 
+
+MASHED  TURNIPS  WITH    POTATOES 
+
+Prepare  as  for  mashed  turnips,  adding  one-third  potatoes. 
+Mixing  this  is  a  good  method  for  it  removes  any  strong 
+flavor  that  is  in  the  turnips. 
+
+CREAMED  TURNIPS 
+
+Prepare  as  for  boiled  turnips,  cutting  them  into  1-incli 
+cubes,  boil  and  drain  off  the  water,  add  a  good  cream  sauce, 
+simmer  for  10  minutes  and  serve. 
+
+BOILED  CARROTS 
+
+Scrape  off  the  outside  skins,  wash  and  cut  lengthwise  in 
+two,  allow  them  to  remain  in  cold  water  for  1  hour,  and  boil 
+in  salted  water,  ham  stock  or  corn  beef  stock. 
+
+Digitized  by  VjOOQ IC 
+
+
+52  U.  S.  Navy  Cook  Book 
+
+BOILED  CARROTS  WITH  GREEN  PEAS 
+
+Prepare  as  for  boiling,  cut  them  in  J-ineh  dice,  boil  in 
+boiling  salted  water  until  cooked,  then  add  the  same  quan- 
+tity of  tinned  peas,  thicken  with  a  little  roux,  season  with 
+salt  and  pepper ;  a  little  butter  may  be  added. 
+
+CREAMED  CARROTS 
+
+Prepare  as  for  boiled  carrots,  cutting  them  in  1-inch 
+cubes,  boil  in  salted  water,  drain  them,  add  cream  sauce. 
+
+BOILED  ONIONS 
+
+Remove  the  skins,  roots  and  tops,  wash  in  cold  water, 
+boil  in  salted  boiling  water  until  tender,  then  drain  off  the 
+water,  season  with  salt,  pepper  and  butter. 
+
+CREAMED  ONIONS 
+
+Prepare  same  as  for  boiled  onions,  drain  the  water,  then 
+add  a  good  cream  sauce  prepared'  from  the  stock  of  the 
+onions. 
+
+FRIED  ONIONS 
+
+Prepare  onions  same  as  for  boiling,  slice  in  J-inch  sUces ; 
+place  a  black  pan  on  the  range,  then  add  water  to  cover  the 
+bottom,  put  the  onions  in,  then  add  about  2  pounds  of  fat, 
+invert  another  pan  over  it  and  allow  them  to  steam  until 
+all  the  water  has  evaporated,  then  remove  the  inverted  pan 
+and  finish  frying, 
+
+BOILED  PARSNIPS 
+
+Prepare  and  cook  in  the  same  manner  as  for  carrots, 
+serving  with  plenty  of  butter  over  them. 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  53 
+
+CREAMED  PARSNIPS 
+
+Prepare  in  the  same  manner  as  creamed  carrots. 
+
+BOILED  KALC 
+
+Wash  and  remove  the  decayed  parts,  cut  off  the  large 
+stock  and  soak  in  cold  water,  then  drain  off  and  cook  in 
+boiling  salted  water  until  tender ;  or,  it  may  be^  cooked  in 
+ham  or  salt  pork  stock,  thereby  adding  to  the  flavor. 
+
+BOILED  SPINACH 
+
+Prepare  and  cook  in  the  same  way  as  boiled  kale,  with 
+the  exception  that  very  little  water  is  required  to  cook  it  in. 
+
+FRIED  EGGPLANT 
+
+Eemove  the  outside  skin  and  slice  in  ^-inch  slices,  pre- 
+pare a  batter  of  eggs,  flour  and  baking  powder,  and  fry  in 
+deep,  boiling  fat;  or,  slices  may  be  dipped  in  flour  and  fried 
+in  a  little  fat. 
+
+BOILED  STRING  BEANS,  FRESH 
+
+Beans  should  be  perfectly  fresh,  the  ends  and  strings 
+removed  and  boiled  in  salted  water  until  tender ;  if  the  beans 
+are  very  large  they  may  be  sliced  lengthwise.  Cooked  bacon, 
+ham  or  salt  pork  with  the  beans  greatly  add  to  the  flavor. 
+
+GREEN   PEAS,  FRESH 
+
+Shell  the  peas,  allow  them  to  soak  in  cold  water  and  cook 
+in  salted  water  until  soft  to  the  touch,  drain  off  the  water 
+and  season  with  salt,  pepper  and  butter. 
+
+Digitized  by  VjOOQ  IC 
+
+
+54  U.  S.  Navy  Cook  Book 
+
+LIMA  BEANS,  FRESH 
+Prepare  and  cook  in  the  same  manner  as  green  peas. 
+
+BOILED  LIMA   BEANS,  DRIED 
+
+Place  the  beans  in  cold  water,  wash  and  remove  all  the 
+straw  and  dirt  floating  on  top  of  the  water;  repeat  this 
+process  at  least  twice,  then  remove  the  beans  by  means  of  a 
+colander  putting  the  beans  to  soak  in  clean,  fresh  water 
+for  at  least  5  hours;  then  drain  off  the  water,  add  fresh 
+water  and  allow  to  come  slowly  to  a  boil,  cook  until  tender, 
+drain  off  the  water  and  season  with  butter,  salt  and  pepper. 
+
+GREEN   PEAS,  DRIED 
+Prepare  in  the  same  manner  as  dried  lima  beans. 
+
+KIDNEY  BEANS,  DRIED 
+
+Prepare  and  cook  in  the  same  manner  as  dried  lima 
+beans,  and  if  preferred,  a  thin,  white  sauce  may  be  prepared 
+and  added  to  any  other  vegetables  to  be  served,  making 
+them  go  further. 
+
+
+Digitized  by  VjOOQ IC 
+
+
+U.  S.  Navy  Cook  Book  55 
+
+
+THICKENING  AGENTS  AND  SAUCES 
+
+The  use  of  sauces  for  meats,  vegetables  and  certain  des- 
+serts is  required  to  give  flavor  to  what  may  be  otherwise  a 
+tasteless  dish.  In  cooking,  certain  cuts  of  meats,  owing  to 
+their  toughness,  usually  require  prolonged  cooking  and  if 
+it  were  not  for  the  sauce  served  with  them  they  would  be 
+exceedingly  unpalatable  and  tasteless.  A  number  of  sauces 
+are  thick,  and  about  the  consistency  of  good  cream.  There 
+are  several  methods  of  producing  this  condition  by  means 
+of  the  following  preparations : 
+
+WHITE   ROUX 
+
+White  roux  may  be  prepared  from  either  butter  fats,  or 
+oil;  when  prepared  from  the  latter  we,  of  course,  do  not 
+obtain  the  individual  flavor  of  butter,  consequently  the  roux 
+is  not  rich.  Take  equal  quantities  of  good  drippings  and 
+sieve  in  the  flour,  stirring  continually  until  the  mass  be- 
+comes firm,  care  must  be  taken  that  it  does  not  become 
+brown. 
+
+BROWN  ROUX 
+
+Prepare  in  the  same  manner  as  white  roux,  using*  one- 
+fourth  more  drippings.  Heat  the  drippings  to  a  frying 
+point,  then  sieve  in  the  flour,  stirring  continually  until  the 
+desired  color  has  been  obtained,  care  must  be  taken  that  the 
+heat  is  not  too  intense  or  the  flour  will  not  brown  evenly. 
+
+Digitized  by  V_i O^J^  I tT 
+
+
+56  U.  S.  Navy  Cook  Book 
+
+FLOUR 
+
+In  using  flour  as  a  medium  for  thickening  sauces,  stews, 
+etc.,  care  must  be  taken  that  it  has  been  worked  perfectly 
+smooth ;  sieve  the  flour  in  the  pan,  then  make  a  large  hole 
+in  the  center  of  the  flour,  place  the  cold  water  in  the  center 
+and  with  a  spoon  or  wire,  stir  or  whip  the  water  in  rotation, 
+the  water  will  gradually  absorb  the  flour,  producing  a 
+smooth  paste. 
+
+CORNSTARCH 
+
+This  article  is  used  where  a  clear,  transparent  sauce  is 
+required,  it  is  prepared  in  the  same  manner  as  flour. 
+
+BROWN  SAUCE 
+
+Eeduce  a  brown  roux  with  stock,  fry  a  few  onions,  add  to 
+the  sauce  and  simmer  for  30  minutes,  then  strain  and 
+season  with  salt  and  pepper. 
+
+WHITE  SAUCE 
+
+Reduce  a  good  white  roux  with  some  good  white  stock, 
+chop  or  grind  a  few  onions,  add  to  the  sauce,  allow  to 
+simmer  for  30  minutes,  then  strain,  season  with  salt  and 
+pepper  and  a  small  piece  of  butter. 
+
+CREAM   SAUCE 
+
+Reduce  a  white  roux  with  boiling  milk  to  the  desired 
+(onsistency, "season  with  salt,  pepper  and  butter,  finish  with 
+a  little  cream. 
+
+CAPER  SAUCE 
+
+Prepare  a  good  white  sauce,  add  whole  capers  or  finely 
+tlioj)ped  pickles ;  if  capers  are  used  a  small  quantity  of  the 
+
+Digitized  by  VjCXJ*^  ItT 
+
+
+TJ.  S.  Navy  Cook  Book  57 
+
+taragon  vinegar  may  be  added.    The  stock  from  the  boiling 
+mutton  may  be  used  in  preparing  the  white  roux. 
+
+ONION  SAUCE 
+
+Prepare  a  thick  cream  sauce,  slice  up  tfie  onions  and  boil 
+separately,  when  cooked  tender  add  to  the  cream  sauce, 
+season  with  butter,  salt  and  pepper. 
+
+CELERY  SAUCE 
+
+Boil  the  tops  and  roots  of  celery  in  some  good  stock, 
+when  tender  mash  and  strain,  thicken  the  liquid  with  a 
+white  roux,*  take  the  tender  white  parts  of  celery,  dice  in 
+small  pieces  and  boil,  when  tender  add  to  the  sauce,  season 
+with  butter,  pepper  and  salt. 
+
+HORSERADISH  SAUCE 
+
+Prepare  a  good  white  sauce,  add  sufficient  grated  horse- 
+radish to  flavor  well. 
+
+CUSTARD  SAUCE 
+
+Heat  some  water  to  a  boiling  point,  then  thicken  well 
+with  cornstarch,  beat  some  eggs  well,  together  with  some 
+sugar,  milk  and  vanilla  extract ;  when  the  thickened  water 
+has  cooled  off  well,  add  the  mixture,  allow  to  come  almost 
+to  a  boiling  point,  but  do  not  allow  to  boil,  then  serve. 
+
+VANILLA  SAUCE 
+
+Prepare  in  the  same  manner  as  custard  sauce,  flavoring 
+well  with  vanilla  extract 
+
+Digitized  by  VjOOQ  IC 
+
+
+58  U.  S.  Navy  Cook  Book 
+
+TINNED  FRUIT  SAUCE 
+
+Take  the  syrup  from  tinned  fruit,  add  suflBcient  sugar  to 
+sweeten,  add  a  little  lemon  peel  and  then  add  an  equal 
+quantity  of  water,  bring  to  a  boil,  then  thicken  with  corn- 
+starch, boil  for  10  minutes,  then  serve. 
+
+CHOCOLATE  SAUCE 
+
+Bring  some  water  to  a  boil,  mix  well  together  sufficient 
+cornstarch  and  enough  cocoa  to  give  a  light  brown  color, 
+add  to  the  boiling  water,  cook  10  minutes,  then  allow  to 
+cool  off.  Beat  well  together  some  eggs,  flavor  with  vanilla, 
+add  to  the  liquid,  heat  and  serve. 
+
+HARD  SAUCE 
+
+Cream  some  butter  with  the  hand  with  twice  the  amount 
+of  powdered  sugar ;  when  soft  as  thick  cream,  add  flavoring 
+of  nutmeg  and  some  well-beaten  whites  of  eggs,  beat  well 
+together  with  an  egg-whip  and  set  aside  in  the  refrigerator 
+to  become  hard. 
+
+GOLDEN  SAUCE 
+
+Prepare  a  hard  sauce,  then  substitute  yolks  of  eggs  for 
+the  white  and  mix,  omit  nutmeg,  using  a  flavoring  of 
+vanilla. 
+
+The  following  sauces  are  suitable  for  service  with  the 
+articles  mentioned: 
+
+Roast  Meats. — Brown  sauce,  tomato  sauce,  onion  sauce. 
+
+Boiled  Meats, — Caper  sauce,  onion  sauce,  horseradish 
+sauce,  celery  sauce. 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  59 
+
+Roast  Chicken  and  Turkey. — Giblet  sauce,  brown  sauce, 
+Spanish  sauce. 
+
+Fried  Chicken, — Cream  sauce,  celery  sauce,  tomato 
+sauce. 
+
+Breaded  and  Fried  Pork,  Mutton  and  Veal  Chops. — 
+Brown  sauce,  tomato  sauce,  mustard  sauce. 
+
+Roast  Mutton, — Brown  sauce,  mint  sauce,  dish  gravy. 
+
+Boiled  Mutton, — Caper  sauce,  onion  sauce,  celery  sauce. 
+
+Boiled  Poultry. — Egg  sauce,  cream  sauce,  celery  sauce. 
+
+Baked  Fish. — ^Tomato  sauce,  pan  sauce. 
+
+Fried  Fish. — Tartar  sauce,  tomato  sauce. 
+
+Boiled  Fish. — Egg  sauce,  cream  sauce,  drawn  butter 
+sauce,  parsley  sauce. 
+
+Croquettes  and  Meat  Cakes. — Tomato  sauce,  brown  sauce, 
+onion  sauce. 
+
+Roast  Ham, — Spanish  sauce,  tomato  sauce,  brown  sauce. 
+
+
+Digitized  by  VjOOQ IC 
+
+
+60  U.  S.  Navy  Cook  Book 
+
+
+DESSERTS,  PUDDINGS,  PASTRIES 
+(FOR  100  MEN) 
+
+BREAD  PUDDING  NO.  1 
+
+Take  8  pounds  of  stale  bread,  cut  in  1-inch  cubes,  put  in 
+2  baking  pans,  beat  up  in  dishpan  1  dozen  of  eggs,  2  pounds 
+of  sugar,  2  ounces  of  salt,  3  pounds  of  evaporated  milk,  3 
+ounces  of  extract,  3  gallons  of  water,  mix  and  pour  over 
+the  bread,  then  spread  over  each  pan  ^  pound  of  currants, 
+previously  well  washed  and  picked,  shake  a  little  cinnamon 
+or  nutmeg  over  the  top  and  allow  to  stand  i  hour.  Then 
+bake  in  slow  oven  for  1  hour.  Small  pieces  of  butter  placed 
+over  the  pudding  before  baking  improves  it.  This  pudding 
+should  be  served  with  custard  sauce. 
+
+BREAD  PUDDING   NO.  2 
+
+Take  8  pounds  of  stale  bread,  soak  in  cold  water,  squeezt^ 
+perfectly  dry,  mix  2  cans  of  evaporated  milk,  1  gallon  of 
+water,  2  pounds  of  sugar,  1  dozen  eggs,  2  quarts  of 
+molasses,  1  ounce  of  cinnamon,  2  ounces  of  salt,  ^  ounce  of 
+cloves,  i  ounce  of  nutmeg,  mix  all  ingredients  well  together, 
+pour  over  the  bread,  let  stand  for  15  rtiinutes,  then  add  2 
+pounds  of  currants,  2  pounds  of  raisins,  2  pounds  of 
+chopped  evaporated  apples.  Have  black  pans  well  greased, 
+divide  the  mixture  in  them,  smooth  off  the  top  and  cover 
+with  some  pieces  of  butter  or  beef  drippings,  bake  in 
+moderate  oven  about  1  hour.  If  the  mixture  appears  dry 
+add  a  little  more  water. 
+
+Digitized  by  VjOU^  ItT 
+
+
+U.  S.  Nats-  Cook  Book  61 
+
+LEMON  SUET  PUDDING 
+
+14  lbs.  stale  bread  4  cans  milk 
+
+5  lbs.  suet  4  oz.  lemon  extract 
+
+5  lbs.  sugar  2  gals,  water 
+
+18  eggs 
+
+Soak  the  bread  in  cold  water,  squeeze  dry,  beat  the  eggs, 
+sugar,  extract  and  milk  together,  then  add  the  salt  and 
+water.  Chop  the  suet  fine,  mixing  with  it  1  pound  of  flour, 
+then  add  all  the  ingredients  together,  using  sufficient  water 
+to  moisten.  Bake  slowly  for  2  hours,  basting  the  top  with 
+some  melted  butter,  serve  with  molasses  or  lemon  sauce. 
+
+COTTAGE  PUDDING 
+
+9  lbs.  flour  1^  lbs.  lard  or  butter 
+
+9  oz.  baking  powder  4  oz.  salt 
+
+6  lbs.  sugar  2  oz.  extract 
+
+1  doz.  eggs  1^  gals,  water 
+
+Cream  sugar  and  lard  weU  together  and  add  eggs,  one  at 
+&  time;  beat  well  and  then  sieve  in  the  flour  and  baking 
+powder,  then  moisten  with  water.  Bake  in  greased  pans 
+and  serve  with  vanilla  sauce. 
+
+INDIAN   PUDDING 
+
+9  lbs.  cornmeal  3  pts.  molasses 
+
+3  lbs.  flour  4  qts.  water 
+
+3  oz.  salt  8  lbs.  can  milk 
+
+8  oz.  butter  1  oz.  ground  ginger 
+
+Place  the  water,  milk,  butter,  syrup  and  salt  in  the  copper 
+and  let  heat,  then  add  the  cornmeal  and  ginger  and  flour, 
+the  latter  ingredients  being  previously  mixed  welljgg^|her. 
+
+
+62  U.  S.  Navy  Cook  Book 
+
+Stir  well  and  mix,  then  let  cook  for  about  30  minutes. 
+Place  in  well-greased  pans,  smooth  off  the  top  with  butter 
+and  bake  for  about  2  hours,  then  serve  with  molasses  sauce. ^ 
+
+RICE  CUSTARD  PUDDING 
+
+9  lbs.  rice  1^  doz.  eggs 
+
+5  lbs.  sugar  6  oz.  salt 
+
+4  lbs.  can  milk  2  oz.  extract 
+
+4  gals,  water  8  oz.  butter 
+
+Wash  and  boil  the  rice  in  salted  water.  Put  in  buttered 
+pans.  Cream  sugar,  butter  and  eggs,  add  the  milk  and  the 
+extract.  Mix  part  of  this  with  pudding,  and  spread  the 
+other  over  the  top.    Let  bake  in  slow  oven  until  light  brown. 
+
+CUSTARD  PUDDING 
+
+4J  doz.  eggs   ■  3  qts.  water 
+
+15  lbs.  milk  4  lbs.  sugar 
+
+1  lb.  flour  i  oz.  nutmeg 
+
+Whip  the  eggs  light  with  sugar,  add  the  flour,  nutmeg, 
+milk  and  water.  Put  buttered  dishes  in  pans  of  water. 
+Bake  in  moderate  oven  until  cooked. 
+
+CORNSTARCH  PUDDING 
+
+9  lbs.  cornstarch  6  lbs.  milk 
+
+5  lbs.  sugar         ;  2  doz.  eggs 
+
+4  oz.  extract  9  gals,  water 
+
+^  lb.  butter  6  oz.  salt 
+
+Place  the  water,  sugar,  salt,  butter  and  milk  in  the 
+copper  and  allow  to  come  to  a  boil.  Mix  the  cornstarch 
+with  cold  water  and  add  to  the  ingredients  in  the  copper. 
+Stir  well,  shut  off  the  steam  and  when  cooled  off  add  well- 
+
+
+U.  S.  Navy  Cook  Book  63 
+
+)eateii  egg  yolks  and  extract.  Place  in  pans,  beat  the  egg 
+fhites  to  a  frost  and  spread  on  top,  then  bake  in  the  oven 
+intil  brown. 
+
+TAPIOCA  PUDDING 
+
+10  lbs.  tapioca  i  lb.  butter 
+
+6  lbs.  sugar  4  cans  milk 
+
+4  oz.  extract  1  doz.  eggs 
+
+Soak  the  tapioca  in  cold  water  for  30  minutes,  then  turn 
+on  the  steam  until  cooked  soft,  add  the  butter  and  mix  the 
+beaten  eggs,  sugar  and  milk  well  together,  then  add  the 
+tapioca  after  it  has  cooled  off.  Place  in  baking  pans  and 
+bake  in  the  oven  until  I -own  on  top,  then  allow  to  cool  off 
+before  serving. 
+
+STEWPD  APPLES  OR  APPLE  SAUCE 
+
+10  lbs.  evaporated   apples  ^  oz.  cinnamon 
+
+3  lbs.  sugar  1  lb.  cornstarch 
+
+Soak  the  apples  as  long  as  possible  in  cold  water,  then 
+boil  in  fresh  water  to  which  has  been  added  ^  ounce  of  cook- 
+ing soda.  Add  the  cornstarch,  previously  mixed  with  cold 
+water;  strain  and  mash  through  a  sieve,  then  add  sugar 
+and  spices  and  serve  cold. 
+
+STEWED  PEACHES 
+
+12  lbs.  peaches  3  lbs.  cornstarch 
+
+4  lbs.  sugar  Peel  of  3  lemons 
+
+Soak  the  peaches  in  cold  water,  boil  in  water  to  which  has 
+been  added  ^  ounce  of  soda ;  when  well  cooked  add  the  corn- 
+starch, previously  mixed  with  cold  water,  then  add  the 
+
+_  J  1 J  Digitizedby  VjOOy  Itr 
+
+»ugar  and  serve  cold.  ^ 
+
+
+64  U.  S.  Navy  Cook  Book 
+
+
+MISCELLANEOUS  RECIPES 
+
+MACARONI   RECIPE  NO.  1 
+
+Place  10  pounds  macaroni  in  boiling  water,  add  8  ounce 
+of  salt  and  boil  for  25  minutes,  or  until  soft,  then  drain  of 
+water.  Braise  20  pounds  of  fresh  beef  in  a  scouse  kettl< 
+until  tender  with  5  pounds  of  onions,  add  3  cans  of  tomatoes 
+and  stock,  season  to  taste.  Pour  contents  over  macaroni 
+Place  in  baking  pans,  sprinkle  with  bread-crumbs  anc 
+grated  cheese  and  place  in  a  moderate  ovcd.  Bake  about  Ic 
+minutes. 
+
+MACARONI   RECIPE  NO.  2 
+
+Prepare  18  pounds  macaroni  same  as  recipe  No.  1.  Place 
+on  range  6  gallons  of  stock  and  4  gallons  of  milk  and  let 
+come  to  a  boil,  then  make  roux  by  placing  in  scouse  kettle 
+4  pounds  of  drippings  and  2|  pounds  of  flour,  J  ounce  of 
+nutmeg  and  i  ounce  of  red  pepper;  stir  briskly,  add  the 
+stock  until  thin  enough,  add  8  ounces  of  salt,  then  place 
+macaroni  in  pans  and  cover  with  the  above  ingredients, 
+cover  with  plenty  of  cheese,  then  with  bread  crumbs.  Place 
+on  top  cubes  of  butter  or  drippings  and  bake  in  oven  tiiitil 
+brown. 
+
+POTATO  AU-GRATIN 
+
+Prepare  as  creamed  potatoes,  then  place  potatoes  in  a 
+pan  or  dish  and  mix  in  some  grated  cheese,  smooth  off  the 
+top  and  sprinkle  with  plenty  of  cracker  dust,  then  some 
+more  cheese,  and  finally  bake  in  a  hot  oven  with  some  small 
+pieces  of  butter  until  well  browned«itizedby>^uuyit: 
+
+
+U.  S.  Navy  Cook  Book  65 
+
+BAKED  BEANS 
+
+3J  gals,  beans  2  oz.  mustard 
+
+1  lb.  salt  3  lbs.  salt  pork 
+1^  pts.  molasses  2  lbs.  onions 
+
+2  oz.  pepper 
+
+Th0  beans  should  first  be  washed  and  then  picked  over, 
+
+removing  all  the  foreign  particles,  they  should  then  be 
+
+soaked  in  cold  water  for  at  least  6  or  7  hours,  the  water 
+
+drained  off  and  replaced  by  fresh.     They  should  then  be 
+
+brought  slowly  to  a  boil  and  cooked  until  the  skins  will 
+
+readily  come  off  by  pressure  between  the  fingers.    Drain  off 
+
+the  water  and  prepare  a  mixture  of  molasses,  salt,  pepper 
+
+and  dry  mustard,  then  add  to  the  beans  and  mix  well. 
+
+Take  scouse  kettle  and  place  layer  of  beans  on  the  bottom, 
+
+then  take  2  onions,  slice  and  place  on  the  beans,  then  the 
+
+pork  cut  in  small  pieces.    Fill  the  kettle  to  about  2  inches 
+
+from  the  top.     Place  more  pork  or  ham  fat,  add  enough 
+
+water  to  just  cover  beans  and  bake  in  a  slow  oven  for  at  least 
+
+6  or  7  hours,  adding  water  as  it  evaporates. 
+
+BOILED   HOMINY 
+
+8  lbs.  hominy  1  lb.  butter 
+
+4^  gals,  water  |  lb.  salt 
+
+4  lbs.  milk 
+
+Place  water  in  the  copper,  add  and  dissolve  the  salt. 
+Turn  on  the  steam  and  stir  in  the  hominy,  let  it  cook  slowly 
+until  almost  cooked,  then  add  the  milk  and  butter.  Finish 
+cooking  and  serve.  In  case  coarse  hominy  or  grits  are 
+used,  soaking  in  cold  water  improves  it. 
+
+Digitized  by  VjOOQ  IC 
+
+
+J 
+
+
+GS  U.  S.  Navy  Cook  Book 
+
+FRIED   HOMINY 
+
+Cook  as  for  boiled  hominy;  take  black  pans,  cover  the  *: 
+bottoms  with  paper,  then  put  the  boiled  hominy  in  pans, 
+level  off  and  allow  to  become  cold,  turn  the  pan  upside 
+down  on  the  table,  remove  the  paper,  cut  in  slices,  dip  in 
+beaten  eggs  and  flour  and  fry  in  deep,  hot  fat. 
+
+JOHNNY  CAKES 
+
+12  lbs.  cornmeal  6  oz.  salt 
+
+i  lb.  butter 
+
+Place  the  cornmeal  in  the  copper,  add  salt  and  butter, 
+then  sufficient  boiling  water  to  make  a  thick  paste;  fry 
+spoonfuls  on  a  well-greased  griddle,  browning  both  sides ' 
+of  cakes. 
+
+GRIDDLE  CAKES 
+
+
+I 
+
+
+12  lbs.  flour 
+
+Salt 
+
+8  oz.  baking  powder 
+
+12  eggs 
+
+4  lbs.  milk 
+
+Sift  the  flour,  baking  powder  and  salt  well  together,  re- 
+duce the  milk  with  water,  beat  the  eggs  light,  add  the  milk 
+to  the  flour,  then  add  the  eggs.  Care  should  be  taken  in 
+mixing  all  kinds  of  batter  containing  baking  powder,  as  the 
+more  it  is  worked  the  greater  the  loss  of  the  gas  from  the 
+baking  powder.  Griddle  cakes  of  all  descriptions  should  be 
+cooked  on  a  well-greased  and  hot  griddle  on  the  top  of  the 
+range.  The  top  of  the  range  may  be  well  cleaned  and  the 
+cakes  cooked  on  the  plates,  pieces  of  fat  pork  or  such  thing 
+being  the  mest  medium  for  doing  this. 
+
+Digitized  by  VjOOQ  IC 
+
+
+TJ.  S.  Navy  Cook  Book  67 
+
+BREAD  GRIDDLE  CAKES 
+
+12  lbs.  flour  8  oz.  baking  powder 
+
+5  lbs.  stale  bread       6  eggs 
+1  qt.  molasses  2  lbs.  milk 
+
+4  oz.  salt 
+
+Put  bread  to  soak  in  warm  water,  when  well  soaked 
+squeeze  dry  arid  add  the  well-beaten  eggs,  milk  and  molasses ; 
+sift  together  the  flour,  salt  and  baking  powder,  add  to  the 
+prepared  bread,  mix  together  and  fry  on  well-greased 
+griddle. 
+
+CORNMEAL  GRIDDLE  CAKES 
+
+Prepare  the  same  way  as  griddle  cakes,  substituting  3 
+pounds  of  cornmeal  for  three-fourths  flour,  and  adding  a 
+small  quantity  of  molasses. 
+
+BREAD  DRESSING  FOR  PORK  OR  VEAL 
+
+8  lbs.  stale  bread  i  oz.  sage 
+
+6  oz.  salt  i  oz.  pepper 
+
+6  lbs.  beef  drippings  Eind  of  2  lemons, 
+
+4  lbs.  onions  chopped  fine 
+i  oz.  thyme 
+
+Put  the  bread  to  soak  in  warm  water  and  when  soft 
+squeeze  very  dry,  add  the  seasoning  and  cut  very  fine.  Melt 
+the  drippings  and  mix  with  the  preparations.  Place  in 
+well-greased  pans  and  bake  in  oven,  adding  a  little  more 
+fat  over  the  top  if  it  becomes  too  dry. 
+
+Digitized  by  VjOOQ  IC 
+
+
+68  U.  S.  Navy  Cook  Book 
+
+OYSTER  DRESSING  FOR  POULTRY 
+
+8  lbs.  stale  bread  or  crumbs         1  lb.  parsley 
+2  qts.  oysters  J  lb.  butter 
+
+6  eggs  Salt  and  pepper 
+
+Strain  the  oysters,  remove  all  shells  and  place  the  liquid 
+on  the  fire,  allow  to  come  to  a  boil,  remove  the  scum  and 
+strain  over  the  bread.  Beat  the  eggs  well  and  add  to  the 
+bread,  then  add  the  parsley,  salt,  pepper  and  melted  butter 
+and  oysters.  Mix  and  stuff  the  poultry,  or  it  may  be  baked 
+in  greased  pans. 
+
+SWEET  POTATO  DRESSING  FOR  POULTRY 
+
+Prepare  in  the  same  manner  as  for  oyster  dressing.  Sub- 
+stitute sweet  potatoes  cut  in  small  pieces  and  use  5  pounds 
+of  bread  instead  of  8  pounds, 
+
+STUFFED  GREEN  PEPPERS 
+
+Green  peppers  may  be  stuffed  with  any  meat  croquette 
+preparation  or  may  be  stuffed  with  a  mixture  of  boiled  rice 
+and  chopped  meat.  The  peppers  should  be  cut  through  the 
+center  and  all  seeds  removed.  Tlie  stalks  may  be  trimmed 
+off  and  if  desired  they  may  be  blanched  in  boiled  water, 
+boiling  for  5  minutes.  This  removes  the  necessity  of  being 
+too  long  in  the  oven,  and  also  removes  some  of  the  heat  of 
+the  pepper.  After  blanching  they  should  be  stuffed  with  the 
+preparation,  a  little  cracker-  or  bread-crumbs  placed  on  the 
+top,  then  place  in  baking  pans  and  brown  well  in  the  oven, 
+basting  frequently  with  a  little  milk  or  butter. 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  69 
+
+POTATO  SALAD 
+
+40  lbs.  potatoes  Parsley 
+
+5  lbs.  onions 
+
+Take  cold  boiled  potatoes,  remove  the  skins  and  slice 
+very  thin,  add  the  chopped  parsley  and  thinly  sliced  onions, 
+then  prepare  a  French  dressing  and  mix  well  together,  let 
+stand  1  hour  before  serving. 
+
+STRING  BEAN  SALAD 
+
+19  lbs.  string  beans  2  pts.  vinegar 
+
+(no  liquid)  2  pts.  oil 
+
+4  lbs.  onions    ,  8  oz.  salt 
+
+3  lbs.  potatoes  1  oz.  pepper 
+
+1  doz.  eggs  i  oz.  mustard 
+
+Peel  the  boiled  potatoes,  allow  to  become  cold ;  cliop  the 
+onions  fine  and  add  the  well-drained  beans.  Prepare  the 
+dressing  by  adding  the  yolk  of  the  eggs  to  potatoes  (now 
+mashed),  then  the  salt,  pepper  and  mustard,  mixing  and 
+rubbing  well  together,  then  add  the  oil  and  vinegar  a  little 
+at  a  time,  stirring  continuously  until  all  is  used.  The 
+dressing  is  then  mixed  with  the  string  beans  and  garnished 
+with  lettuce. 
+
+VEGETABLE  SALAD 
+
+Prepare  in  the  same  manner  as  string  bean  salad.  Any 
+kind  of  cooked  vegetables  may  be  used,  such  as  beets,  pota- 
+toes, green  peas,  string  beans ;  and  raw  vegetables,  such  as 
+celery,  onions,  lettuce  and  green  apples.  All  to  be  cut  in 
+small  pieces,  mixed  well  together,  then  add  dressing  and 
+garnish  with  lettuce  leaves. 
+
+Digitized  by  VjLXjy  It: 
+
+
+70  U.  S.  Navy  Cook  Book 
+
+CUCUMBERS 
+
+30  pounds  of  cucumbers.  Peeled  and  placed  in  cold 
+water  to  soak,  then  thinly  sliced  and  a  French  dressing 
+poured  over  them  and  served  at  once.  Cucumbers  that  are 
+soaked  in  salt  water  or  that  are  allowed  to  remain  in  the 
+dressing  for  some  considerable  time  become  tough  and 
+indigestible. 
+
+SLICED  TOMATOES 
+
+40  pounds  of  tomatoes.  Wash  and  remove  the  skin,  cut 
+in  slices  ^  inch  thick  and  serve  with  a  French  dressing. 
+
+LETTUCE 
+
+25  pounds  of  lettuce.  Should  be  served  as  fresh  as  pos- 
+sible, the  leaves  should  be  pulled  apart  and  allowed  to  soak 
+in  cold  water,  and  then  well  washed  and  looked  over,  broken 
+in  small  pieces  and  5  minutes  before  serving,  a  French 
+dressing  poured  over  it.  In  no  instance  should  lettuce  be 
+washed  in  salted  water  or  the  dressing  added  any  length  of 
+time  before  serving. 
+
+COFFEE 
+
+3  lbs.  coffee  10  gals,  water 
+
+Place  the  coffee  in  a  muslin  bag  large  enough  to  contain 
+3  times  the  amount.  Tie  the  mouth  of  the  bag  as  near  the 
+end  as  possible,  this  gives  the  coffee  plenty  of  room  to  ex- 
+pand. Place  the  coffee  in  cold  water  and  bring  slowly  to  a 
+boil.  Keep  boiling  for  20  minutes,  then  turn  off  the  steam, 
+add  a  little  cold  water  and  keep  covered  tightly. 
+
+Digitized  by  VjLXjy  It: 
+
+
+U.  S.  Navy  Cook  Book  111 
+
+TEA 
+
+1  lb.  tea  10  gals,  water 
+
+Bring  the  water  to  a  boil,  then  add  the  tea,  which  ha« 
+previously  been  placed  in  a  large  muslin  bag.  Tea  should 
+never  be  allowed  to  boil,  only  steamed  for  about  15  or  2^ 
+minutes. 
+
+COCOA 
+
+2  lbs.  cocoa  4^  lbs.  sugar 
+
+i  lb.  cornstarch  4^  lbs.  milk 
+
+Place  9  gallons  of  water  in  a  copper  and  bring  to  boil, 
+mix  the  cocoa,  sugar  and  cornstarch  with  J  gallon  of  cold 
+water,  add  the  boiling  water  and  cook  for  IQ  minutes,  tur« 
+off  the  steam  just  before  serving,  add  the  milk;  mix  with 
+the  remainder  of  cold  water. 
+
+FRENCH   DRESSING  FOR  SALAD 
+
+4  pts.  salad  oil  1  oz.  dry  mustard 
+
+5  pts.  vinegar  Dash'  of  Worcestershire 
+J  lb.  pepper  sauce 
+
+Mix  well  together,  then  add  gradually  the  oil  and  vinegar, 
+beating  and  stirring  continuously.  This  dressing  should  be 
+used  as  soon  as  made  as  it  will  separate  in  about  20  minutes. 
+
+MAYONNAISE   DRESSING 
+
+1  doz.  eggs  4  oz.  salt 
+J  oz.  pepper  1  gal.  oil 
+
+i  oz.  paprika  1  pt.  vinegar  or  lemon 
+
+2  oz.  mustard  juice 
+
+Separate  the  yolks  from  the  whites,  place  yolks  in  mixing 
+bowl,  add  mustard,  pepper  and  paprika,  after  being  well 
+
+
+72  U.  S.  Navy  Cook  Book 
+
+mixed  add  oil,  stirring  continuously  while  adding  the  oil, 
+add  vinegar  and  salt.  When  all  ingredients  have  been  used, 
+whip  the  whites  of  eggs  until  they  become  stiff,  then  stir 
+it  with  the  mayonnaise.  All  ingredients  should  be  ice  cold 
+before  mixing  and  not  placed  on  any  article  until  ready 
+to  serve. 
+
+
+Digitized  by  VjOOQ IC 
+
+
+U.  S.  Navy  Cook  Book  73 
+
+
+BREAD  AND  PASTRY 
+
+FLOUR 
+
+Flour  should  be  stored  at  a  temperature  ranging  from 
+65  degrees  to  75  degrees  Fahrenheit.  It  should  be  neither 
+too  cold  nor  to  warm.  It  is  best  to  place  it  in  bakeshop  a 
+few  days  before  using. 
+
+WATER 
+
+The  temperature  at  which  a  dough  is  to  be  made,  as  well 
+as  the  amount  of  yeast  used,  depends  a  great  deal. upon  the 
+quality  of  water — hard  water  requiring  more  yeast  than 
+soft  water.  In  normal  conditions  the  temperature  of  the 
+dough  should  be  84  degrees  Fahrenheit. 
+
+SALT 
+
+Salt  retards  fermentation,  and  the  lightness  of  the  loaf 
+depends  upon  the  amount  of  salt  used.  8  to  10  ounces 
+of  salt  is  the  proper  amount  for  a  10-quart  pail  of  water. 
+The  amount  used  depends  upon  other  ingredients,  such  as 
+sugar,  lard,  oil,  etc.,  added  to  the  dough. 
+
+A  good  quantity  of  salt  and  yeast  will  make  a  better  loaf 
+and  flavor  than  where  less  salt  is  used;  it  is  well  to  use  a 
+little  more  salt  in  hot  weather  to  prevent  a  possibility  of 
+sour  bread. 
+
+FLAVOR 
+
+A  cool  dough  with  plenty  of  salt  and  yeast  will  make  a 
+highly  flavored  loaf  of  bread.     The  lack  of  flavor  to  the 
+
+Digitized  by  VjUijy  It: 
+
+
+74  U.  S.  Navy  Cook  Book 
+
+bread  is  usually  caused  by  letting  the  dough  get  too  old 
+or  setting  it  too  warm,  as  well  as  not  using  enough  salt. 
+
+KEEPING  OF  YEAST 
+
+Immediately  upon  receiving  yeast  it  should  be  stored  im 
+a  cool,  dry  place,  but  should  be  kept  from  freezing. 
+
+YIELD 
+
+100  pounds  of  flour  will  absorb  from  25  to  32  quarts  of 
+water,  depending  upon  the  quality  of  flour  used.  The  yield 
+of  bread  to  the  100  pounds  of  flour  averages  approximately 
+from  140  to  150  one-pound  loaves. 
+
+TEMPERATURE 
+
+The  temperature  of  the  dough  should  be  regulated  ac- 
+cording to  the  temperature  of  the  bakeshop,  ranging  from 
+74  degrees  to  84  degrees  Fahrenheit.  If  the  flour  is  cool, 
+the  water  should  be  a  little  warmer  than  usual,  but  if  the 
+flour  is  warm  the  water  should  be  cool  in  proportion. 
+
+BREAD  DOUGH    (SPONGE  SYSTEM) 
+
+70  lbs.  14  oz.  flour  '  1  lb.  lard 
+
+1  lb.  sugar  10  oz.  yeast 
+
+1  lb.  salt  19  qts.  water 
+
+Set  sponge,  using  all  of  the  yeast,  one-half  of  the  water 
+(lukewarm)  and  about  three-sevenths  of  the  flour,  after 
+this  is  well  mixed  set  aside  and  dust  well  with  flour,  allow 
+to  rise  until  it  has  been  up  and  dropped  back  1  inch  from 
+the  top,  time  3  to  3^  hours,  the  sponge  is  then  ready  for 
+douerhinff.     Add  the  remaining  water,  which  should  be 
+
+°  Digitized  by  VjUUy  It: 
+
+
+U.  S.  Navy  Cook  Book  75 
+
+regulated  to  temperature,  that  is,  it  should  not  be  as  warm 
+as  used  for  sponge,  next  add  salt,  sugar  and  lard,  all  this 
+should  be  well  mixed  and  sponge  well  broken  up  before 
+adding  remainder  of  flour,  then  add  remaining  flour  and 
+mix  the  whole  thoroughly ;  after  mixing  allow  to  rise  until 
+it  will  recede  to  the  touch  of  the  hand,  time  about  IJ  hours ; 
+lay  over  and  let  rise  for  about  30  to  45  minutes  more ;  it  is 
+then  ready  to  be  scaled  into  loaves. 
+
+NEW  FLOUR 
+
+When  using  a  new  grade  of  flour  always  make  it  a  point 
+as  to  the  amount  of  water  a  hundred  pounds  will  absorb  so 
+as  to  regulate  the  stiffness  of  your  dough. 
+
+In  cold  weather  always  store  flour  for  immediate  use  in  a 
+warm  place. 
+
+Sponges  and  doughs  should  always  be  well  mixed,  as  a 
+poorly  mixed  dough  never  gives  good  results. 
+
+Use  as  little  flour  as  possible  in  forming  loaves. 
+
+Always  weigh  all  ingredients  carefully,  especially  the  salt. 
+
+Never  dissolve  yeast  in  water  more  than  lukewarm,  as 
+hot  water  will  kill  the  yeast. 
+
+Always  be  careful  not  to  let  bread  proof  too  much,  as  an 
+overproof  loaf  will  show  a  coarse  grain. 
+
+If  you  have  not  developed  the  touch  of  the  dough,  a  good 
+way  is  to  put  it  in  the  oven  when  it  becomes  proofed  to 
+twice  its  original  size. 
+
+The  proper  heat  for  baking  is  400  degrees  Fahrenheit, 
+this  heat  is  used  for  most  all  bread  baking;  time  about 
+46  minutes. 
+
+Digitized  by  VjOOQ  IC 
+
+
+76  U.  S.  Navy  Cook  Book 
+
+WHITE  BREAD  (STRAIGHT  DOUGH  SYSTEM) 
+NAVY  CIVILIAN 
+
+76  lbs.  2  oz.  flour  72  lbs.  12  oz.  flour 
+
+1  lb.  sugar  1  lb.  sugar 
+
+1  lb.  salt  1  lb.  salt 
+
+10  oz.  lard  1  lb.  lard 
+
+12  oz.  yeast  12  oz.  yeast 
+
+17  qts.  water  18  qts.  water 
+
+For  about  100  one-pound  loaves,  scale  at  18  ounces.  Dis- 
+solve the  salt  and  yeast  separately  in  part  of  the  water, 
+then  add  to  remainder  of  water,  next  add  sugar  and  lard, 
+lard  should  always  be  previously  melted,  last  add  the  flour, 
+mix  thoroughly  and  allow  to  rise — for  the  first  time,  3  to 
+3^  hours;  second  time,  1  to  IJ  hours; -third  time,  f  to  1 
+hour.  The  above  periods  of  time  are  to  be  according  to  the 
+warmth  of  dough  and  bakeshop,  also  to  the  amount  of  yeast 
+used.  It  is  then  ready  to  scale  and  form  into  loaves. 
+Total  time  for  dough,  4f  to  6  hours. 
+
+HOMEMADE   BREAD 
+
+68  lbs.  15  oz.  flour  1  lb.  15  oz.  lard 
+
+1  lb.  15  oz.  sugar  10  oz.  yeast 
+
+1  lb.  1  oz.  salt  19  qts.  water 
+
+For  about  100  one-pound  loaves,  scale  at  18  ounces.  Fol- 
+low straight  dough  method,  excepting  the  dough  should  be 
+allowed  to  rest  ^  hour  longer  before  scaling  off. 
+
+VIENNA  OR  HARD  CRUST  ROLLS 
+
+68  lbs.  4  oz.  flour  1  lb.  4  oz.  lard 
+
+1  lb.  4  oz.  sugar  10  oz.  yeast 
+
+1  lb.  2  oz.  salt  20^jte.^  jr^Ig 
+
+
+U.  S.  Navy  Cook  Book  77 
+
+For  about  100  one-pound  loaves,  or  100  dozen  rolls,  scale 
+bread  at  18  ounces,  also  scale  each  dozen  rolls  at  18  ounces. 
+Set  either  sponge  or  straight  dough.  After  dough  is  ready, 
+scale  into  pieces  and  round  them  up.  Let  rise  for  about 
+15  to  20  minutes,  then  round  them  over  again,  lest  rest 
+again  for  about  15  minutes,  after  which  shape  into  Vienna 
+loaves,  lay  the  loaves  smooth  side  down  on  a  cloth-covered 
+board,  pull  the  cloth  up  enough  between  each  loaf  to  prevent 
+them  from  sticking  together.  Allow  to  rest  until  double  in 
+size,  then  bake  in  medium  hot  oven.  Before  putting  in 
+oven  (top  down)  wash  with  a  little  milk,  also  put  3  or  4 
+slanting  cuts  on  top  of  loaf,  for  this  operation  always  use 
+a  sharp  knife.  If  part  milk  is  used,  deduct  3  ounces  of 
+sugar  and  2  ounces  of  lard  for  each  quart  of  milk  used  in 
+place  of  water.  If  there  is  not  a  brick  hearth  in  your  oven, 
+turn  a  sheet  pan  upside  down,  wipe  clean  and  dust  lightly 
+with  flour,  lay  bread  or  rolls  on  this  and  bake. 
+
+RYE   BREAD 
+
+47  lbs.  2  oz.  wheat  flour  1  lb.  6  oz.  salt 
+
+23  lbs.  5  oz.  rye  flour  20  qts.  water 
+
+10  oz.  yeast 
+
+For  about  100  one-pound  loaves,  scale  at  18  ounces. 
+Sponge  system,  using  all  of  the  yeast  and  one-half  of  tlie 
+water,  lukewarm,  and  about  three-sevenths  of  the  flour 
+mixed.  After  sponge  is  mixed  allow  to  rest  until  it  recedes, 
+time  about  3  hours.  When  sponge  is  ready,  dissolve  the  salt 
+in  remainder  of  water,  which  should  be  regulated  to  tem- 
+perature, add  this  water  to  sponge,  mix  and  last  add  the 
+remaining  flour.    Mix  dough  smooth,  and  allow  to  rise  for 
+
+Digitized  by  VjLXjy  It: 
+
+
+78  U.  S.  Navy  Cook  Book 
+
+about  1^  hours,  or  when  it  will  recede  to  the  touch  of  the 
+hand.  Punch  down  and  fold  insides  and  ends,  dust  lightly, 
+allow  to  rest  for  about  15  or  20  minutes  more,  then  scale 
+off  and  round  them  into  loaves,  allow  them  to  spring  for 
+about  15  minutes,  then  shape  into  loaves,  proceed  then  the 
+same  as  Vienna  bread,  only  in  place  of  washing  it  with  milk 
+before  baking  use  water,  also  wash  with  water  immediately 
+after  it  is  baked.  This  bread  can  stand  a  hotter  over  than 
+other  bread. 
+
+RYE   BREAD   (STRAIGHT  DOUGH  SYSTEM) 
+
+Mix  all  ingredients  together,  dissolving  the  salt  and 
+yeast  separately  in  part  of  the  water,  add  all  together  and 
+proceed  to  mix ;  after  dough  is  mixed  smooth  allow  to  rise 
+for  about  3  hours  or  until  it  will  recede  to  the  touch  of  the 
+hand,  punch  and  lay  over  and  allow  to  get  full  proof  again 
+which  will  require  about  1  hour  and  15  minutes,  it  is  then 
+ready  to  scale  into  loaves,  proceed  the  same  as  for  sponge 
+system. 
+
+GRAHAM   BREAD 
+
+For  about  100  one-pound  loaves,  scale  at  18  ounces. 
+Same  as  white  bread,  but  add  one-quarter  to  one-third 
+graham  flour,  it  is  well  to  add  i  pint  of  molasses  to  each 
+10  quarts  of  water  used  in  making  the  dough. 
+
+ENTIRE  WHEAT  BREAD 
+
+For  about  100  one-pound  loaves,  scale  at  18  ounces. 
+Exactly  the  same  as  graham  bread,  only  substitute  entire 
+wheat  flour  for  graham  flour;  as  much  as  one-half  entire 
+wheat  flour  can  be  used  with  the  other  half  wheat  flour. 
+
+Digitized  by  Vj U<jy  1 1: 
+
+
+U.  S.  Navy  Cook  Book  75 
+
+RAISIN   BREAD 
+
+68  lbs.  flour  14  oz.  yeast 
+
+3  lbs.  sugar  2  oz.  cinnamon 
+
+11  oz.  salt  9  lbs.  2  oz.  raisins 
+
+1  lb.  13  oz.  lard  16  qts.  water 
+
+For  about  100  one-pound  loaves,  scale  at  18  ounces.  Use 
+straight  dough  system. 
+
+CORN   BREAD 
+
+2  lbs.  sugar  2  oz.  salt 
+14  oz.  lard  5  lbs.  flour 
+
+i  doz.  eggs  2  lbs.  cornmeal 
+
+2f  qts.  milk  5  oz.  baking  powder 
+
+For  100  men,  at  the  rate  of  about  2J  ounces  per  man. 
+Weight  of  batch  before  baking  16^  pounds,  allowing  about 
+1^  pounds  for  baking  off.  The  above  will  make  two  navy 
+bread  pans,  scale  each  pan  at  8  pounds  1  ounce.  Cut  50 
+portions  from  each. 
+
+ROLLS   (NAVY) 
+
+16  lbs.  6  oz.  flour  10  oz.  lard 
+
+1  lb.  3  oz.  sugar  4  oz.  yeast 
+
+3  oz.  "salt  4J  qts.  water 
+
+For  100  men,  2  rolls  to  a  man,  each  roll  weighing  about 
+2  ounces  when  baked.  Scale  in  5-pound  1-ounce  pieces  and 
+cut  36  rolls  from  each.  In  making  dough  follow  instruc- 
+tions given  under  white  bread  recipe. 
+
+Digitized  by  VjOOQ IC 
+
+
+80  U.  S.  Navy  Cook  Book 
+
+ROLLS  (CIVILIAN) 
+
+16  lbs.  1  oz.  flour  1  lb.  3  oz.  lard 
+
+1  lb.  3  oz.  sugar  4  oz.  yeast 
+
+3  oz.  salt  4f  qts.  water 
+
+If  milk  is  used  deduct  3  ounces  of  sugar  and  2  ounces  of 
+lard  for  each  quart  in  place  of  water.  This  dough  may  be 
+made  into  all  kinds  of  shapes  desired,  and  will  make  ap- 
+proximately 25  dozen  roUs^  each  dozen  scaled  at  18  ounces. 
+Follow  instruction  given  under  white  bread  recipe.  This 
+batch  has  the  same  weight  as  rolls  (navy)  and  may  be  used 
+in  place  if  desired.  The  proper  heat  for  baking  all  rolls 
+and  sweet  doughs  is  from  340  degrees  to  360  degrees 
+Fahrenheit. 
+
+COFFEE  CAKE  (NAVY) 
+6  lbs.  10  oz.  flour  9  oz.  lard 
+
+1  lb.  sugar  2  oz.  yeast 
+
+1  oz.  salt  If  qts.  water 
+
+For  100  men  at  the  rate  of  about  1^  ounces  per  man, 
+baked  with  streusel.  Scale  in  pieces  5J  pounds,  make  up  in 
+long  shape,  let  set  for  about  20  minutes,  roll  out  into 
+squares  the  size  of  pan.  Place  in  pan  and  brush  over  with 
+melted  butter,  prick  well  with  a  fork  to  remove  all  air 
+spaces  in  the  dough,  then  sprinkle  with  the  following 
+streusel.  This  will  make  2  pans  13  x  26  inches^  cut  60  por- 
+tions from  each. 
+
+STREUSEL  (FOR  THE  ABOVE  BATCH) 
+
+7  oz.  flour  i  oz.  salt 
+
+6  oz.  sugar  3^  oz.  butter  or 
+
+i  oz.  cinnamon  Digit  zejgf^uuy  it: 
+
+
+.  U.  S.  Navy  Cook  Book  81 
+
+Do  not  use  lard  if  butter  can  be  obtained.  If  butter  is 
+used  do  not  use  salt  for  making  streusel.  Mix  flour,  sugar, 
+salt  and  cinnamon  together,  last  add  lard  or  butter  and 
+proceed  to  rub  together  the  same  as  pie  dough.  In  making 
+dough  follow  instructions  given  under  white  bread  recipe. 
+
+CINNAMON   BUNS 
+6  lbs.  12  oz.  flour  9  oz.  lard 
+
+1  lb.  sugar  2  oz.  yeast 
+
+1  oz.  salt  2  qts.  water 
+
+For  100  men,  1  to  the  man,  at  the  rate  of  about  If  ounces 
+each  when  baked.  Scale  in  pieces  of  6J  pounds,  make  up 
+in  long  shape,  let  set  for  aSout  20  minutes,  then  roll  into 
+strips  about  J  inch  thick,  18  inches  wide,  and  any  length, 
+brush  over  with  melted  butter  or  oil  and  sprinkle  with  a 
+mixture  of  sugar  and  cinnamon.  Make  this  sheet  into  a 
+roll,  commencing  on  the  outer  edge.  Cut  50  buns  from  each 
+piece,  lay  them  on  well-greased  baking  pans  which  have  been 
+sprinkled  with  sugar,  placing  them  about  J  inch  apart. 
+Let  rise  until  double  in  size,  then  bake  in  oven  about  360 
+degrees  Fahrenheit.  Turn  them  out  of  pan  immediately 
+to  prevent  them  from  sticking.  In  making  dough  follow 
+instructions  given  under  white  bread  recipe. 
+
+RAISED  DOUGHNUTS 
+10  lbs.  flour  1  lb.  lard 
+
+1  lb.  12  oz.  sugar  4  oz.  yeast 
+
+2  oz.  salt  2J  qts.  water 
+
+For  100  men,  two  to  the  man,  at  the  rate  of  about  IJ 
+ounces  each  before  frying.    Scale  in  pieces  of  9f  pounds, 
+
+Digitized  by  VjOU^  ItT 
+
+
+82  U.  S.  Navy  Cook  Book  . 
+
+roll  out  into  sheets  J  inch  thick,  18  inches  wide,  and  any 
+length.  Cut  100  doughnuts  from  each  piece,  or  cut  like 
+rolls  and  form  into  twists.  Another  way  is  to  cut  them  off 
+like  rolls,  form  into  round  balls  and  let  set  for  about  15  to 
+20  minutes,  after  which  they  are  flattened  down  with  the 
+palm  of  the  hand,  and  with  the  finger  or  round  pointed 
+stick  pierce  a  hole  through  the  center,  again  leaving  them 
+rise  until  double  in  size.  Then  fry  in  hot  lard  or  cooking 
+oil.  Doughnuts  are  always  placed  on  cloth-covered  or 
+dusted  board  when  being  made  up  to  let  proof.  In  making 
+dough  follow  instructions  given  under  white  bread. 
+
+CINNAMON   CAKE 
+
+For  100  men.  Use  coffee  cake  recipe,  but  in  place  of 
+putting  streusel  on  top,  substitute  with  a  mixture  of  granu- 
+lated sugar  and  cinnamon. 
+
+JELLY  DOUGHNUTS 
+
+For  100  men.  Use  doughnut  recipe,  roll  up  into  balls, 
+allow  to  rise  for  about  15  minutes,  then  flatten  them  a  little 
+with  the  palm  of  the  hand,  place  a  little  fruit  jelly  or  jam 
+in  the  center  and  pinch  the  edges  together  to  enclose  the 
+fruit,  lay  them  on  flour-dusted  cloth,  smooth  side  up,  cover 
+with  a  floured  cloth,  let  rise  until  nearly  double  in  size,  then 
+fry  in  hot  lard  or  cooking  oil. 
+
+SWEET  DOUGH    (CIVILIAN) 
+
+5  lbs.  15  oz.  flour  14  oz.  sugar 
+
+2  oz.  yeast  14  oz.  lard 
+
+1  oz.  salt  If  qts.  water 
+
+Enough  for  about  10  pounds  of  baked  goods.  The  above 
+dough  can  be  used  for  the  following:    Coffee  cake,  cinna- 
+
+
+U.  S.  Navy  Cook  Book  '83 
+
+men  cake,  plain  buns,  cinnamon  buns,  doughnuts  and  cur- 
+rant buns. 
+
+PLAIN  CAKE    (NAVY) 
+
+3  lbs.  6  oz.  granulated  3  oz.  baking  powder 
+
+sugar  J  oz.  baking  soda 
+
+1  lb.  11  oz.  lard  i  oz.  salt 
+
+1  doz.  eggs  1/2G  oz.  lemon  flavor 
+
+2i  qts.  milk  5  lbs.  5  oz.  flour 
+
+For  100  men,  at  the  rate  of  about  2^  ounces  per  man. 
+Weight  of  batch  before  baking  16:1  pounds,  allowing  about 
+1^  pounds  for  baking  off,  or  1^  ounces  to  each  pound. 
+
+For  citron  cake  add  1  pound  of  finely  sliced  citron: 
+
+For  raisin  cake  substitute  rai'sins  for  citron,  use  either 
+plain  or  spice  cake  mix. 
+
+For  fruit  cake  add  1  pound  of  citron  and  1  pound  of 
+raisins,  use  plain  or  spice  cake  mix. 
+
+For  cocoanut  cake  use  plain  cake  mix,  sprinkle  on  tx)p  of 
+cake  before  baking  4  ounces  of  cocoanut. 
+
+Enough  for  two  navy  bread  pans.  Scale  each  pan  at 
+8  pounds  1  ounce ;  cut  50  portions  from  each. 
+
+CHOCOLATE  CAKE   (PLAIN) 
+3  lbs.  6  oz.  granulated        2  1/10  oz.  baking  soda 
+
+sugar  i  oz.  vanilla 
+
+1  lb.  11  oz.  lard  J  oz.  salt 
+
+1  doz.  eggs  4  lbs.  11  oz.  flour 
+
+2i  qts.  milk  10  oz.  cocoa 
+
+For  100  men,  at  the  rate  of  about  2^  ounces  per  man. 
+Weight  of  bath  before  baking  16^  pounds,  allowing  about 
+1|  pounds  for  baking  off,  or  1^  ounces  to  each  pound. 
+
+Digitized  by  VjOU*^  ItT 
+
+
+84 
+
+
+U.  S.  Navy  Cook  Book 
+
+
+SPICE  CAKE   (NAVY) 
+
+
+3  lbs.  6  oz.  granulated 
+
+sugar 
+1  lb.  11  oz.  lard 
+
+1  doz.  eggs 
+2i  qts.  milk 
+
+2  1/10  oz.  baking  soda 
+
+
+i  oz.  salt 
+
+5  lbs.  3  oz.  flour 
+
+1  oz.  cinnamon 
+
+f  oz.  allspice 
+
+i  oz.  cloves 
+
+
+For  100  men,  at  the  rate  of  about  2^  ounces  per  man. 
+Weight  of  batch  before  baking  16^  pounds,  allowing  i^bout 
+li  pounds  for  baking  off,  or  1^  ounces  to  each  pound. 
+
+MARBLE  CAKE   (NAVY) 
+
+
+LIGHT   PART 
+
+2J  lbs.  granulated 
+sugar 
+
+1  lb.  2  oz.  lard 
+S  doz.  eggs 
+
+li  qts.  milk 
+
+2  oz.  baking  powder 
+•J  oz.  baking  soda 
+
+i  oz.  salt 
+
+1/30  oz.  lemon  extract 
+
+3  lbs.  9  oz.  flour 
+
+
+DARK   PART 
+
+1  lb.  2  oz.  granulated 
+
+sugar 
+9  oz.  lard 
+i  doz.  eggs 
+f  qt.  milk 
+^  oz.  baking  soda. 
+J  oz.  salt 
+
+1/12  oz.  vanilla  powder 
+3  oz.  cocoa 
+1  lb.  9  oz.  flour 
+
+
+For  100 .men,  at  the  rate  of  about  2^  ounces  per  man. 
+Weight  of  batch  before  baking  16^  pounds,  allowing  about 
+H  pounds  for  baking  off,  or  1^  ounces  to  each  pound. 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  85 
+
+JELLY  LAYER  CAKE  NO.  1 
+
+4  lbs.  2  oz.  granulated        2  qts.  milk 
+
+sugar  4  lbs.  3  oz.  flour 
+
+5  oz.  lard  6  oz.  baking  powder 
+
+f  doz.  eggs  1/20  oz.  lemon  extract 
+
+For  100  men,  at  the  rate  of  2J  ounces  per  man.  Weight 
+of  batch  before  baking  13J  pounds.  Will  make  4  layers, 
+using  navy  bread  pan,  must  be  greased  with  cold  lard  and 
+well  dusted  with  flour;  scale  each  layer  at  3  pounds  7  ounces, 
+bake  in  hot  oven.  For  filling  cake  use  the  following: 
+1  pound  14  ounces  of  jam  or  jelly,  8  ounces  of  cocoanut 
+on  top. 
+
+JELLY  LAYER  CAKE  NO.  2 
+
+3  lbs.  10  oz.  granulated  3  oz.  baking  powder 
+
+sugar  4  lbs.  10  oz.  flour 
+
+1^  doz.  eggs  1/20  oz.  lemon  extract 
+Hi  qts.  milk 
+
+For  100  men;  same  weight  as  jelly  layer  cake  No.  1. 
+Grease  and  line  pans  with  paper. 
+
+JELLY  ROLL  NO.  1 
+
+2  lbs.  13  oz.  granulated  4J  oz.  baking  powder 
+
+sugar  4f  lbs.  flour 
+
+1^  doz.  eggs  1/20  oz.  lemon  extract 
+1^  qts.  milk 
+
+For  100  men,  at  the  rate  of  about  2  J  ounces  per  man. 
+Weight  of  batch  before  baking  12 J  pounds.    The  above  will 
+
+Digitized  by  VjOOQIC 
+
+
+86  U.  S.  Navy  Cook  Book 
+
+make  4  large  rolls;  bake  in  sheet  pans  and  scale  each  at 
+3  pounds  i  ounce  and  bake  in  hot  oven.  Use  jelly  or  jam, 
+1  pound  to  each  roll. 
+
+JELLY  ROLL  NO.  2 
+
+2  lbs.  15  joz.  granulated  f  oz.  baking  soda 
+
+sugar  1^  oz.  cream  tartar 
+
+ly^^  doz.  eggs  1/20  oz.  lemon  extract 
+
+1^  qts.  milk  4  lbs.  6  oz.  flour 
+
+For  100  men;  same  weight  as  jelly  roll  No.  1.  Scale  the 
+same  as  jelly  roll  No.  1  and  use  the  same  amount  of  jelly 
+or  jam. 
+
+LAYER  CAKE 
+
+2  lbs.  14  oz.  sugar  4^  oz.  baking  powder 
+
+1  lb.  7  oz.  butter  1/20  oz.  lemon  or  vanilla 
+IJ  doz.  eggs  extract 
+
+2yV  qts.  milk  i  oz.  nutmeg 
+
+5  lbs.  8  oz.  flour 
+
+For  100  men,  at  the  rate  of  about  2^  ounces  each.  Weight 
+of  batch  before  baking  16  pounds  5  ounces.  This  batch  will 
+make  40  small  single  layers,  scale  each  layer  at  6^  ounces. 
+Make  20  two-layer  cakes  and  cut  5  portions  from  each. 
+
+CHOCOLATE   ICING   NO.  1 
+
+2  lbs.  11  oz.  granulated      5  oz.  cocoa 
+
+sugar  4  oz.  butter 
+
+1  pt.  milk  1/30  oz.  liquid  vanilla 
+
+Will  make  enough  chocolate  icing  for  the  above  batch. 
+In  making  boiled  icing,  boil  until  strings  are  visible  from 
+
+Digitized  by  VjOOQIC 
+
+
+U.^S.  Navy  Cook  Book  87 
+
+the  spoon  with  which  it  is  being  stirred,  then  remove  and 
+beat  until  it  becomes  stiff,  add  about  1  good  gill  more  of 
+milk  to  slacken ;  it  is  then'  ready  for  use. 
+
+CHOCOLATE   ICING  NO.  2 
+
+Use  the  same  ingredients  as  for  boiled  icing  No.  1 ;  have 
+about  6  egg  whites  well  beaten  in  place  of  the  extra  gill  of 
+milk,  use  when  icing  has  been  boiled  enough,  add  to  the 
+whites  slowly,  keep  beating  continually  until  it  is  all  added. 
+
+BROWN   BREAD   NO.  1 
+
+1  lb.  burnt  sugar  2  oz.  salt 
+
+1  lb.  granulated  4^  lbs.  flour 
+
+sugar  H  lbs.  whole  wheat  flour 
+
+14  oz.  lard  1:^  lbs.  cornmeal 
+
+i  doz.  eggs  2  oz.  yeast 
+
+2f  qts.  milk  i  oz.  baking  soda 
+
+For  100  men,  at  the  rate  of  about  2 J  ounces  per  man. 
+The  above  will  make  2  navy  bread  pans,  scale  each  pan  at 
+8  pounds  2  ounces,  cut  50  portions  from  each ;  if  1  pint  of 
+molasses  is  used  in  place  of  burnt  sugar,  deduct  |  pint  of 
+milk.  This  should  be  let  set  to  rise  for  about  1^  hours  after 
+dropping  out  into  pans  bake  in  hot  oven. 
+
+BROWN   BREAD   NO.  2 
+
+4  lbs.  3  oz.  cornmeal  2  oz;  salt 
+
+4  lbs.  3  oz.  rye  meal  1  qt.  molasses 
+
+3  oz.  baking  powder  2J  qts.  milk 
+
+For  100  men,  at  the  rate  of  about  2^  ounces  per  man. 
+Weight  of  batch  16 J  pounds.     Mix  dry  ingredients  well, 
+
+Digitized  by  VjOUy  It: 
+
+
+88  U.  S.  Navy  Cook  Book 
+
+add  molasses  and  milk,  beat  thoroughly  and  put  in  greased 
+molds.  Steam  for  3^  hours^  after  which  bake  in  oven  long 
+enough  to  dry  out. 
+
+PLUM   DUFF  (BAKED) 
+
+4  lbs.  sugar  1  qt.  water 
+
+2i  lbs.  butter  or  lard  6  lbs.  dried  fruit 
+
+1  oz.  baking  soda    -  11^  lbs.  flour 
+
+1  doz.  eggs  Spices  and  salt  as 
+
+2  qts.  molasses  required 
+
+Mix  and  bake  in  well-greased  pans. 
+
+PLUM   DUFF   (BOILED  OR  STEWED) 
+
+The  same  ingredients,  substituting  3  pounds  of  finely 
+chopped  suet  for  the  lard  or  butter,  place  in  bags  or  molds 
+and  either  steam  or  boil  for  4  hours. 
+
+PIE  DOUGH   NO.  1 
+
+37  lbs.  flour  8  oz.  salt 
+
+18  lbs.  8  oz.  lard  9^  qts.  water 
+
+Enough  for  100  ten-inch  pies.  Total  weight  74^  pounds. 
+Allow  about  11  f  ounces  of  dough  for  each  pie,  top  and 
+bottom. 
+
+PIE  DOUGH   NO.  2 
+
+35  lbs.  12  oz.  flour  8  oz.  salt 
+
+20i  lbs.  lard  8|  qts.  water 
+
+Enough  for  100  ten-inch  pies.  Same  weight  as  above 
+batch,  but  a  richer  dough.  For  mixing  pie  dough,  rub 
+lard  well  with  flour,  then  add  water  with  the  salt  being  dis- 
+
+Digitized  by  V_3 O^J^  I tT 
+
+
+U.  S.  Navy  Cook  Book  89 
+
+solved  in  it.  This  is  then  lifted  together.  Care  should  be 
+taken  not  to  work  pie  dough  too  much  for  the  more  it  is 
+worked  the  tougher  the  dough  will  be. 
+
+PIE   D0U<3H,  FOR  BOTTOMS  ONLY,   NO.  1 
+
+24  lbs.  10  oz.  flour  5  oz.  salt 
+
+12  lbs.  5  oz.  lard  6J  qts.  water 
+
+Enough  for  100  ten-inch  pies. 
+
+PIE  DOUGH,  FOR  BOTTOMS  ONLY,  NO,  2 
+
+23  lbs.  14  oz.  flour  5  oz.  salt 
+
+13  lbs.  11  oz.  lard  5J  qts.  water 
+
+Enough  for  100  ten-inch  pies. 
+
+DRIED  PEACH   PIE 
+
+40  lbs.  evaporated  34  qts.  water 
+
+peaches  1  oz.  cinnamon 
+
+18  lbs.  8  oz.  sugar  1  lb.  12  oz.  cornstarch 
+
+Enough  for  100  ten-inch  pies.  Use  about  1^  pounds  of 
+filling  for  each  pie.  In  preparing  peaches  for  pie,  soak 
+first  for  about  12  hours  in  30  quarts  of  water,  then  place 
+in  copper  or  on  range  and  let  simmer  until  tender,  add 
+sugar  and  cinnamon,  stirring  this  in  well,  then  bring  to  a 
+boiling  point  and  add  starch,  which  should  be  mixed  in  the 
+remaining  4  quarts  of  water.  In  adding  starch  it  should 
+be  poured  in  gradually,  at  the  same  time  stirring  so  as  to 
+prevent  it  from  becoming  lumpy,  it  is  then  removed  from 
+copper  or  range  and  ready  to  be  used  in  pie. 
+
+Digitized  by  VjOOQ  IC 
+
+
+90  U.  S.  Navy  Cook  Book 
+
+DRIED  APPLE  PIE 
+
+25  lbs.  evaporated  41  qts.  water 
+
+apples  2^  oz.  cinnamon 
+
+18  lbs.  8  oz.  sugar  2  lbs.  cornstarch 
+
+Enough  for  100  ten-inch  pies.  Use  about  1 J  pounds  of 
+filling  for  each  pie.  Apples  are  prepared  the  same  as 
+peaches — -soak  in  35  quarts  of  water,  using  the  remaining 
+6  quarts  for  the  starch. 
+
+MINCE  PIE   (NAVY   MINCE   MEAT) 
+67  lbs.  12  oz.  mince-mear  25  qts.  water 
+
+Enough  for  100  ten-inch  pies.  Use  about  1  pound  3 
+ounces  of  filling  for  each  pie.  Soak  the  mince  meat  in  water 
+for  about  12  hours,  it  is  then  ready  for  use. 
+
+TINNED  APPLE  PIE 
+
+125  lbs.  apples  2^  oz.  cinnamon 
+
+18  lbs.  12  oz.  sugar 
+
+Enough  for  100  ten-inch  pies.  Use  about  1^  pounds  in 
+each  pie.  One-quarter  of  the  juice  may  be  saved.  Boil  and 
+use  3  ounces  of  cornstarch  to  each  quart. 
+
+TINNED  PEACH   PIE 
+
+125  lbs.  peaches  6J  lbs.  sugar 
+
+Enough  for  100  ten-inch  pies.  Save  all  of  juice,  boil, 
+using  3  ounces  of  cornstarch  to  each  quart. 
+
+TINNED  APRICOT  PIE 
+
+Same  as  for  peach. 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  91 
+
+PUMPKIN  PIE  NO.  1   (NAVY) 
+
+96  lbs.  tinned  pumpkin  2  lbs.  12  oz.  cornstarch 
+
+8^  doz.  eggs  16  lbs.  sugar 
+
+2^  qts.  molasses  4  oz.  cinnamon 
+
+12  lbs.  evaporated  milk  6  qts.  water 
+
+Enough  for  100  ten-inch  pies.  Beat  up  eggs  and  sugar 
+enough  to  dissolve  sugar,  add  to  pumpkin,  then  add 
+molasses  and  cinnamon,  last  add  cornstarch  which  has 
+been  mixed  with  the  6  quarts  of  water,  mi?  all  well  together, 
+it  is  then  ready  to  put  into  pie  shelves.  Use  1^  pounds  of 
+filling  for  each  pie. 
+
+PUMPKIN  PIE  NO.  2 
+
+56  lbs.  10  oz.  pumpkin  2J  lbs.  cornstarch 
+
+23  lbs.  sugar  4  oz.  cinnamon 
+
+7  doz.  eggs  2  qts.  molasses 
+
+283«V  qts.  milk 
+
+Enough  for  100  ten-inch  pies.  Mix  same  as  pumpkin 
+pie  No.  1,  but  place  shelves  in  oven  first,  then  pour  in 
+filling. 
+
+CUSTARD  PIE   (PLAIN) 
+
+15  lbs.  sugar  3^  lbs.  cornstarch 
+
+55f  qts.  milk  ^  oz.  lemon  or  vanilla  extract 
+
+ISi  doz.  eggs  i  oz.  nutmeg  or  mace 
+
+Enough  for  100  ten-inch  pies.  Beat  sugar  and  eggs  until 
+sugar  becomes  dissolved,  add  milk,  saving  enough  to  dis- 
+solve the  starch,  last  add  flavoring  and  starch;  it  is  then 
+ready  to  our  into  pie  shelves.  Bake  in  oven  about  400  de- 
+grees Fahrenheit.    Use  3  quarts  of  filling  in  each  pie. 
+
+Digitized  by  VjOOy  l-tT 
+
+
+92  U.  S.  Navy  Cook  Book 
+
+COCOANUT  CUSTARD  PIE 
+
+10  lbs.  cocoanut  2§  oz.  salt 
+
+13^  lbs.  sugar  14  oz.  nutmeg 
+
+18§  doz.  eggs  S  oz.  lemou  or  vanilla 
+
+6J  lbs.  spring  flour   I  extract 
+
+61  qts.  milk 
+Enough  for  100  ten-inch  pies.    Beat  sugar  and  eggs  until 
+sugar  becomes  dissolved,  add  flour  and  beat,  then  add  milk 
+and  other  ingredients;  it  is  then  ready  to  be  poured  into 
+the  shelves.    Use  J  quart  of  fillipg  in  each. 
+
+SHORTCAKE 
+
+8  lbs.  5  oz.  flour  9/12  doz.  eggs 
+
+1  lb.  2  oz.  sugar  If  qts.  milk 
+
+2  lbs.  2  oz.  butter  7  oz.  baking  powder 
+
+Enough  for  100  men,  2J  ounces  each.  If  lard  is  used  in 
+place  of  butter,  use  i  ounce  of  salt.  This  dough  is  to  be 
+baked  like  biscuits. 
+
+BAKING  POWDER  BISCUITS 
+
+14  lbs.  11  oz.  flour  7  oz.  salt 
+
+1  lb.  1  oz.  sugar  2  lbs.  12  oz.  lard 
+
+10^  oz.  baking  powder  4§  qts.  milk 
+
+Enough  for  100  men,  2  to  a  man.  Eoll  out  in  strips  about 
+f  of  an  inch  thick  and  cut  200  biscuits  from  mix. 
+
+A  biscuit  cutter  can  be  made  by  taking  a  milk  can  and 
+melting  one  end  off  and  piercing  a  f ew*  holes  in  the  other. 
+
+
+Digitized  by  VjOOQ  IC 
+
+
+U.  S.  Navy  Cook  Book  93 
+
+
+PER  MAN   PER  MEAL  TABLE 
+
+The  following  is  useful  as  a  guide  for  commissary  stew- 
+ards in  making  up  requisitions  and  for  daily  issues  to  the 
+galley  and  bakery : 
+
+CRACKERS 
+
+Oysters,  for  table 1/8  Ibt 
+
+Breading   1/20  " 
+
+Soda,  for  table 1/16  " 
+
+BREAD,  FRESH 
+
+Fresh,  for  table 1/3 
+
+Pudding 1/6 
+
+French  toast 1/4 
+
+Plain  toast 1/4 
+
+Dressing    1/6 
+
+Breading   1/16 
+
+Croutons    ' 1/8 
+
+Hamburger  , 1/16 
+
+FLOUR 
+
+Bread,  for  table 1/4 
+
+Cakes,  plain 1/10 
+
+Pies   ; 1/10 
+
+Rolls 1/4 
+
+Biscuit,  baking  powder 1/6 
+
+Hot  cakes  1/6 
+
+Digitized  by  VjOOQIC 
+
+
+94  U.  S.  Navy  Cook  Book 
+
+Thickening 1/30  lb. 
+
+Dumplings 1/8  ^ 
+
+Fritters   1/6  " 
+
+Doughnuts -. 1/6  " 
+
+Turnovers 1/10  " 
+
+Crullers 1/8  ^  '' 
+
+Coflfee  cake 1/4  ** 
+
+Corn  bread  1/10  « 
+
+Jelly  roll 1/15  '' 
+
+Cookies 1/60  '' 
+
+Oravy 1/50  ** 
+
+Custard  pie 1/20  " 
+
+Sea  pie   1/8  « 
+
+Plum  duff 1/12  " 
+
+Cottage  pudding 1/8  " 
+
+Batter    1/20  « 
+
+Yorkshire  pudding , 1/8  " 
+
+Roux    1/20  " 
+
+Buckwheat,  for  hot  cakes 1/8  ** 
+
+Commeal,  for  mush 1/8  " 
+
+Cornmeal,  for  com  bread ^ 1/16  " 
+
+Cornmeal,  for  corn  cakes 1/16  " 
+
+Cornmeal,  fried  1/8  " 
+
+Cornmeal,  for  breading 1/40  " 
+
+BACON,  TINNED 
+
+Pried,  straight 1/3  '' 
+
+With  liver 1/10  « 
+
+For  chowder 1/50  '' 
+
+Boiled    1/4  « 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  95 
+
+Pried  with  eggs 1/7  lb. 
+
+With  baked  fish 1/60  " 
+
+For  beans  1/20  " 
+
+Potato  salad 1/8  " 
+
+CORNED  BEEF 
+
+Por  hash , 1/8  " 
+
+Cold,  sliced 1/6  " 
+
+Mulligan   1/4  " 
+
+Omelet 1/12  " 
+
+Minced  meat 1/8  ^^ 
+
+Sandwiches  ... . . .-. 1/12  '* 
+
+CHIPPED  BEEF 
+
+On  toast 1/10  '' 
+
+CODFISH,  TINNED 
+
+Creamed 1/6  " 
+
+Hash    1/8  " 
+
+Chowder    1/16  " 
+
+Cakes   1/8  " 
+
+Salad  i/16  " 
+
+Cakes,  breaded 1/4  " 
+
+SALMON 
+
+Croquettes  •. .  1/8  '' 
+
+Cold  1/3  " 
+
+Salad 1/6  ** 
+
+Hash   1/8  •* 
+
+Baked 1/8  ^ 
+
+Digitized  by  VjOOQIC 
+
+
+96  U.  S.  Navy  Cook  Book 
+
+Loaf 1/4  lb. 
+
+Escalloped 1/4  '' 
+
+Creamed    1/4  *' 
+
+SARDINES 
+
+On  toast  1/4  " 
+
+Salad 1/8  " 
+
+VIENNA  SAUSAGE 
+
+Chopped 1/3  " 
+
+Plain   1/3  " 
+
+Fried 1/3  " 
+
+Sandwiches 1/16  ^' 
+
+LUNCHEON   MEAT 
+
+Fried   1/4  " 
+
+Cold   1/5  " 
+
+Fried  with  eggs 1/8  " 
+
+Omelet  1/16  " 
+
+Sandwiches   1/8  " 
+
+CORNED   BEEF,  FRESH 
+
+Boiled    4/5  " 
+
+Hash    1/4  '' 
+
+Cold  3/4  " 
+
+Meat  cakes   1/4  " 
+
+SALT  PORK 
+
+For  beans  1/25  " 
+
+Lean,  boiled  1/2  " 
+
+Chowder   1/50  " 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  97 
+
+SALT  MACKEREL 
+
+Broiled    1/2  lb. 
+
+Boiled    1/2  *^ 
+
+Fried   1/2  « 
+
+BACON,  SMOKED 
+
+Boiled    1/3  " 
+
+Fried,  straight 1/4  ^' 
+
+Fried  with  eggs 1/8  " 
+
+HAM,  SUGAR-CURED 
+
+Boiled   3/5  " 
+
+Fried   ' 3/4  " 
+
+Baked 3/5  « 
+
+Omelet 1/15  " 
+
+SHOULDER,  SUGAR-CURED 
+
+Boiled    2/3  " 
+
+FRANKFURTERS 
+
+Steamed 1/3  " 
+
+Chopped    1/3  '' 
+
+Griddled    1/3  '' 
+
+BOLOGNA 
+
+Fried   1/2  « 
+
+Cold  1/7  " 
+
+Omelet  1/16  " 
+
+Hash   ;... 1/8  « 
+
+Digitized  by  VjOOQIC 
+
+
+98  U.  S.  Navy  Cook  Book 
+
+TONGUE,  SMOKED 
+
+Cold  1/4  ft. 
+
+Boiled 1/4  " 
+
+BEEF,  FRESH 
+
+Minced    1/3  '' 
+
+Boiled    3/4  " 
+
+Chili    1/8  " 
+
+Chop  suey 2/5  '' 
+
+Pot  roast 2/3  " 
+
+A  la  mode 3/4  " 
+
+Steak   : 3/4  '' 
+
+Stew    1/3  " 
+
+Croquettes  1/3  " 
+
+Gk)ulash  1/3  " 
+
+Pot  pie 1/3  " 
+
+Hamburger 1/3  " 
+
+Curry 1/2  " 
+
+Breaded  strips   1/2  " 
+
+Loaf  1/3  " 
+
+Boast  3/6  " 
+
+Eailroad  hash - 1/3  " 
+
+Braised    2/3  " 
+
+Hash    1/4  " 
+
+Creamed  on  toast 1/3  " 
+
+Cold  roast 1/2  '' 
+
+MUTTON,  FRESH 
+
+Boast 2/3  '' 
+
+Stew 1/2  '' 
+
+Chops 3/4  " 
+
+Digitized  by  VjOU^  HC 
+
+
+U.  S.  Navy  Cook  Book  99 
+
+Fricassee 1/2  lb. 
+
+Boiled 3/5  " 
+
+Sea  pie 1/3  " 
+
+Curry  1/4  " 
+
+PORK   LOINS 
+
+Roast 3/4  " 
+
+Chops,  plain ' 3/5  "* 
+
+Chop  suey 1/3  " 
+
+Pork  pie 1/3  '' 
+
+Boiled    3/5  " 
+
+Chops,  breaded 1/2  " 
+
+PORK  SAUSAGE 
+
+Fried   1/2  " 
+
+Boiled    2/5'  '' 
+
+Cakes 1/2  " 
+
+VEAL,  FRESH 
+
+Roast  2/3  " 
+
+Stew 3/8  " 
+
+Cutlets,  breaded 3/4  " 
+
+Fricassee  1/2  " 
+
+Loaf  1/3  " 
+
+Croquettes  1/3  " 
+
+Salad 1/3  " 
+
+LIVER 
+
+Fried  3/8  « 
+
+Digitized  by  VjOOQIC 
+
+
+100  U.  S.  Navy  Cook  Book 
+
+HAMBURGER 
+
+Loaf 1/4  lb. 
+
+Cakes  1/4  " 
+
+Minced  meat 1/6  " 
+
+Stuffed  peppers 1/6  *' 
+
+CHICKEN   OR   FOWL 
+
+•Roast  4/5  " 
+
+Fried   3/4  " 
+
+Fricassee   3/4  " 
+
+Salad  with  potato 1/2  " 
+
+Salad  with  celery 1/2  " 
+
+Stew 2/5 
+
+Croquettes   3/5  " 
+
+Chop  suey 2/5  " 
+
+TURKEY 
+
+Eoast 3/4       " 
+
+Salad   1/3       *• 
+
+FISH,  FRESH 
+
+Fried   2/3 
+
+Baked 2/3 
+
+Cakes   1/8 
+
+Chowder    1/16     " 
+
+EGGS,  FRESH 
+
+Fried   1/6  doz. 
+
+Boiled    1/6  " 
+
+Scrambled 1/6  " 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  101 
+
+Hot  cakes .-.. : : . : ., .  i/lwAoz. 
+
+Mayonnaise  dressing .;.  .,...* a- 1/1^^9  "*  . 
+
+Batter  ;..v..>.;.r.  inm:'^/: : 
+
+Plain  omelet ! .  1/G   ^   "' 
+
+Dumplings    1/200  " 
+
+Ham  omelet 1/8       " 
+
+Cakes   1/50     " 
+
+French  toast 1/100  " 
+
+Cookies    1/150  '' 
+
+Pumpkin  pie 1/60     " 
+
+Custard  pie 1/30     '' 
+
+Corn  bread  1/75     '' 
+
+Hamburger 1/100  '^ 
+
+Puddings  1/100  '" 
+
+Fritters    1/120  " 
+
+Croquettes   1/100  '' 
+
+BEANS,   NAVY 
+
+Baked 1/29    gaL 
+
+Soup 1/80     " 
+
+Boiled    1/25     " 
+
+BEANS,   LIMA 
+
+Baked    1/35     " 
+
+Boiled    1/50     " 
+
+BEANS,  KIDNEY 
+
+Chili 1/60     " 
+
+Boiled    r 1/30     " 
+
+Baked   .: 1/29     " 
+
+Digitized  by  VjOU>y  ItT 
+
+
+102  U.  S.  Navy  Cook  Book 
+
+•:•  .-      \:                 ;      PEAS,  SPLIT 
+l^oup . ..  ^.  « * ' '' 1/80    gal. 
+
+
+ASPARAGUS,  TINNED 
+
+On  toast 1/4  lb. 
+
+Creamed    1/4  '' 
+
+LIMA  BEANS,  TINNED 
+
+Boiled    1/4  *^ 
+
+Salad  1/8  '' 
+
+Succotash    1/8  '' 
+
+STRING  BEANS,  TINNED 
+
+Pickled    1/3  " 
+
+Boiled    1/4  '' 
+
+Salad 1/8  " 
+
+CORN,  TINNED 
+
+Stewed  1/3  '' 
+
+Pudding    1/4  " 
+
+Fritters   1/16  '' 
+
+Chowder    1/16  " 
+
+Succotash 1/8  '' 
+
+PEAS,  TINNED 
+
+Creamed    1/4  " 
+
+Soup    1/6  '' 
+
+With  carrots 1/8  '' 
+
+SPINACH,  TINNED 
+
+Boiled    1/3  *^ 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  103 
+
+T0MAT0E8,  TINNED 
+
+Stewed 1/4  lb. 
+
+Soup    1/8  " 
+
+Soups  1/40  " 
+
+Beans  1/20  '' 
+
+Gravy 1/45  " 
+
+Pot  roast 1/40  '' 
+
+Stew 1/20  " 
+
+Sauce   1/10  " 
+
+Chop  suey 1/20  " 
+
+Spanish  rice 1/8  '' 
+
+Macaroni   1/8  ^^ 
+
+Cold    1/4  « 
+
+Chili  con  carni 1/20  '^ 
+
+PUMPKIN,  TINNED 
+
+For  pies 1/5  " 
+
+Mashed    1/4  ''' 
+
+BEETS,  TINNED 
+
+Pickled    1/6  '' 
+
+Salad 1/20  '' 
+
+TURNIPS,  FRESH 
+
+Mashed    2/5  « 
+
+For  stew  1/20  " 
+
+Mashed  with  potatoes 1/4  *^ 
+
+Boiled    1/3  '' 
+
+New  England  dinner 1/5  ^' 
+
+Pot  roast 1/20  '' 
+
+Vegetable  soup 1/50  *^ 
+
+Digitized  by  VjOOQIC 
+
+
+104  U.  S.  i\AVY  Cook  Book 
+
+CARROTS,   FRESH 
+
+Creamed    1/4  lb. 
+
+Stew 1/20  " 
+
+Pot  roast 1/20  " 
+
+With  peas   1/8  **' 
+
+For  soups  1/50  " 
+
+TOMATOES,  FRESH 
+
+Sliced    1/3  " 
+
+Salad .    1/6  " 
+
+BEETS,   FRESH 
+
+Pickled 1/4  '' 
+
+Salad 1/10  " 
+
+ONIONS,  GREEN,   FRESH 
+
+Plain 1/5  " 
+
+Salad   1/20  " 
+
+SQ'JASH,   FRESH 
+
+Creamed 1/2  " 
+
+Stewed  2/3  '' 
+
+Por  pies 1/2  " 
+
+Eaked   3/5  '^ 
+
+PUMPKIN,  FRESH 
+
+Creamed    1/2  '^ 
+
+Stewed  2/3 
+
+Por  pie   1/2  '' 
+
+Baked    3/5  '* 
+
+Digitized  by  CjOOQIC 
+
+
+U.  S.  Navv  Cook  Book  105 
+
+STRING   BEANS,  FRESH 
+
+Boiled    2/3      lb. 
+
+Salad 2/5       '' 
+
+PEAS   IN   POD 
+
+Creamed    3/5       " 
+
+Stewed  3/4       '' 
+
+CORN  ON   COB 
+Plain   3/4       " 
+
+SPINACH,  FRESH 
+Boiled 4/5       " 
+
+CAULIFLOWER 
+
+Creamed    4/5       " 
+
+Au  gratin   4/5       " 
+
+LETTUCE 
+
+Sugared   1/5       '' 
+
+With  salad   1/15     " 
+
+CUCUMBERS 
+
+For  salad   1/7       '' 
+
+Plain 2/5       " 
+
+CELERY 
+
+Chop  sney 1/15  ^' 
+
+Plain 1/4  '' 
+
+For  salad 1/8  '' 
+
+Digitized  by  VjOOQIC 
+
+
+106  XT.  S.  Navy  Cook  Book 
+
+For  soup 1/30    lb. 
+
+'      Creamed    ..., 1/3       " 
+
+RADISHES 
+
+Plain 1/6       " 
+
+Salad 1/20     " 
+
+RHUBARB,  FRESH 
+
+For  pie 5/4       '' 
+
+Sauce  V4       '' 
+
+PARSNIPS,  FRESH 
+
+Fried 1/2 
+
+Creamed    1/3       '' 
+
+Baked 1/2       '' 
+
+EGGPLANT 
+
+Fried 1/5       " 
+
+Baked,  stuffed 1/3       '' 
+
+PEPPERS,  RED  AND  GREEN 
+
+Chili ; 1/20     " 
+
+Stuffed 1/6       " 
+
+Spanish  sauce 1/50     *' 
+
+Chop  suey 1/100  " 
+
+Salad  1/20     " 
+
+Seasoning  agent 1/100  " 
+
+ASPARAGUS,  FRESH 
+
+Creamed 1/3       '' 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  107 
+
+PARSLEY 
+For  garnishing 1/100  lb. 
+
+POTATOES,  IRISH 
+
+Mashed    3/5  '' 
+
+Boiled,  peeled 1/2  '' 
+
+With  the  jackets 2/5  " 
+
+German  fried 3/4  " 
+
+French  fried 3/4  " 
+
+Stew 1/2  " 
+
+Salad   2/5  « 
+
+Baked,  peeled 3/5  '' 
+
+Lyonnaise   1/2  " 
+
+Escalloped  1/2  '' 
+
+Baked  with  jackets 1/2  '' 
+
+Au  gratin ^ 3/5  ^' 
+
+For  hash 3/5  '' 
+
+Croquettes   1/2  " 
+
+Hash  brown 2/3  " 
+
+Creamed    1/2  " 
+
+For  soup 3/20  '* 
+
+Chowder 1/10  '' 
+
+Potato  cakes 3/5  '* 
+
+Fish  cakes 1/2  " 
+
+Stuffed,  baked 2/3  '* 
+
+Bailroad  hash 1/2  '' 
+
+For  yeast 1/200  '' 
+
+POTATOES,  SWEET 
+
+Boiled 3/5  " 
+
+Candied  4/5  '' 
+
+Digitized  by  VjOU^  ItT 
+
+
+108  U.  S.  Navy  Cook  Book 
+
+Pie  1/5  lb. 
+
+Fried   " 3/4  " 
+
+Baked 3/4  '' 
+
+ONIONS,  FRESH 
+
+Fried  3/5  " 
+
+Dressing    1/20  " 
+
+Boiled    2/5  " 
+
+Creamed    '. 2/5  " 
+
+Chop  suey 1/5  " 
+
+Soups 1/25  " 
+
+Salad 1/15  " 
+
+Hash 1/20  " 
+
+Stew 1/20  " 
+
+Hamburger 1/30  " 
+
+Chowder 1/25  " 
+
+Pot  roast 1/50  " 
+
+Gravies    1/50  " 
+
+Spanish  omelet 1/40  " 
+
+Lyonnaise  potatoes    1/20  " 
+
+
+CABBAGE,  FRESH 
+
+Boiled    2/3 
+
+Cold  slaw 1/3 
+
+Hot  slaw 3/5 
+
+Chop  suey  1/4 
+
+Vegetable  soup 1/20 
+
+Fried  cabbage 2/3 
+
+Creamed    3/5 
+
+New  England  style 1/2 
+
+Digitized  by  VjOOQIC 
+
+
+U.  S.  Navy  Cook  Book  109 
+
+RICE 
+
+Steamed    1/8  lb. 
+
+Croquettes  1/6  '' 
+
+Pudding    1/10  '' 
+
+Cakes  1/10  " 
+
+Soup    1/50  '' 
+
+As  cereal : 1/8  " 
+
+Spanish  style 1/10  " 
+
+CORNSTARCH 
+
+Pudding 1/30     '^ 
+
+Puddings 1/200  " 
+
+Tomato  sauce 1/200  " 
+
+BARLEY 
+Soup 1/50     ''■ 
+
+HOMINY  GRITS 
+
+As  cereal 1/10     " 
+
+Fried 1/8      '' 
+
+ROLLED  OATS 
+For  cereal 1/10     " 
+
+TAPIOCA 
+
+Plain  pudding 1/10     '' 
+
+Fruit  pudding 1/15 
+
+APPLES,  DRIED 
+
+Sauce  1/10 
+
+Pie 1/7 
+
+Digitized  by  VjLXjy  It: 
+
+
+cc 
+
+
+110  U.  S.  Navy  Cook  Book 
+
+Dumplings    1/8  lb. 
+
+Pudding    1/20  « 
+
+Apple  cake   1/20  « 
+
+Plum  duff 1/50  « 
+
+Turnovers   1/10  '' 
+
+CITRON 
+
+Fruit  cake   1/13  '' 
+
+Plum  duff 1/13  " 
+
+Plain  cake 1/50  " 
+
+CURRANTS 
+
+Pudding   1/100  " 
+
+Pie  1/5  « 
+
+Currant  cake 1/50  ^^ 
+
+Plum  duff 1/20  '' 
+
+Cinnamon  bims  1/75  " 
+
+Fruit  cake 1/20  " 
+
+COCOANUT 
+
+Pie 1/10  '' 
+
+Cake 1/50  '' 
+
+Fruit  pudding   1/50 
+
+
+€< 
+
+
+PEACHES,  DRIED 
+
+Pie  1/r  '' 
+
+Turnovers  1/10  " 
+
+Stewed 1/8  '' 
+
+Cake    1/20  " 
+
+Digitized  by  VjOOQIC 
+
+
+TJ.  S.  Navy  Cook  Book  111 
+
+RAISINS 
+
+Pie   1/15  lb. 
+
+Plain  cake 1/50  " 
+
+Pniit  cake 1/40  " 
+
+Bread  pudding 1/50  " 
+
+Eaisin  cake 1/10  " 
+
+Plum  duff 1/30  '" 
+
+Bread  1/50  " 
+
+APPLES,  TINNED 
+
+Pie   1/6  " 
+
+Apple  cake   1/5  " 
+
+Sauce   1/7  " 
+
+Puddings  1/12  '' 
+
+Dumplings    1/5  " 
+
+Plum  duff 1/30  " 
+
+Turnovers   1/5  " 
+
+Fruit  salad 1/25  '' 
+
+Fritters   1/10  '' 
+
+APRICOTS,  TINNED 
+
+Plain 2/5  " 
+
+Pie    1/3  " 
+
+Turnovers   1/6  " 
+
+Fruit  salad 1/30  '' 
+
+Puddings 1/6  " 
+
+Short  cake    1/12  " 
+
+PEACHES,  TINNED 
+
+Plain   1/2  " 
+
+Pie y^  " 
+
+Dfyitized  by  VjOOV  ItT 
+
+
+112  U.  S.  Navy  Cook  Book 
+
+Turnovers   1/4  lb. 
+
+Salad 1/7  '' 
+
+Puddings  1/6   :  " 
+
+Short  cake 1/12  " 
+
+PEARS,  TINNED 
+
+Plain   1/2  '' 
+
+Pie   2/5  '' 
+
+Turnovers 1/4  " 
+
+PINEAPPLE,  TINNED 
+
+Plain   2/5  '' 
+
+Pudding 1/20  '' 
+
+Pie   2/5  '' 
+
+Cake 1/7  '' 
+
+Salad  1/8  « 
+
+PRUNES 
+
+Plain  1/5  " 
+
+Pie  1/4  " 
+
+JAMS 
+
+Plain   1/6  '' 
+
+Turnovers  1/20  " 
+
+Cake    1/20  « 
+
+APPLE  BUTTER 
+
+Plain   1/20  '* 
+
+
+Digitized  by  VjOOQI 
+
+
+e 
+
+
+U.  S.  Navy  Cook  Book  113 
+
+MINCE-MEAX, 
+
+Pie  1/10   lb. 
+
+Plum  duff 1/30     " 
+
+Turnovers   1/20     " 
+
+PEACHES,  FRESH 
+Plain    1/3     " 
+
+PEARS,  FRESH 
+Plain   1/2       '' 
+
+CHERRIES 
+
+Plain    1/3       '' 
+
+Pie 1/3       " 
+
+GRAPES 
+Plain 1/3       '' 
+
+STRAWBERRIES 
+
+Cake 1/4      " 
+
+Plain   1/3       " 
+
+BLACKBERRIES 
+
+Plain   1/4       '' 
+
+Pie  1/3       " 
+
+BLUEBERRIES 
+
+Plain   1/4      '' 
+
+Pie  1/5       " 
+
+Digitized  by  VjOU^  ItT 
+
+
+114  XT.  S.  Navy  Cook  Book 
+
+HUCKLEBERRIES 
+
+Plain   1/4      lb. 
+
+Pie  1/5       '' 
+
+RASPBERRIES 
+
+Plain   1/3       ^ 
+
+Pie  1/5       " 
+
+CRANBERRIES 
+
+Sauce  1/7  " 
+
+Pie   1/5  " 
+
+Turnovers   1/6  ^* 
+
+WATERMELON 
+Plain    5/4       " 
+
+CANTELOUPE 
+Plain 3/4       '' 
+
+PLUMS 
+Plain 1/3       '' 
+
+GRAPE  FRUIT 
+
+Plain  2/3       '' 
+
+PINEAPPLE,  FRESH 
+
+Plain   1/2       « 
+
+For  fritters 1/2       " 
+
+APPLES,  FRESH 
+Plain   1/3       " 
+
+Pie    wz^ctb^G.QQgt  1/4       ^' 
+
+
+U.  S.  Navy  Cook  Book  115 
+
+Salad 1/15    lb. 
+
+Sauce  1/3      " 
+
+Dumplings 1/3       " 
+
+Baked 1/3      " 
+
+Apple  cake 1/100  " 
+
+Fritters   1/10     " 
+
+BANANAS 
+
+Plain   1/3       " 
+
+Cake 1/8      " 
+
+Salad 1/16     '' 
+
+Pie  1/16     '' 
+
+LEMONS 
+
+For  iced  tea 1/70     " 
+
+Lemonade   1/13     " 
+
+Pie   1/20     " 
+
+ORANGES 
+
+Plain   3/7       '' 
+
+Fruit  salad 1/16     " 
+
+COFFEE 
+
+Plain    1/30     '' 
+
+COCOA 
+
+Plain   ...•; 1/25     " 
+
+Pudding 1/200  " 
+
+Pie   1/75     " 
+
+Chocolate  cake 1/100  " 
+
+Layer  cake 1/150  *^ 
+
+Digitized  by  VjLXjyiC 
+
+
+TEA 
+
+Plain 1/100  lb. 
+
+Iced  tea 1/150  " 
+
+MILK,   EVAPORATED 
+
+Coffee 1/150  " 
+
+Pudding    1/100  " 
+
+Cocoa  1/50     " 
+
+Cake 1/50     " 
+
+Soup    1/80     " 
+
+Ice  cream 1/4       " 
+
+Cereals  1/10     " 
+
+Oyster  stew 1/8       " 
+
+Custard  pie 1/5       " 
+
+Mashed  potatoes 1/100  " 
+
+Minced  meat  .. . : 1/75     '' 
+
+Pumpkin  pie 1/9       " 
+
+Cream  pie 1/5       *' 
+
+Creamed  vegetables  1/100  " 
+
+Baking  powder  biscuits 1/75     " 
+
+Hot  cakes  1/65     " 
+
+Cream  sauce 1/100  " 
+
+Chicken  fricassee 1/50     " 
+
+MILK,   FRESH 
+
+For  cereals  1/16    gal. 
+
+For  oyster  stew 1/35 
+
+
+« 
+
+
+CATSUP 
+Plain 1/100    " 
+
+Digitized  by  VjOOQ  IC 
+
+
+U.    O.    r^AVl     ^UUA    JJ\J\J£L  **. 
+
+BUTTER 
+
+For  cake 1/75    lb. 
+
+CHEESE 
+
+Table  1/8      '' 
+
+Macaroni   , .  1/75     " 
+
+An  gratin 1/75     " 
+
+BAKING  POWDER 
+
+Cake 1/300  " 
+
+Biscuits 1/160  " 
+
+Hot  cakes  1/80     " 
+
+Corn  bread  1/100  " 
+
+Dumpling?    1/160  '' 
+
+MACARONI 
+
+Baked  ..  .*. 1/8      '' 
+
+VERMICELLI 
+
+For  soup 1/50     " 
+
+PICKLES 
+
+Plain   1/5       " 
+
+SAUERKRAUT 
+
+Plain   1/4       " 
+
+SUGAR 
+
+Pie 1/20     " 
+
+Cake 1/15     " 
+
+Bread  1/300  " 
+
+
+Digitized  by  VjOOQ  IC 
+
+
+110  U.    O.    INAVY    \JOOh.    DUOK 
+
+Coffee    1/25  lb. 
+
+Tea 1/30  " 
+
+Puddings 1/25  '' 
+
+Cranberry  sauce 1/7  *^ 
+
+Cereals    1/10  '' 
+
+Cocoa   1/25  " 
+
+OYSTERS 
+
+Dressing    1/100  " 
+
+Stew 1/20  " 
+
+CLAMS 
+
+For  chowder 1/25  " 
+
+BUTTER 
+
+For  table 1/32  '' 
+
+For  cake  1/75  " 
+
+LARD 
+
+Deep  fry 1/10  " 
+
+Pie  dough 3/8  " 
+
+Biscuits,  baking  powder 1/32  " 
+
+Cake 1/40  " 
+
+Bread  1/300  " 
+
+KoUs    1/300  " 
+
+Corn  bread 1/90  " 
+
+OIL  EQUIVALENT 
+
+Deep  fry 2/25  « 
+
+Pie  dough 3/100  '' 
+
+Digitized  by  VjOOQIC 
+
+
+TJ.  S.  Navy  Cook  Book  119 
+
+Biscuits 1/40    lb. 
+
+Cake 1/50    " 
+
+Bread  1/376  '' 
+
+EoUs 2/325  " 
+
+Com  bread 2/225  " 
+
+Mayonnaise   3/100  " 
+
+French  dressi^ig 3/100  '^ 
+
+
+Digitized  by  VjOOQ IC 
+
+
+Digitized  by  VjOOQ IC 
+
+
+INDEX                         -       ,^„, 
+Preface 3 
+
+
+METHODS  OF  COOKING 
+
+Baking   6 
+
+Boiling  and  simmering T 
+
+Braising  '. 9 
+
+Frying  and  sant^ing 8 
+
+Eoasting  and  broiling 6 
+
+Steaming   10 
+
+THE  PREPARATION  OF  SOUP  STOCK 
+
+Bean  soup 18 
+
+Cream  of  celery  soup 1(5 
+
+Cream  of  tomato  soup 16 
+
+Dried  pea  soup 18 
+
+English  beef  soup 15 
+
+Julienne  soup   17 
+
+Macaroni  soup 14 
+
+Noodle  soup 14 
+
+Onion  soup   15 
+
+Oyster  soup 18 
+
+Potato  soup 17 
+
+Printanier  soup 17 
+
+Rice  and  tomato  soup 16 
+
+Scotch  broth   15 
+
+Vegetable  soup 14 
+
+-»▼              'IT                                                                                               Digitized  by  VjVJijy!  ^- 
+
+Vermicelli  soup P.....  14 
+
+
+122  Index 
+
+HOW  TO  CLEAR  STOCK  p^^^, 
+
+Consomm^  royal  20 
+
+Consomme  with  macaroni,  noodles  or  vermicelli 21 
+
+Consomme  with  ^go 21 
+
+Consomme  with  tapioca 21 
+
+CHOWDERS 
+
+Clam  chowder 22 
+
+Fish  chowder 23 
+
+FISH   DISHES 
+
+Canned  codfish  fritters. , 26 
+
+Canned  salmon  cakes 27 
+
+Canned  salmon  croquettes 2G 
+
+Canned  salmon  fritters 25 
+
+Clam  fritters 2G 
+
+Codfish  cakes 2? 
+
+Crab  croquettes 27 
+
+Fish  fried  in  butter.  . .  .* 25 
+
+Fish  fritters 25 
+
+Fried  fish 24 
+
+Lobster  croquettes 27 
+
+Oyster  fritters 26 
+
+MEATS 
+
+Beef  a  la  mode  No.  1 35 
+
+Beef  a  la  mode  No.  2 35 
+
+Beef  kidneys   33 
+
+Beef  loaf   31 
+
+Beef  plates  boiled D^gitzadfcy.CaQgL 33 
+
+
+Index  123 
+
+PAGE 
+
+Beef  plates  braised 34 
+
+Beef  sea  pie 32 
+
+Beefsteak  pie 31 
+
+Beef  stew 32 
+
+Boiled  beef 29 
+
+Boiled  leg  of  mutton 38 
+
+Braised  beef 29 
+
+Broiled  steak 30 
+
+Cream  of  veal 36 
+
+Fricassee  of  veal 36 
+
+Fried  beefsteak  30 
+
+Fried  pork  chops 39 
+
+Hamburger  steak  No.  1 31 
+
+Hamburger  steak  No.  2 31 
+
+Minced  beef  No.  1 34 
+
+Minced  beef  No.  2 34 
+
+Eagout  of  beef 33 
+
+Kagout  of  veal 36 
+
+Roast  beef  28 
+
+Roast  beef  hearts 32 
+
+Roast  leg  of  mutton 38 
+
+Roast  leg  or  shoulder  of  pork 38 
+
+Roast  pork  loins 38 
+
+Roast  vea} 36 
+
+Stewed  steak  (Spanish) 30 
+
+Stuffed  shoulders  of  mutton  or  veal 38 
+
+Veal  croquettes 37 
+
+Veal  or  beef  loaf 37 
+
+Veal  or  beef  and  potato  salad 37 
+
+Veal  salad , . .  37 
+
+TT        1         X                                                                                                                  Digitized  by  VjOOQ It  -.^ 
+
+Veal  stew , , q  . .  36 
+
+
+124  Index 
+
+VAmOUS   MEAT  RECIPES  p^^g 
+
+Baked  spiced  ham 43 
+
+Beef  croquettes  40 
+
+Beef  potato  croquettes 41 
+
+Boiled  corned  beef 40 
+
+Boiled  ham   43 
+
+Boiled  salt  pork  (navy) 42 
+
+Cold  sliced  corn  beef 41 
+
+Corned  beef  fried  in  batter 42 
+
+Corned  beef  hash 40 
+
+Fresh  beef  hash 40 
+
+Fried  bacon 44 
+
+Fried  beef  liver 41 
+
+Fried  salt  pork 42 
+
+Fried  smoked  ham 43 
+
+Bissoles  and  croquettes  of  corned  beef 42 
+
+Smoked  tongue  44 
+
+Tinned  hams 44 
+
+Veal  cutlets 41 
+
+POULTRY 
+
+Chicken  stew 45 
+
+Boast  turkey  or  chicken 45 
+
+METHOD  OF  PREPARING  AND  COOKING  VEGETABLES 
+
+American  fries   48 
+
+Baked  potatoes   47 
+
+Baked  sweet  potatoes 50 
+
+Boiled  cabbage 50 
+
+Boiled  carrots ^j 
+
+Digitized  by  VjOOQIC^ 
+
+
+Index  125 
+
+PAGE 
+
+Boiled  carrots  with  green  peas 52 
+
+Boiled  kale 53 
+
+Boiled  lima  beans,  dried 54 
+
+Boiled  onions 52 
+
+Boiled  parsnips 52 
+
+Boiled  potatoes  46 
+
+Boiled  spinach 53 
+
+Boiled  string  beans,  fresh 53 
+
+Boiled  sweet  potatoes 41> 
+
+Boiled  turnips 51 
+
+Candied  sweet  potatoes 50 
+
+Cold  slaw 5a 
+
+Cottage  fried  potatoes 48 
+
+Creamed  carrots  52 
+
+Creamed  onions 52 
+
+Creamed  parsnips 53 
+
+Creamed  potatoes  49 
+
+Creamed  turnips 51 
+
+French  fried  potatoes 48 
+
+Fried  eggplant   53 
+
+Fried  onions   52 
+
+Fried  sweet  potatoes 49 
+
+Green  peas,  dried 54 
+
+Green  peas,  fresh 53 
+
+Hash  brown  potatoes 47 
+
+Hot  slaw   50 
+
+Kidney  beans,  dried 54 
+
+liima  beans,  fresh 54 
+
+Lyonnaise  potatoes 47 
+
+Mashed  potatoes  ^  . . . . .  47 
+
+Digitized  by  VjOOQIC 
+
+
+126  Index 
+
+PAGE 
+
+Mashed  turnips 51 
+
+Mashed  turnips  with  potatoes 51 
+
+Peeled  baked  potatoes   46 
+
+Potato  cakes   49 
+
+Potato  croquettes   49 
+
+Saute  potatoes 47 
+
+Stuffed  baked  potatoes 48 
+
+THICKENING  AGENTS  AND  SAUCES 
+
+Brown  roux 55 
+
+Brown  sauce 56 
+
+Caper  sauce '. 56 
+
+Celery  sauce 57 
+
+Chocolate  sauce 58 
+
+Cornstarch  56 
+
+Cream  sauce 56 
+
+Custard  sauce 57 
+
+Flour 56 
+
+Golden  sauce 58 
+
+Hard  sauce 58 
+
+Horseradish  sauce 57 
+
+Onion  sauce 57 
+
+Suitable  sauces  that  may  be  served  with  meats 58 
+
+Tinned  fruit  sauce . . . : 58 
+
+Vanilla  sauce 57 
+
+White  roux 55 
+
+White  sauce 66 
+
+Digitized  by  VjOOQIC 
+
+
+Index  127 
+
+DESSERTS,  PUDDINGS,  PASTRIES   (FOR  100  MEN) 
+
+PAGE 
+
+Bread  pudding  No.  1 59 
+
+Bread  pudding  No.  2 59 
+
+Cornstarch  pudding 62 
+
+Cottage  pudding ,. . . .  61 
+
+Custard  pudding 62 
+
+Indian  pudding 61 
+
+Lemon  suet  pudding. 61 
+
+Rice  custard  pudding 62 
+
+Stewed  apples  or  apple  sauce 63 
+
+Stewed  peaches 63 
+
+Tapioca  pudding 63 
+
+MISCELLANEOUS   RECIPES 
+
+Baked  beans 65 
+
+Boiled  hominy 65 
+
+Bread  dressing  for  pork  or  veal 67 
+
+Bread  griddle  cakes 67 
+
+Cocoa 71 
+
+Coffee 70 
+
+Cornmeal  griddle  cakes .* 67 
+
+Cucumbers 70 
+
+French  dressing  for  salad 71 
+
+Fried  hominy 66 
+
+Griddle  cakes 66 
+
+Johnny  cakes 66 
+
+Lettuce 70 
+
+Macaroni  recipe  No.  1 64 
+
+Macaroni  recipe  No.  2 64 
+
+Digitized  by  VjOOQIC 
+
+
+128  Index 
+
+PAfll 
+
+
+I 
+
+
+Mayonnaise  dressing 
+
+Oyster  dressing  for  poultry '. . . 
+
+Potato  an  gratin 64 
+
+Potato  salad ,. 6f 
+
+Sliced  tomatoes 76 
+
+String  bean  salad 69 
+
+Stuffed  green  peppers 68 
+
+Sweet  potato  dressing  for  poultry 68 
+
+Tea  71 
+
+Vegetable  salad 62 
+
+BREAD  AND  PASTRY 
+
+Baking  powder  biscuits  92 
+
+Bread  dough  (sponge  system )  74 
+
+Brown  bread  No.  1 87 
+
+Brown  bread  No.  2 87 
+
+Chocolate  cake  (plain) 83 
+
+Chocolate  icing  No,  1 8C 
+
+Chocolate  icing  No.  2 87 
+
+Cinnamon  buns  ,  ', 81 
+
+Cinnamon  cake  82 
+
+Cocoanut  custard  pie ; 91 
+
+Coffee  cake  (navy) 80 
+
+Com  bread 79 
+
+Custard  pie  (plain) 91 
+
+Dried  apple  pie 90 
+
+Dried  peach  pie 89 
+
+Entire  wheat  bread 78 
+
+Flavor 73 
+
+Flour ^t?eab-yG0Gg4c- W 
+
+
+Indbx  129 
+
+PAOK 
+
+Graham  bread 78 
+
+Homemade  bread 76 
+
+Jelly  doughnuts 82 
+
+Jelly  layer  cake  No.  1 85 
+
+Jelly  layer  cake  No.  2 85 
+
+Jelly  roll  No.  1 85 
+
+Jelly  roll  No.  2 86 
+
+Keeping  of  yeast 74 
+
+Layer  cake 86 
+
+Marble  cake  (navy) 84 
+
+Mince  pie 90 
+
+New  flour 75 
+
+Per  man  per  meal  table 93 
+
+Pie  dough,  bottoms  only,  No.  1 89 
+
+Pie  dough,  bottoms  only,  No.  2 89 
+
+Pie  dough  No.  1 88 
+
+Pie  dough  No.  2 88 
+
+Plain  cake  (navy) 83 
+
+Plum  duff  (baked) 88 
+
+Plum  duff  (boiled  or  stewed) 88 
+
+Pumpkin  pie  No.  1  (navy) 91 
+
+Pumpkin  pie  No.  2  (navy) , 91 
+
+Raised  doughnuts 81 
+
+Raisin  bread 79 
+
+Rolls  (civilian)   80 
+
+Rolls  (navy)    79 
+
+Rye  bread 77 
+
+Rye  bread  (straight  dough  system) 78 
+
+^^^t Digit-zed  b'yV^OU^ie  '^^ 
+
+
+130  Index 
+
+PAGE 
+
+Short  cake 92 
+
+Spice  cake  (navy) 84 
+
+Streusel 80 
+
+Sweet  dough  (civilian) 82 
+
+Temperature 74 
+
+Tinned  apple  pie 90 
+
+Tinned  apricot  pie 90 
+
+Tinned  peach  pie 90 
+
+Vienna  or  hard  crust  rolls , .' 7G 
+
+Water   73 
+
+White  bread  (straight  dough  system) 76 
+
+Yield 74 
+
+
+Digitized  by  VjOOQ IC 
+
+
+Digitized  by  VjOOQ IC 
+
+
+Digitized  by  VjOOQ IC 
+
+
+Digitized  by  VjOOQ 
+
+

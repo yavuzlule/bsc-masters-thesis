@@ -1,0 +1,691 @@
+Google 
+
+
+This  is  a  digital  copy  ofa  book  thaï  was  preservcd  l'or  gênerai  ions  on  library  sIil'Ivl-s  before  il  was  carcl'ully  scaiincd  by  Google  as  part  ol'a  projet:! 
+
+io  make  ihc  workl's  books  discovcrable  online. 
+
+Il  lias  survived  long  enough  l'or  the  copyright  lo  expire  and  the  book  to  enter  the  public  domain.  A  publie  domain  book  is  one  thaï  was  never  subjeet 
+
+to  copyright  or  whose  légal  copyright  terni  lias  expired.  Whether  a  book  is  in  the  public  domain  may  vary  country  tocountry.  Public  domain  books 
+
+are  our  gateways  to  the  past.  representing  a  wealth  ol'history.  culture  and  knowledge  that's  ol'ten  dil'licult  to  discover. 
+
+Marks,  notations  and  other  marginalia  présent  in  the  original  volume  will  appear  in  this  lile  -  a  reminder  of  this  book's  long  journey  from  ihc 
+
+publisher  lo  a  library  and  linally  to  you. 
+
+Usage  guidelines 
+
+Google  is  proud  to  partner  with  libraries  lo  digili/e  public  domain  malerials  and  make  ihem  widely  accessible.  Public  domain  books  belong  lo  ihc 
+public  and  wc  are  merely  iheir  cuslodians.  Neverlheless.  this  work  is  ex  pensive,  so  in  order  lo  keep  providing  this  resource,  we  hâve  laken  sleps  lo 
+prevent  abuse  by  commercial  parties,  iiicludiug  placmg  Icchnical  restrictions  on  aulomaled  t|uerying. 
+We  alsoask  that  you: 
+
++  Make  non -commercial  use  of  the  files  We  designed  Google  Book  Search  for  use  by  individuals.  and  we  request  lhai  you  use  thesc  files  for 
+pcrsonal,  non-commercial  purposes. 
+
++  Refrain  from  mttoinated  querying  Donot  send  aulomaled  t|ueries  ol'any  sortit)  GtK)gle's  System:  II' you  are  conducling  research  on  machine 
+translation,  optical  character  récognition  or  olher  areas  where  access  to  a  large  amounl  of  lext  is  helpl'ul.  please  contact  us.  We  encourage  the 
+use  of  public  domain  malerials  l'or  ihese  purposes  and  may  bc  able  lo  help. 
+
++  Maintain  attribution  The  Google  "walermark"  you  see  on  each  lile  is  essential  for  informing  people  about  this  projecl  and  hclping  them  lind 
+additional  malerials  ihrough  Google  Book  Search.  Please  do  not  remove  it. 
+
++  Keep  it  légal  Whatever  your  use,  remember  thaï  you  are  responsible  for  ensuring  lhat  whal  you  are  doing  is  légal.  Do  not  assume  that  just 
+becausc  we  believe  a  btx>k  is  in  the  public  domain  for  users  in  ihc  United  Siatcs.  lhat  ihc  work  is  also  in  the  public  domain  for  users  in  other 
+
+counlries.  Whelher  a  book  is  slill  in  copyright  varies  from  counlry  lo  counlry.  and  we  can'l  offer  guidanec  on  whelher  any  spécifie  use  of 
+any  spécifie  btx>k  is  allowed.  Please  do  nol  assume  lhal  a  btx>k's  appearance  in  Google  Book  Search  mcans  il  can  bc  used  in  any  manner 
+anywhere  in  the  world.  Copyrighl  iiifriiigemenl  liabilily  can  bc  quite  severe. 
+
+About  Google  Book  Search 
+
+Google 's  mission  is  lo  organize  the  world's  information  and  to  make  it  universally  accessible  and  useful.  Google  Book  Search  helps  readers 
+discover  ihe  world's  books  while  liclpnig  au  il  mis  and  publishers  rcach  new  audiences.  You  eau  search  through  the  l'ull  lexl  ol'lhis  book  ou  the  web 
+ai|http  :  //books  .  qooqle  .  com/| 
+
+
+Google 
+
+
+A  propos  de  ce  livre 
+
+Ceci  est  une  copie  numérique  d'un  ouvrage  conservé  depuis  des  générations  dans  les  rayonnages  d'une  bibliothèque  avant  d'être  numérisé  avec 
+
+précaution  par  Google  dans  le  cadre  d'un  projet  visant  à  permettre  aux  internautes  de  découvrir  l'ensemble  du  patrimoine  littéraire  mondial  en 
+
+ligne. 
+
+Ce  livre  étant  relativement  ancien,  il  n'est  plus  protégé  par  la  loi  sur  les  droits  d'auteur  et  appartient  à  présent  au  domaine  public.  L'expression 
+
+"appartenir  au  domaine  public"  signifie  que  le  livre  en  question  n'a  jamais  été  soumis  aux  droits  d'auteur  ou  que  ses  droits  légaux  sont  arrivés  à 
+
+expiration.  Les  conditions  requises  pour  qu'un  livre  tombe  dans  le  domaine  public  peuvent  varier  d'un  pays  à  l'autre.  Les  livres  libres  de  droit  sont 
+
+autant  de  liens  avec  le  passé.  Ils  sont  les  témoins  de  la  richesse  de  notre  histoire,  de  notre  patrimoine  culturel  et  de  la  connaissance  humaine  cl  sont 
+
+trop  souvent  difficilement  accessibles  au  public. 
+
+Les  notes  de  bas  de  page  cl  autres  annotations  en  marge  du  texte  présentes  dans  le  volume  original  sont  reprises  dans  ce  fichier,  comme  un  souvenir 
+
+du  long  chemin  parcouru  par  l'ouvrage  depuis  la  maison  d'édition  en  passant  par  la  bibliothèque  pour  finalement  se  retrouver  entre  vos  mains. 
+
+Consignes  d'utilisation 
+
+Google  est  fier  de  travailler  en  partenariat  avec  des  bibliothèques  à  la  numérisation  des  ouvrages  appartenant  au  domaine  public  cl  de  les  rendre 
+ainsi  accessibles  à  tous.  Ces  livres  soni  en  effet  la  propriété  de  tous  et  de  toutes  cl  nous  sommes  tout  simplement  les  gardiens  de  ce  patrimoine. 
+Il  s'agit  toutefois  d'un  projet  coûteux.   Par  conséquent  et  en  vue  de  poursuivre  la  diffusion  de  ces  ressources  inépuisables,  nous  avons  pris  les 
+
+dispositions  nécessaires  afin  de  prévenir  les  éventuels  abus  auxquels  pourraient  se  livrer  des  sites  marchands  tiers,  notamment  en  instaurant  des 
+contraintes  techniques  relatives  aux  requêtes  automatisées. 
+Nous  vous  demandons  également  de: 
+
++  Ne  pas  utiliser  les  fichiers  à  des  fins  commerciales  Nous  avons  conçu  le  programme  Cioogle  Recherche  de  Livres  à  l'usage  des  particuliers. 
+Nous  vous  demandons  donc  d'utiliser  uniquement  ces  fichiers  à  des  lins  personnelles.  Ils  ne  sauraient  en  effet  être  employés  dans  un 
+quelconque  but  commercial. 
+
++  Ne  pas  procéder  à  des  requêtes  automatisées  N'envoyé/  aucune  requête  automatisée  quelle  qu'elle  soit  au  système  Google.  Si  vous  effectuez 
+des  recherches  concernant  les  logiciels  de  traduction,  la  reconnaissance  optique  de  caractères  ou  tout  autre  domaine  nécessitant  de  disposer 
+d'importantes  quantités  de  texte,  n'hésite/  pas  à  nous  contacter.  Nous  encourageons  (tour  la  réalisation  de  ce  type  de  travaux  l'utilisation  des 
+ouvrages  et  documents  appartenant  au  domaine  public  et  serions  heureux  de  vous  être  utile. 
+
++  Ne  pas  supprimer  l'attribution  Le  filigrane  Google  contenu  dans  chaque  fichier  est  indispensable  (tour  informer  les  internautes  de  notre  projet 
+et  leur  permettre  d'accéder  à  davantage  de  documents  par  l'intermédiaire  du  Programme  Google  Recherche  de  Livres.  Ne  le  supprimez  en 
+aucun  cas. 
+
++  Rester  dans  la  légalité  Quelle  que  soit  l'utilisation  que  vous  compte/  faire  des  fichiers,  n'oublie/  pas  qu'il  est  de  votre  responsabilité  de 
+veiller  à  respecter  la  loi.  Si  un  ouvrage  appartient  au  domaine  public  américain,  n'en  déduise/  pas  pour  autant  qu'il  en  va  de  même  dans 
+les  autres  pays.  La  durée  légale  des  droits  d'auteur  d'un  livre  varie  d'un  pays  à  l'autre.  Nous  ne  sommes  donc  pas  en  mesure  de  répertorier 
+les  ouvrages  dont  l'utilisation  est  autorisée  et  ceux  dont  elle  ne  l'est  pas.  Ne  croyez  pas  que  le  simple  fait  d'afficher  un  livre  sur  Google 
+Recherche  de  Livres  signifie  que  celui-ci  peut  être  utilisé  de  quelque  façon  que  ce  soit  dans  le  monde  entier.  La  condamnation  à  laquelle  vous 
+vous  exposeriez  en  cas  de  violation  des  droits  d'auteur  peut  être  sévère. 
+
+À  propos  du  service  Google  Recherche  de  Livres 
+
+En  favorisant  la  recherche  et  l'accès  à  un  nombre  croissant  de  livres  disponibles  dans  de  nombreuses  langues,  dont  le  franoais.  Google  souhaite 
+contribuer  à  promouvoir  la  diversité  culturelle  grâce  à  Google  Recherche  de  Livres.  En  effet,  le  Programme  Google  Recherche  de  Livres  permet 
+aux  internautes  de  découvrir  le  patrimoine  littéraire  mondial,  tout  en  aidant  les  auteurs  cl  les  cdilcurs  à  élargir  leur  public.  Vous  pouvez  effectuer 
+des  recherches  en  ligne  dans  le  texte  intégral  de  cet  ouvrage  à  l' adressef-'-    '..  ■"  :  /  /  .:y:,  ■:,:.:: .  :■■:,■:,  r-._^  .  --:.;-| 
+
+
+XIV. 
+
+
+LES  GLACES. 
+
+
+XV. 
+
+
+LES  BOISSONS 
+
+
+;/j};\t 
+
+
+■m 
+
+
+^  r~:x  *  ,x 
+
+
+•W.v^ 
+
+
+;*V 
+
+
+'--7-.  iv''"--^^^-* 
+
+
+<*. 
+
+
+?»  v\ 
+
+
+il'  !1 
+
+
+H.   DB   TOULOUSE  LAUTKKC,    I 
+
+
+548  Fleur  de  la  Cuisine. 
+
+te  jus  d'un  demi-citron,  environ  10  gouttes  d'essence 
+d'oranges  amères  et  deux  verres  à  liqueur  de  cognac. 
+Recouvrez  d'un  second  verre  et  agitez  bien  le  tout  pen- 
+dant 20  minutes.  Passez  ensuite  ce  liquide  dans  une 
+ccupe  à  Champagne  que  vous  achèverez  de  remplir  avec 
+de  l'eau  gazeuse.  (H.  George,  barman.) 
+
+
+Tmxix   2E5   5223T?XS.  >!H 
+
+
+ât  jDiannL  m  totoxissbi  ci  ssbiàr»  I^tcjt*  IîC 
+
+Qurtîcr  r*  t*  «ir  laEniioin*.  "S1* 
+
+XX  TH   ÔS  2»S!lf  iîCÎ 
+
+te  nirmna  i  ]s  ii-n^anm?  1X1 
+
+&  3&IUXÏIIZ  A  ^|    XIXl?3£Sfet  i«* 
+
+as  3u:»nna  jrt^j^t  114 
+
+
+■■ia 
+&  nçsiHZs  lis  r:«r  1  x  ^ll*-"  :  ■  !  lî 
+
+
+4f-gBfTiffTtaa  tue  "'T 
+
+Œm  a  la  suons  mf  « 
+
+A  js  70£Trt  fennu»  :>t 
+
+«  la  jnjjin&ue  :  > 
+
+
+(fia  az  mar  i  '.a  ^utius* 
+(B6  ia  iiac  si  i#eir—*  ir.-:- 
+Œb£i  sranZXi**  m  vxcur-~ 
+
+ŒaA  àranlles  Tjukiiu* 
+
+
+-  «*t 
+
+
+fin  3xa7iinaii>» 
+
+tnn  yrrnœ  "rv.if  ;- 
+
+
+«• 
+
+
+576  Table  des  Recettes. 
+
+Sauce  hachée 53 
+
+Saoce  hollandaise 49 
+
+Sauce  italienne  rousse 53 
+
+Sauce  madère 67 
+
+Sauce  mayonnaise 62 
+
+Sauce  Mornay 67 
+
+Sauce  poivrade   53 
+
+Sauce  Robert 65 
+
+Sauce  Soubisc  62 
+
+Sauce  suprême 66 
+
+Sauce  tomate  59 
+
+Sauce  Toulouse  67 
+
+Sauce  Villeroy  67 
+
+Saumon  à  la  genevoise 190 
+
+Saumon  à  la  Rothschild 188 
+
+Saumon  froid  à  la  parisienne 192 
+
+Côtelettes  de  saumon  Dorigny 191 
+
+Hure  de  saumon  aux  écrevisses 191 
+
+PAté  de  saumon 193 
+
+Sauté  de  saumon  ou  escalopes  de  saumon  à  la  maître 
+
+d'hôtel  ou  à  l'espagnole 190 
+
+Tronçon  de  saumon  à  la  royale 192 
+
+Sole  au  gratin 196 
+
+Sole  à  la  Colbert 193 
+
+Sole  normande 196 
+
+Aspic  de  filet  de  sole 198 
+
+Filets  de  sole  à  la  Horly 200 
+
+Filets  de  sole  à  la  Mirbeau 201 
+
+Filets  de  sole  en  caisses,  dits  à  l'égyptienne 197 
+
+Filets  de  sole  Marguerite 198 
+
+Filets  de  sole,  sauce  homard 199 
+
+Horly  de  filets  de  sole 100 
+
+Pavés  de  sole  à  la  NagornofT •. . .  202 
+
+Paupiettes  de  sole  Nissarde 200 
+
+Ragoût  d'escalopes  de  filets  de  sole  à  la  vénitienne....  69 
+
+Sorbet  à  la  fraise 516 
+
+Sorbet  à  l'orange 547 
+
+Soubise  ou  purée  d'oignons 391 
+
+Soufflé  chaud  aux  pommes  et  aux  noix  fraîches 463 
+
+Soufflé  Eve    461 
+
+Soufflé  Palais  Royal 460 
+
+Soufflé  en  caisse  à  la  fleur  d'oranger. 460 
+
+Soufflé  russe  à  l'ananas 461 
+
+
+JVSTIFICATION  DV  TIRAGE 
+Ce  livre  a  été  achevé  d'imprimer  le 
+i5  mai  1921  sur  les  presses  de  l'Union 
+Typographique  à  Villeneuve -Saint- 
+Georges.  On  en  tira  5o  exemplaires 
+sur  papier  vélin  des  manufactures  de 
+Rives,  numérotés  de  1  à  5o,  contenant 
+une  suite  de  quatre  lithographies  en 
+couleur  d'Henry  Monnier.  Le  présent 
+exemplaire  porte  le  n° — 
+
+
+254  Fleur  de  la  Cuisine. 
+
+dans  des  cocottes  vernissées.  Egootter  le  beurre  que  l'on 
+réservera  au  chaud.  Déglacer  la  casserole  d'un  décilitre 
+de  vin  blanc,  mouiller  de  fonds  de  veau  et  faire  réduire. 
+Passez  ce  fonds  sur  les  rognons,  ajouter  le  jus  d'un 
+citron.  Faire  chauffer  le  beurre  de  la  cuisson  et  en  verser 
+deux  ou  trois  cuillerées  sur  les  rognons.  Servir  en  cocotte 
+sur  une  serviette  pliée.  (Salles  et  Montagne). 
+
+
+VII. 
+
+
+LA   VOLAILLE. 
+
+
+Les  Légumes.  405 
+
+les  chauffer.  Retirez-les  du  feu,  arrosez-les  avec  un  peu 
+de  bonne  glace  fondue,  et  versez-les  dans  le  vide  de  la 
+timbale.  Couvrez  vivement  avec  une  abaisse  de  la  même 
+pâte,  faites  un  petit  trou  sur  le  milieu  et  cuisez  40  mi- 
+nutes à  four  modéré.  En  sortant  la  timbale  du  four,  ren- 
+versez-la sur  un  plat.  Cernez-la  sur  le  centre,  à  quelques 
+centimètres  des  bords;  enlevez  le  couvercle,  et  masquez 
+les  truffes  avec  la  sauce  réduite.  Couvrez  et  servez  aussi- 
+tôt. (17.  Dubois  et  Bernard.) 
+
+
+X. 
+
+
+LES   PATES   ALIMENTAIRES. 
+
+
+XI. 
+
+
+LES  SALADES. 
+
+
+i 
+
+
+1 
+
+
+IX. 
+
+
+LES    LÉGUMES. 
+
+
+24 
+
+
+,'--^ 
+
+
+433  Fleur  de  la  Cfisike. 
+
+hachés»  de  câpres,  etc..  Serve»;  tous  remuera  la  salade 
+sor  la  table  même. 
+
+SALADE  VIRGINIA.  —  Garnisses  le  saladier  de 
+feuilles  de  laitues»  remptissea4e  à  moitié  de  tranches 
+d'oranges  et  d'ananas;  xersea  par-dessus  une  légère 
+couche  de  mayonnaise  à  laquelle  tous  aura  mêlé  un  peu 
+de  crème  double.  Saupoudres  <f  amandes  hachées. 
+
+SALADE  CAROLINE.  —  Garnisses  un  saladier  de 
+feuilles  <Tendros»  remplissez-le  à  demi  de  tranches  <To- 
+mngeo  et  de  bananes:  saupoudres  de  piments  rouges  et 
+xerts  hachés  et  assaisonnes  de  xinaigre»  huile,  sel  et 
+pome*  (&  PoimrO 
+
+
+XII. 
+
+
+LES  ENTREMETS 
+DE  CUISINE. 
+
+
+XIII. 
+
+
+LES   PATES 
+ET    LES    PATISSERIES. 
+
+
+VI. 
+
+
+LA   BOUCHERIE. 
+
+
+VBrajS^ 
+
+
+f>»*  tl** 
+
+
+»■■  \\< 
+
+
+LA  FLEUR  DE  LA 
+CUISINE  FRANÇAISE 
+
+
+II.  LA  CUISINE 
+MODERNE 
+
+
+DU  MÊME  AUTEUR 
+
+
+LA  FLEUR  DE  LA  CUISINE  FRANÇAISE.  Tome  I. 
+La  Cuisine  db  la  Vieille  France,  où  Ton  trouve  les 
+meilleures  recettes  des  meilleurs  cuisiniers,  pâtissiers 
+et  limonadiers  français  de  ia5o  à  1800.  Préface 
+d'ÉDOUARD  Nignon,  dircoteur-proprié taire  du  Res- 
+taurant Larue.  Un  volume  in-8  carré  sur  papier  vergé 
+contenant  de  nombreuses  illustrations.  (Éditions  de 
+la  Sirène). 
+
+
+COPYRIGHT     BY     ««    ÉDITIONS     LA     SIRÈNE  »      1921 
+
+
+TA 
+
+.68/1 
+
+ma 
+
+
+I. 
+
+
+LES    POTAGES. 
+
+
+IL 
+
+
+LES    SAUGES 
+
+
+w         I  > 
+
+
+•■'III*      ••!,»■   »».|       I  |M  »"    •         '.|l'*  |MI        |l    |  |       ■■  ■»•         »     i       •      | 
+
+•  ■••«      | •  •  •* a j •  •    •'      ■  •■  i||-  •  »'•!»■  ||  ■     '»     •  ,"  I-  i        ' 
+
+"|iiii      »■  ..  ♦•■■  ■   •    .    ■  •         >•'         |   ,     i    I    |  |'|'M      "       »•■     •      i    ■     ii 
+
+■    iiii  .i|     ,|       «j»  ii       mm     |  ||M|  i  •       i»  ••"   i  r  |      i-     •'        » 
+
+^     /   .|l»"|»'      ,111*    •■•       |      ■   »»f         l|*  •  I  ■  •  f    .    •     |"»       !•    I     "  |       ■ 
+
+»«  •  | M-|  |     /       ||      •••  |l»l  I1"     ■  ||        lil  .|        | 
+
+•i»l^  i-i*|    «•■;|,|    ■.•■!■       »     »     ■    H    ■,•»!»     /   -l  'I  Mini»    |  i  ,| 
+
+|-  "S*  »'     •|,M    '  I        M»1       >  I'     I         •Pi»  "l  |     I"     H         i  • 
+
+>,|.      fil-  |'  Il     ■  |-       |  ||     •  1 1  -       Mp  ||l|l     l|      f         ,|  ll|.  |  |H        |.  | 
+
+|  ■••    l|  .MM     /       ||il*|l*  |>     i  ■  HP  Ml    |        |  f  ■  '  .  f  |     /        |      ♦        Il         | 
+
+...j|Mfi    |l       j.|i    ,|  |H|if^  |      fil    »"    »|      '»»'  "l'Il      M      (>|  ||  I- 
+
+M||    I  •■•  "  •       M  MiUflji         ■  •     »}•       ••!•      /  "I1"»  »'      |»       ■    I  I  • 
+
+"  »    Jf      '      l|»      /    ,"        »,|  «    *  »     f-    1    f    I"1  ,  ■      »  »  Il         t|   .|«l«i|  ,         •  Il      »,• 
+
+'  '*'    •   t.j.    '*  f  | 
+
+UHl-f'it'J'     /  '  |V  *"     '|1  '|       '   !•!     fl|  'I  m  ,   »  III'  I 
+
+■»!•  •  •*  |  f         '•»••       /   .|l'*'|»         ■   I"    ,  •••    |||l"    'I  |         .      IIH'      "    ' 
+
+•t»ittfj       -il>       /       l|;|i*    *l||l>  '   I"    ,  |      »»1    I"    'I       |  "'         ij'l1'  | 
+
+-|».,  »«     >«i'|i  jif     in-      m»«     .       i     ■      ||i  4         ,|        |u  |ii;      |  i 
+
+•M  /jf     !■  1^'    /  /•'      #••    ■  I"    ,  ,|^«  ^,|    I      0    |     y     M    i*"'è  ,    M    f    • 
+
+
+'#■##  '»»•$!         /'  •/#»#/  l,:  I       I         ■    I 
+
+
+I 
+
+
+4J>P     •#(      'â^itttf        •  •//».    m  ''         '      ,     I  I'      l'I  |  Il 
+
+*<*jf       '"#•       (     ■'     *■  l'i'1  •    I     /  II1'"»  |  •»••     'tVl'*      'I'       Il  II 
+
+»vM*i#'     *T     '"i» •'•         ,,,'  '"  II     m  .|i|  |,      ■!'.    |    .  M 
+
+-I  ###»'■     #|-  ••    •'  ••••        ■  ■    l'i»'  t'i    j.  M#  ^     |  |M    m»    f  #f*   #       ;  ' 
+
+.-..»/■  i    ,  |        -  iè>    »i  i'i         .■;•.'       »i»'  f         J  ,         |!' 
+
+|"#   <      M    ■      ■       1|    ."    ,»ll  ,f     /  >|>  fj'J     '      .'|         ||  M  II-  l 
+
+,|        .  4  #■  |  ■  .'    'I      .M|'        i      ||if>  M|>.|.      ,|    |;     |     „      ,      (/M      j       |  ||  | 
+
+i|-'i,#|i  .«.»'     *■!        |  '  ,»•!       '    Ml  M     M     /     J       I  ', 
+
+■,'i"     i    »'  i»'  "f    '»■     /    .u    ■  "  *'     iiim  il      il       »       i      ih       J 
+
+
+»•'    *      ./I 
+
+
+M         | 
+
+
+1   i«l       -»|         i   •  //  /■**« 
+
+
+I   I         .1  II'    I 
+
+
+4        I     •      '       .-  ;    •'      |  «i       i/-        M"    i     '    I   ,     |    I      |      I       '     I  I 
+
+•'■  l'i     •  i.        m    |-     j^'/i     i,     ,  i.ii     «//i  ,  :i        ;|/.   |  | 
+
+/  ,fc      m/*'i     ,"/■     l   iv  i/  '#•     'i/|/      .fini   il' H  III     |  I 
+
+
+/  ',  ' 
+
+
+t  i'ft-1     'tit,t      •fthvulhJ    l'if 
+
+
+.'.    I      •  ■■.  «M*\ 
+
+
+SMOssiod  sai 
+
+
+A 
+
+
+Les  Sauges.  75 
+
+passez  cinq  minutes  sur  le  feu,  dans  une  casserole  avec  un 
+peu  de  beurre  frais  et  de  fines  herbes  bien  hachées» 
+lorsqu'elles  sont  refroidies»  vous  les  pilez  et  vous  y  joi- 
+gnez six  onces  de  tétine  de  veau,  que  Ton  peut  rempla- 
+cer par  du  lard  râpé  ou  bien  du  beurre  frais;  vous  les 
+assaisonnez  ensuite  et  y  ajoutez  quatre  onces  de  mi  ton- 
+nage et  trois  jaunes  d'œufs.  (Durand). 
+
+
+III. 
+
+LES    HORS-DŒUVRE. 
+
+
+f 
+
+ï 
+
+
+t 
+f 
+
+
+ii«r 
+
+
+1 
+
+
+:> 
+
+
+Vi 
+
+
+« 
+
+
+•i 
+
+
+I 
+
+
+i 
+
+'i 
+
+
+IV. 
+
+
+»  I 
+
+
+LES  ŒUFS 
+
+
+i 
+
+t 
+
+i 
+
+
+■  i 
+
+.     v        •■•-■'■       ■  J  ■     . .  .1     "  .  ■  |       .■  '  .  •  ■ 
+
+r.        .  :ff\-  ■"■>«■  ■  è     '  » 
+
+
+■V 
+
+
+'*•:•  *  .i  l 
+
+
+V. 
+
+
+LES   POISSONS 
+
+
+Y< 
+
+
+i 
+
+t 
+
+
+» 
+
+I 
+
+
+À 
+
+i 
+
+
+* 
+
+I 
+
+
+î 
+
+
+* 
+
+
+i 
+
+
+t 
+* 
+t 
+
+
+t 
+
+
+; 
+
+

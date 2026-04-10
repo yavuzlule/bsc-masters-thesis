@@ -1,0 +1,4124 @@
+/"•> 
+
+
+F 
+
+
+PROPERTIES  OF  SEVERAL  TYPES  OF  SALTED  YOLK 
+AND  FUNCTIONALITY  IN  MAYONNAISE/ 
+
+
+by 
+
+Lisa  J.  Harrison 
+B.S.,  Texas  Tech  University,  Lubbock,  Texas,  1982 
+
+A  MASTER'S  THESIS 
+
+submitted  in  partial  fulfillment  of  the 
+
+requirements  for  the  degree 
+
+MASTER  OF  SCIENCE 
+
+Food  Science 
+(Department  of  Animal  Sciences  and  Industry) 
+
+KANSAS  STATE  UNIVERSITY 
+Manhattan,  Kansas 
+
+1984 
+
+
+Approved  by 
+
+
+ajor  Professor 
+
+
+c.   3 
+
+
+A11H0H   1,28706 
+
+
+TABLE  OF  CONTENTS 
+
+LITERATURE  REVIEW 
+
+Introduction 
+
+Emulsions 
+
+Egg  yolk  and  emulsification 
+
+Relative  volume  of  phases 
+
+Emulsifying  effect  of  the  mustard 
+
+Method  of  mixing 
+
+Water  hardness 
+
+Viscosity 
+
+MATERIALS  AND  METHODS 
+
+Yolk  preparation 
+
+Emulsifying  capacity 
+
+Viscosity 
+
+Mayonnaise  preparation  and  testing 
+
+RESULTS  AND  DISCUSSION 
+
+Liquid  yolk 
+
+Frozen  yolk 
+
+Yolk  solids 
+
+Mayonnaise  microbiology 
+
+REFERENCES 
+
+APPENDIX 
+
+
+PAGE 
+
+1 
+2 
+11 
+
+20 
+22 
+23 
+2k 
+24 
+
+29 
+31 
+31 
+32 
+
+36 
+51 
+6<* 
+74 
+
+77 
+
+S4 
+
+
+INTRODUCTION 
+
+Food  emulsions  are  a  significant  part  of  the  food  industry.  Milk,  a 
+natural  oil-in-water  emulsion,  has  long  been  an  important  and  nutritious  part 
+of  the  human  diet  (Graf  and  Bauer,  1976).  As  food  scientists  discovered  and 
+studied  other  natural  emulsions,  man-made  food  emulsions  began  to  appear. 
+Cake  batters  (Shepard  and  Yoell,  1976),  ice  cream  (Berger,  1976),  margarine 
+(Brown,  1949,  Weiss,  1970),  and  meat  products  such  as  sausage  and 
+frankfurters  (Schut,  1976)  are  just  a  few  examples.  Another  man-made  food 
+emulsion,  whose  production  and  consumption  has  grown  rapidly,  is 
+mayonnaise. 
+
+The  legends  connected  with  the  invention  of  mayonnaise  have  been 
+described  by  Robinson  (1924).  Although  there  is  a  divergence  of  opinion  as  to 
+its  origin,  mayonnaise  has  been  known  for  many  centuries  (Robinson,  1924). 
+From  1917  to  1927,  economic  and  industrial  changes  brought  about  shifts  in 
+American  dietary  habits  and  mayonnaise  became  a  diet  staple  involving  a 
+large  scale  industry  (Epstein,  1937).  Finberg  (1955)  estimated  that 
+approximately  39  million  gallons  of  mayonnaise  and  salad  dressing  were 
+produced  in  1938.  By  1953  that  figure  had  risen  to  over  100  million  gallons. 
+In  1983,  approximately  175,686,000  gallons  of  mayonnaise  and  62,469,000 
+gallons  of  salad  dressing  were  produced,  for  a  total  production  of  over  238 
+million  gallons  (Preston,  1983).  This  rise  in  consumption  and  production  seems 
+to  be  due  to  a  continuing  increase  in  sandwich  and  salad  consumption 
+(Finberg,  1955). 
+
+Standards  of  Identity  for  mayonnaise  define  the  product  as  a  semi-solid 
+emulsion    made  of  egg  yolk,  edible  vegetable  oil,  and  acetic  or  citric  acid.  It 
+
+
+2 
+also  may  contain  salt,  spices  or  spice  oils,  natural  sweeteners,  and  various 
+natural  flavoring  ingredients.  Oil  content  must  be  not  less  than  65%  by 
+weight  and  the  product  must  contain  at  least  2.5%  acetic  acid  by  weight. 
+Citric  acid  in  the  form  of  lemon  or  lime  juice  may  replace  the  acetic  acid  at 
+a  minimum  level  of  2.5%.  The  egg  yolk  may  be  from  separated  yolk  or  whole 
+egg,  and  may  be  in  the  liquid,  frozen,  and/or  dried  forms.  This  ingredient 
+provides  emulsifying  properties  and  gives  the  mayonnaise  a  pale  yellow  color, 
+which  may  not  be  intensified  by  any  other  ingredient. 
+
+EMULSIONS 
+Many  incomplete  definitions  of  emulsions  have  been  compiled  by  Becher 
+(1957),  who  also  gave  his  own,  more  technical  definition.  Simply  stated,  an 
+emulsion  is  "a  two-phase  system  of  immiscible  liquids"  (Lynch  and  Griffin, 
+197*)  that  "posses(es)  a  minimal  stability"  (Becher,  1957).  One  phase  is  in  the 
+form  of  finely  divided  droplets  whose  diameters  generally  are  larger  than 
+O.lu  (Becher,  1957).  This  dispersed,  internal,  or  discontinuous  phase  is 
+suspended  in  the  continuous  or  external  phase.  Emulsion  stability  is  increased 
+by  the  addition  of  an  emulsifier,  which  lowers  the  interfacial  tension.  The 
+lipophilic  (oil  loving)  portion  of  an  emulsifier  orients  itself  with  the  oil  phase 
+of  an  emulsion,  while  the  hydrophilic  (water  loving)  portion  orients  with  the 
+water  phase,  forming  a  shell  around  the  droplets  of  the  dispersed  phase 
+(Figure  1).  By  orienting  itself  at  the  interface,  the  emulsifier  prevents  the 
+dispersed  particles  from  coalescing  and  separating  out,  thereby  increasing 
+the  emulsion's  stability  (Lynch  and  Griffin,  197*).  The  technical  aspects  and 
+mechanisms  of  emulsions  can  be  found  in  the  abundant  literature  (Clayton, 
+1928,  Clayton  and  Morse,  1939,  King,  19*1,  Becher,  1957). 
+
+
+FIGURE  1.    Orientation  of  an  emulsifier  around  the  droplets 
+in  an  emulsion. 
+
+
+5 
+
+Emulsion  properties 
+
+Emulsion  properties  may  be  physical  or  chemical  in  nature,  or  both. 
+Although  it  is  difficult  to  characterize  all  facets  of  emulsions,  their 
+properties  generally  depend  on  the  properties  of  the  continuous  phase  and 
+the  proportion  of  the  continuous  phase  to  the  dispersed  phase  (Lynch  and 
+Griffin,  1974).  According  to  Lynch  and  Griffin  (197*)  and  Bennett  (19*7)  the 
+eight  major  properties  of  an  emulsion  are: 
+
+Appearance.  The  ingredients  used,  their  color  and  the  difference  in 
+refractive  index,  and  the  particle  size  of  the  dispersed  phase  all  influence 
+the  appearance  of  an  emulsion.  A  particle  size  of  0.5  to  5u  yields  an  opaque 
+emulsion.  Emulsion  color  usually  depends  on  the  color  of  the  continuous 
+phase. 
+
+Dispersability  and  Emulsion  Type.  Oil-in-water  emulsions  can  be 
+dispersed  in  and  diluted  by  water,  while  water-in-oil  emulsions  can  be 
+dispersed  in  and  diluted  by  oils. 
+
+Viscosity.  Emulsion  viscosity  depends  largely  on  the  viscosity  of  the 
+external  phase  and  the  ratio  of  external  to  internal  phases.  In  low 
+internal-phase-ratio  emulsions,  such  as  milk,  viscosity  is  similar  to  that  of 
+the  external  phase.  As  the  concentration  of  the  internal  phase  increases, 
+viscosity  also  increases.  When  the  volume  of  the  internal  phase  becomes 
+greater  than  that  of  the  external  phase,  a  high  internal-phase-ratio  emulsion, 
+such  as  mayonnaise,  is  formed.  Theoretically,  only  7*%  of  an  emulsion's 
+total  volume  can  be  occupied  by  the  dispersed  phase  when  the  droplets  are 
+spherical.  However,  high  internal-phase-ratio  emulsions  have  more  than  7*% 
+of  the  emulsion  in  the  dispersed  phase,  causing  distortion  of  the  dispersed 
+droplets.     This  distortion   results  in  a  higher  degree  of  plasticity,  as  well   as 
+
+
+6 
+allowing    particle   size    and    charge    to    have    a  greater    effect    on    emulsion 
+viscosity. 
+
+Particle  size.  The  diameter  of  the  internal  phase  globules  usually  is 
+taken  as  the  particle  size.  Fine  emulsions  contain  particles  with  small 
+diameters,  while  coarse  emulsions  contain  large  globules.  Good  stability 
+generally  is  associated  with  fine,  uniform  particle  size.  The  type  and 
+quantity  of  emulsifier,  the  order  of  addition  of  ingredients,  and  the  amount 
+of  work  done  to  form  the  emulsion  all  influence  particle  size. 
+
+Particle  charge.  A  charge  is  present  on  the  dispersed  particles  of 
+almost  all  emulsions.  This  charge  is  extremely  important  in  maintaining 
+stability  of  small  particle  size  emulsions,  but  is  less  important  in  high 
+viscosity  emulsions,  such  as  mayonnaise. 
+
+Conductivity.  Oil-in-water  emulsions  are  strong  electrical  conductors, 
+while  water-in-oil  emulsions  are  poor  conductors.  This  property  provides  one 
+means  of  identifying  emulsion  types. 
+
+pH.  The  effects  of  pH  on  emulsion  stability  only  recently  have  begun  to 
+receive  research  attention.  Changes  in  emulsions  often  can  be  achieved  by 
+pH  adjustments. 
+
+Stability.  The  stability  of  an  emulsion  refers  to  how  long  the  internal 
+phase  will  stay  dispersed  under  normal  conditions  of  shipping  and  storage. 
+When  the  droplets  of  the  dispersed  phase  coalesce  and  the  phases  separate, 
+the  emulsion  is  referred  to  as  "broken".  The  rate  at  which  coalescence 
+occurs  depends  on  the  type  and  concentration  of  the  emulsifier,  the  size  of 
+the  dispersed  droplets,  the  charge  on  the  particles,  the  emulsion  viscosity, 
+and  the  transportation  and  storage  conditions  to  which  the  emulsion  is 
+subjected. 
+
+
+Hydrophile-lipophile  balance 
+
+The  hydrophile-lipophile  balance  (HLB)  is  probably  the  most  common 
+means  of  choosing  an  emulsifier.  HLB  is  "an  expression  of  the  relative 
+simultaneous  attraction  of  an  emulsifier  ...for  the  two  phases  of  the  emulsion 
+system  being  considered"  (Lynch  and  Griffin,  1974).  The  chemical  composition 
+and  the  extent  of  ionization  of  an  emulsifier  apparently  determine  it's  HLB 
+value.    These  values  range  from  1  to  20. 
+
+In  general,  emulsifiers  with  HLB  numbers  below  9  are  lipophilic  and 
+tend  to  form  water-in-oil  emulsions;  those  with  HLB  numbers  of  11  to  20  are 
+hydrophilic  and  tend  to  form  oil-in-water  emulsions.  Those  with  HLB  values 
+of  9  to  11  are  classified  as  intermediate  (Lynch  and  Griffin,  1974).  The  type 
+of  oil  to  be  used  also  is  influenced  by  the  HLB  value.  Emulsifiers  with  HLB 
+numbers  of  7  to  12  are  necessary  to  form  oil-in-water  emulsions  with  corn  or 
+soybean  oils,  while  one  with  an  HLB  number  of  about  5  is  required  to  form 
+an  oil-in-water  emulsion  with  cottonseed  oil  (Powrie  and  Tung,  1976). 
+
+A  combination  of  two  or  more  emulsifiers  with  different  HLB  values 
+often  is  necessary  to  form  a  stable  emulsion  (Powrie  and  Tung,  1976). 
+Stability  at  a  given  HLB  value  varies  with  the  emulsifiers  used.  The  HLB 
+values  of  emulsifier  combinations  can  be  found  by  multiplying  the  weight 
+proportion  of  each  emulsifier  by  it's  HLB  value  and  then  adding  the  resulting 
+numbers. 
+
+Emulsion  types 
+
+Emulsion  systems  can  be  divided  into  two  categories  (Lynch  and  Griffin, 
+1974): 
+
+
+1.  Those  consisting  of  droplets  of  oil  dispersed  throughout  an  aqueous 
+medium  are  usually  referred  to  as  oil-in-water  (o/w)  emulsions. 
+
+2.  Those  in  which  droplets  of  water  are  dispersed  throughout  an  oil  or 
+fat  medium  are  termed  water-in-oil  (w/o)  emulsions. 
+
+Most  food  emulsions,  including  mayonnaise,  are  of  the  o/w  type  (Lynch 
+and  Griffin,  197*).  Mayonnaise,  though,  differs  from  other  o/w  emulsions 
+since  large  quantities  of  oil  are  emulsified  in  a  relatively  small  amount  of 
+water.  Mayonnaise,  therefore,  tends  to  be  more  unstable  than  many  other 
+food  emulsions,  but  many  of  the  problems  associated  with  its  manufacture 
+can  be  applied  to  other  products  (Corran,  19*3). 
+
+Mayonnaise  formulation  varies  considerably  with  the  processor,  as  can 
+be  seen  by  comparing  the  commercial  formulas  given  in  Table  1  (Corran, 
+19*3)  and  Table  2  (Weiss,  1970).  There  are  a  number  of  factors  that 
+influence  the  characteristics  of  mayonnaise.  Corran  (19*3)  listed  these 
+factors  as: 
+
+1.  egg  yolk 
+
+2.  the  relative  volume  of  the  phases 
+
+3.  the  emulsifying  effect  of  the  mustard 
+*.  the  method  of  mixing 
+
+5.  the  hardness  of  the  water 
+
+6.  viscosity 
+
+
+TABLE  1.    Mayonnaise  Composition 
+(Corran,  1943) 
+
+
+INGREDIENT 
+
+
+Oil  75.0 
+
+Salt  1.5 
+
+Egg  yolk  8.0 
+
+Mustard  1.0 
+
+Water  3.5 
+
+Vinegar  (6%  acetic  acid)  11.0 
+
+
+10 
+TABLE  2.    Mayonnaise  Composition 
+(Weiss,  1970) 
+
+
+INGREDIENT  WEIGHT  % 
+
+
+Salad  oil  77.0-82.0 
+
+Fluid  egg  yolk  5.3-5.8 
+
+Vinegar  (100  gr.)  2.8-4.5 
+
+Salt  1.2-1.8 
+
+Sugar  1.0-2.5 
+
+Mustard  flour'*  0.2-0.8 
+
+
+Oleoresin  paprika      . 
+Garlic,  onion,  spices 
+Water  to  make  100% 
+
+
+Egg  solids,  43%.   May  substitute  whole  or  fortified  egg,  fluid  or  dry, 
+on  a  total  solids  basis. 
+
+
+Spice  oils,  oleoresins  may  be  substituted. 
+Optional  where  characteristic  color  is  desired. 
+
+
+II 
+
+EGG  YOLK  AND  EMULSIFICATION 
+Egg  yolk,  itself  a  natural  o/w  emulsion  (Baldwin,  1977),  also  is  known  to 
+be  an  efficient  emulsifying  agent  for  other  o/w  emulsions  (Corran,  1943). 
+Intended  by  nature  to  produce  a  chick  (Stadelman,  1977),  the  yolk  is  a 
+complex  mixture.  Although  it  may  vary,  yolk  generally  contains  15.7-16.6% 
+protein,  31.8-35.5%  lipid,  0.2-1.0%  carbohydrate,  and  1.1%  ash  (Powrie, 
+1977). 
+
+Egg  yolk  fractions 
+
+Egg  yolk  contains  about  28.3%  phospholipid  (largely  lecithin)  and  5.2% 
+cholesterol  (Powrie,  1977)  for  a  lecithin/cbolesterol  ratio  of  about  5.4:1. 
+Research  by  Corran  and  Lewis  (1924)  showed  that  lecithin  favored  an  o/w 
+emulsion  while  cholesterol  favored  the  w/o  type.  Antagonistic  effects  were 
+seen  when  both  substances  were  present.  Inversion  of  an  emulsion  occurred 
+when  the  lecithin/cholesterol  ratio  was  8:1  when  both  compounds  were  in  the 
+aqueous  phase,  and  at  the  1:1  to  2:1  ratio  when  the  cholesterol  was  present 
+in  the  oil  phase. 
+
+Sell  et  al.  (1935),  using  the  above  results  as  a  base,  added  both 
+cholesterol  and  lecithin  to  mayonnaise  preparations.  The  cholesterol  had  no 
+effect  on  mayonnaise  preparation  or  stability  when  added  in  small  amounts, 
+although  the  emulsion  weakened  when  four  times  as  much  cholesterol  as  is 
+normally  present  in  yolk  was  added.  Lecithin,  on  the  other  hand,  lowered 
+consistency  and  decreased  stability  of  the  mayonnaise  in  every  case  tested. 
+After  further  studies,  those  researchers  concluded  that  the  emulsification 
+ability  of  egg  yolk  is  not  due  to  any  one  compound,  but  to  an  unstable 
+complex  of  lecithin  and  protein  which  they  termed  "lecitho-protein". 
+
+
+12 
+
+Detrimental  effects  of  lecithin  on  egg  yolk  emulsification  capacity  also 
+have  been  described  by  Yeadon  et  al.  (1958),  by  Varadarajulu  and 
+Cunningham  (1972a),  and  by  Cunningham  (1975),  who  also  found  that  2  to  ** 
+lecithin  significantly  increased  egg  yolk  viscosity,  but  decreased  yolk 
+foaming  capacity  and  significantly  decreased  sponge  cake  volume. 
+
+Chapin  (1951)  found  that  the  water  soluble/ether  insoluble  portion  of 
+egg  yolk,  designated  as  the  livetin  portion,  possessed  poor  emulsifying 
+properties.  However,  when  it  was  combined  with  the  water  insoluble  portion, 
+designated  as  the  lipoprotein  portion,  emulsification  ability  was  increased. 
+The  lipoprotein  alone  had  a  slightly  higher  emulsification  capacity  than  the 
+combination  product.  Phospholipids  added  to  livetin  reduced  emulsification 
+capacity. 
+
+The  emulsification  ability  of  yolk  was  attributed  to  the  lipoprotein  and 
+livetin  fractions  by  Vincent  et  al.  (1966),  who  suggested  that  those  fractions 
+aided  in  emulsion  formation  by  reducing  surface  tension. 
+
+Davey  et  al.  (1969)  studied  the  emulsifying  properties  of  three  crude 
+egg  yolk  protein  fractions:  lipovitellin,  livetin,  and  lipovitellenin.  All  reduced 
+initial  emulsion  drainage.  Lipovitellenin  alone  increased  subsequent  drainage, 
+but  reduced  subsequent  drainage  when  combined  with  either  lipovitellin  or 
+livetin.  Combinations  of  lipovitellin  and  livetin  increased  subsequent 
+drainage.  Optimum  emulsion  stability  occurred  when  all  three  protein 
+fractions  were  present.  Although  freezing  the  fractions  resulted  in  an 
+emulsion  less  stable  than  those  made  from  fresh  yolk  or  fresh  combined 
+fractions,  freezing  and  thawing  did  not  significantly  decrease  the  emulsifying 
+ability  of  any  of  the  fractions  or  combinations  of  fractions. 
+
+
+13 
+Varadarajulu    and    Cunningham    (1972b)     also     studied    the     emulsifying 
+properties   of    the    lipovitellin,    lipovitellenin,    and    livetin    fractions    of    yolk. 
+Results  showed  that  none  of  the  fractions,  alone  or  in  combinations,  were  as 
+good  emulsifiers  as  fresh  yolk. 
+
+Liquid  egg  yolk 
+
+Several  studies  determined  the  effect  of  the  hen's  dietary  fats  on  the 
+emulsification  capacity  of  egg  yolk.  Jordan  et  al.  (1962)  found  that  the  type 
+of  fat  in  the  hens'  diets  produced  no  significant  effect  on  emulsion 
+separation.  Pankey  and  Stadelman  (1969)  also  found  no  significant  differences 
+in  emulsification  capacity  of  egg  yolk  from  hens  fed  rations  supplemented 
+with  corn,  soybean,  olive,  safflower,  or  hydrogenated  coconut  oils. 
+
+Davey  et  al.  (1969)  found  that  native  yolk  gave  more  stable  emulsions 
+after  60,  90,  and  120  minute  drainage  periods  than  emulsions  made  from 
+recombined  lipovitellin,  livetin,  and/or  lipovitellenin.  Fresh  yolk  and  fresh 
+recombined  fractions  yielded  more  stable  emulsions  than  frozen  yolk  or 
+frozen  fractions. 
+
+Varadarajulu  and  Cunningham  (1972a)  found  that  emulsification  capacity 
+of  liquid  yolk  decreased  as  dilution  with  albumen  increased,  and  suggested 
+that  this  was  due  to  the  lower  solids  content  or  to  interactions  between 
+albumen  proteins  and  yolk  fractions.  They  recommended  that  commercial  yolk 
+manufacturers  could  improve  their  products  by  keeping  albumen  content 
+below  20%. 
+
+Pasteurization  did  not  significantly  affect  emulsification  capacity  of 
+commercial  fresh  yolk  containing  48  to  *9%  solids  (Varadarajulu  and 
+Cunningham,    1972b).   Homogenization   after  pasteurization  improved    emulsion 
+
+
+14 
+stability.    Albumen-free  yolk  heated  to  61  °C  showed  no  significant  changes  in 
+emulsion  stability,  but  emulsification  capacity  was  significantly  increased  by 
+heating  the  yolk  to  63°C. 
+
+These  same  researchers  (Varadarajulu  and  Cunningham,  1972c)  studied 
+the  influence  of  breed,  strain,  and  age  of  bird  on  emulsification  capacity. 
+Eggs  from  Brown  Leghorns  had  twice  the  emulsification  capacity  of  eggs 
+from  White  Leghorns.  Emulsification  ability  of  eggs  decreased  as  birds  aged. 
+Low  social  dominant  strains  of  both  the  Rhode  Island  Red  and  White  Leghorn 
+breeds  produced  eggs  with  greater  emulsification  ability  than  eggs  from  the 
+high  social  dominant  strains. 
+
+Emulsifying  properties  of  pasteurized  and  stored  salted  (10%  NaCl) 
+liquid  yolk  were  studied  by  Cotterill  et  al.  (1976).  In  the  high 
+temperature-short  time  method,  samples  were  held  for  5  minutes  at 
+temperatures  from  62°C  to  78°C,  while  in  the  low  temperature-long  time 
+method,  samples  were  held  at  52°C  for  2  to  8  days.  Since  there  were  no 
+emulsification  differences  between  yolks  treated  by  the  two  methods,  the 
+authors  concluded  that  salted  yolk  could  be  pasteurized  at  high  temperatures 
+without  damage  to  emulsifying  properties. 
+
+Frozen  egg  yolk 
+
+Frozen  yolk  containing  10%  NaCI  is  the  most  common  form  used  in 
+mayonnaise  preparation  (Weiss,  1970).  The  added  salt  inhibits  microbial 
+growth  during  thawing  (Weiss,  1970),  and  reduces  the  gelation  that  occurs  in 
+frozen  plain  yolk  (Powrie  et  al.,  1963,  Meyer  and  Woodburn,  1965).  If  frozen 
+yolk  is  allowed  to  thaw  evenly,  the  resulting  smooth,  heavy  paste  will  be 
+about  the  right  consistency  for  high  quality  mayonnaise  (Kilgore,  1935). 
+
+
+15 
+Studies  on  the  use  of  frozen-thawed  yolk  in  mayonnaise  have  produced 
+variable  results.  Kilgore  (1935)  reported  that  a  higher  percentage  of  frozen 
+yolk  than  of  fresh  yolk  was  required  to  produce  a  mayonnaise  of  a  given 
+viscosity.  Miller  and  Winter  (1951),  on  the  other  hand,  found  that  frozen  yolk 
+produced  a  much  stiffer  mayonnaise  than  did  fresh  yolk.  Dilution  of  the 
+thawed  yolk  was  necessary  before  acceptable  mayonnaise  could  be  produced. 
+Johnson  (1970)  also  found  that  frozen  yolks  produced  a  stiffer  mayonnaise 
+than  fresh  yolks,  and  sugared  frozen  yolk  produced  a  stiffer  mayonnaise  than 
+salted  frozen  yolk.  Yolks  containing  both  salt  and  sugar  produced  the  least 
+stable  mayonnaise. 
+
+Davey  et  al.  (1969)  found  that  emulsions  prepared  with  fresh  yolk  were 
+more  stable  than  those  prepared  with  frozen  yolk.  Johnson  (1970),  on  the 
+other  hand,  found  that  frozen  yolk  gave  more  stable  emulsions;  however,  yolk 
+containing  5%  NaCl  gave  the  most  stable  emulsions.  Several  studies,  which 
+dealt  with  the  influence  of  freezing  on  emulsion  stability,  were  conducted  at 
+about  that  same  time.  Jaax  and  Travnicek  (1968)  found  that  emulsion 
+separation  increased  as  freezing  rate  increased  when  unpasteurized  yolk 
+containing  no  additive  was  used.  Method  of  freezing  -  either  with  liquid 
+nitrogen  or  in  a  household  freezer  -  had  no  significant  effect  on  stability  of 
+emulsions  made  with  salted  yolks.  Palmer  et  al.  (1969a,  b)  studied  the 
+influences  of  pasteurization,  freezing,  and  acidification  on  emulsification 
+capacity  of  egg  yolk.  Freezing  and  storage  at  either  0°F  or  -10°F  for  up  to 
+four  months  caused  no  loss  of  emulsification  ability  in  either  pasteurized  or 
+unpasteurized  salted  yolks.  Freezing  at  -20°F  for  5  to  6  days  followed  by 
+storage  at  0°F  resulted  in  no  loss  of  emulsifying  properties,  but  freezing  at 
+-20°F    and    storage   at    -10°F    for    1    to    4    months    was    detrimental    to    both 
+
+
+16 
+pasteurized    and    unpasteurized    yolks.      Acidification     in     combination    with 
+pasteurization,     followed     by     freezing     and     storage     also     damaged      the 
+emulsification  ability  of  salted  yolk. 
+
+Yolk  solids 
+
+Although  yolk  solids  are  used  by  the  mayonnaise  industry,  few  studies 
+have  been  conducted  on  their  functionality  in  mayonnaise.  Several 
+investigators,  though,  have  studied  the  influence  of  dehydration  on  yolk 
+emulsifying  properties. 
+
+Chapin  (1951)  reported  that  spray-drying  increased  yolk  emulsification 
+capacity;     however,  vacuum  drying  decreased  emulsifying  power. 
+
+Carlin  (1955)  showed  that  rehydration  of  dried  yolk  with  acetic  acid 
+instead  of  water  apparently  decreased  its  emulsification  capacity.  Data  on 
+dried  yolks  produced  from  1949  to  1952  indicated  that  mayonnaise 
+comparable  to  controls  could  be  produced  using  50  grain  acetic  acid,  but 
+solids  from  1953  produced  a  similar  mayonnaise  when  either  50  or  100  grain 
+vinegar  was  used.  The  author  concluded  that  either  50  or  100  grain  vinegar 
+could  be  used  to  produce  mayonnaise  from  yolk  solids  available  at  that  time. 
+
+Lyophilized  yolk  was  the  subject  of  a  study  by  Rolfes  et  al.  (1955).  The 
+use  of  fresh,  frozen,  and  spray-dried  samples  for  comparison  indicated  that 
+lyophilization  harmed  yolk  emulsifying  properties.  This  detrimental  effect 
+was  less  when  the  yolk  was  diluted  before  freeze-drying. 
+
+Schultz  et  al.  (1966)  reported  that  drying  of  yolk  resulted  in  a  rapid 
+increase  in  extractability  of  the  "free  lipids"  which  were  extremely 
+detrimental  to  the  emulsifying  capacity  of  yolk. 
+
+
+17 
+Zabik  (1969)  studied  the  emulsification  ability  of  freeze-dried  yolks,  as 
+well  as  of  foam-spray-dried  yolks  and  spray-dried  yolks.  Frozen  yolks  were 
+used  for  comparison.  Averages  of  emulsion  separation  at  three  pH  levels 
+indicated  that  frozen  yolks  produced  the  most  stable  emulsions,  followed  by 
+freeze-dried  and  foam-spray-dried.  Spray-dried  yolk  produced  the  least  stable 
+emulsions. 
+
+Varadarajulu  and  Cunningham  (1972b)  also  showed  that  spray -drying  was 
+detrimental  to  yolk  emulsification  ability.  Initial  separation  was  significantly 
+greater  for  spray-dried  yolk,  although  emulsion  separation  at  120  minutes 
+was  similar  for  all  the  samples  tested.  The  authors  also  reported  apparent 
+superior  emulsification  ability  with  samples  processed  in  a  Buflovak  drier 
+than  with  yolk  dried  in  a  Rogers  drier,  but  the  differences  were  not 
+significant. 
+
+Determination  of  emulsification  capacity  and  stability 
+Very  few  tests  have  been  devised  to  determine  emulsification  capacity 
+of  egg  yolk  directly.  Pankey  and  Stadelman  (1969)  added  corn  oil  dropwise  to 
+a  mixture  of  0.5  g  of  whole  yolk  and  15  ml  of  distilled  water  in  a 
+microblender  cup  of  a  Waring  blender  until  emulsion  disruption  occurred. 
+Emulsification  capacity  was  taken  as  the  amount  of  oil  that  could  be 
+incorporated  before  disruption  occurred.  Cotterill  et  al.  (1976)  used  two 
+types  of  phase  inversion  techniques  to  determine  emulsification  capacity.  In 
+the  "monophasic"  titration,  10  g  of  yolk  and  81  g  of  corn  oil  were  mixed 
+together  in  the  metal  bowl  of  a  Kitchen-Aid  mixer  to  form  a  w/o  emulsion. 
+The  emulsion  then  was  back-titrated  with  water  to  the  inversion  point,  which 
+was    determined    by    change    in    electrical     resistance.      In    the    "bi-phasic" 
+
+
+18 
+titration,  electrodes  on  opposite  sides  of  a  beaker  containing  20  g  of  yolk 
+were  used  to  measure  resistance.  The  o/w  emulsion  was  titrated  with  oil 
+until  resistance  went  rapidly  from  0  to  5x10  ohms,  which  was  considered 
+the  inversion  point.  An  additional  10  ml  of  oil  then  was  added  to  convert  the 
+emulsion  to  w/o.  This  emulsion  then  was  back-titrated  with  water  to  the 
+inversion  point,  which  was  at  0  ohms.  The  amounts  of  water  or  oil  required 
+to  reach  the  inversion  points  were  used  as  a  determination  of  emulsification 
+capacity  in  all  tests.  A  method  similar  to  that  of  Pankey  and  Stadelman 
+(1969)  was  reported  recently  by  Young  et  al.  (1983).  In  this  procedure,  15  g 
+of  yolk,  20  ml  of  0.8M  acetic  acid,  20  ml  of  corn  oil,  and  0.5  g  of  NaCl  were 
+mixed  in  an  Osterizer  blender  at  maximum  speed.  Corn  oil  was  added 
+dropwise  from  a  cylinder  until  the  emulsion  broke,  as  determined  by  a  sudden 
+drop  in  viscosity.  The  total  oil  (the  original  20  ml  plus  the  amount  added 
+from  the  cylinder)  divided  by  the  weight  of  yolk  used  was  taken  as  the 
+emulsification  capacity. 
+
+Stability  of  emulsions  seems  to  be  a  more  common  way  to  test 
+indirectly  yolk  emulsification  efficiency.  Numerous  methods  have  been 
+developed  to  determine  stability  of  both  simple  emulsions  and  of  mayonnaise. 
+
+Jordan  et  al.  (1962)  and  Davey  et  al.  (1969)  used  a  method  that  involved 
+blending  15  g  of  yolk,  15  g  of  corn  oil,  and  85  g  of  deionized  water  in  a 
+stainless  steel  blender  cup  at  28  to  29°C.  After  blending  1  minute  at  50 
+volts  and  5  minutes  at  110  volts,  15  g  portions  were  transferred  to  graduated 
+15  ml  centrifuge  tubes  and  placed  in  a  test  tube  rack.  Emulsion  separation 
+was  recorded  after  30,  60,  90,  and  120  minutes  and  was  interpreted  as  an 
+indication  of  stability. 
+
+
+19 
+
+Variations  on  the  above  procedure  have  been  used  by  several 
+researchers.  Zabik  (1969)  adjusted  the  water  content  of  the  formula  to  allow 
+for  moisture  previously  added  to  the  frozen-thawed  yolks,  increased  the 
+speed  of  initial  homogenization  to  55  volts,  and  decreased  the  amount  of 
+emulsion  placed  in  the  centrifuge  tubes  to  10  mis.  Varadarajulu  and 
+Cunningham  (1972a)  modified  the  procedure  to  use  a  Virtis  homogenizer 
+rather  than  a  blender.  Emulsion  separation  was  recorded  only  after  60  and 
+120  minutes. 
+
+A  procedure  similar  to  that  of  Varadarajulu  and  Cunningham  (1972a)  had 
+previously  been  developed  by  Jaax  and  Travnicek  (1968).  Emulsions  consisting 
+of  8.5  g  of  yolk,  U.O  g  of  corn  oil,  and  46  ml  of  deionized  water  were 
+prepared  by  blending  for  90  seconds  in  a  Virtis  homogenizer  set  at  medium 
+speed.  The  formed  emulsions  were  then  transferred  to  100  ml  graduated 
+cylinders,  and  separation  was  recorded  every  30  minutes.  Total  separation 
+was  recorded  at  the  end  of  3  hours.  Johnson  (1970)  also  used  this  basic 
+procedure,  but  replaced  the  corn  oil  with  soybean  oil  and  recorded 
+separation  for  *  hours. 
+
+Kilgore  (1933b)  tested  mayonnaise  stability  by  shaking  a  sample  of  the 
+emulsion  with  an  equal  weight  of  water,  pouring  the  solution  into  a 
+graduated  cylinder,  and  allowing  it  to  stand  for  2»  hours.  The  amount  of 
+creaming  was  used  as  the  measure  of  stability. 
+
+Stability  of  mayonnaise  often  has  been  determined  by  simply  storing 
+samples  at  room  temperature  until  visible  separation  occurred.  Kilgore 
+(1933a)  stored  samples  at  room  temperature  for  1  year  before  determining 
+the  amount  of  separation.  Chapin  (1951)  stored  emulsions  in  a  one-half  pint 
+Mason  jar  at  approximately  21  °C.     The  length  of  time  required  for  the  first 
+
+
+20 
+appearance  of  water  was  taken  as  the  stability  measurement.    Johnson  (1970) 
+evaluated   the  stability  of  mayonnaise  by  observing  the  presence  or  absence 
+of   oil    separation    when   samples  were    stored  at  room  temperature   for  2,   *, 
+and  6  weeks. 
+
+Centrifuging  until  phase  separation  occurred  was  suggested  by  Bennett 
+(19*7)  as  a  test  of  emulsion  stability.  Miller  and  Winter  (1951)  centrifuged  10 
+g  samples  for  15  minutes  and  then  used  the  amount  of  liquid  separation  as  a 
+measure  of  stability.  Rolfes  et  al.  (1955)  employed  an  International 
+centrifuge  at  2000  rpm  for  15  minutes  to  test  mayonnaise  stability.  The 
+percent  oil  separation,  determined  on  a  weight  basis,  was  taken  as  the 
+measure  of  stability.  Varadarajulu  and  Cunningham  (1972a)  also  used  an 
+International  centrifuge,  but  revised  the  test  conditions  to  5000  rpm  for  30 
+minutes. 
+
+RELATIVE  VOLUME  OF  THE  PHASES 
+Mark    (1921)    studied    the    emulsification    of    oil    in    liquid    egg    yolk    by 
+taking  samples  every   10  seconds  during  emulsion  formation  and  monitoring  oil 
+dispersion  microscopically.     Four  conclusions  were  drawn  from  the  data: 
+
+1.  If  the  proportion  of  egg  to  oil  was  kept  below  a  certain  maximum,  a 
+stable  emulsion  could  always  be  formed  regardless  of  temperature  or  method 
+of  beating. 
+
+2.  If  the  amount  of  oil  exceeded  a  certain  minimum,  the  continuous 
+phase  became  the  oil  and  no  permanent  emulsion  could  be  formed. 
+
+
+21 
+
+3.  If  the  proportion  of  egg  to  oil  was  kept  between  the  minimum  and 
+maximum,  formation  of  a  stable  emulsion  became  dependent  on  variables  such 
+as  temperature  and  mixing  procedure. 
+
+4.  If  vinegar  was  used  to  dilute  the  egg,  the  amount  of  oil  that  could 
+be  emulsified  permanently  increased  greatly  during  initial  addition  of  oil.  As 
+emulsion  viscosity  increased,  the  maximum  amount  of  oil  that  could  be 
+emulsified  approached  the  amount  emulsified  when  undiluted  egg  was  used. 
+
+The  amount  of  oil  that  could  be  emulsified  in  a  given  amount  of  egg 
+yolk  was  reported  by  Robinson  (1924)  to  depend  on  the  type  of  oil  being 
+used.  Amounts  of  oil  that  could  be  emulsified  in  15  g  of  yolk  ranged  from 
+296  g  for  pure  Italian  olive  oil  to  432  g  for  Wesson  oil.  The  amount  of  water 
+present  also  was  cited  as  an  influence  on  the  amount  of  oil  that  could  be 
+emulsified. 
+
+Gray  and  Southwick  (1929)  found  that  the  consistency  of  mayonnaise 
+decreased  rapidly  as  moisture  content  increased. 
+
+Due  to  the  presence  of  "free"  water,  Kilgore  (1935)  considered  fresh 
+yolk  to  be  too  light  in  body  to  produce  a  good  initial  emulsion.  The  author 
+reported  that  some  means  of  holding  this  excess  moisture  must  be  utilized 
+with  fresh  yolk  to  start  the  smooth,  fine-grained  emulsion  necessary  for  high 
+quality  mayonnaise. 
+
+Corran  (1943)  reported  that  the  usual  procedure  in  mayonnaise 
+production  was  to  emulsify  the  total  amount  of  oil  in  a  small  amount  of  the 
+aqueous  phase  before  addition  of  the  remainder  of  the.  aqueous  phase. 
+Although  the  large  concentration  of  oil  tended  to  give  rise  to  a  w/o 
+emulsion,  the  emulsifying  agents  prevented  this,  and  the  large  amount  of  oil 
+
+
+22 
+was  cited  as  a  major  factor  in  mayonnaise  formation.     He  also  reported  that 
+addition  of  oil    to  all  of  the  aqueous  phase  resulted  in  an  emulsion  of  very 
+low  viscosity. 
+
+Lowe  (1955)  found  that  40  g  of  oil  could  be  emulsified  initially  in 
+approximately  15  g  of  egg  yolk  when  seasonings  and  vinegar  were  added  to 
+the  yolk.  These  data  indicated  that  mayonnaise  formed  most  readily  with  a 
+small  quantity  of  oil. 
+
+EMULSIFYING  EFFECT  OF  MUSTARD 
+
+In  "1932  Kilgore  studied  the  emulsifying  effect  of  mustard  on 
+mayonnaise.  Three  tests  were  used  to  evaluate  mustard:  1)  foaming  power  of 
+a  mustard/water  solution,  2)  stability  of  oil  drops  on  the  surface  of  a 
+mustard/water  solution,  and  3)  stability  of  simple  o/w  emulsions  using  a 
+solution  of  mustard  and  water  as  the  water  phase  and  sole  emulsifying  agent. 
+Results  showed  that  emulsion  stability  increased  as  the  mustard  level 
+increased  up  to  4%.  When  oil  was  dropped  onto  the  surface  of  a  4%  solution 
+of  mustard,  the  drops  stayed  completely  apart,  indicating  stabilization  due  to 
+the  mustard.  In  the  third  experiment,  a  tt%  solution  of  mustard  formed  and 
+maintained  a  fairly  heavy  emulsion.  The  author  concluded  that  mustard 
+exerts  a  stabilizing  effect  on  emulsions. 
+
+In  1933(a),  Kilgore  studied  the  effect  of  mustard  on  the  permanence  and 
+consistency  of  mayonnaise.  Mustard  was  found  to  have  considerable  influence 
+on  the  stability  of  mayonnaise.  Consistency  of  the  emulsion  was  found  to  be 
+influenced  greatly  by  not  only  the  chemical  and  physical  properties  of 
+mustard,  but  by  the  method  of  incorporating  mustard  into  the  mayonnaise. 
+
+
+23 
+After  determining  the  effects  of  mustard  on  mayonnaise  characteristics, 
+Kilgore    (1934)    reported    three    methods    for    testing    mustard    to    be    used    in 
+mayonnaise:        moisture    holding  power,   development    of    flavor,    and    keeping 
+quality.    Characteristics  of  several  types  of  mustard  also  were  described. 
+
+Corran  (1943)  studied  the  effect  of  mustard  on  oil/lime  water  mixtures 
+that  resulted  in  w/o  emulsions  when  shaken.  Data  indicated  that  2.1%  fine 
+mustard  flour  or  2.5%  coarse  mustard  flour  caused  inversion  of  the  emulsion 
+to  o/w.  Further  tests  conducted  with  a  mobilometer  confirmed  that  mustard 
+confers  a  measure  of  stability  to  mayonnaise. 
+
+METHOD  OF  MIXING 
+
+Robinson  (1924)  reported  that  more  oil  could  be  emulsified  when 
+intermittent  mixing  was  used  than  when  the  beating  was  continuous.  Speed  of 
+oil  addition  also  was  cited  as  a  factor  influencing  mayonnaise  production. 
+
+Hall  and  Dawson  (1940)  tested  two  methods  of  emulsion  formation.  In 
+the  American  method,  the  emulsifying  agent  and  acid  were  combined, 
+followed  by  the  gradual  addition  of  oil.  In  the  compromise  method,  a  small 
+amount  of  oil  was  first  added  to  the  emulsifying  agent,  followed  by  the 
+addition  of  acid,  and  then  the  addition  of  the  remainder  of  the  oil.  Each 
+method  was  tested  under  two  conditions  -  oil  was  added  either  from  a  height 
+of  6  inches  above  the  emulsion  or  was  added  beneath  the  emulsion  surface. 
+Results  showed  that  the  introduction  of  oil  beneath  the  emulsion  surface 
+improved  stability,  consistency,  and  homogeneity  of  the  formed  emulsion.  The 
+authors  also  found  the  compromise  method  to  produce  emulsions  superior  to 
+those  produced  by  the  American  method.    The  best  emulsions  were  produced 
+
+
+24 
+when    the   compromise    method    with    addition    of    oil    beneath    the    emulsion 
+surface  was  used. 
+
+Corran  (1943)  found  that  the  stability  and  form  of  emulsions  was 
+influenced  by  a  number  of  method-of-mixing  factors.  Those  factors  included 
+the  amount  and  composition  of  the  aqueous  phase  added  during  the  first 
+stage  of  mixing,  the  time  of  beating,  and  the  degree  of  agitation.  Results  of 
+tests  conducted  by  that  author  indicated  that,  of  the  various  conditions 
+tested,  a  beating  time  of  5  minutes  without  initial  addition  of  vinegar 
+produced  the  most  viscous  mayonnaise. 
+
+Lowe  (1955)  reported  that  the  kind  of  bowl  used  to  make  mayonnaise 
+influenced  the  emulsion.  Placing  small  quantities  of  yolk  in  a  large  mixer 
+bowl  was  cited  as  one  cause  of  failure  in  making  mayonnaise.  The  duration 
+of  beating  and  resting  periods  had  a  measurable  influence  on  the  emulsion. 
+The  addition  of  vinegar  at  various  stages  in  the  making  of  mayonnaise 
+affected  the  consistency  of  the  mayonnaise. 
+
+WATER  HARDNESS 
+Water    hardness    was    cited    by    Corran    (1943)    as    a    minor    factor    in 
+mayonnaise    production.     Calcium   salts,   as   well   as  salts   of   other   divalent 
+metals,  tend  to  form  w/o  emulsions,  thereby  decreasing  mayonnaise  stability 
+(Corran,  1943,  Lowe,  1955). 
+
+VISCOSITY 
+Viscosity    is     an     important     property    of    egg     yolk    to     be     used     for 
+mayonnaise  manufacture.    Numerous  studies  have  been  conducted  on  egg  yolk 
+viscosity.     Chapin   (1951)  suggested  that    the  "emulsifying  index",  which  was 
+
+
+25 
+based     on     final     emulsion     viscosity,    was     influenced     partially     by     initial 
+emulsifier  viscosity.    Kilgore  (1935)  stated  that  frozen-defrosted  yolk  of  good 
+quality  would  be  a  smooth  heavy  paste  which  was  about  the  right  consistency 
+for  mayonnaise. 
+
+According  to  Payawal  et  al.  (19*6),  native  yolk  containing  49  to  49.5% 
+water  has  a  viscosity  of  approximately  800  centipoises  (c.p.s.).  Pasteurization 
+temperatures  above  62.5°C  caused  a  considerable  increase  in  egg  yolk 
+viscosity. 
+
+Pearce  and  Lavers  (1949)  showed  that  freezing  resulted  in  an 
+irreversible  increase  in  egg  yolk  viscosity.  Reduced  viscosity  was  noted  in 
+defrosted  yolk  when  vigorous  mechanical  treatment  was  applied  prior  to 
+freezing.  As  freezing  time  increased  from  0.2  to  39  hours,  a  progressive 
+increase  in  viscosity  occurred.  Viscosity  of  yolk  also  was  found  to  increase 
+as  defrosting  time  increased  from  0.03  to  24  hours. 
+
+The  effects  of  freezing  on  yolk  gelation,  which  can  be  considered  a 
+large  increase  in  viscosity,  was  studied  by  Lopez  et  al.  (1954).  Colloidal 
+milling  of  the  egg  yolk  prior  to  freezing  inhibited  gelation  under  certain 
+conditions.  Salt  (NaCl)  added  to  yolk  before  milling,  freezing,  and  frozen 
+storage  produced  yolk  with  a  higher  degree  of  gelation  than  that  with  no 
+NaCl,  while  emulsion  stabilizers  and  destabilizers  did  not  inhibit  gelation 
+either  with  or  without  colloidal  milling.  None  of  the  substances  tested, 
+including  trisodium  citrate,  trisodium  ethylenediaminetetracetate,  NaCl, 
+sugars,  and  glycerol,  produced  a  normally  flavored  yolk  and  inhibited 
+gelation.  Sugar,  NaCl,  and  glycerol  partially  prevented  yolk  gelation,  but 
+resulted  in  marked  flavor  changes.  Quick  freezing  by  immersion  in  either  a 
+dry-acetone-ice   mixture   or    in    liquid    nitrogen      partially    inhibited   gelation. 
+
+
+26 
+
+Decreased  yolk  gelation  was  associated  with  increased  freezing  rate,  and 
+quick  freezing  combined  with  rapid  defrosting  further  reduced  yolk  gelation. 
+
+The  effect  of  salt  (NaCl)  on  yolk  viscosity  was  studied  by  Jordan  and 
+Whitlock  (1955).  Untreated  yolk  was  considerably  more  viscous  than  either 
+egg  white  or  whole  egg  magma.  As  salt  levels  were  increased  from  1  to  5%, 
+those  differences  in  consistency  were  found  to  become  increasingly  greater. 
+Results  indicated  that  the  viscosity  ratio  between  the  yolk  containing  5* 
+salt  and  the  untreated  yolk  was  greater  than  *  to  1. 
+
+Marion  and  Stadelman  (1958)  also  found  that  the  addition  of  salt 
+increased  the  viscosity  of  fresh,  unfrozen  yolk.  Gelation  was  reduced 
+significantly  by  increases  in  both  freezing  and  defrosting  rates.  Several 
+additives,  including  hexane,  NaCl,  and  sucrose,  were  found  to  effectively 
+reduce  frozen  yolk  gelation. 
+
+Powrie  et  ai.  (1963)  found  that  viscosity  change  in  frozen-thawed  yolk 
+was  dependent  on  the  time-temperature  relationship  of  frozen  storage.  Salt, 
+sugar,  and  cysteine  all  decreased  gelation  of  frozen  yolk.  Urea  caused  a 
+definite  increase  in  native  yolk  viscosity,  with  a  urea  level  of  0.416 
+moles/100  g  yolk  causing  the  yolk  to  gel  within  85  minutes. 
+
+Increasing  age  of  eggs  resulted  in  decreased  yolk  viscosity  in  studies  by 
+Meyer  and  Woodburn  (1965).  Cysteine-  and  water-treated  unfrozen  yolk  had 
+similar  viscosities,  while  NaCl-treated  yolks  were  more  viscous  than  the 
+control.  Sucrose  caused  the  most  reduction  in  viscosity.  Water  was  slightly 
+less  effective  than  cysteine  in  inhibiting  gelation  in  frozen-defrosted  yolk, 
+while  NaCl  was  the  most  effective  in  inhibiting  gelation  in  stored 
+frozen-defrosted  yolk. 
+
+
+27 
+
+Jaax  and  Travnicek  (1968)  found  that  both  NaCl  and  sugar  reduced 
+gelation  of  frozen-defrosted  yolk.  Yolk  frozen  in  a  freezer  was  more  viscous 
+than  yolk  frozen  in  liquid  nitrogen,  and  liquid  nitrogen  was  less  effective  in 
+retarding  gelation  in  treated  yolk  than  in  yolk  containing  no  additive. 
+
+Palmer  et  al.  (1969a,  b)  found  that  pasteurization  did  not  change  the 
+effect  of  frozen  storage  on  salted  yolks,  but  caused  a  slightly  increased 
+viscosity  in  unfrozen  salted  yolk.  Viscosity  of  frozen-defrosted  yolks  stored 
+below  -10°F  increased  as  shear  rate  decreased,  while  unfrozen  salted  yolk 
+viscosity  was  independent  of  shear  rate.  Acidification  caused  a  considerable 
+increase  in  viscosity  with  pasteurization  and  frozen  storage  each 
+accentuating  that  increase. 
+
+Studies  conducted  by  Davey  et  al.  (1969)  indicated  that  the  increased 
+viscosity  of  frozen-defrosted  yolk  could  be  due  to  increased  viscosity  of  the 
+lipovitellenin  fraction  as  a  result  of  freezing.  However,  results  for  this 
+constituent  were  highly  variable. 
+
+Scalzo  et  al.  (1970)  studied  viscosities  of  5  commercial  egg  products. 
+They  showed  that  all  products,  including  yolk,  produced  a  linear  relationship 
+between  shear  stress  and  shear  rate  at  temperatures  ranging  from  5  to  60°C. 
+Viscosity  of  the  egg  products,  therefore,  was  concluded  to  be  independent  of 
+shear  rate. 
+
+Shear  rate  also  was  a  factor  studied  by  Chang  et  al.  (1970).  Viscosity 
+of  native  yolk  with  52.5%  solids  decreased  as  shear  rate  increased.  Decreases 
+in  viscosity  of  pasteurized  yolk  with  increased  shear  rate  also  were  noted. 
+Thin  albumen  added  at  levels  up  to  20%  decreased  viscosity  of  native  yolk, 
+and  increases  in  yolk  viscosity  due  to  heat  damage  were  reduced  with 
+increasing  levels  of  albumen. 
+
+
+28 
+Palmer  et  al.  (1970)  studied  the  effects  of  heat  treatment  after  thawing 
+on  gelation  in  frozen-defrosted  yolk.  Temperatures  of  45  to  55°C  applied  for 
+1  hour  reduced  viscosity  of  white-free  yolk  and  commercial  plain,  sugared, 
+and  salted  yolks  by  more  than  50%.  Temperatures  above  the  45  to  55°C 
+range  resulted  in  protein  coagulation  and  increased  yolk  viscosity. 
+
+Varadarajulu  and  Cunningham  (1972a,  b,  c)  found  that  yolk  viscosity 
+decreased  by  approximately  80%  with  the  addition  of  10%  albumen,  and  by 
+about  97%  when  25%  albumen  was  added.  Pasteurization  of  commercial  yolk 
+did  not  affect  viscosity  significantly,  but  pasteurization  at  63  to  65°C  for  4 
+minutes  of  laboratory  prepared  yolk  produced  an  increase  in  viscosity  that 
+was  curvilinear  with  increasing  temperature.  Yolk  dried  in  a  Buflovak  drier 
+was  significantly  less  viscous  than  that  dried  in  a  Rogers  drier.  Although  age 
+of  bird  significantly  affected  yolk  viscosity,  breed  had  no  effect. 
+
+Cunningham's  (1972)  study  of  the  viscosity  of  diluted  egg  yolk  showed 
+that  yolk  with  53%  solids  had  a  viscosity  of  1600  c.p.s.  while  yolk  with  43% 
+solids  had  a  viscosity  of  only  200  c.p.s.  Dilution  with  water  rather  than 
+albumen  produced  no  significant  differences  in  viscosity. 
+
+
+29 
+
+MATERIALS  AND  METHODS 
+
+The  infertile  eggs  used  for  the  fresh  liquid  and  frozen  yolk  studies  were 
+collected  from  caged  Leghorn  layers  housed  at  the  Kansas  State  University 
+Poultry  Farm.  Eggs  were  stored  in  a  commercial  size  walk-in  cooler  at  4°C  + 
+1°C  for  5  days  before  being  used.  Plain  dried  yolk  and  free-flow  dried  yolk 
+were  obtained  from  Milton  G.  Waldbaum  Co.  (Wakefield,  Nebraska).  Low 
+viscosity  dried  yolk  was  obtained  from  National  Egg  Products  Corp.  (Social 
+Circle,  Georgia).  All  dried  yolk  samples  were  stored  in  a  commercial  size 
+walk-in  freezer  at  -20°C  and  were  thawed  at  4°C  +_  1°C  in  a  commercial  size 
+walk-in  cooler  for  2*  hours  before  being  used. 
+
+Egg  yolk  preparation 
+
+Liquid  and  frozen  samples 
+
+Egg  components  were  separated  using  a  household  hand  separator.  The 
+yolk  was  gently  rolled  on  absorbant  paper  towel  to  remove  adhering  albumen 
+and  positioned  near  the  towel  edge.  The  vitelline  membrane  was  ruptured  and 
+the  yolk  liquid  collected  in  3500  ml  plastic  jugs.  Albumen  from  the  same  eggs 
+was  blended  in  a  Waring  blender  and  approximately  28*  (by  weight)  was 
+incorporated  into  the  yolk  using  a  Kitchen  Aid  mixer,  Model  K*5SS,  (Hobart 
+Corp.,  Troy,  Ohio)  with  a  wire  whip  attachment  set  at  speed  1  for  2  minutes. 
+Solids  content  of  the  yolk  was  determined  by  the  overnight  atmospheric  oven 
+method  (Gorman,  1977)  to  verify  that  the  solids  content  had  been  reduced  to 
+the  commercially  required  *3%. 
+
+Liquid  yolk  samples  The  diluted  yolk  was  divided  into  160  g  samples  and 
+treated  with  iodized   NaCl,  uniodized  NaCl,  or  KC1  (No  Salt,  Norcliff  Thayer, 
+
+
+30 
+Inc.,  Tuckahoe,  New  York).  Each  type  of  salt  was  added  at  the  5,  10,  and 
+15%  levels.  One  sample  containing  0%  salt  was  also  prepared.  A  Kitchen  Aid 
+mixer,  Model  K45SS,  with  wire  whip  attachment  was  used  to  incorporate  the 
+salt.  All  samples,  including  the  0%  salt,  were  mixed  at  speed  1  for  1  minute, 
+the  beater  was  stopped  and  the  bowl  scraped  down,  and  mixing  was  then 
+resumed  at  speed  1  for  an  additional  1.5  minutes.  The  finished  samples  were 
+stored  in  16  oz.  plastic  screw-top  sample  jars  (Nalgene)  at  4°C  for  not  more 
+than  24  hours.  Samples  were  allowed  to  sit  at  room  temperature  (27°C  +  1°C) 
+for  at  least  1  hour  before  testing. 
+
+Frozen  yolk  samples  Approximately  1000  ml  of  prepared  yolk  was 
+weighed  into  the  bowl  of  the  Kitchen  Aid  mixer.  Ten  %  iodized  NaCl  was 
+incorporated  into  the  yolk  by  mixing  with  the  wire  whip  at  speed  1  for  1 
+minute,  stopping  the  mixer,  scraping  the  bowl,  and  mixing  an  additional  1.5 
+minutes  at  speed  1.  Fifty  g  samples  of  the  salted  yolk  were  weighed  into  75 
+ml  screw-top  glass  sample  jars  and  the  jars  were  capped.  The  jars  were  then 
+placed  in  a  household  type  upright  freezer  at  -10°C  +_  2°C.  Four  jars  (200  ml 
+total)  were  stored  for  each  of  30,  60,  and  90  days.  Four  jars  were  placed  in 
+the  freezer  for  2*  hours  and  were  then  removed  and  tested.  Those  samples 
+were  labeled  0  days  frozen  storage.  Frozen  samples  were  placed  in  a  water 
+bath  at  37°C  +  1°C  for  30  minutes,  then  allowed  the  stand  at  room 
+temperature  (27°C  +  1°C)  for  20  minutes  before  testing. 
+
+Dried  yolk  samples 
+
+Rehydration  of  the  yolk  samples  was  accomplished  using  a  Kitchen  Aid 
+mixer,  Model  K45SS,  with  a  wire  whip  attachment.  One  hundred  and  fifty  g 
+of-  dried  yolk  and  190  g  of  distilled  water  were  weighed  into  the  bowl.    The 
+
+
+31 
+contents  were  then  mixed  at  speed  1  for  1  minute,  the  mixer  was  stopped 
+and  the  bowl  scraped,  and  mixing  was  resumed  at  speed  1  for  an  additional  1 
+minute.  The  weight  of  rehydrated  yolk  was  determined  and  10%  iodized  NaCl 
+was  then  incorporated  by  mixing  at  speed  1  for  1  minute,  stopping  the  mixer 
+and  scraping  the  bowl,  and  then  mixing  at  speed  1  for  additional  1.5  minutes. 
+The  rehydrated,  salted  yolk  samples  were  placed  in  1  qt.  Mason  jars  which 
+were  kept  capped  while  tests  were  being  conducted. 
+
+Emulsification  capacity 
+
+A  modification  of  the  procedure  described  by  Young  et  al.  (1983)  was 
+used  to  determine  emulsification  capacity.  Fifteen  g  of  salted  yolk  and  20  ml 
+of  5%  acetic  acid  were  mixed  in  an  Osterizer  blender  for  10  seconds  at 
+speed  12.  Twenty  ml  of  soybean  oil  (Wesson)  were  added  and  the  mixture 
+blended  for  20  seconds.  More  oil  was  then  added  dropwise  from  a  100  ml 
+graduated  burette  until  a  sudden  drop  in  viscosity  occurred,  indicating  a 
+"broken"  emulsion.  The  quotient  obtained  by  dividing  the  total  amount  of  oil 
+(the  oil  added  from  the  burette  plus  the  original  20  ml)  by  the  g  of  yolk  was 
+taken  as  the  emulsification  capacity. 
+
+Viscosity 
+
+Viscosity  of  the  salted  yolk  samples  was  determined  at  room 
+temperature  (27°C  +  1°C)  with  a  Brookfield  RVF  Model  Syncro-lectric 
+Viscometer.  Conditions  were  spindle  5  and  20  r.p.m.  for  all  liquid  yolk 
+samples  and  for  the  0  days  frozen  storage,  spindle  7  and  10  r.p.m.  for  the 
+30,  60,  and  90  frozen  storage,  and  spindle  7  and  4  r.p.m.  for  all  dried 
+samples.    Measurements  were  corrected  and  reported  as  centipoise. 
+
+
+32 
+
+
+Mayonnaise  preparation  and  testing 
+
+Mayonnaise  was  prepared  using  a  modification  of  the  formula  and 
+procedure  described  by  Miller  and  Winter  (1950).  The  mayonnaise  formula 
+consisted  of: 
+
+Salted  egg  yolk  16.0  g 
+
+Vinegar  (5%  acetic  acid)  30.0  ml 
+
+Sugar  3.0  g 
+
+Dry  mustard  (McCormick)  1.0  g 
+
+Soybean  oil  (Wesson)  237.0  ml 
+
+The  yolk,  sugar,  mustard,  and  10  ml  of  vinegar  were  mixed  for  0.5 
+minutes  in  a  Kitchen  Aid  mixer,  Model  K45SS,  set  at  speed  8.  Forty  ml  of  oil 
+were  then  added  from  a  100  ml  graduated  burette  over  a  6  minute  period, 
+followed  by  the  addition  of  10  ml  of  vinegar  in  0.5  minutes.  Mixing  was 
+continued  for  0.5  minutes  without  the  addition  of  ingredients.  The  beater 
+was  shut  off,  and  the  mixture  was  allowed  to  rest  for  1  minute.  After 
+scraping  down  the  bowl,  beating  was  resumed  at  speed  8,  and  the  remaining 
+197  ml  of  oil  were  added  from  a  500  ml  separatory  funnel  over  a  6  minute 
+period.  The  final  10  mi  of  vinegar  were  added  in  1  minute.  After  scraping 
+down  the  bowl,  the  emulsion  was  mixed  on  speed  1  for  0.5  minutes.  The 
+finished  mayonnaise  was  transferred  to  a  i  pint  Mason  jar  using  a  funnel, 
+and  the  jars  were  capped  and  allowed  to  stand  at  room  temperature  (27°C  + 
+1°C)  for  20  to  2*  hours  before  testing. 
+
+
+33 
+
+Apparent  mayonnaise  viscosity  was  determined  at  room  temperature 
+(27°C  +_  1°C)  by  a  Brookfield  RVF  Model  Syncro-lectric  Viscometer  (spindle 
+7,  4  r.p.m.).  Results  were  corrected  and  reported  in  centipoise.  Spread  of 
+mayonnaise  was  determined  by  the  line  spread  test  described  by  Grawemeyer 
+and  Pfund  (19*3)  and  Griswold  (1962).  In  this  test,  a  diagram  such  as  that 
+shown  in  Figure  2  was  placed  beneath  a  level  glass  plate.  Each  numbered 
+circle  was  separated  by  3.175  mm.  A  metal  cylinder  (22.225  mm  high)  with  an 
+inside  diameter  of  50.800  mm  was  placed  directly  over  the  smallest  circle, 
+filled  with  sample,  and  leveled  off  with  a  spatula.  The  cylinder  was  carefully 
+lifted  off  and  the  mayonnaise  was  allowed  to  spread  for  2  minutes.  After  the 
+spread  period,  readings  were  taken  at  k  widely  separated  points  representing 
+the  limits  reached  by  the  mayonnaise.  The  average  of  the  4  readings  was 
+taken  as  the  number  of  3.175  mm  units  the  mayonnaise  spread  at  room 
+temperature  in  2  minutes. 
+
+Stability  of  the  mayonnaise  was  determined  by  incubating  the  samples 
+at  *0°C  _+  1°C  until  the  emulsion  broke.  A  broken  emulsion  was  taken  as  the 
+point  at  which  oil  became  visible  at  the  top  of  the  emulsion,  giving  the 
+mayonnaise  a  "curdled"  appearance.  Stability  was  recorded  as  the  days  at 
+40°C  required  for  an  emulsion  to  break. 
+
+Standard  plate  counts  (standard  plate  count  agar)  were  performed 
+before  and  after  incubation  to  determine  if  a  significant  increase  in  bacteria 
+occurred.  Mold  and  yeast  counts  (potato  dextrose  agar)  were  also  performed 
+before  and  after  incubation  to  determine  if  a  significant  increase  in  mold  or 
+yeast  occurred. 
+
+Data  were  statistically  analyzed  by  analysis  of  variance  and  by 
+Duncan's  Multiple  Range  Test. 
+
+
+34 
+
+
+FIGURE  2.    Diagram  of  concentric  circles  used  beneath  a  glass 
+plate  to  measure  line  spread. 
+
+
+J5 
+
+
+36 
+
+RESULTS  AND  DISCUSSION 
+
+LIQUID  YOLK 
+
+Viscosity 
+
+The  effects  of  salt  type  and  level  on  viscosity  of  liquid  yolk  are 
+illustrated  in  Figure  3,  while  the  corresponding  treatment  means  are  shown 
+in  Table  3  (Appendix). 
+
+Salt  type  was  found  to  have  a  significant  (P>0.05)  effect  on  viscosity  of 
+liquid  yolk.  Table  4  (Appendix)  shows  the  viscosity  means  for  each  of  the  3 
+salts.  Uniodized  NaCl  caused  the  largest  increase  in  viscosity,  while  KC1 
+produced  the  least  increase.  Iodized  NaCl  caused  an  intermediate  increase  in 
+viscosity. 
+
+Salt  level  was  also  found  to  have  a  significant  (P>0.05)  effect  on 
+viscosity  of  liquid  yolk.  Table  5  (Appendix)  shows  the  viscosity  means  for 
+each  of  the  3  levels.  The  5%  level  produced  the  least  increase  in  viscosity, 
+the  10%  level  caused  an  intermediate  increase,  and  the  15%  level  produced 
+the  largest  viscosity  increase. 
+
+The  increase  in  the  viscosity  of  liquid  yolk  upon  the  addition  of  NaCl 
+has  also  been  reported  by  Jordan  and  Whitlock  (1955),  Scalzo  et  al.  (1970), 
+and  Johnson  (1970).  Jordan  and  Whitlock  (1955)  hypothesized  that  NaCl  added 
+to  yolk  tended  to  cause  the  lipovitellin  to  take  up  water  which  in  turn 
+increased  the  particle  size  with  a  consequent  increase  in  apparent  viscosity. 
+The  differences  in  viscosity  due  to  the  salts  used  in  this  study  might  be 
+explained  in  terms  of  the  effects  of  solutes  on  water.  Bone  (1973)  stated 
+that  "When  a  solute  is  added  to  water,  several  things  happen.  First,  the 
+concentration  of  water  is  reduced,  and  second,  the  interaction  of  the  solute 
+
+
+37 
+
+
+FIGURE  3.    Illustration  of  the  influence  of  salt  type  and  level 
+on  viscosity  of  liquid  yolk. 
+
+
+10 
+
+9 
+
+^■N 
+
+8 
+
+CO 
+
+Q_ 
+
+C3 
+
+7 
+
+N-^ 
+
+CM 
+
+ft 
+
+•"" 
+
+x 
+
+b< 
+
+>- 
+
+I— 
+
+CO 
+
+4 
+
+C3 
+
+C3 
+
+CO 
+
+3' 
+
+■  s  NaCI   (No  l2> 
+
+38 
+■ 
+
+•=NaCI  (l2> 
+
+• 
+• 
+• 
+• 
+• 
+
+*=KCI 
+
+4h 
+
+X=  07.  SALT 
+
+i 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+m 
+
+M 
+
+m 
+
+M 
+
+m 
+
+m 
+
+m 
+
+§ 
+
+m 
+
+m 
+
+m 
+
+m 
+
+a 
+
+m 
+
+• 
+• 
+• 
+• 
+
+.* 
+
+/ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+* 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+•  j 
+
+•  j 
+
+m 
+•                * 
+
+If       / 
+
+M 
+M 
+m 
+M 
+
+1 
+/              / 
+
+J             / 
+
+Jt           / 
+^^         / 
+/ 
+
+/ 
+
+t 
+
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+/ 
+
+* 
+
+«    ^ 
+
+5  10 
+
+SALT   (%) 
+
+
+s 
+
+
+39 
+with  the  water  may  break  or  increase  the  water  structure."  Ions  which  are 
+smail  and/or  multivalent,  such  as  Na  ,  tend  to  have  strong  electric  fields  and 
+are  considered  net  structure  formers  (Fennema,  1976).  Large  and  monovalent 
+ions,  including  K  ,  CI  ,  and  I  ,  tend  to  disrupt  the  normal  water  structure 
+and  are  termed  net  structure  breakers  (Fennema,  1976).  The  3  salts  tested  in 
+this  experiment  all  provided  CI"  ions.  The  differences  in  yolk  viscosity 
+increases  between  the  3  salts,  therefore,  could  be  due  to  the  Na+,  K+,  and  I" 
+ions.  The  addition  of  any  of  the  salts  would  theoretically  cause  dehydration 
+of  the  egg  proteins.  When  the  uniodized  NaCl  was  used,  the  strong  net 
+structure  forming  ability  of  the  Na+  ion  would  compensate  for  the  extra 
+water  split  off  by  dehydration  by  binding  with  that  water.  With  the  loss  of 
+the  water  to  the  Na  ,  the  dehydrated  proteins  would  be  able  to  associate, 
+and  the  large  protein  aggregate  thus  formed  would  then  cause  the  increased 
+viscosity.  The  difference  between  the  uniodized  and  iodized  NaCl  could 
+possibly  be  attributed  to  the  I"  ion.  The  iodized  NaCl  would  provide  2 
+structure  breaking  ions  (Cl"  and  I"),  which  would  result  in  less  of  the  extra 
+water  being  bound.  Although  the  dehydrated  proteins  would  still  aggregate, 
+the  increased  amount  of  unstructured  water  would  result  in  less  of  a 
+viscosity  increase.  Since  both  ions  from  the  KC1  tend  to  be  structure 
+breakers,  the  extra  water  from  the  dehydrated  proteins  would  be  even  less 
+structured  than  with  either  of  the  NaCl  salts,  resulting  in  the  lower  viscosity 
+increase. 
+
+A  noticeable  change  in  yolk  color  occurred  upon  addition  of  any  of  the 
+3  salts.  Yolk  containing  either  iodized  or  uniodized  NaCl  became  dark 
+yellow,  while  yolk  containing  KC1  became  a  deep  yellow-orange  color.  This 
+change  in  yolk  color  produced  no  noticeable  difference  in  mayonnaise  color. 
+
+
+w 
+
+Jordan  and  Whitlock   (1955)  and   Jaax   and  Travnicek   (1968)  also  reported  a 
+darkening  in  yolk  color  upon  addition  of  NaCl. 
+
+Emulsification  capacity 
+
+The  effects  of  salt  type  and  level  on  liquid  yolk  emulsification  capacity 
+are  illustrated  in  Figure  4,  while  the  corresponding  treatment  means  are 
+shown  in  Table  6  (Appendix). 
+
+The  emulsification  capacity  of  the  0%  salt  sample  was  11.25.  This  is 
+comparable  to  the  value  of  11.10  +  0.39  reported  by  Young  et  al.  (1983).  The 
+addition  of  any  of  the  3  salts  at  even  the  5%  level  was  found  to  dramatically 
+reduce  the  emulsification  capacity  of  the  liquid  yolk. 
+
+Table  7  (Appendix)  shows  the  treatment  means  for  the  effect  of  salt 
+type  on  emulsification  capacity  of  liquid  yolk.  No  significant  (P>0.05) 
+differences  in  emulsification  capacity  between  yolk  treated  with  iodized 
+NaCl  and  that  treated  with  KC1  were  found  at*  any  of  the  3  levels  of  salt 
+addition.  Uniodized  NaCl  caused  a  significant  (P>0.05)  decrease  in 
+emulsification  capacity  with  a  mean  of  6.53. 
+
+Table  8  (Appendix)  shows  the  treatment  means  for  the  effect  of  salt 
+level  on  emulsification  capacity  of  liquid  yolk.  Salt  level  was  found  to  have 
+a  significant  (P>0.05)  effect  on  emulsification  capacity.  The  5%  level  caused 
+the  least  reduction  in  emulsification  capacity,  followed  by  the  10%  level. 
+The  15%  level  caused  the  greatest  reduction  in  emulsificaton  capacity. 
+
+The  emulsifying  properties  of  egg  yolk  are  due  to  the  presence  of 
+protein  and  lipoprotein  complexes  (Sell  et  al.,  1935).  As  suggested  earlier, 
+the  addition  of  NaCl  or  KC1  probably  caused  a  dehydration  of  those 
+complexes,  which  in  turn  could  influence  their  emulsifying  properties.     This 
+
+
+»1 
+
+
+FIGURE  4.    Illustration  of  the  influence  of  salt  type  and  level 
+on  emulsification  capacity  of  liquid  yolk. 
+
+
+42 
+
+
+11 
+
+llOi 
+
+£ 
+
+"5- 
+
+l4' 
+eg 
+
+S  2i 
+
+
+X  =  0  7.  SALT 
+■  =  NaCI  (No  l2) 
+
+•  =  NaCI  (l2) 
+
+*  =  KCI 
+
+
+T 
+
+
+■  r 
+
+10  15 
+
+SALT    C/.) 
+
+
+»3 
+
+might  account  for  the  decrease  in  emulsification  capacity  of  the  liquid   yolk 
+upon  the  addition  of  the  3  salts. 
+
+Mayonnaise  tests 
+
+The  effects  of  salt  type  and  level  on  apparent  mayonnaise  viscosity  are 
+illustrated  in  Figure  5,  while  the  corresponding  treatment  means  are  shown 
+in  Table  9  (Appendix).  The  effects  of  salt  type  and  level  on  mayonnaise 
+spread  are  illustrated  in  Figure  6,  with  the  corresponding  treatment  means 
+being  shown  in  Table  10  (Appendix). 
+
+Analysis  of  the  Brookfield  viscometer  data  indicated  that  salt  type  had 
+a  significant  (P>0.05)  effect  on  apparent  mayonnaise  viscosity  (Table  11, 
+Appendix).  Mayonnaise  made  with  KC1  had  the  lowest  apparent  viscosity  at 
+each  of  the  3  levels,  followed  by  mayonnaise  made  with  uniodized  NaCl. 
+Mayonnaise  made  with  iodized  NaCl  had  the  highest  apparent  viscosity  at 
+each  of  the  3  levels. 
+
+Analysis  of  variance  of  the  line  spread  data  indicated  that  there  was  no 
+significant  (P>0.05)  difference  in  spread  between  mayonnaise  made  with 
+uniodized  NaCl  and  that  made  with  KC1  (Table  12,  Appendix).  Further 
+analysis  by  Duncan's  Multiple  Range  Test  (Table  10,  Appendix)  showed  that 
+this  was  true  only  at  the  5  and  15%  levels.  At  the  10%  level,  Duncan's 
+Multiple  Range  Test  indicated  that  there  was  no  significant  (P>0.05) 
+difference  in  spread  between  mayonnaise  made  with  KCL  and  that  made  with 
+iodized  NaCl. 
+
+Salt  level  had  a  significant  (P>0.05)  effect  on  both  apparent  viscosity 
+and  spread  of  mayonnaise  (Tables  13  and  14,  Appendix).  Overall,  mayonnaise 
+with    10%   salt    had    the    highest    mean    Brookfield    viscosity    value,    and    the 
+
+
+** 
+
+
+FIGURE  5.    Illustration  of  the  influence  of  salt  type  and  level 
+on  apparent  mayonnaise  viscosity. 
+
+
+45 
+
+
+50i 
+45i 
+
+
+^40i 
+
+DO 
+
+"35i 
+
+CO 
+
+
+30. 
+25i 
+
+
+CO 
+
+S20« 
+00 
+
+
+15« 
+Id 
+5i 
+
+
+„-*-' 
+
+
+X  =  0%  SALT 
+■  =  NaCI    (No  l2) 
+•=NaC!  (I2) 
+*=KCI 
+
+
+,-'* 
+^*~ 
+
+
+T 
+
+
+T 
+
+
+10 
+
+SALT    <*) 
+
+
+T 
+
+15 
+
+
+*6 
+
+
+FIGURE  6.    Illustration  of  the  influence  of  salt  type  and  level 
+on  mayonnaise  spread. 
+
+
+47 
+
+
+10- 
+
+&8i 
+=  7i 
+
+|6' 
+
+C051 
+
+UJ 
+
+2i 
+
+1. 
+
+
+X=0/.  SALT 
+
+■  =  NaCI  (No  l2) 
+
+•=NaCI  (l2) 
+*=KCI 
+
+
+l 1 r 
+
+5  10  15 
+
+SALT  (/.) 
+
+
+48 
+lowest  mean  spread;  mayonnaise  with  15%  salt  had  an  intermediate  mean 
+Brookfield  viscosity  value  as  well  as  an  intermediate  mean  spread,  and 
+mayonnaise  with  5*  salt  had  the  lowest  mean  Brookfield  viscosity  value  and 
+the  highest  mean  spread.  A  general  trend  was  observed  with  mayonnaise 
+made  with  either  KC1  or  uniodized  NaCl.  As  the  level  of  either  of  those 
+salts  was  increased  from  5  to  15%,  apparent  viscosity  of  the  mayonnaise 
+increased.  Iodized  NaCl  did  not  follow  this  trend  however;  the  large  increase 
+in  apparent  viscosity  which  occurred  in  mayonnaise  made  with  10%  iodized 
+NaCl  was  followed  by  a  decrease  in  apparent  viscosity  for  mayonnaise  made 
+with  15%  iodized  NaCl.    The  reason  for  this  increase/decrease  is  not  known. 
+
+The  effects  of  salt  type  and  level  on  mayonnaise  stability  are 
+illustrated  in  Figure  7,  while  the  corresponding  treatment  means  are  shown 
+in  Table  15  (Appendix). 
+
+Both  salt  type  and  salt  level  were  found  to  effect  mayonnaise  stability 
+(Tables  16  and  17,  Appendix).  Overall,  uniodized  NaCl  produced  mayonnaise 
+with  the  highest  mean  stability,  followed  by  iodized  NaCl.  KC1  produced 
+mayonnaise  with  the  lowest  mean  stability.  Mayonnaise  containing  15%  salt 
+had  the  highest  mean  stability  at  13.*  days,  followed  by  10%  salt  at  7.9 
+days,  and  5%  salt  at  4.6  days. 
+
+When  the  3  salts  were  compared  at  each  of  the  3  levels,  no  significant 
+(P>0.05)  difference  in  stability  was  found  at  the  5%  level  for  any  of  the 
+salts.  There  was  no  significant  (P>0.05)  difference  in  stability  between 
+mayonnaise  made  with  10%  uniodized  NaCl  and  that  made  with  10%  iodized 
+NaCl,  but  mayonnaise  made  with  10%  KC1  had  a  significantly  (P>0.05)  lower 
+stability.  At  the  15%  level,  though,  there  was  no  significant  (P>0.05) 
+difference   in  stability   of  mayonnaise    made   with    KC1   or    iodized    NaCl,  but 
+
+
+1*9 
+
+
+FIGURE  7.    Illustration  of  the  influence  of  salt  type  and  level 
+on  mayonnaise  stability. 
+
+
+GO 
+
+
+15i 
+
+14i 
+
+13- 
+
+12. 
+
+11i 
+
+10- 
+
+9- 
+
+8- 
+
+7i 
+
+6. 
+
+5- 
+
+4- 
+
+3-X 
+2- 
+
+
+50 
+
+
+/         t 
+
+
+X  =  0/.  SALT 
+■  =  NaCI    (No  l2> 
+•  =  NaCI  (l2) 
+•=KCI 
+
+
+■  r         r 
+
+5  10  15 
+
+SALT    (X.) 
+
+
+51 
+mayonnaise  made  with  15*  uniodized  NaCl  had  a  significantly  (P>0.05)  higher 
+stability. 
+
+Krantz  and  Gordon  (1928)  found  that  NaCl  stabilized  some  emulsions.  In 
+work  conducted  with  emulsions  stabilized  by  casein,  Seifriz  (1935)  found  that 
+NaCl  tended  to  stabilize  oil-in-water  emulsions,  but  had  no  influence  on 
+water-in-oil  emulsions.  Lowe  (1955)  suggested  that  the  effect  of  NaCl  on 
+emulsion  stability  would  probably  depend  on  both  the  emulsifier  and  the 
+concentration  of  the  NaCl.  Data  from  this  study  showed  that  addition  of  any 
+of  the  salts  at  even  the  5%  level  resulted  in  a  significant  (P>0.05)  increase 
+in  stability  over  mayonnaise  made  with  0*  salt.  Lowe  (1955)  also  found  that 
+salt  (NaCl)  increased  mayonnaise  stability. 
+
+FROZEN  YOLK 
+
+Viscosity 
+
+The  effect  of  frozen  storage  time  on  salted  yolk  apparent  viscosity  is 
+illustrated  in  Figure  8,  while  the  corresponding  treatment  means  are  shown 
+in  Table  18  (Appendix). 
+
+Storage  of  salted  yolk  at  -10°C  for  even  24  hours  (0  days)  was  found  to 
+result  in  a  considerable  increase  in  apparent  viscosity  over  fresh  salted  yolk. 
+Apparent  viscosity  of  salted  yolk  stored  30  days  was  approximately  three 
+times  greater  than  that  stored  24  hours.  There  was  no  significant  (P>0.05) 
+difference,  though,  between  yolk  stored  30  and  60  days.  Yolk  stored  at 
+-10°C  for  90  days  had  a  significantly  (P>0.05)  higher  apparent  viscosity  than 
+any  other  treatment.  Palmer  et  al.  (1969a)  also  reported  increases  in 
+viscosity  of  10*  salted  yolk  stored  at  -10°F  over  a  period  of  4  months. 
+Powrie   et  al.  (1963)  suggested  that  viscosity  changes  in  thawed  yolk   under 
+
+
+52 
+
+
+FIGURE  8.    Illustration  of  the  influence  of  frozen  storage  time 
+on  apparent  viscosity  of  salted  yolk. 
+
+
+16- 
+
+14- 
+
+£12- 
+
+SlO- 
+
+%  8— 
+
+»— 
+55  2- 
+
+|1= 
+
+Mz 
+
+.6- 
+
+
+53 
+
+
+X=  LIQUID  YOLK 
+
+
+30  60 
+
+DAYS    FROZEN    STORAGE 
+
+
+T 
+90 
+
+
+54 
+conditions   of   constant    thawing    rate    were    the    result    of    protein    structural 
+alterations    occurring    in    the    frozen    state    of    yolk.      Davey    et    al.    (1969) 
+suggested    that    increased    apparent   viscosity    of   the    lipovitellenin    fraction 
+after  freezing  was  the  basis  for  increased  viscosity  of  frozen  native  yolk. 
+
+Emulsification  capacity 
+
+The  effect  of  frozen  storage  time  on  emulsification  capacity  of  salted 
+yolk  is  illustrated  in  Figure  9,  with  the  corresponding  treatment  means  being 
+shown  in  Table  19  (Appendix). 
+
+Storage  of  salted  yolk  at  -10°C  for  2*  hours  (0  days)  resulted  in  a 
+reduction  in  emulsification  capacity  to  6.39  from  6.85  for  fresh  liquid  yolk 
+with  10%  iodized  NaCl.  Storage  at  -10°C  for  60  days  reduced  the 
+emulsification  capacity  to  6.10,  which  was  not  significantly  (P>0.05) 
+different  from  the  emulsification  capacity  of  6.06  for  yolk  stored  90  days. 
+Thirty  days  of  frozen  storage  resulted  in  yolk  with  the  lowest  emulsification 
+capacity  at  5.92,  but  this  was  not  significantly  (P>0.05)  different  from  yolk 
+stored  90  days.  Freezing  of  biological  materials  such  as  egg  yolk  results  in 
+pure  water  being  removed  to  form  ice  crystals  (Meryman,  1956).  This  causes 
+dehydration  of  the  proteins,  and  an  increase  in  the  concentration  of  salts 
+(Powrie  et  al.,  1963).  Powrie  et  al.  (1963)  further  suggested  that  the 
+consequent  changes  in  water  structure  due  to  dehydration  and  salt 
+concentration  increase  could  allow  for  rearrangement  and  aggregation  of  the 
+yolk  lipoproteins.  This  rearrangement  and  aggregation  could  influence  the 
+emulsification  capacity  of  the  yolk.  The  reason  why  emulsification  capacity 
+decreased  during  the    first    30    days  of  frozen  storage,    increased  during    the 
+
+
+55 
+
+
+FIGURE  9.    Illustration  of  the  influence  of  frozen  storage  time 
+on  emulsification  capacity  of  salted  yolk. 
+
+
+56 
+
+
+X=LIQUID  YOLK 
+
+
+^81 
+
+
+7i 
+
+
+s» 
+
+
+S5i 
+
+I4' 
+
+o 
+
+
+0     30     60     90 
+DAYS  FROZEN  STORAGE 
+
+
+57 
+second  30  days,  and  then  decreased  slightly  during  the  last  30  days  of  frozen 
+storage,  though,  is  unclear. 
+
+Mayonnaise  tests 
+
+The  effect  of  frozen  storage  time  on  apparent  mayonnaise  viscosity  is 
+illustrated  in  Figure  10,  while  the  corresponding  treatment  means  are  shown 
+in  Table  20  (Appendix).  The  effect  of  frozen  storage  time  on  mayonnaise 
+spread  is  illustrated  in  Figure  11,  with  the  corresponding  treatment  means 
+being  shown  in  Table  21  (Appendix). 
+
+Mayonnaise  made  from  yolk  stored  at  -10°C  for  60  days  had  a 
+significantly  (P>0.05)  higher  apparent  viscosity  than  that  made  from  any 
+other  frozen  yolk  sample.  No  significant  (P>0.05)  difference  in  apparent 
+viscosity  was  found  between  mayonnaise  made  from  yolk  stored  0,  30,  or  90 
+days.  Line  spread  data  showed  that  yolk  stored  60  days  produced  mayonnaise 
+with  a  significantly  (P>0.05)  lower  spread  than  any  other  sample.  No 
+significant  (P>0.05)  difference  in  spread  was  found  between  mayonnaise  made 
+from  yolk  stored  0,  30,  or  90  days.  Both  apparent  viscosity  and  spread  of 
+mayonnaise  made  from  60  day  frozen  yolk  were  comparable  to  the  apparent 
+viscosity  and  spread  of  mayonnaise  made  from  fresh  liquid  yolk  containing 
+10%  iodized  NaCl. 
+
+The  effect  of  frozen  storage  time  on  stability  of  mayonnaise  is 
+illustrated  in  Figure  12,  while  the  corresponding  treatment  means  are  shown 
+in  Table  22  (Appendix). 
+
+Storage  of  yolk  at  -10°C  for  2*  hours  resulted  in  a  mean  stability  of  22 
+days.  This  is  a  dramatic  increase  over  the  8.3  days  determined  for  fresh 
+liquid  salted  yolk.     Subsequent  storage   of  yolk  at  -10°C  for  30,  60,  and  90 
+
+
+58 
+
+
+FIGURE  10.    Illustration  of  the  influence  of  frozen  storage  time 
+on  apparent  mayonnaise  viscosity. 
+
+
+59 
+
+
+X= LIQUID  YOLK 
+
+£60- 
+cT50- 
+
+X 
+
+x40- 
+
+£30- 
+
+co 
+
+S20- 
+
+10- 
+
+1 
+
+0     30     60 
+DAYS  FROZEN  STORAGE 
+
+
+90 
+
+
+60 
+
+
+FIGURE  11.    Illustration  of  the  influence  of  frozen  storage  time 
+on  mayonnaise  spread. 
+
+
+61 
+
+
+~6. 
+
+CO 
+
+
+X=  LIQUID  YOLK 
+
+
+in 
+
+W 
+
+S2H 
+
+
+CO 
+
+
+1l 
+
+
+0     30     60 
+DAYS  FROZEN  STORAGE 
+
+
+T 
+
+90 
+
+
+62 
+
+
+FIGURE  12.    Illustration  of  the  influence  of  frozen  storage  time 
+on  mayonnaise  stability. 
+
+
+63 
+
+
+CO 
+
+
+24« 
+21- 
+,18- 
+"  15—1 
+:12. 
+
+94 
+
+6. 
+
+
+X=  LIQUID  YOLK 
+
+
+I 
+
+0  30  60 
+
+DAYS    FROZEN   STORAGE 
+
+
+90 
+
+
+64 
+days    produced   mayonnaise    with    mean    stabilities    of    21,    20,    and    21    days 
+respectively. 
+
+YOLK  SOLIDS 
+
+Viscosity 
+
+Apparent  viscosity  of  the  3  types  of  yolk  solids  is  illustrated  in  Figure 
+13,  with  the  corresponding  treatment  means  being  shown  in  Table  23 
+(Appendix). 
+
+All  3  types  of  yolk  solids  were  found  to  have  a  dramatically  higher 
+apparent  viscosity  than  either  liquid  or  frozen  yolk.  There  was  a  significant 
+(P>0.05)  difference  in  apparent  viscosity  between  all  3  types  of  yolk  solids; 
+free  flow  yolk  solids  had  the  highest  apparent  viscosity  at  627,200  c.p.s., 
+followed  by  plain  yolk  solids  at  501,200  c.p.s.  Low  viscosity  yolk  solids  had 
+the  lowest  apparent  viscosity  at  172,400  c.p.s.  Varadarajulu  and  Cunningham 
+(1972)  also  found  that  spray  dried  yolk  had  a  greater  apparent  viscosity  than 
+fresh  yolk. 
+
+Em  unification  capacity 
+
+Emulsification  capacity  for  the  3  types  of  yolk  solids  is  illustrated  in 
+Figure  1*,  while  the  corresponding  treatment  means  are  shown  in  Table  24 
+(Appendix). 
+
+All  3  types  of  yolk  solids  had  a  considerably  lower  emulsification 
+capacity  than  fresh  yolk  containing  10*  iodized  NaCl.  No  significant  (P>0.05) 
+difference  was  found  in  emulsification  capacity  between  plain  yolk  solids  and 
+free  flow  yolk  solids.  Low  viscosity  yolk  solids  had  a  significantly  (P>0.05) 
+lower   emulsification   capacity    at   6.02.     These    results    agree   with    those   of 
+
+
+65 
+
+
+FIGURE  13.    Illustration  of  the  apparent  viscosity  of  the  3  types 
+
+of  yolk  solids. 
+
+X  =  liquid  yolk,  P  =  plain  yolk  solids, 
+
+F  =  free  flow  yolk  solids,  L  =  low  viscosity  yolk  solids. 
+
+
+66 
+
+
+i     r 
+
+SOLIDS   TYPE 
+
+
+L 
+
+
+67 
+
+
+FIGURE  14.    Illustration  of  the  emulsification  capacity  of  the 
+3  types  of  yolk  solids. 
+
+
+68 
+
+
+SB 
+
+
+9 
+
+8 
+
+57 
+
+CJ 
+
+§4- 
+
+CO 
+
+=  2. 
+
+CO 
+
+—J 
+
+1 1- 
+
+
+X=  LIQUID  YOLK 
+
+P  =  PLAIN  YOLK  SOLIDS 
+
+F  =  FREE  FLOW  YOLK  SOLIDS 
+
+L=L0W  VISCOSITY  YOLK   SOLIDS 
+
+
+T 
+
+P  F 
+
+SOLIDS  TYPE 
+
+
+69 
+Rolfes  et  al.  (1955),  who  found  that  lyophilization  impaired  yolk  emulsifying 
+properties,  and  Zabik  (1969)  and  Varadarajulu  and  Cunningham  (1972),  who 
+found  that  spray  drying  altered  the  emulsifying  properties  of  the  yolk. 
+Schultz  et  al.  (1966)  reported  that  a  rapid  increase  in  extractability  of  "free 
+lipids"  during  drying  was  extremely  detrimental  to  the  emulsifying  function 
+of  the  yolk. 
+
+Mayonnaise  tests 
+
+Apparent  viscosity  of  mayonnaise  made  from  each  of  the  3  types  of 
+yolk  solids  is  illustrated  in  Figure  15,  with  the  corresponding  treatment 
+means  being  shown  in  Table  25  (Appendix).  Spread  of  mayonnaise  made  from 
+each  of  the  3  types  of  yolk  solids  is  illustrated  in  Figure  16,  while  the 
+corresponding  treatment  means  are  shown  in  Table  26  (Appendix).  Apparent 
+viscosity  was  significantly  (P>0.05)  different  for  mayonnaise  made  from  each 
+yolk  sample;  mayonnaise  made  from  low  viscosity  solids  had  the  highest 
+apparent  viscosity  at  38,250  c.p.s.,  followed  by  plain  yolk  solids  mayonnaise 
+at  29,500  c.p.s.,  and  free  flow  yolk  solids  mayonnaise  at  23,000  c.p.s.  No 
+significant  (P>0.05)  difference  in  spread  was  found  between  mayonnaise  made 
+from  any  of  the  yolk  solids  samples. 
+
+Observation  during  the  initial  stage  of  mayonnaise  formation  indicated 
+that  yolk  solids  did  not  foam  as  much  as  either  liquid  or  frozen  yolk.  These 
+observations  agree  with  the  results  of  Schultz  et  al.  (1966),  who  reported 
+that  egg  yolk  which  is  dried  and  subsequently  rehydrated  loses  it's  foaming 
+ability.  Mayonnaise  made  from  yolk  solids  was  also  darker  yellow  in  color 
+and  had  less  volume  than  that  made  from  either  liquid  or  frozen  yolk. 
+
+
+70 
+
+
+FIGURE  15.    Illustration  of  the  apparent  viscosity  of  mayonnaise 
+made  from  the  3  types  of  yolk  solids. 
+
+
+71 
+
+
+^50 
+eo 
+
+eo 
+
+«40- 
+
+
+|35. 
+
+5230- 
+
+
+25. 
+
+
+20- 
+
+
+X= LIQUID  YOLK 
+
+P  =  PLAIN  YOLK  SOLIDS 
+
+F  =  FREE  FLOW  YOLK  SOLIDS 
+
+Lb  LOW  VISCOSITY  YOLK  SOLIDS 
+
+
+T 
+
+
+■  ■ 
+
+P  F 
+
+SOLIDS  TYPE 
+
+
+72 
+
+
+FIGURE  16.    Illustration  of  the  spread  of  mayonnaise  made  from  the 
+3  types  of  yolk  solids. 
+
+
+73 
+
+
+1^ 
+
+X= LIQUID  YOLK 
+
+t=6- 
+
+P  = PLAIN  YOLK  SOLIDS 
+F=FREE  FLOW  YOLK  SOLIDS 
+
+= 
+
+L  =  L0W  VISCOSITY  YOLK  SOLIDS 
+
+2=5- 
+
+s 
+
+^4" 
+
+X                                           ^ 
+
+CO 
+
+UJ 
+
+£2- 
+
+CO 
+
+1" 
+
+r 
+
+i 
+
+r 
+
+P  F 
+
+SOLIDS    TYPE 
+
+
+74 
+Stability  values  for  mayonnaise  made  from  the  3  types  of  yolk  solids  are 
+illustrated  in  Figure  17,  while  the  corresponding  treatment  means  are  shown 
+in  Table  27  (Appendix). 
+
+Mayonnaise  made  from  free  flow  yolk  solids  had  the  highest  stability  at 
+12  days.  Mayonnaise  made  from  plain  yolk  solids  and  from  low  viscosity  yolk 
+solids  had  stabilities  of  10  days.  These  values  are  approximately  intermediate 
+between  stability  values  determined  for  mayonnaise  made  from  frozen  yolk 
+(highest  overall  stability)  and  liquid  yolk  (lowest  overall  stability). 
+
+MAYONNAISE  MICROBIOLOGY 
+
+Microbial  counts  before  and  after  incubation  for  all  mayonnaise  samples 
+are  shown  in  Table  28. 
+
+Standard  plate  counts  before  and  after  incubation  of  mayonnaise  made 
+from  either  the  liquid  or  frozen  samples  resulted  in  a  general  trend  -  except 
+for  the  15%  iodized  NaCl,  the  number  of  colony  forming  units  was  less  after 
+incubation  than  before.  This  is  probably  attributable  to  the  combination  of 
+heat,  acid,  and  salt  present  during  incubation.  Standard  plate  counts  on 
+mayonnaise  made  from  yolk  solids  showed  an  increase  in  the  number  of 
+colony  forming  units  after  incubation.  Differences  in  mold  and  yeast  counts 
+before  and  after  incubation  were  relatively  slight  for  all  mayonnaise  samples. 
+
+
+75 
+
+
+FIGURE  17.    Illustration  of  the  stability  of  mayonnaise  made  from  the 
+3  types  of  yolk  solids. 
+
+
+76 
+
+
+35. 
+30- 
+
+£20- 
+
+
+CO 
+
+
+15- 
+10- 
+
+5- 
+
+
+X  =  LIQUID  YOLK 
+
+0= FROZEN  YOLK 
+
+P  =  PLAIN  YOLK  SOLIDS 
+
+F  =  FREE  FLOW  YOLK  SOLIDS 
+
+L  =  LOW  VISCOSITY  YOLK  SOLIDS 
+
+
+P  F 
+
+SOLIDS  TYPE 
+
+
+77 
+REFERENCES 
+
+Anonymous.    1983.  Grinsted  Emulsifiers  for  Food.  Grinsted  Products,  Inc.,  201 
+
+Industrial  Parkway,  Industrial  Airport,  Kansas  City,  Kansas    66031. 
+Baldwin,   R.    E.     1977.    Functional    properties   in    foods.    In    Egg   Science   and 
+
+Technology.     W.  3.  Stadelman  and  O.  3.  Cotterill  (eds).  AVI  Publishing 
+
+Company,  Inc.    Westport,  Conn. 
+Becher,   P.     1957.   Emulsions:    Theory   and   Practice.    Van    Nostrand    Reinhold 
+
+Publishing  Company.    New  York,  New  York. 
+Bennett,  H.    1947.  Practical  Emulsions.  2nd  ed.  Chemical  Publishing  Company, 
+
+Inc.    Brooklyn,  New  York. 
+Berger,   K.  G.     1976.   Ice   cream.   In   Food  Emulsions.  S.   Friberg  (ed.)   Marcel 
+
+Dekker,  Inc.    New  York,  New  York. 
+Bone,   D.     1973.  Water  activity  in  intermediate   moisture   foods.  Food   Tech. 
+
+27:71-76. 
+Brown,    L.    C.      19*9.     Emulsion    food    products.    3.    Am.    Oil     Chem.    Soc. 
+
+10:632-636. 
+Carlin,  A.  F.     1955.  Relation  of  acid  to  the  emulsifying  action  of  dried  yolk 
+
+in  the  preparation  of  mayonnaise.    Poultry  Sci.  34:1186-1187  (abs). 
+Chang,  P.  K.,  W.  D.  Powrie,  and  O.  Fennema.   1970.  Effect  of  heat  treatment 
+
+on  viscosity  of  yolk.    3.  Food  Sci.  35:864-867. 
+Chapin,  R.    1951.  Some  factors  affecting  emulsifying  properties  of  hens'  egg. 
+
+Ph.D  Thesis.    Iowa  State  College.  Ames,  Iowa. 
+Clayton,  W.     1928.  The  Theory  of  Emulsions  and  Their  Technical  Treatment. 
+
+2nd  ed.    P.  Blakiston's  Son  and  Company.  Philadelphia,  Penn. 
+Clayton,   W.,   and  3.   T.  Morse.     1939.  Direct   observation   of  emulsification. 
+
+Chem.  and  Ind.    17:304-305. 
+
+
+78 
+Corran,    3.    W.      19*3.    Some    observations    on    a    typical    food    emulsion.    In 
+
+Emulsion     Technology:       Theoretical     and     Applied.     H.     Bennett     (ed). 
+
+Chemical  Publishing  Company,  Inc.    New  York,  New  York. 
+Corran,  3.  W.,  and  C.  N.  Lewis.     192*.  Lecithin  and  cholesterol  in  relation  to 
+
+the  physical  nature  of  cell  membranes.    Biochem.  3.  18:1364-1370. 
+Cotterill,  O.  3.,   3.  Glauert,  and  H.  3.   Bassett.     1976.  Emulsifying  properties 
+
+of  salted  yolk  after  pasteurization  and  storage.   Poultry  Sci.  55:544-548. 
+Cunningham,  F.  E.    1972.  Viscosity  and  functional  ability  of  diluted  egg  yolk. 
+
+3.  Milk  Food  Tech.    35:615-617. 
+Cunningham,  F.  E.     1975.  Influence  of  added   lecithin  on  properties  of  hens' 
+
+egg  yolk.    Poultry  Sci.  54:1307-1308. 
+Davey,  E.  M.,   M.  E.  Zabik,  and  L.  E.  Dawson.     1969.  Fresh  and  frozen  egg 
+
+yolk    protein     fractions:      Emulsion    stabilizing     power,    viscosity,    and 
+
+electrophoretic  patterns.    Poultry  Sci.  48:251-260. 
+Epstein,  A.  K.    1937.  Commercial  mayonnaise.  In  Mayonnaise  and  Other  Salad 
+
+Dressings.    The  Emulsol  Corporation.  Chicago,  111. 
+Fennema,  O.  1976.  Water  and  ice.  In  Principles  of  Food  Science.  Part  I.  Food 
+
+Chemistry.    O.  Fennema  (ed).  Marcel  Dekker,  Inc.  New  York,  New  York. 
+Finberg,  A.  3.     1955.  Advanced   techniques  for  making  mayonnaise  and  salad 
+
+dressing.    Food  Eng.  27:83-91. 
+Gorman,   3.    M.      1973.    Quality   control   and   product    specifications.    In    Egg 
+
+Science  and  Technology.    W.  3.  Stadelman  and  O.  3.  Cotterill  (eds).  AVI 
+
+Publishing  Company,  Inc.    Westport,  Conn. 
+Graf,  E.,  and   H.  Bauer.    1976.  Milk  and  milk  products.  In  Food  Emulsions.  S. 
+
+Friberg  (ed).     Marcel  Dekker,  Inc.  New  York,  New  York. 
+Grawemeyer,  E.  A.,  and   M.  C.  Pfund.     1943.  Line-spread  as  an  objective  test 
+
+for  consistency.    Food  Res.  8:105-108. 
+
+
+79 
+Gray,  D.   M.,   and   C.   A.   Southwick,   Jr.     1929.    Scientific    research   affords 
+
+means  of  measuring  stability  of  mayonnaise.    Food  Inds.  4:300-304. 
+Griswold,    R.    M.      1962.    Evaluating    food    by    objective    methods.    In    The 
+
+Experimental  Study  of  Foods.     Houghton  Mifflin  Company.  Boston,  Penn. 
+Hall,  I.  S.,  and  E.  H.  Dawson.     1940.  Effect  of  air  film  in  emulsification.  Ind. 
+
+Eng.  Chem.    32:415-420. 
+Jaax,   S.,   and    D.   Travnicek.     1968.   The   effect   of    pasteurization,   selected 
+
+additives,   and   freezing   rate    on    the   gelation   of   frozen-defrosted   egg 
+
+yolk.    Poultry  Sci.  47:1013-1022. 
+Johnson,    P.    I.      1970.    Functional    performance    and    selected    chemical    and 
+
+physical  properties  of  frozen  egg  yolk  containing  various  additives.  M.S. 
+
+Thesis.    Kansas  State  University.  Manhattan,  Kansas. 
+Jordan,  R.,   and   E.    S.  Whitlock.     1955.    A  note  on  the  effect  of  salt  (NaCl) 
+
+upon    the    apparent   viscosity   of  egg   yolk,    egg   white,    and    whole   egg 
+
+magma.    Poultry  Sci.  34:566-571. 
+Jordan,  R.,  G.  E.  Vail,   J.   C.   Rogler,   and    W.  J.  Stadelman.     1962.   Further 
+
+studies  on  eggs  from  hens  on  diets  differing  in  fat  content.     Food  Tech. 
+
+6:118-120. 
+Kilgore,  L.  B.    1932.  The  mustard  and  the  mayonnaise.  Flavor  ingredient  has 
+
+important  effect  on  stability  of  the  emulsion.    Glass  Packer.  10:621-623. 
+Kilgore,     L.    B.       1933a.     The     mustard     and     the     mayonnaise.     Effects    on 
+
+permanency,  stability,  and  consistency.    Glass  Packer.  2:97-99. 
+Kilgore,    L.    B.      1933b.    Observations    on    the    proper    amount    of    yolk    in 
+
+mayonnaise.    U.S.  Egg  and  Poultry  Mag.  39:42-45,  63. 
+Kilgore,     L.     B.       1934.     Testing    mustard     for     mayonnaise.     Glass     Packer. 
+
+2:114-116,  126. 
+Kilgore,  L.  B.     1935.  Egg  yolk  "makes"  mayonnaise.  Food  Inds.  7:229-230. 
+
+
+80 
+King,  A.  1941.  Some  factors  governing  the  stability  of  oil-in-water  emulsions. 
+
+Trans.  Faraday  Soc.    37:168-180. 
+Krantz,   3.   C,   Jr.,   and  N.   E.   Gordon.     1928.   Emulsions   and   the   effect  of 
+
+hydrogen    ion    concentration    upon    their    stability.     Colloid    Symposium 
+
+Monograph.    6:173-206. 
+Lopez,   A.,   C.  A.   Fellers,  and  W.  D.  Powrie.     1954.  Some  factors  affecting 
+
+gelation  of  frozen  egg  yolk.    J.  Milk  Food  Tech.  17:334-339. 
+Lowe,  B.     1955.  Emulsions.  In  Experimental  Cookery  From  the  Chemical  and 
+
+Physical  Standpoint.    John  Wiley  and  Sons,  Inc.  New  York,  New  York. 
+Lynch,  M.  J.,   and   W.   C.   Griffin.     1974.   Food   emulsions.   In  Emulsions   and 
+
+Emulsion   Technology.     Part  I.  K.  Lissant  (ed).   Marcel   Dekker,  Inc.  New 
+
+York,  New  York. 
+Marion,  W.  W.,  and  W.  3.  Stadelman.    1958.  An  investigation  of  the  gelation 
+
+of  thawed  egg  yolk.    Poultry  Sci.  37:1224  (abs). 
+Mark,  K.  L.    1921.  Emulsification  in  mayonnaise.  3.  Home  Ec.  13:447  (abs). 
+Meryman,  H.  T.    1956.  Mechanics  of  freezing  living  cells  and  tissues.  Science. 
+
+24:515-521. 
+Meyer,  D.  D.,  and  M.  Woodburn.    1965.  Gelation  of  frozen-defrosted  egg  yolk 
+
+as    affected    by    selected     additives:      Viscosity     and     electrophoretic 
+
+findings.    Poultry  Sci.  44:437-446. 
+Miller,  C,  and  A.  R.  Winter.    1950.  Pasteurized  frozen  whole  egg  and  yolk 
+
+for  mayonnaise  production.    Food  Res.  16:43-49. 
+Palmer,  H.  H.,  K.  Ijichi,  S.  L.  Cimino,  and  H.  Roff.    1969a.  Salted  egg  yolks. 
+
+1.    Viscosity  and  performance  of  pasteurized  and  frozen  samples.  Food 
+
+Tech.    23:148-153. 
+
+
+81 
+Palmer,  H.  H.,  K.  Ijichi,  S.  L.  Cimino,  and  H.  Roff.    1969b.  Salted  egg  yolks. 
+
+2.     Viscosity    and    performance    of   acidified,    pasteurized,    and    frozen 
+
+samples.    Food  Tech.  23:15^-156. 
+Palmer,   H.   H.,    K.  Ijichi,   and   H.   Roff.     1970.  Partial    thermal    reversal  of 
+
+gelation  in  thawed  egg  yolk  products.    J.  Food  Sci.  35:403-406. 
+Pankey,  R.  D.,  and  W.  3.  Stadelman.     1969.  Effect  of  dietary  fats  on  some 
+
+chemical  and  functional  properties  of  eggs.    3.  Food  Sci.  34:312-317. 
+Payawal,  S.  R.,  B.  Lowe,  and  G.  T.  Stewart.     19*6.  Pasteurization  of  liquid 
+
+egg  products.  2.  Effects  of  heat  treatment  on  appearance  and  viscosity. 
+
+Food  Res.    11:2*6-260. 
+Pearce,  3.  A.,  and  C.  G.  Lavers.     19*9.  Liquid  and  frozen  egg.  V.  Viscosity, 
+
+baking  quality,  and  other  measurements  on  frozen  egg  products.   Can.  3. 
+
+Res.    27:231-2*0. 
+Powrie,  W.  D.    1977.  Chemistry  of  eggs  and  egg  products.  In  Egg  Science  and 
+
+Technology.     W.  3.  Stadelman  and  O.  3.  Cotterill  (eds).  AVI  Publishing 
+
+Company,  Inc.    Westport,  Conn. 
+Powrie,  W.  D.,  and  M.  A.  Tung.    1976.  Food  dispersions.  In  Principles  of  Food 
+
+Science.    Part  I.  Food  Chemistry.  O.  Fennema  (ed).  Marcel  Dekker,  Inc. 
+
+New  York,  New  York. 
+Powrie,  W.  D.,  H.  Little,  and  A.  Lopez.     1963.  Gelation  in  egg  yolk.  3.  Food 
+
+Sci.    28:38-46. 
+Preston,  B.    1983.  Personal  communication. 
+Robinson,   S.  K.     1924.  Practice  in   mayonnaise   manufacture.   Am.    Food    3. 
+
+19:185-187. 
+Rolfes,  T.,  P.  Clements,  and  A.  R.  Winter.    1955.  The  physical  and  functional 
+
+properties   of    lyophilized    whole    egg,    yolk,    and    white.     Food    Tech. 
+
+9:569-572. 
+
+
+82 
+Scalzo,  A.  M.,   R.  W.  Dickerson   Jr.,  1.  T.  Peeler,  and  R.  B.  Read,  Jr.     1970. 
+
+The  viscosity  of  egg  and  egg  products.     Food  Tech.  2*:  11 3-1 19. 
+Schultz,   J.    R.,    H.    E.   Snyder,    and    R.    H.    Forsythe.      1966.    Interactions    of 
+
+carbohydrates  with  egg  lipoproteins.    Poultry  Sci.  45:1122  (abs). 
+Schut,  Y.     1976.  Meat  emulsions.  In  Food  Emulsions.  S.  Friberg  (ed).  Marcel 
+
+Dekker,  Inc.    New  York,  New  York. 
+Seifriz,  W.     1925.  Studies  on  emulsions  I,  II,  III,  IV,  V,  VI,  VII,  VIII.  J.  Phys. 
+
+Chem.    29:587-600,  738-7*9,  83*-8*l. 
+Sell,   H.   M.,    A.  G.  Olsen,   and   R.   E.  Kremers.     1935.  Lecitho-protein.   The 
+
+emulsifying  ingredient  in  egg  yolk.    Ind.  and  Eng.  Chem.  27:1222-1223. 
+Shepard,  I.  S.,  and  R.   W.  Yoell.     1976.  Cake  emulsions.  In   Food  Emulsions.  S. 
+
+Friberg  (ed).     Marcel  Dekker,  Inc.  New  York,  New  York. 
+Stadelman,   W.  J.     1977.  Quality  identification  of  shell  eggs.  In  Egg  Science 
+
+and    Technology.      W.    J.    Stadelman    and    O.    J.    Cotterill    (eds).    AVI 
+
+Publishing  Company,  Inc.    Westport,  Conn. 
+Varadarajulu,    P.,    and    F.    E.    Cunningham.      1972a.    A    study    of    selected 
+
+charcteristics  of  hens'  egg  yolk.     1.  Influence  of  albumen  and  selected 
+
+additives.    Poultry  Sci.  51:5*2-5*6. 
+Varadarajulu,    P.,    and     F.    E.    Cunningham.      1972b.    A    study    of    selected 
+
+characteristics  of  hens'  egg  yolk.    2.  Influence  of  processing  procedures, 
+
+pasteurization,  and  yolk  fractionation.    Poultry  Sci.  51:9*1-9*5. 
+Varadarajulu,    P.,    and     F.     E.    Cunningham.      1972c.    A    study    of    selected 
+
+characteristics  of  hens'  egg  yolk.    3.  Influence  of  breed,  strain,  and  age 
+
+of  bird.    Poultry  Sci.  51:1327-1331. 
+Vincent,  R.,   W.  D.  Powrie,  and  O.   Fennema.     1966.  Surface  activity  of  yolk, 
+
+plasma,  and  dispersions  of  yolk  fractions.    3.  Food  Sci.  31:6*3-6*8. 
+
+
+83 
+Weiss,  T.    1970.  Mayonnaise  and  salad  dressings.  In  Food  Oils  and  Their  Uses. 
+
+AVI  Publishing  Company,  Inc.    Westport,  Conn. 
+Yeadon,   D.    A.,   L.   A.   Goldblatt,   and    A.    M.    Altschul.     1958.    Lecithin   in 
+
+oil-in-water  emulsions.    J.  Am.  Oil  Chem.  Soc.  35:435-438. 
+Young,  L.  L.,  D.  Hamm,  and  L.  C.  Blankenship.    1983.  Comparison  of  ova  yolk 
+
+with  egg  yolk.    Poultry  Sci.  62:392-394. 
+Zabik,  M.  E.   1969.  Comparison  of  frozen,  foam-spray-dried,  freeze-dried,  and 
+
+spray-dried  eggs.     6.   Emulsifying   properties  at   three  pH  levels.   Food 
+
+Tech.    23:130-132. 
+
+
+u 
+
+
+APPENDIX 
+
+
+85 
+TABLE  3.    Treatment  Means  for  Egg  Yolk  Viscosity 
+
+
+1  2 
+Treatment  Mean  ' 
+
+
+(c.p.s.) 
+
+
+15%  uniodized  NaCl  1008.0" 
+
+15*  iodized  NaCl  932.0b 
+
+15*  KC1  560.0C 
+
+1056  uniodized  NaCl  500 .0C 
+
+10*  iodized  NaCl  288.0e 
+
+10*  KC1  216.0f 
+
+5*  uniodized  NaCl  208.0f 
+
+5%  iodized  NaCl  168.0g 
+
+5%  KC1  120.0h 
+
+0*  salt  104.01 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+2 
+
+Means  calculated  from  5  replications. 
+
+
+86 
+
+
+TABLE  *.    Treatment  Means  for  Effect  of  Salt  Type 
+on  Apparent  Yolk  Viscosity 
+
+
+Treatment  Mean 
+
+
+(c.p.s.) 
+
+
+Uniodized  NaCl  572.0" 
+
+Iodized  NaCl  462.7b 
+
+KC1  298.7C 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+TABLE  5.    Treatment  Means  for  Effect  of  Salt  Level 
+on  Apparent  Yolk  Viscosity 
+
+
+Treatment  Mean 
+
+
+(c.p.s.) 
+
+
+15%  833.3" 
+
+10%  33*.7b 
+
+5%  165.3C 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+87 
+TABLE  6.    Treatment  Means  for  Emulsification  Capacity 
+
+
+I  2 
+Treatment  Mean  ' 
+
+
+(ml  oil/g  yolk) 
+
+
+0%  salt  11.25" 
+
+5*  iodized  NaCl  7.27b 
+
+5%  KC1  7.22b 
+
+5%  uniodized  NaCl  6.92c 
+
+10*  iodized  NaCl  6.85c 
+
+10%  KC1  6.81c'd 
+
+15%  iodized  NaCl  6.63d'e 
+
+15%  KC1  6.52e'f 
+
+10%  uniodized  NaCl  6.39f,g 
+
+15%  uniodized  NaCl  6.27g 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+Means  calculated  from  5  replications. 
+
+
+TABLE  7.    Treatment  Means  for  Effect  of  Salt  Type 
+on  Emulsification  Capacity 
+
+
+Treatment  Mean 
+
+
+(ml  oil/g  yolk) 
+
+
+Iodized  NaCl  6.92 
+
+KC1  6.85a 
+
+Uniodized  NaCl  6.53b 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+TABLE  8.    Treatment  Means  for  Effect  of  Salt  Level 
+on  Emulsification  Capacity 
+
+
+Treatment  Mean 
+
+
+(ml  oil/g  yolk) 
+
+
+5%  7.1»a 
+
+10*  6.68b 
+
+15%  6.48c 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+89 
+
+TABLE  9.    Treatment  Means  for  Apparent  Mayonnaise  Viscosity 
+
+
+1  2 
+Treatment  Mean   ' 
+
+
+(c.p.s.) 
+
+
+10*  iodized  NaCl  49,250.0 
+
+15*  iodized  NaCl  34,750.0b 
+
+5*  iodized  NaCl  29,000.0C 
+
+15*  uniodized  NaCl  27,250.0c'd 
+
+10%  uniodized  NaCl  26,000.0d,e 
+
+15*  KC1  24,750.0e 
+
+10*  KC1  20,750.0f 
+
+5*  uniodized  NaCl  20,000.0f 
+
+5*  KC1  17,250.0g 
+
+0*  salt  10,000.0h 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+Means  calculated  from  4  readings. 
+
+
+90 
+TABLE  10.    Treatment  Means  for  Mayonnaise  Spread 
+
+
+Treatment  Mean1'2 
+
+(spread  units) 
+
+
+0%  salt  10. 0a 
+
+5%  KC1  7.3b 
+
+5*  uniodized  NaCl  6.8C 
+
+15%  KC1  5.4d 
+
+5%  iodized  NaCl  5.3d 
+
+10%  uniodized  NaCl  5.3d 
+
+15%  uniodized  NaCl  5.0d'e 
+
+15%  iodized  NaCl  *.9d,e 
+
+10%  KC1  *.5e'f 
+
+10%  iodized  NaCl  4.0f 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+Means  calculated  from  *  readings. 
+
+
+91 
+
+
+TABLE  11.    Treatment  Means  for  Effect  of  Salt  Type 
+on  Apparent  Mayonnaise  Viscosity 
+
+
+Treatment  Mean 
+
+
+(c.p.s.) 
+
+
+Iodized  NaCl  37,667 .0a 
+
+Uniodized  NaCl  2«,*17.0b 
+
+KC1  20,917.0° 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+TABLE  12.    Treatment  Means  for  Effect  of  Salt  Type 
+on  Mayonnaise  Spread 
+
+
+Treatment  Mean 
+
+
+(spread  units) 
+
+
+KC1  5.7a 
+
+Uniodized  NaCl  5.7a 
+
+Iodized  NaCl  *.7b 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+92 
+
+TABLE  13.    Treatment  Means  for  Effect  of  Salt  Level 
+on  Apparent  Mayonnaise  Viscosity 
+
+
+Treatment  Mean 
+
+
+(c.p.s.) 
+
+
+10%  32,000.0a 
+
+15*  28,917.0b 
+
+5%  22,083.0C 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+TABLE  1*.    Treatment  Means  for  Effect  of  Salt  Level 
+on  Mayonnaise  Spread 
+
+
+Treatment  Mean 
+
+
+(spread  units) 
+
+
+5*  6.4a 
+
+15%  5.1b 
+
+
+10% 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+93 
+TABLE  15.    Treatment  Means  for  Mayonnaise  Stability 
+
+
+Treatment  Mean  ' 
+
+
+(days  at  40 °C) 
+
+
+15%  uniodized  NaCi  15.CT 
+
+15*  KC1  13.0b 
+
+15%  iodized  NaCl  12.3b 
+
+10%  iodized  NaCl  8.3C 
+
+10%  uniodized  NaCl  8.3C 
+
+10%  KC1  7.0d 
+
+5%  iodized  NaCl  5.0e 
+
+5%  uniodized  NaCl  4.3e 
+
+5%  KC1  4.3e 
+
+0%  salt  3.0f 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+Means  calculated  from  3  replications. 
+
+
+9* 
+TABLE  16.    Treatment  Means  for  Effect  of  Salt  Type 
+on  Mayonnaise  Stability 
+
+
+Treatment  Mean 
+
+(days  at  40 °C) 
+
+
+Uniodized  NaCl  9.2 
+
+Iodized  NaCl  8.6 
+
+KC1  8.1 
+
+
+TABLE  17.    Treatment  Means  for  Effect  of  Salt  Level 
+on  Mayonnaise  Stability 
+
+
+Treatment  Mean 
+
+(days  at  40 °C) 
+
+
+15*  13.4 
+
+10%  7.9 
+
+5%  4.6 
+
+
+95 
+
+TABLE  18.    Treatment  Means  for  Apparent  Egg  Yolk  Viscosity 
+
+
+1  2 
+Treatment  Mean   ' 
+
+
+(c.p.s.) 
+
+
+90  days  frozen  storage  14,800.0a 
+
+30  days  frozen  storage  2,080.0 
+
+60  days  frozen  storage  2,000.0 
+
+0  days  frozen  storage  68*.0C 
+
+Liquid  yolk  (10%  iodized  NaCl)                                                         288.0 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+Means  calculated  from  5  replications. 
+
+
+96 
+TABLE  19.    Treatment  Means  for  Emulsification  Capacity 
+
+
+1  2 
+Treatment  Mean   ' 
+
+
+(ml  oil/g  yolk) 
+
+
+Liquid  yolk  (10%  iodized  NaCl)  6.85 
+
+0  days  frozen  storage  6.39 
+
+60  days  frozen  storage  6.10 
+
+90  days  frozen  storage  6.06  'c 
+
+30  days  frozen  storage  5.92c 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+2 
+
+Means  calculated  from  5  replications. 
+
+
+97 
+TABLE  20.    Treatment  Means  for  Apparent  Mayonnaise  Viscosity 
+
+
+1  2 
+Treatment  Mean  ' 
+
+
+(c.p.s.) 
+
+
+60  days  frozen  storage  50,250.0a 
+
+Liquid  yoJk  (10%  iodized  NaCl)                                                      *9,250.0 
+
+90  days  frozen  storage  36,000.0 
+
+0  days  frozen  storage  33,750.0 
+
+30  days  frozen  storage  31,250.0 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+Means  calculated  from  4  readings. 
+
+
+98 
+
+TABLE  21.    Treatment  Means  for  Mayonnaise  Spread 
+
+
+Treatment  Mean  ' 
+
+
+(spread  units) 
+
+
+30  days  frozen  storage  4.3 
+
+0  days  frozen  storage  4.3 
+
+Liquid  yolk  (10%  iodized  NaCl)  4.0 
+
+90  days  frozen  storage  3.9a 
+
+60  days  frozen  storage  3.0 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+Means  calculated  from  4  readings. 
+
+
+99 
+
+TABLE  22.    Treatment  Means  for  Mayonnaise  Stability 
+
+
+Treatment  Mean 
+
+(days  at  40  °C) 
+
+
+0  days  frozen  storage  22 
+
+30  days  frozen  storage  21 
+
+90  days  frozen  storage  21 
+
+60  days  frozen  storage  20 
+Liquid  yolk  (10*  iodized  NaCl)  8.3 
+
+
+100 
+TABLE  23.    Treatment  Means  for  Apparent  Egg  Yolk  Viscosity 
+
+
+Treatment  Mean  ' 
+
+
+(c.p.s.) 
+
+
+Free  flow  yolk  solids  627,200.0a 
+
+Plain  yolk  solids  501,200.0b 
+
+Low  viscosity  yolk  solids  172,*00.0C 
+Liquid  yolk  (10%  iodized  NaCl)  288.0 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+Means  calculated  from  5  replications. 
+
+
+101 
+TABLE  24.    Treatment  Means  for  Emulsification  Capacity 
+
+
+1  2 
+Treatment  Mean  ' 
+
+(ml  oil/g  yolk) 
+
+
+Liquid  yolk  (10%  iodized  NaCl)  6.85 
+
+Plain  yolk  solids  6.33a 
+
+Free  flow  yolk  solids  6.32a 
+
+Low  viscosity  yolk  solids  6.02 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+Means  calculated  from  5  replications. 
+
+
+102 
+TABLE  25.    Treatment  Means  for  Apparent  Mayonnaise  Viscosity 
+
+
+Treatment  Mean  ' 
+
+(c.p.s.) 
+
+
+Liquid  yolk  (10%  iodized  NaCl)  49,250.0 
+
+Low  viscosity  yolk  solids  38,250.0a 
+
+Plain  yolk  solids  28,500.0b 
+
+Free  flow  yolk  solids  23,000.0° 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+2 
+Means  calculated  from  *  readings. 
+
+
+103 
+
+TABLE  26.    Treatment  Means  for  Mayonnaise  Spread 
+
+
+Treatment  Mean1'2 
+
+(spread  units) 
+
+
+Liquid  yolk  (10%  iodized  NaCl)  4.0 
+
+Low  viscosity  yolk  solids  3.9a 
+
+Plain  yolk  solids  3.3a 
+
+Free  flow  yolk  solids  3.3a 
+
+
+Means  with  the  same  letter  are  not  significantly  different. 
+
+
+2 
+
+Means  calculated  from  4  readings. 
+
+
+10* 
+TABLE  27.    Treatment  Means  for  Mayonnaise  Stability 
+
+
+Treatment  Mean 
+
+(days  at  *0°C) 
+
+
+Frozen  yolk  (average)  21 
+
+Free  flow  yolk  solids  12 
+
+Plain  yolk  solids  10 
+
+Low  viscosity  yolk  solids  10 
+
+Liquid  yolk  (10*  iodized  NaCl)  8.3 
+
+
+tLl 
+
+_) 
+
+to 
+< 
+
+
+M 
+
+C 
+
+L. 
+
+3 
+
+<u 
+
+i/s 
+
+o 
+
+ws 
+
+o 
+
+i/s 
+
+O 
+
+o 
+
+IA 
+
+IA 
+
+o 
+
+IA 
+
+O 
+
+o 
+
+o 
+
+U"> 
+
+o 
+
+o 
+
+O 
+
+IN 
+
+o 
+
+N 
+
+CD 
+
+CN 
+
+""i 
+
+o 
+
+CN 
+
+CN 
+
+o 
+
+CN 
+
+O 
+
+o 
+
+o 
+
+CN 
+
+o 
+
+o 
+
+U 
+
+< 
+
+O 
+
+o 
+
+d 
+
+o 
+
+o 
+
+o 
+
+O 
+
+a 
+
+o 
+
+© 
+
+O 
+
+O 
+
+o 
+
+d 
+
+d 
+
+d 
+
+d 
+
+<-j 
+
+<s> 
+
+£ 
+
+<u 
+
+>- 
+
+T3 
+
+e 
+
+<D 
+
+13 
+
+u 
+
+o 
+
+IA 
+
+o 
+
+O 
+
+O 
+
+o 
+
+iA 
+
+o 
+
+O 
+
+o 
+
+Q 
+
+^S 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+Tl 
+
+O 
+
+o 
+
+CN 
+
+o 
+
+o 
+
+o 
+
+o 
+
+CN 
+
+o 
+
+CD 
+
+o 
+
+O 
+
+CN 
+
+o 
+
+o 
+
+55 
+
+o 
+
+o 
+
+1) 
+
+d 
+
+d 
+
+d 
+
+d 
+
+o* 
+
+d 
+
+O 
+
+d 
+
+O 
+
+O 
+
+o 
+
+d 
+
+d 
+
+d 
+
+d 
+
+d 
+
+d 
+
+o 
+5 
+
+CO 
+
+fl 
+
+0^ 
+
+p-\ 
+
+r^ 
+
+CN 
+
+cr\ 
+
+<rs 
+
+CO 
+
+cs 
+
+C*S 
+
+W 
+
+o-\ 
+
+CN 
+
+ro 
+
+m 
+
+r^ 
+
+cs 
+
+o 
+
+o 
+
+o 
+
+O 
+
+a 
+
+o 
+
+o 
+
+O 
+
+O 
+
+o 
+
+o 
+
+O 
+
+o 
+
+o 
+
+o 
+
+o 
+
+o 
+
+Mi 
+
+<u 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+X 
+
+c 
+
+13 
+
+< 
+
+— 
+
+IA 
+
+IA 
+
+h-. 
+
+as 
+
+ITs 
+
+IA 
+
+SO 
+
+o^ 
+
+CN 
+
+o 
+
+r^ 
+
+q 
+
+00 
+
+MD 
+
+* 
+
+r^ 
+
+O 
+
+— 1 
+
+— 1 
+
+(N 
+
+CN 
+
+— < 
+
+CN 
+
+CN 
+
+— . 
+
+CN 
+
+CN 
+
+CN 
+
+i 
+
+ns 
+
+CN 
+
+CN 
+
+CN 
+
+— 
+
+U 
+
+<D 
+
+A 
+
+£L 
+
+T3 
+
+(3 
+
+■3- 
+
+C"S 
+
+r"S 
+
+r^ 
+
+n~» 
+
+m 
+
+4* 
+
+** 
+
+^r 
+
+m 
+
+r«s 
+
+m 
+
+c-s 
+
+CN 
+
+CN 
+
+HS 
+
+c 
+(13 
+</3 
+
+0) 
+
+o 
+
+o 
+
+X 
+
+o 
+
+X 
+
+O 
+X 
+
+o 
+
+X 
+
+O 
+
+X 
+
+O 
+X 
+
+o 
+
+X 
+
+O 
+X 
+
+O 
+X 
+
+o 
+
+X 
+
+o 
+
+X 
+
+O 
+X 
+
+o 
+
+X 
+
+o 
+
+X 
+
+O 
+
+X 
+
+o 
+
+X 
+
+o 
+
+X 
+
+V 
+
+CO 
+
+Pv. 
+
+OS 
+
+OO 
+
+m 
+
+— 1 
+
+CN 
+
+as 
+
+f^ 
+
+r^. 
+
+r^ 
+
+as 
+
+so 
+
+0O 
+
+o 
+
+CN 
+
+— 
+
+43 
+
+— 1 
+
+CN 
+
+CN 
+
+SO 
+
+CN 
+
+en 
+
+IA 
+
+, 
+
+— i 
+
+, 
+
+pM 
+
+CN 
+
+CN 
+
+CN 
+
+r«s 
+
+CN 
+
+i 
+
+A 
+
+A 
+
+A 
+
+— i 
+
+U 
+
+U 
+
+u 
+
+a 
+
+03 
+
+(J 
+
+U 
+
+ft) 
+
+z 
+
+z 
+
+C 
+
+<u 
+
+s 
+
+a3 
+
+03 
+
+z 
+
+"O 
+
+"D 
+
+2 
+
+~o 
+
+S 
+
+(D 
+
+j* 
+
+"O 
+
+■a 
+
+QJ 
+
+N 
+
+N 
+
+TJ 
+
+d> 
+
+aj 
+
+N 
+
+— 
+
+io 
+
+to 
+
+<T3 
+
+o 
+>> 
+
+aj 
+
+N 
+
+N 
+
+t3 
+
+T3 
+
+o 
+
+T3 
+
+£ 
+
+O 
+
+01 
+
+N 
+
+•a 
+
+O 
+
+O 
+
+>. 
+
+(j 
+
+!■ 
+
+T3 
+
+■a 
+
+o 
+
+c 
+
+O 
+
+"5 
+
+(J 
+
+u 
+
+(/) 
+
+U1 
+
+<f) 
+
+o 
+
+o 
+
+h- 
+
+"2 
+
+3 
+cr 
+
+.2 
+
+O 
+
+o 
+
+^s 
+
+"2 
+
+3 
+
+o 
+
+iA 
+
+c 
+
+N 
+O 
+
+(/I 
+>> 
+
+03 
+
+03 
+■D 
+
+O 
+
+03 
+O 
+
+>> 
+
+03 
+X3 
+
+o 
+
+to 
+
+O 
+
+c 
+'3 
+
+OJ 
+
+> 
+
+o 
+
+—) 
+
+o 
+
+ir\ 
+
+— ' 
+
+- ' 
+
+IA 
+
+— ' 
+
+— 
+
+IA 
+
+U- 
+
+O 
+
+<>S 
+
+-JS 
+
+as 
+
+> 
+
+a 
+
+UL 
+
+-J 
+
+105 
+
+
+ACKNOWLEDGEMENTS 
+
+Sincere  appreciation  is  expressed  to  my  major  professor,  Dr.  F.  E. 
+Cunningham,  for  his  guidance,  patience,  interest,  and  understanding 
+throughout  this  research  project. 
+
+Appreciation  is  also  expressed  to  Dr.  D.  Y.  C.  Fung  and  Dr.  R.  Carl 
+Hoseney  for  not  only  serving  on  my  committee,  but  for  their  interest  and 
+advice,  which  was  always  helpful. 
+
+Special  thanks  is  extended  to  Dr.  Ken  Kemp,  Department  of  Statistics, 
+for  his  help  with  the  statistical  analysis,  and  to  Dr.  Len  Harbers  for  his  time 
+and  effort  in  putting  together  my  slides. 
+
+Finally,  my  love  and  appreciation  is  extended  to  my  parents,  whose 
+support  and  encouragement  have  made  the  effort  worthwhile. 
+
+
+PROPERTIES  OF  SEVERAL  TYPES  OF  SALTED  YOLK 
+AND  FUNCTIONALITY  IN  MAYONNAISE 
+
+
+by 
+
+L.  J.  Harrison 
+B.S.,  Texas  Tech  University,  Lubbock,  Texas,  1982 
+
+AN  ABSTRACT  OF  A  MASTER'S  THESIS 
+
+submitted  in  partial  fulfillment  of  the 
+requirements  for  the  degree 
+
+MASTER  OF  SCIENCE 
+
+Food  Science 
+
+(Department  of  Animal  Sciences  and  Industry) 
+
+KANSAS  STATE  UNIVERSITY 
+
+Manhattan,  Kansas 
+
+1984 
+
+
+ABSTRACT 
+
+Viscosity,  em  unification  capacity,  and  functionality  in  mayonnaise  of 
+several  types  of  salted  yolk  were  studied. 
+
+The  effects  of  salt  type  and  level  on  the  yolk  properties  were 
+determined  in  the  liquid  yolk  study.  The  addition  of  iodized  NaCl,  uniodized 
+NaCl,  or  KC1  resulted  in  an  increase  in  yolk  viscosity  and  a  decrease  in 
+emulsification  capacity.  Viscosity  of  yolk  increased  as  salt  level  increased 
+from  5  to  15%,  while  emulsification  capacity  decreased  as  salt  level 
+increased.  Mayonnaise  made  from  liquid  yolk  containing  any  of  the  3  salts 
+had  a  higher  apparent  viscosity,  lower  spread,  and  higher  stability  than  that 
+made  from  liquid  yolk  with  0%  salt. 
+
+Frozen  storage  of  yolk  containing  10%  iodized  NaCl  for  0,  30,  60,  and 
+90  days  resulted  in  increased  apparent  yolk  viscosity  and  decreased 
+emulsification  capacity.  Mayonnaise  made  from  yolk  stored  60  days  had  a 
+higher  apparent  viscosity  and  a  lower  spread  than  that  made  from  any  other 
+frozen  yolk  sample.  Mayonnaise  made  from  all  frozen  yolk  samples  had 
+stability  values  of  greater  than  or  equal  to  20  days. 
+
+Plain,  free  flow,  and  low  viscosity  yolk  solids  had  higher  apparent 
+viscosities,  and  lower  emulsification  capacities  than  liquid  yolk.  All  3  types 
+of  yolk  solids  produced  mayonnaise  with  lower  viscosities  and  lower  spreads 
+than  that  made  from  liquid  yolk.  Stability  values  for  mayonnaise  made  from 
+the  3  types  of  yolk  solids  were  intermediate  between  those  for  mayonnaise 
+made  from  liquid  yolk  (lowest  overall  stability)  and  that  made  from  frozen 
+yolk  (highest  overall  stability). 
+
+

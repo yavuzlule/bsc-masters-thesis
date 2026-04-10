@@ -1,0 +1,2859 @@
+/tenderizatiok  of  spent  hen  muscle  using  papain,  sromelin 
+or  ficin,  alone  and  in  combination  with  salts/ 
+
+
+by 
+
+
+HECTOR  A.  DE  VITRE 
+
+B.S.,  Loyola  College,  University  of  Madras, 
+Madras,  India,  1981 
+
+
+A  MASTER'S  THESIS 
+
+
+Submitted  in  partial  fulfillment  of  the 
+requirements  for  the  degree 
+
+
+MASTER  OF  SCIENCE 
+
+
+Food  Science 
+(Department  of  Animal  Sciences  and  Industry) 
+
+
+KANSAS  STATE  UNIVERSITY 
+Manhattan,  Kansas 
+
+1984 
+
+
+Approved  by: 
+
+
+A112D2   b2flb01 
+
+TABLE  OF  CONTENTS 
+
+Page 
+
+
+SX         INTRODUCTION 1 
+
+REVIEW  OF  LITERATURE 2 
+
+Composition  and  Structure  of  Poultry  Meat 2 
+
+Composition 2 
+
+Vitamins  and  Minerals 2 
+
+Fats 2 
+
+Carbohydrates 3 
+
+Structure 3 
+
+Factors  that  Affect  the  Tenderness  of  Meat 4 
+
+Effect  of  Production  Factors  4 
+
+Age 5 
+
+Breed  and  Sex 5 
+
+Feeding  Practices 6 
+
+Effect  of  Processing  6 
+
+Struggling  7 
+
+Aging 8 
+
+Enzymes 9 
+
+Papain  9 
+
+Ficin 10 
+
+Bromelin 11 
+
+Enzyme  Action 11 
+
+Methods  of  Application 16 
+
+Early  Uses  of  Enzymes 16 
+
+Powder  Application  16 
+
+Immersion 17 
+
+Injection 19 
+
+Effect  of  Salts  on  Tenderness  of  Poultry  Meat 21 
+
+Polyphosphates  21 
+
+Inorganic  Salts 22 
+
+MATERIALS  AND  METHODS  24 
+
+Source  of  Materials 24 
+
+Processing  Procedure  24 
+
+Preliminary  Experiments 24 
+
+Statistical  design  25 
+
+Blade-tenderization 25 
+
+Treatments 26 
+
+Batter  and  Breading  Procedure 27 
+
+Sensory  Evaluation  28 
+
+Objective  Measurements  28 
+
+Soak  Pick  Up 29 
+
+Cooking  Loss 29 
+
+RESULTS  AND  DISCUSSION 30 
+
+Sensory  Evaluation  30 
+
+Flavor 30 
+
+Juiciness 30 
+
+Overall-acceptability 32 
+
+
+Page 
+
+Tenderness 32 
+
+Objective  Measurements  33 
+
+Solution  Pick  Up,  Cooking  Loss,  and  Shrinkage 36 
+
+REFERENCES 39 
+
+ACKNOWLEDGEMENTS 47 
+
+APPENDIX 48 
+
+
+INTRODUCTION 
+
+There  are  approximately  250  million  mature  chickens  marketed 
+annually.   Approximately  85%  of  these  mature  chickens  are  old  hens  culled 
+from  egg-laying  flocks  because  they  are  no  longer  economically 
+productive,  the  remainder  are  old  birds  from  poultry  breeder  flocks.   The 
+meat  from  these  mature  chickens  is  generally  tough,  dry,  and  sinewy 
+(Federal  Register,  1980).  As  a  result  the  market  for  such  poultry  meat 
+is  limited.   These  hens  represent  a  substantial  amount  of  ready-to- 
+cook  poultry  that  would  appeal  more  readily  to  the  consumer  if  they  could 
+be  tenderized  effectively  and  economically. 
+
+On  October  5,  1980  the  USDA  approved  the  use  of  proteolytic  enzymes 
+such  as  bromelin,  ficin,  and  papain  as  well  as  those  from  Aspergillus 
+oryzae  and  Aspergillus  f lavus-oryzae  groups  to  tenderize  the  muscle 
+tissue  of  all  cuts  of  meat  including  mature  poultry  muscle  tissue. 
+
+The  objectives  of  this  project  were:   to  determine  sensory 
+characteristics  and  shear  press  measurements  of  spent  hen  breast  fillets 
+that  were  soaked  in  solutions  of  papain,  bromelin  or  ficin  alone  or  in 
+combination  with  sodium  chloride  and  phosphate  solutions. 
+
+
+REVIEW  OF  LITERATURE 
+
+Composition  and  Structure  of  Poultry  Meat 
+Composition 
+Chicken  is  comparable  to  beef,  lamb,  and  pork  in  composition  and 
+nutritive  value  and  contains  all  the  essential  amino  acids  required  for 
+good  human  nutrition  (Demby  and  Cunningham,  1980). 
+
+Vitamins  and  Minerals 
+
+Chicken,  like  all  other  lean  meats,  is  a  good  source  of  B-vitamins 
+(Demby  and  Cunningham,  1980).  According  to  Charley  (1970),  chicken  meat 
+is  rich  in  iron  and  phosphorous.   It  is  also  a  good  source  of  niacin, 
+riboflavin,  thiamin,  and  ascorbic  acid  (Mountney,  1976). 
+
+Fats 
+
+The  fat  content  of  poultry  carcasses  varies  according  to  the  age, 
+sex,  and  species  (Mountney,  1976).  However,  it  is  considered  a  low  fat 
+food  with  most  of  the  fat  being  located  in  the  skin  rather  than  in  muscle 
+tissue  (Demby  and  Cunningham,  1980) .   According  to  Fristrom  and 
+Weihrauch  (1973),  broiler  meat  contains  only  2.5  g  of  fat  per  100  g 
+edible  portion  of  meat.   They  also  reported  that  broiler  fat  contains 
+more  unsaturated  than  saturated  fatty  acids.  Poultry  meat  contains  a 
+higher  proportion  of  unsaturated  fatty  acids  than  red  meat  but  usually 
+less  than  vegetable  oils  (Mountney,  1976).  The  major  fatty  acids  in  raw 
+chicken  muscle  are  oleic,  linoleic,  and  palmitic;  these  three  comprise 
+79%  of  the  total  and  have  a  total  unsaturation  of  70%  (Lee  and  Dawson, 
+1973).  According  to  Fristorm  and  Weihrauch  (1973),  oleic  is  the  dominant 
+fatty  acid  in  broiler  muscle.   Chicken  muscle  was  found  to  contain  more 
+
+
+phospholipids  than  the  skin  and  depot  fat  (Katz  et  al.,  1966).   Chicken 
+meat  contains  less  cholesterol  than  many  other  foods  of  animal  origin 
+(Demby  and  Cunningham,  1980) . 
+
+Carbohydrates 
+
+Carbohydrates  in  chicken,  as  with  most  meats,  are  a  small  portion  of 
+the  total  nutrients  (Demby  and  Cunningham,  1980).   Inositol,  glucose,  and 
+fructose  are  the  major  carbohydrate  constituents  found  in  chicken  muscle 
+with  ribose  and  mannose  being  minor  constituents  (Lilyblade  and  Peterson, 
+1962). 
+
+Structure 
+
+Birds  like  mammals  possess  three  distinct  types  of  muscles:   (1) 
+smooth,  (2)  cardiac,  and  (3)  skeletal.   The  skeletal  muscles  of  poultry 
+contain  three  types  of  fibers;  namely,  red  fibers,  white  fibers,  and 
+intermediate  fibers.   The  red  fibers  predominate  in  what  is  commonly 
+called  "dark  meat",  intermediate  fibers  represent  a  type  of  fiber 
+possessing  some  characteristics  of  both  red  and  white  fibers  (Ensminger, 
+1980).   Skeletal  muscle  is  made  up  of  fibers  held  together  by  connective 
+tissue  and  surrounded  by  a  sheath  of  heavier  connective  tissue.   Each 
+fiber  is  enclosed  in  a  thin,  colorless  elastic  membrane  called  the 
+sarcolemma,  and  the  fibers  are  then  grouped  parallel  to  each  other  in 
+bundles  called  fasciculi.   The  perimysium  is  the  connective  tissue 
+surrounding  the  fasciculous  and  the  entire  muscle  is  enclosed  by 
+connective  tissue  known  as  epimysium  (Lowe,  1943). 
+
+The  function  of  connective  tissue  is  to  support  all  the  other 
+tissues  and  organs  in  the  body.   Smith  (1942)  reported  that  connective 
+tissue  is  most  evident  in  the  form  of  tendon,  or  gristle,  but  it  is  also 
+
+
+distributed  in  a  firm  state  of  subdivision  throughout  both  muscle  and 
+fatty  tissue.  Lowe  (1943)  described  connective  tissue  as  follows: 
+"Connective  tissue  is  characterized  by  a  small  number  of  cells  and  much 
+intercellular  substance.   It  has  many  variations  and  transitional  forms. 
+Some  are  loose,  like  that  between  organs,  some  are  compact,  as  in  heavy 
+connective  tissue  visible  to  the  eye  and  some  are  dense,  like  that  in 
+tendons.   It  always  contains  fibers". 
+
+Collagenous  fibers  are  colorless  and  birefrigent,  but  when  they 
+appear  in  large  masses,  the  tissue  is  white  and  is  often  referred  to  as 
+white  connective  tissue  (Lowe,  1943).  According  to  Smith  (1942)  the 
+properties  of  collagenous  tissue  influence  the  properties  of  meat  because 
+of  the  toughness  and  elasticity  of  the  collagen  fiber,  and  its  easy 
+conversion  to  the  tender  soluble  gelatin  by  boiling.   Elastin,  a  second 
+protein  in  connective  tissue  forms  only  a  very  small  proportion  of  the 
+diffuse  connective  tissue  and  ordinary  white  tendon,  but  it  is 
+concentrated  in  ligaments.   Elastin  according  to  Smith  (1942)  differs 
+from  collagen  in  that  it  is  fractionally  indigestible  and  is  softened 
+little  during  cooking.   Lowe  (1943)  stated  that  the  elastic  fibers  are 
+thinner  than  the  collagenous  ones  and  that  they  branch  readily  and 
+stretch  like  a  fish  net.   The  fibers  forming  ligaments  are  arranged 
+parallel  to  each  other  and  are  bound  together  by  collagenous  fibers. 
+
+Factors  that  Affect  the  Tenderness  of  Meat 
+Effect  of  Production  Factors 
+In  1963,  Stadelman  reviewed  production  factors  affecting  tenderness 
+of  poultry  meat.  He  included  age,  sex,  breed  or  strain,  and  feeding 
+practices  as  significant  considerations. 
+
+
+Age 
+
+According  to  Stadelman  (1963),  age  and  confinement  are  the  major 
+production  factors  affecting  tenderness.   Shrimpton  (1960)  showed  that 
+two  month  old  birds  would  not  be  considered  tough  irrespective  of 
+processing  procedures  when  compared  with  six  month  old  or  eighteen  month 
+old  birds.   Peterson  et  al.  (1959)  reported  similar  results  indicating  a 
+definite  increase  in  toughness  as  age  increased,  in  this  particular 
+study,  the  breast  muscle  of  the  young  birds  were  significantly  tougher 
+than  the  dark  muscle  whereas  in  the  older  birds  the  dark  muscle  was 
+slightly  tougher  than  the  breast  muscle.   Dodge  and  Stadelman  (1959) 
+reported  on  factors  influencing  tenderness  of  poultry  meat  comparing 
+chicken  and  turkeys  of  similar  ages.   They  found  the  age  of  birds  and  the 
+class  of  poultry  to  have  an  influence  in  tenderness.  May  et  al.  (1962) 
+observed  that  the  older  the  chickens  were,  the  less  tender  and  that  this 
+held  at  the  time  of  slaughter  and  throughout  aging.   Wells  et  al.  (1962) 
+reported  similar  observations. 
+
+Breed  and  Sex 
+
+These  two  factors  according  to  Stadelman  (1963)  have  only  a  very 
+slight  influence  on  tenderness  scores  assigned  to  the  meat.  Gilpin 
+et  al.  (1960)  compared  modern  fast  growing  chickens  with  a  slow  growing 
+old  type  breed,  their  results  showed  little  indication  that  one  breed 
+produced  more  tender  meat  than  the  other.  According  to  Shrimpton  and 
+Miller  (1960)  among  birds  on  restricted  diets  or  egg  type  chickens,  the 
+females  were  preferred  to  the  males  with  regards  to  tenderness  of  the 
+breast  meat. 
+
+
+Feeding  Practices 
+
+According  to  Stadelman  (1963)  turkeys  fed  corn  were  slightly  more 
+tender  than  those  fed  oats,  barley,  rye  or  wheat,  but  the  reason 
+could  possibly  be  due  to  other  differences  in  the  diet  used  during  1941 
+as  compared  to  1961  or  possibly  due  to  growth  rate  differences.  An 
+observation  by  Shrimpton  and  Miller  (1960)  was  that  birds  kept  on  full 
+feed  were  more  tender  than  birds  kept  on  a  restricted  diet.  They  also 
+observed  that  birds  on  full  feed  had  no  sex  differences  with  respect  to 
+tenderness. 
+
+Lee  et  al.  (1976)  studied  the  effects  of  heat  stress  (38CC),  cold 
+stress  (4CC)  and  extreme  cold  stress  (-20°C)  before  slaughter  on  the 
+tenderness  and  post  mortem  glycolysis  of  the  excised  chicken  breast 
+muscle  and  found  that  heat  stress  significantly  increased  the  toughening 
+of  the  breast  muscle. 
+
+Effect  of  Processing 
+Several  variables  in  processing  poultry  affect  final  muscle 
+tenderness  including  struggling,  slaughter  method,  scalding  time  and 
+temperature,  method  of  picking,  chilling,  pre-rigor  muscle  cutting  and 
+post-mortem  aging  (Klose  et  al.,  1959;  Stadelman,  1963).   Stadelman  and 
+Pratt  (1977)  later  added  that  a  particular  cutting  method  and  cooking 
+could  influence  tenderness.   Researchers  (Klose  et  al.,  1959,  Pool  et 
+al.,  1959;  Klose  et  al.,  1960;  and  Klose  et  al.,  1961)  distinguished 
+three  phases  of  the  poultry  processing  operation  that  could  affect  the 
+tenderness  of  poultry  meat,  namely  scalding,  feather-plucking  and  aging. 
+Scalding  and  feather-plucking,  although  separate  steps  in  the  processing 
+line,  are  inter-related  since  very  mild  scalding  conditions  yield  birds 
+
+
+that  require  more  severe  feather-plucking  conditions  and  vice-versa  (de 
+Fremery,  1963).   Increasing  scalding  time  and  temperature  within 
+commercial  ranges  cause  small  but  significant  increases  in  toughness  of 
+cooked  birds  (Klose  et  al.,  1959,  de  Fremery,  1963).   Increasing  the 
+severity  of  the  feather-plucking  treatment  will  increase  the  toughness  of 
+the  cooked  meat  (de  Fremery,  1963).   Klose  et  al.  (1959)  found  that 
+hand-picked  birds  were  more  tender  than  those  picked  by  machine;  however, 
+hand-picking,  he  added,  is  not  commercially  feasible. 
+
+Struggling 
+
+According  to  Dodge  and  Stadelman  (1959)  there  is  no  significant 
+difference  in  tenderness  between  birds  that  struggled  excessively  during 
+slaughter  from  those  that  did  not  struggle.   Stadelman  and  Wise  (1961) 
+anesthesized  the  birds  prior  to  slaughter  with  nembutal,  and  found  that 
+the  anethesized  birds  were  not  as  tough  as  the  controls  when  determined 
+by  shear  values;  however,  the  anethesized  birds  did  require  an  extended 
+Period  of  time  to  tenderize  when  compared  to  normal  birds.  Ma  et  al. 
+(1971)  reported  significant  differences  between  the  time  course  of  rigor 
+mortis  in  breast  muscles  of  turkeys  that  struggled  compared  with 
+restrained  birds. 
+
+Other  processing  factors  such  as  chilling,  freezing,  frozen  storage 
+and  holding  after  thawing  have  also  been  investigated.  Lowe  (1943) 
+demonstrated  that  roasters  frozen  within  2  hrs.  after  killing  were  less 
+tender  than  those  aged  24  hrs.  before  freezing.   Stewart  et  al.  (1945) 
+found  no  difference  in  tenderness  between  groups  given  pre-freezing 
+chilling  periods  of  2  hrs.  and  18  hrs.  respectively.   Pool  et  al.  (1959) 
+stated,  with  regards  to  pre-freezing,  that  a  48  hr.  thawing  period  prior 
+
+
+to  cooking  eliminated  any  differences  that  were  originally  present. 
+Koonz  et  al.  (1954)  found  that  freezing  broiler  carcasses  during  the 
+early  post-mortem  period  fixed  the  state  of  tenderness  existing  at  the 
+time  and  that  complete  tenderization  was  delayed  until  the  tissues  were 
+defrosted.   They  also  found  that  cutting  into  the  muscle  immediately 
+after  slaughter  resulted  in  greater  toughness  than  an  uncut  control  at 
+all  stages  of  the  normal  aging  period. 
+
+Gainer  et  al.  (1951)  investigated  the  possibility  that  massaging 
+might  tenderize  the  muscles  of  chicken  roasters  aged  for  short  period  of 
+time  like  30  and  60  min  before  cooking.   They  found  no  appreciable 
+difference  between  control  and  massaged  birds. 
+
+Aging 
+
+According  to  de  Fremery  (1963),  aging  is  essential  for  the 
+development  of  tenderness  although  the  time  period  for  poultry  is  much 
+less  (12-24  hrs)  than  it  is  for  beef  (10-20  days).  He  found  that  the 
+rapid  onset  of  rigor  and  the  rapid  disappearance  of  ATP  were  not  causes 
+of  toughening.  He  observed  that  an  acceleration  of  post-mortem 
+glycolysis  in  young  poultry  increased  the  toughness  of  fully-aged  meat 
+and  that  meat  from  birds  in  which  post-mortem  glycolysis  had  been 
+eliminated  or  inhibited  was  initially  tender  and  remained  so  during  a  24 
+hour  aging  period. 
+
+In  general,  any  treatment  which  resulted  in  more  rapid  loss  of 
+glycogen  induced  muscle  toughness  (de  Fremery  and  Pool,  1960).  Mellor  et 
+al.  (1958)  found  that  the  breast  muscle  of  birds  with  high  glycogen 
+content  yielded  more  tender  meat  than  birds  of  low  glycogen  content. 
+
+
+Enzymes 
+Proteolytic  enzymes  of  plant  origin  like  papain,  bromelin  and  ficin 
+have  been  used  in  the  past  as  meat  tenderizers  (Brandly  et  al.,  1966; 
+Arnon,  1970). 
+
+Papain 
+
+Papain  is  the  most  widely  used  proteolytic  enzyme  and  the  term 
+papain  is  applied  both  to  the  crude  enzyme  preparation  from  papaya  latex 
+and  to  one  of  its  distinct  protease  fractions  (Reed,  1966).  Papain  is 
+the  whole  dried  product  from  the  latex  of  the  unripe  fruit  of  the  Carica 
+papaya,  the  tropical  melon  tree  (Hwang  and  Ivy,  1951;  Kimmel  and  Smith, 
+1957;  Wang  and  Maynard,  1955).   It  is  found  in  the  milky  latex  of  the 
+green  fruit,  the  leaves  and  the  trunk  of  the  tree  (Balls  et  al.,  1940). 
+It  is  a  white  or  cream  colored  powder  with  a  characteristic  pungent  odor 
+(Hwang  and  Ivy,  1951). 
+
+The  proteolytic  components  of  papaya  latex  are  unusually  stable 
+towards  extremes  of  temperature  and  pH  (Kimmel  and  Smith,  1957). 
+According  to  Hwang  and  Ivy  (1951),  papain  can  retain  its  activity  at  a 
+temperature  of  105°C  for  3  hours,  but  when  in  solution,  it  loses  its 
+activity  on  heating  for  30  min  at  a  temperature  of  82.5°C.  Remarkable 
+activity  of  papain  at  low  temperatures  of  about  10°C  were  noticed  by 
+Hwang  and  Ivy  (1951).   Crystalline  papain  was  found  to  possess  activity 
+after  standing  at  30°C  for  two  hours  between  pH  3  and  pH  12  (Hwang  and 
+Ivy,  1951).   The  optimum  stability  of  papain  solution  was  in  the  range  of 
+pH  5  and  pH  7  (Hwang  and  Ivy,  1951;  Kimmel  and  Smith,  1957).   Above  pH  7 
+activity  was  slowly  lost  (Kimmel  and  Smith,  1957);  above  pH  11  and  below 
+pH  3  the  enzyme  was  rapidly  inactivated  (Hwang  and  Ivy,  1951;  Kimmel  and 
+
+
+10 
+
+
+Smith,  1957).  At  pH  values  near  neutrality,  papain  can  withstand  50°C 
+for  30  min  without  significant  loss  of  activity,  and  at  75CC  only  about 
+5%  of  the  original  enzyme  activity  was  lost  in  3  min  but  above  75°C 
+marked  inactivation  occurred.   When  the  enzyme  was  exposed  for  longer 
+periods  of  time,  around  30  min,  significant  loss  of  activity  at  60°C 
+occurred  (Kimmel  and  Smith,  1957). 
+
+According  to  Hwang  and  Ivy  (1951)  the  most  favorable  temperature  for 
+the  rapid  digestion  of  ground  meat  by  papain  during  a  30  min  period  was 
+80°C.   The  optimum  temperature  of  papain  according  to  Tappel  et  al. 
+(1956)  was  50°C,  Weiner  et  al.  (1957)  reported  that  the  optimum 
+temperature  for  papain  digestion  of  beef  was  60CC  to  80CC.  According  to 
+Weir  et  al.  (1958)  the  most  rapid  digestion  of  papain  occurred  between 
+148°F  (70°C)  and  185°F  (85°C)  with  very  little  taking  place  below  86°F 
+(30°C). 
+
+Fie  in 
+
+Ficin  is  the  proteolytic  component  in  the  latex  of  the  fig  tree, 
+Ficus  galabrata  (Whitaker,  1957).   Ficin  was  found  to  be  effective  in 
+tenderizing  meats  (Miyada  and  Tappel,  1956),  and  it  is  considered  to  be 
+superior  to  papain  and  bromelin  as  far  as  its  tenderizing  properties  are 
+considered  (Whitaker,  1957).  According  to  Whitaker  (1957),  papain  and 
+ficin  are  similar  in  their  properties. 
+
+Ficin  was  active  over  a  wide  range  of  pH,  pH  5.0  to  pH  9.0,  with 
+greater  activity  at  pH  5.0  and  pH  7.0  at  70°C  (Dawson  and  Wells,  1969). 
+Maximum  solubilization  of  all  beef  protein  fractions  occurred  at  pH  7.0 
+at  a  temperature  of  80°C  when  using  ficin  (El-Gharbawi  and  Whitaker, 
+1963).   The  optimum  temperature  for  ficin  was  reported  as  30-50°C  by 
+Dawson  and  Wells  (1969). 
+
+
+11 
+
+
+Bromelin 
+
+This  proteolytic  enzyme  is  present  in  the  pineapple  plant,  Amanas 
+comosus.  The  proteases  can  be  isolated  from  the  juice  of  the  fruit  or 
+from  the  crushed  stems  of  the  plant  (Reed,  1966;  Heinicke  and  Gortner, 
+1957). 
+
+The  optimum  temperature  for  bromelin  was  reported  as  30°C-60°C  by 
+Dawson  and  Wells  (1969).  Maximum  solubilization  of  all  beef  protein 
+fractions  occurred  at  pH  7.0  and  80°C  when  using  bromelin  (El-Gharbawi 
+and  Whitaker,  1963). 
+
+Enzyme  Action 
+
+Meat  tenderized  with  enzyme  preparations  is  tenderized  in  a 
+different  way  than  when  it  is  age-tenderized. 
+
+Post  mortem  aging  according  to  de  Fremery  and  Streeter  (1969)  can  be 
+defined  as  "the  holding  of  an  animal  carcass  for  some  definite  period  of 
+time  with  the  intention  of  producing  tenderization  through  one  or  more 
+natural  processes." 
+
+It  is  often  assumed  that  proteases  present  in  muscular  tissue  of 
+various  animals  are  at  least  partially  responsible  for  the  tenderization 
+occurring  during  aging  or  "ripening"  of  edible  muscle  (Whitaker,  1959). 
+However  it  was  concluded  by  Bandack  and  Rose  (1961)  that  muscle  proteases 
+probably  play  little  part  in  the  tenderization  of  meat. 
+
+De  Fremery  and  Streeter  (1969)  stated  that  the  post-mortem  aging  of 
+chicken  meat  was  not  caused  by  the  breakdown  or  dissolution  of  the 
+connective  tissue  proteins,  nor  by  their  increased  lability  to 
+gelatinization,  or  solubilization  during  cooking. 
+
+According  to  Birkner  and  Auerbach  (1960),  the  histological  changes 
+during  aging  consist  mainly  of  disappearance  of  cross-striations,  the 
+
+
+12 
+
+
+appearance  of  transverse  breaks,  kinks  or  waves,  and  decrease  in  the 
+collagen.   The  elastin  however  was  not  affected.   The  connective  tissue 
+changes  did  not  account  for  increased  tenderness  on  aging. 
+
+Based  on  studies  on  bovine  sternomandibularis  muscles,  Davey  and 
+Gilbert  (1968)  found  that  meat  aging  was  due  to  the  disruption  and 
+possible  dissolution  of  the  Z  line  material,  leading  to  a  weakening  of 
+inter-myofibrillar  linkages  probably  located  at  the  junctions  of  adjacent 
+Z  lines,  and  to  loss  of  tensile  strength  of  the  myofibrils  themselves. 
+Stromer  and  Goll  (1967a,  b) ,  Stromer  et  al.  (1967),  Davey  and  Gilbert 
+(1967,  1968,  1969),  Davey  and  Dickson  (1970)  and  Davey  et  al.  (1967) 
+showed  that  aging  reduced  the  strength  of  the  myofibrillar  structure 
+while  Khan  and  Van  den  Berg  (1964),  de  Fremery  and  Streeter  (1969)  and 
+Sayre  (1968)  showed  that  aging  did  not  significantly  affect  connective 
+tissue. 
+
+Enzyme  preparations,  contrary  to  age  tenderization,  act  on  the 
+muscle  fiber  itself,  breaking  down  the  sarcolemma  and  the  nuclei, 
+followed  by  the  disintegration  of  endomysial  collagen,  connective  tissue 
+collagen  and  elastin,  and  finally  the  complete  disappearance  of 
+cross  striatians  (Landman,  1963;  Wang  et  al.,  1957). 
+
+Specific  action  of  enzymes  on  various  meat  systems  was  studied  by 
+Wang  et  al.  (1957)  who  found  that  Rhozyme  P-ll  exerted  a  greater  affinity 
+for  the  nuclei  of  the  muscle  fiber  than  for  those  of  the  connective 
+tissue  cells,  whereas  the  reverse  was  true  of  papain  in  a  commercial 
+tenderizer.   Kang  and  Rice  (1970)  studied  the  effect  of  various  enzymes 
+on  meat  protein  fractions.   Bromelin  and  trypsin  degraded  the  connective 
+tissue  fraction  of  the  muscle  tissue  to  a  greater  degree  than  the  fiber 
+portion.  However,  papain  and  ficin  degraded  the  myofibrillar  fraction 
+
+
+13 
+
+
+more  than  the  connective  tissue.  Wells  et  al.  (1965)  used  papain  at  a 
+concentration  of  .001%  on  freeze-dried  chicken  and  found  only  minor 
+breakdown  of  connective  tissue,  but  extensive  degradation  of  the  muscle 
+fibers  to  the  extent  of  complete  destruction  of  the  sarcolemma,  loss  of 
+striations,  and  disappearance  of  the  nuclei.   Wismer-Pederson  (1972) 
+used  various  enzyme  preparations  and  found  that  bromelin,  collagenase, 
+and  trypsin  were  extremely  effective  for  tenderizing  the  connective 
+tissue  collagen.  Miyada  and  Tappel  (1956)  in  their  studies  of  hydrolysis 
+of  beef  proteins  by  enzymes  found  that  papain  and  ficin  digested  elastin, 
+while  Rhozyme  P-ll,  Protease  15,  and  Rhozyme  A-4  showed  slight  but 
+definite  digestion  of  elastin.   In  the  case  of  collagen  they  found  the 
+greatest  digestion  with  bromelin,  ficin,  and  trypsin,  followed  by  rhozyme 
+P-ll  and  papain.  Mcintosh  and  Carlin  (1963)  found  that  papain  affected 
+mucoprotein  and  collagen  more  than  the  other  skeletal  muscle  proteins, 
+and  also  the  collagen  suspensions  were  converted  to  thick  gels  by  the 
+action  of  papain.  They  concluded  that  the  tenderizing  effect  of  papain 
+was  due,  at  least  in  part,  to  the  breakdown  of  connective  tissue. 
+
+Only  certain  enzymes  act  on  the  collagenous  and  elastic  fibers  and 
+ficin,  bromelin,  papain,  viokase  and  trypsin  attack  collagenous  and 
+elastic  fibers  in  that  order  of  decreasing  activity  (Wang  et  al.,  1957). 
+Wang  et  al.  (1958)  in  a  later  experiment  found  that  of  the  three  plant 
+enzymes  used,  ficin  ranked  first,  then  papain,  and  finally  bromelin  in 
+elastolytic  activity.   Miyada  and  Tappel  (1956)  also  found  that  papain 
+and  ficin  digested  elastin. 
+
+According  to  Wang  et  al.  (1957)  the  mode  of  collagenous  action,  as 
+revealed  from  both  colloidin  sections  of  whole  tissue  and  collagenous 
+fibers  treated  separately,  appeared  to  consist  of  two  phases.   First 
+
+
+14 
+
+
+there  was  a  decrease  in  the  staining  capacity  with  acid  fuchsin.  This 
+reflected  a  change  in  the  molecular  structure  of  collagen.   Then  the 
+enzyme  seemed  to  have  reduced  the  sharpness  of  the  fibrillar  nature  of 
+collagen,  a  change  which  was  believed  to  have  resulted  from  the 
+liquefaction  of  the  ground  substance  or  matrix  which  normally  hold  the 
+collagenous  fibers  into  definitive  bundles.   Those  observations  support 
+the  view  that  papain  digests  some  nitrogen-containing  components  of 
+connective  tissue  without  affecting  the  fibrillar  structure.   The 
+criterion  for  elastic  digestion  was  most  specific  and  easily 
+recognizable.   This  is  partly  because  elastic  fibers  are  morphologically 
+more  discrete  than  collagenous  fibers  and  partly  because  the  mode  of 
+action  of  elastase  actually  involves  dissolution  of  the  protein,  elastin. 
+Papain  is  the  weakest  of  the  three  commercial  preparations  in  collagenase 
+activity  and  only  moderate  in  elastase  activity.   Ficin  out-performs,  by 
+far,  both  papain  and  bromelin  in  elastase  activity  and  equals  bromelin  in 
+collagenase  activity.  Miyada  and  Tappel  (1956)  used  papain  at  0.05% 
+level  to  digest  rehydrated,  ground,  freeze-dried  biceps  femoris  muscle  of 
+beef.   The  insoluble  protein  fraction  was  separated  into  collagen  and 
+elastin.   Papain  did  not  digest  collagen,  but  elastin  was  digested  to 
+some  extent.   The  resistance  of  collagen  to  papain  was  studied  by  Neuman 
+and  Tytell  (1950)  who  extracted  collagens  from  several  sources  including 
+chicken  tendon,  sheep  tendon,  and  cattle-tail  tendon.  The  collagens  were 
+prepared  so  as  not  to  alter  their  natural  properties.   These  collagens 
+were  shown  to  be  resistant  to  the  action  of  papain,  trypsin,  and 
+chymo trypsin. 
+
+Robbins  et  al  (1979)  used  SDS  (sodium  dodecyl  sulphate)  gel 
+electrophoresis  to  show  the  effect  of  papain  on  bovine  myofibrils. 
+
+
+15 
+
+
+Myofibrillar  proteins,  myosin,  actinin  and  actin,  were  degraded  and 
+formed  peptides  with  lower  molecular  weights.   Lowey  et  al.  (1969) 
+reported  that  trypsin  and  papain  initially  degraded  myosin  to  light  and 
+heavy  meromyosins,  and  total  rods  and  globular  heads  respectively;  this 
+attack  was  followed  by  more  extensive  breakdown  with  time  to  low 
+molecular  weight  fragments. 
+
+Rattrie  and  Regenstein  (1977)  subjected  actin  and  myosin  heavy 
+chains  isolated  from  chicken  breast  muscle  to  crude  papain  at  a  level  of 
+1:125  w/w.   SDS  electrophoresis  of  the  myofibrillar  proteins  indicated 
+that  papain  digested  actin  rapidly  and  produced  major  degradation 
+products.  The  myosin  was  degraded  slower  and  only  40%  of  the  heavy  chain 
+was  cleaved  after  3  min.   Actomyosin  was  less  rapidly  digested  than  the 
+myosin. 
+
+Robbins  et  al.  (1979)  showed  that  cathepsin-D  extracted  from  muscle 
+or  spleen  degraded  myofibrils  under  postmortem  pH  conditions  (5.1-5.3) 
+causing  an  alteration  of  Z  disk  structure  and  breakdown  of  myosin  heavy 
+and  light  chains  as  well  as  effecting  changes  in  the  tropomin-tropomyosin 
+complex.   Rattrie  and  Regenstein  (1977)  showed  that  the  selective  action 
+of  cathepsin-D  on  the  myosin  component  of  myofibrils  was  in  contrast  to 
+the  breakdown  of  that  protein  which  would  occur  when  myofibrils  were 
+incubated  with  trypsin  or  papain.  Robbins  et  al.  (1979)  pointed  out  that 
+due  to  the  selectivity  of  cathepsin-D  towards  the  proteins  of  the 
+myofibrils,  it  could  be  used  as  an  exogenous  meat  tenderizer  and  that  the 
+texture  of  muscle  treated  with  cathepsin-D  was  similar  to  that  of 
+naturally  aged  muscles  in  contrast  to  the  "mush"  texture  resulting  from 
+indiscriminate  degradation  of  the  myofibrillar  proteins  by  commercial 
+tender izers  containing  papain. 
+
+
+16 
+
+
+Methods  of  Application 
+Early  Uses  of  Enzymes 
+
+Lawrie  (1968)  and  McWilliams  (1966)  stated  that  enzymatic 
+tenderization  was  employed  at  least  500  years  ago  by  the  Mexican  Indians 
+when  they  wrapped  meat  in  paw  paw  leaves  during  cooking.   The  natives  of 
+the  tropics  tenderized  their  meat  by  boiling  it  with  the  unripe  fruit  of 
+papaya  or  with  its  juice  or  by  wrapping  with  its  leaves  (Hwang  and  Ivy, 
+1951). 
+
+The  usually  recommended  procedure  for  tenderizing  meat  is  to  paint 
+the  meat  with  a  solution  of  papain  and  then  cook  it  after  an  interval  of 
+a  few  minutes  (Gottschall  and  Kies,  1942;  Hwang  and  Ivy,  1951).  When  the 
+meat  was  painted  with  a  solution  of  papain  and  then  cooked,  it  was  found 
+that  papain  would  not  penetrate  very  far  in  the  meat  under  such 
+conditions,  and  the  papain  on  the  surface  would  be  inactivated  by  heat 
+before  much  digestion  could  take  place  (Hwang  and  Ivy,  1951;  Gottschall 
+and  Kies,  1942). 
+
+Powder  Application 
+
+Tappel  et  al.  (1956)  applied  a  thick  layer  of  papain  to  the  surface 
+of  semitendinosus  muscle.  After  3  hours  of  exposure  at  room  temperature, 
+no  histological  changes  were  evident.   Below  the  superficial  layer  of 
+enzyme  powder,  all  the  muscle  fibers  were  intact,  with  few  noticeable 
+disturbances  in  the  striation  pattern.  After  broiling  for  10  min,  the 
+sarcolemma  was  destroyed  at  the  surface  and  marked  separation  of  muscle 
+fibers  were  evident.  Deeper  in  the  meat,  the  sarcolemma  was  undisturbed. 
+Wang  and  Maynard  (1955)  applied  a  papain  preparation  in  powder  form, 
+spread  over  the  sample  (beef  semitendinosus  tissue)  for  a  specified 
+
+
+17 
+
+
+length  of  time.   They  found  this  method  to  be  inadequate  and 
+impractical  because  of  limited  penetration  of  the  enzyme  into  the  tissue. 
+According  to  Weir  et  al.  (1958)  the  activity  of  the  surface  coated  enzyme 
+on  meat  was  quickly  lost  upon  exposure  to  cooking  above  212°F.  Thus,  it 
+was  necessary  for  the  enzyme  to  penetrate  the  meat  before  the  cooking 
+process  began.   Papain,  if  sprinkled  on  the  surface  of  meat,  will 
+penetrate  a  depth  of  about  1  min  per  hr.   Penetration  was  improved,  if 
+the  treated  surface  is  forked  (McWilliams,  1966).   Hay  et  al.  (1953) 
+using  round  steak,  sirloin  tip  steak,  and  rump  roasts,  applied  papain  by 
+sprinkling  the  enzyme  on  the  meat  surface  with  a  salt  shaker  and  then 
+pierced  the  surface  with  a  fork  to  provide  deeper  penetration  before 
+cooking.  No  significant  difference  in  cooking  losses,  aroma,  and  flavor 
+of  treated  and  untreated  samples  was  found.   For  top  round  steak,  bottom 
+round  steak  and  sirloin  tip  steak,  all  treated  samples  were  significantly 
+more  tender. 
+
+Immersion 
+
+Application  of  enzyme  by  immersion  can  include  immersing  a  sample  in 
+enzyme  solution  or  rehydrating  freeze-dried  samples  with  enzyme  solution. 
+
+Wang  and  Maynard  (1955)  immersed  raw  beef  semitendinosus  tissue  in 
+10%  solutions  of  a  commercial  papain  preparation  and  a  proteolytic  enzyme 
+of  fungal  origin.   This  method  proved  inadequate  and  impracticable 
+because  of  limited  penetration  of  the  enzyme  into  the  tissue  which  was 
+less  than  1  mm  from  the  surface  in  1  hr.   Gottschall  and  Kies  (1942) 
+observed  a  penetration  of  2.5  mm  by  soaking  meat  in  papain  solution  for 
+20  min  at  23°C.   Tappel  et  al.  (1955)  soaked  semitendinosus  muscle  in 
+papain  solution  and  found  that  the  maximum  penetration  of  dye  was  about 
+
+
+18 
+
+
+2  mm  which  clearly  indicated  that  effective  distribution  of  papain  within 
+the  meat  could  not  be  accomplished  by  natural  diffusion  or  by  papain's 
+hydrolytic  activity.   The  histological  study  of  beef  cooked  with  papain 
+also  showed  that  papain  did  not  affect  sarcolemma,  nuclei,  or  muscle 
+fibers  at  distances  greater  than  0.5  mm.  Youn  and  Yang  (1974)  treated 
+beef  with  papain  (0.01%,  0.05%,  and  0.1%  solution)  by  soaking  for  40-60 
+min  at  25 °C  and  10°C.   Sensory  evaluation  indicated  preference  for  those 
+soaked  at  10°C.  Youn  and  Yang  (1975)  also  treated  round  steaks  with 
+0.01%,  0.05%,  and  0.1%  papain  solutions  and  measured  tenderness  using  a 
+penetrometer.   Penetration  values  increased  proportionally  with 
+increasing  papain  concentrations.  At  the  0.05%  papain  level,  there  was 
+significant  increase  in  tenderness,  but  no  further  significant  increase 
+in  tenderness  with  a  0.1%  level. 
+
+Wang  and  Maynard  (1955)  immersed  frozen-dried  pork  chops 
+(longissimus  dorsi)  in  a  rehydrating  solution  containing  papain.  Due  to 
+the  spongy  nature  of  frozen-dried  muscle  tissues  and  the  great  water- 
+absorbing  capacity  of  the  undernatured  muscle  fibres,  the  enzyme 
+dissolved  in  the  rehydrating  liquid  was  quickly  brought  into  contact  with 
+the  tissue  components.   They  found  that  this  method  of  enzyme  application 
+improved  tenderness.   Wang  et  al.  (1957)  rehydrated  freeze-dried  steaks 
+in  an  aqueous  solution  of  papain.   They  found  that  the  treated  sample 
+showed  flavor  differences  and  increased  tenderness. 
+
+Dawson  and  Wells  (1969)  used  a  five-member  panel  and  reported  that 
+0.002%  was  the  optimum  papain  concentration  for  tenderization  and 
+acceptability  of  freeze-dried  chicken.   At  levels  up  to  0.05%  the  meat 
+was  extremely  tender  but  not  acceptable  to  the  panel. 
+
+
+19 
+
+
+So  far  the  attempts  to  introduce  the  enzyme  into  carcass  meat  prior 
+to  cooking  and  freeze-drying  have  resulted  in  non-uniform  penetration  and 
+enzyme  action  and  in  some  flavor  changes  (Dawson  and  Wells,  1969). 
+
+It  was  also  reported  that  enzyme  treated  meat  by  the  powder  or 
+immersion  method  showed  over-tenderization  and  a  mushy  appearance  on  the 
+exterior,  but  little  or  no  effect  on  the  interior  of  the  sample  (Birkner 
+and  Auerbach,  1960;  Fry  et  al.,  1966). 
+
+Wang  and  Maynard  (1955)  treated  one  set  of  beef  semitendonosis 
+muscle  with  papain  powder  and  immersed  another  set  in  10%  papain 
+
+solution.   Although  the  enzyme  solution  penetrated  into  the  meat  more 
+than  the  powdered  preparation,  both  methods  proved  impractical  because  of 
+limited  penetration. 
+
+Injection 
+
+Lowe  (1943)  observed  that  if  enzyme  preparations  are  to  give 
+satisfactory  results  in  tenderizing  meat,  they  should  be  injected 
+uniformly  throughout  the  tissue.  Rogers  et  al.  (1965)  injected  dry  cured 
+country-style  hams  with  5  ppm  papain  solution.   Taste  panel  members 
+scored  non-treated  control  hams  significantly  higher  for  flavor, 
+saltiness  and  overall  acceptability.   Treated  hams  were  significantly 
+more  tender  but  were  generally  too  mushy  to  be  acceptable. 
+
+Beuk  et  al.  (1959)  achieved  a  tenderizing  effect  by  both  intravenous 
+and  intraperitoneal  injection  of  crude  papain.  Haleem  et  al.  (1970) 
+found  that  a  concentration  of  20  mg.  and  40  mg.  of  crude  papain  per  bird 
+injected  intravenously,  produced  the  desired  tenderness  whereas  100  mg. 
+and  300  mg.  per  bird  resulted  in  "mushy"  muscle  tissue.   Sensory 
+evaluation  of  the  light  and  dark  meat  by  five  panel  members  indicated  an 
+
+
+20 
+
+
+increase  in  tenderness  and  juciness  as  the  enzyme  concentration 
+increased,  but  a  decrease  in  flavor  acceptance.   Sosebee  et  al.  (1964) 
+injected  papain  post  mortem  into  poultry  muscle  and  found  that  it  was 
+effective  in  increasing  tenderness;  however,  at  a  concentration  of  0.003% 
+papain,  the  tenderness  increased  to  the  point  of  being  mushy.   Also  there 
+was  lack  of  uniform  tenderness  with  the  collagen  showing  extensive 
+degradation  and  the  fibers  showing  little  change.   Fry  et  al.  (1966) 
+injected  3%  and  6%  by  weight  of  papain  solution  into  turkey  rolls.   This 
+resulted  in  a  tough  muscle  portion  at  the  top  of  the  roll  and  an 
+overtenderized,  mushy  product  on  the  bottom  of  the  roll  because  the 
+enzyme  tended  to  migrate  to  the  bottom  of  the  roll  during  cooking.   Prusa 
+(1980)  injected  baking  hens  with  0.001%  and  0.002%  papain  solution.  He 
+found  the  papain  injected  samples  were  more  tender  and  mealier  than 
+uninjected  samples.  He  also  found  that  off-flavors  could  be  detected  in 
+the  papain  injected  samples  and  that  these  off-flavors  increased  as  the 
+percentage  of  papain  injected  increased. 
+
+Antemortem  injection  of  plant  proteases  was  introduced  by  Beuk  et 
+al.  (1959)  and  was  considered  one  of  the  most  effective  methods  for 
+tenderizing  meats  (Kang  and  Warner,  1974).   This  is  in  agreement  with 
+Huffman  et  al.  (1961),  Strandine  and  Koonz  (1963),  Fry  et  al.  (1966),  and 
+Goodwin  and  Woldroup  (1970),  who  reported  that  antemortem  application  of 
+papain  intravenously  to  poultry  was  an  effective  way  to  improve 
+tenderness.   Fry  et  al.  (1966)  showed  that  antemortem  injection  gave  a 
+more  uniform  and  quicker  distribution  of  the  enzyme  than  postmortem 
+application  or  injection  into  the  peritorial  cavity. 
+
+Huffman  et  al.  (1961)  found  that  antemortem  injection  of  0.35  ppm, 
+0.55  ppm,  35  ppm  and  55  ppm  of  crude  papain  had  no  significant  effect  on 
+
+
+21 
+
+
+breast  muscle,  but  100  ppm  crude  papain  resulted  in  more  tender  or 
+overtenderized  chicken  meat.   Bawa  et  al.  (1981)  injected  enzyme 
+solutions  of  papain  and  bromelin  at  levels  of  50,  75  and  100  ppm  into  the 
+vascular  systems  5  min  prior  to  slaughter.   The  results  showed  that 
+tenderness  increased  with  increased  levels  of  enzyme  and  that  papain 
+resulted  in  greater  tenderization  than  bromelin.  Papain  levels  of  100 
+ppm  however  had  an  undesirable  effect  on  flavor  resulting  in  lower 
+overall  acceptability. 
+
+Kann  et  al.  (1974)  subjected  beef  neck  and  shoulder  muscles  to  four 
+different  treatments.   First,  they  sprinkled  papain  and  salt  on  either 
+side  of  the  meat  and  let  it  stand  for  10  min;  next,  the  pieces  were 
+beaten  with  a  meat  hammer  and  then  soaked  in  a  solution  of  enzyme  and 
+salt  for  10  min;  next,  they  did  the  same  as  in  treatment  two  but  the 
+solution  was  mechanically  stirred;  and  for  the  final  treatment,  they 
+injected  the  pieces  with  enzyme  solution  and  let  them  stand  for  10  min. 
+Taste  panel  results  indicated  the  last  two  treatments  produced  acceptable 
+products. 
+
+Fry  et  al.  (1966)  compared  post-mortem  enzyme  application  with 
+antemortem  enzyme  application.   Their  results  confirm  those  of  previous 
+workers  that  post-mortem  enzyme  application  results  in  lack  of  uniformity 
+of  penetration  and  action  throughout  the  muscle,  whereas  antemortem 
+application  of  enzymes  was  effective  in  producing  a  more  tender  product. 
+
+Effect  of  Salts  on  Tenderness  of  Poultry  Meat 
+Polyphosphates 
+
+Food  grade  phosphates  serve  as  additives  in  all  phases  of  the  meat 
+processing  industry,  where  they  perform  such  useful  functions  as  curing, 
+
+
+22 
+
+
+moisture  retention,  emulsif ication,  chelation,  preservation  of  color, 
+flavor,  and  tenderness  (Cassidy,  1977). 
+
+Phosphates  have  been  used  successfully  in  tenderizing  meats  due  to 
+their  ability  to  increase  charge,  pH  and  subsequent  hydration  of  proteins 
+(Monk  et  al.,  1964;  Farr  and  May,  1970;  Baker  et  al.,  1972;  Shults  and 
+Wierbicki,  1973;  Wood  and  Richards,  1974). 
+
+May  et  al.  (1962)  found  that  chilling  the  carcasses  in  a  3%  solution 
+of  polyphosphates  significantly  improved  the  tenderness  of  light  and  dark 
+poultry  meat.  Klose  et  al.  (1963)  chilled  poultry  for  22  hrs  in  a  5% 
+solution  of  a  mixture  of  sodium  triphosphate  (STP)  and  tetrasodium 
+pyrophosphate  (TSPP)  and  found  a  small  but  significant  increase  in 
+tenderness.   Spencer  and  Smith  (1962)  chilled  fryers  in  a  7.5% 
+polyphosphate  solution  for  6  hrs.  which  significantly  increased  the 
+tenderness.   Baker  and  Darfler  (1968)  found  that  treating  leg  ham  fowl 
+and  fryers  with  polyphosphates  improved  tenderness  of  the  fresh  frozen 
+meat.   Peterson  (1977)  found  that  the  toughening  effect  of  cutting 
+chicken  broiler  breast  muscle  within  1  hr  after  slaughter  could  be 
+prevented  by  injecting  sodium  polyphosphates  into  the  muscle  at  20  min 
+postmortem. 
+
+Inorganic  Salts 
+
+Studies  have  shown  that  inorganic  salts  increase  the  tenderness  of 
+red  meats  and  poultry  (Wierbicki  et  al.,  1957;  Sherman,  1961;  Davey  and 
+Gilbert,  1969;  Shults  and  Wierbicki,  1973;  Wood  and  Richards,  1974;  Hale 
+et  al.,  1977;  Stubblefield  and  Hale,  1977). 
+
+It  was  suggested  by  Hamm  (1960)  that  the  positive  effects  of 
+inorganic  salts  on  tenderness  and  water  holding  capacity  were  due  to  the 
+increase  charge  of  the  muscle  proteins  introduced  by  the  salts. 
+
+
+23 
+
+
+Palladino  and  Ball  (1979)  studied  the  effect  of  15  inorganic  salts 
+on  the  tenderness  of  spent  hen  muscle.   They  found  that  the  salts  in 
+general  had  a  tenderizing  effect  on  spent  hen  muscle,  with  the  exception 
+of  calcium  salts. 
+
+
+2u 
+
+
+MATERIALS  AND  METHODS 
+
+Source  of  Materials 
+
+Two  hundred  and  sixteen  spent  white  leghorns  (Babcock,  300V)  were 
+obtained  from  the  Avery  Research  Center,  Kansas  State  University.  The 
+birds  were  12-14  months  old,  fed  on  regular  layer  feed  and  were 
+approximately  4.25  pounds  in  weight. 
+
+Processing  Procedure 
+
+The  birds  were  processed  with  semi-commercial  equipment.   They  were 
+shackled  by  their  feet  on  the  processing  line  and  were  slaughtered 
+manually  by  severing  the  jugular  vein  at  the  ventrolateral  base  of  the 
+head.   They  were  allowed  to  bleed  for  about  two  minutes  before  they  were 
+placed  in  the  scalding  tank  where  they  were  subscalded  at  a  temperature 
+of  138°F  -  140°F  for  about  30  seconds.   The  birds  were  defeathered 
+automatically  by  rotating  drums  containing  long  rubber  projections 
+("fingers") . 
+
+The  birds  were  then  eviscerated,  washed,  and  allowed  to  age  in  slush 
+ice  for  about  20  hours.  The  breast  portion  together  with  the  breast  bone 
+and  skin  intact  was  removed,  wrapped  in  plastic  freezer  bags,  frozen,  and 
+stored  at  -26°C  until  analyzed. 
+
+Samples  to  be  used  were  thawed  at  2°C  for  18-20  hours  and  the  breast 
+portions  removed  from  the  breast  bone  and  skin.   The  pectoralis  major  was 
+separated  from  the  pectoralis  minor  and  only  the  pectoralis  major  was 
+used  in  the  experiments. 
+
+Preliminary  Experiments 
+
+Preliminary  experiments  were  performed  to  decide  what  concentration 
+of  enzyme  should  be  used.   Breast  fillets  were  soaked  in  0.002%,  0.003% 
+
+
+25 
+
+
+and  0.006%  of  solutions  of  papain,  bromelin,  and  ficin  for  60  min.  and 
+then  cooked  and  served  to  a  three  member  experienced  taste  panel.   A 
+randomized  complete  block  design  was  used  with  the  enzymes  as  treatments 
+and  tasters  as  blocks.   From  these  results,  concentrations  of  0.002%, 
+0.003%  and  0.002%  for  papain,  bromelin  and  ficin  respectively  were 
+selected  for  further  study. 
+
+Statistical  design 
+
+The  statistical  design  chosen  for  the  main  experiment  was  that  of  a 
+balanced  incomplete  block  design.   This  design  was  arranged  in  blocks 
+that  were  smaller  than  a  complete  replication,  because  this  experiment 
+involved  nine  treatments  and  it  was  not  possible  for  taste  panelists  to 
+sample  all  nine  treatments  at  one  setting.  This  design  had  the  property 
+that  any  pair  of  treatments  appeared  together  equally  often  within  some 
+block  (in  this  case  three  times)  and  all  comparisons  among  pairs  of 
+treatments  were  made  with  equal  precision.   The  plan  of  these  designs  was 
+explained  in  Plan  1,  Appendix.   The  number  of  treatments,  t  =  9;  the 
+number  of  units  per  block,  K  =  A;  the  number  of  replications,  r  =  8;  and 
+the  number  of  blocks,  b  =  18.   Two  blocks  were  done  per  week. 
+
+Blade-tender izat ion 
+
+Uniform  penetration  of  enzyme  solutions  has  always  been  a  problem 
+and  samples  in  this  experiment  were  subjected  to  blade-tenderization 
+using  a  Steak  Master,  Model  401  (Hobart-Federal  Engineering  Corp., 
+Minneapolis,  Minn.)  so  as  to  open  up  the  structure  of  the  meat  and 
+facilitate  penetration  of  the  enzyme  solution  deeper  and  more  uniformly 
+throughout  the  meat  sample.  Although  blade-tenderization  tenderizes  meat 
+to  a  certain  extent,  it  is  still  not  tender  enough  and  further  enzyme 
+treatment  is  needed  to  produce  a  tender  product. 
+
+
+26 
+
+
+Treatments 
+
+The  experiment  consisted  of  nine  treatments. 
+Treatment  1 : 
+
+This  served  as  a  control  where  the  pectoralis  major  muscles  were 
+soaked  in  1000  ml  of  distilled  water  for  60  minutes. 
+Treatment  2: 
+
+This  served  as  a  second  control  where  the  pectoralis  major  muscles 
+were  first  blade-tenderized  and  then  soaked  in  1000  ml  of  distilled  water 
+for  60  minutes. 
+Treatment  3 : 
+
+The  pectoralis  major  muscles  were  blade-tenderized  and  soaked  in  a 
+solution  of  0.002%  papain  for  60  minutes. 
+Treatment  4 : 
+
+The  pectoralis  major  muscles  were  blade-tenderized  and  soaked  in  a 
+
+2 
+solution  of  0.003%  bromelin  for  60  minutes. 
+
+Treatment  5: 
+
+The  pectoralis  major  muscles  were  blade-tenderized  and  soaked  in  a 
+
+3 
+
+solution  of  0.002%  ficin  for  60  minutes. 
+
+
+Papain  (Takamine  Brand  papain  30,000,  F.C.C.,  E.C.  3.4.4.10  peptide 
+peptidohydrolase)  was  obtained  from  the  Enzyme  Products  Division,  Miles 
+Laboratories,  Inc.,  Elkhart,  IN. 
+
+2 
+Bromelin  (Takamine  Brand  Bromelain  1:10  MS,  E.C.  3.4.22.4)  was  obtained 
+
+from  the  Enzyme  Products  Division,  Miles  Laboratories,  Inc.,  Elkhart, 
+
+IN. 
+
+3 
+Ficin  (Enzeco  (R)  Ficin,  K-13348)  was  obtained  from  the  Enzyme 
+
+Development  Corporation,  New  York,  NY. 
+
+
+27 
+
+
+Treatment  6 : 
+
+The  pectoralis  major  muscles  were  blade-tenderized  and  soaked  in  a 
+solution  of  1%  sodium  chloride  and  6%  Kena  FP-28  for  60  minutes. 
+Treatment  7 : 
+
+The  pectoralis  major  muscles  were  blade-tenderized  and  soaked  in  a 
+solution  of  1%  sodium  chloride,  6%  Kena  FP-28  and  0.002%  papain  for  60 
+minutes . 
+Treatment  8: 
+
+The  pectoralis  major  muscles  were  blade-tenderized  and  soaked  in  a 
+solution  of  1%  sodium  chloride,  6%  Kena  FP-28  and  0.003%  bromelin  for  60 
+minutes. 
+Treatment  9: 
+
+The  pectoralis  major  muscles  were  blade-tenderized  and  soaked  in  a 
+solution  of  1%  sodium  chloride,  6%  Kena  FP-28  and  0.002%  ficin  for  60 
+minutes. 
+
+Batter  and  Breading  Procedure: 
+
+Each  breast  fillet  (pectoralis  major  muscle)  was  individually  coated 
+as  follows:   The  fillet  was  immersed  in  a  whole  milk  predip  for  10 
+seconds;  placed  in  a  10"  by  10"  plastic  bag  containing  70  grams  of 
+breading  mix  and  shaken  for  10  seconds.   The  breading  mix  was  composed  of 
+the  following  ingredients:  wheat  flour,  partially  hydrogenated  soybean, 
+cottonseed  and  palm  oils,  salt,  malted  barley,  sugar,  spices,  paprika, 
+yeast,  corn-starch,  dried  garlic,  monosodium  glutamate  (flavor  enhancer), 
+natural  hickory  smoke  flavor,  artificial  color,  and  dried  onion. 
+
+
+Kena  formula  FP-28  was  obtained  from  the  Stauffer  Chemical  Company, 
+Westport,  CT. 
+
+
+28 
+
+
+Baking  Procedure 
+
+The  breast  fillets  (pectoralis  major  muscles)  were  placed  on  metal 
+cooking  pans  (six  fillets  per  pan)  and  baked  in  a  commercial  sized 
+Partlow  rotary  oven  (National  Mfg.  Co.,  Lincoln,  Nebraska)  which  was 
+preheated  to  125°F.  The  fillets  were  allowed  to  bake  at  125°F  for  15 
+minutes  after  which  the  temperature  was  raised  to  175°F  for  15  minutes; 
+it  was  again  raised  to  225 CF  for  another  15  minutes  and  finally  to  300°F 
+for  10  minutes.  The  total  cooking  time  was  55  minutes  and  the  internal 
+temperature  of  the  breast  fillets  was  approximately  155 °F.   The  purpose 
+of  gradually  raising  the  temperature  of  the  oven  was  to  give  the  enzymes 
+a  chance  to  act  on  the  meat,  since  at  a  high  temperature  the  enzymes  most 
+often  are  inactivated  before  much  digestion  takes  place  (Anonymous, 
+1975). 
+
+Sensory  Evaluation 
+
+The  taste  panel  was  conducted  in  an  open  area  in  the  food 
+laboratory.   Taste  panelists  met  at  the  same  time  and  at  the  same  place 
+every  Tuesday  and  Thursday  for  nine  weeks.   The  upper  portion  of  the 
+pectoralis  major  muscle  was  used  for  sensory  evaluation.   Samples  were 
+cut  perpendicular  to  the  muscle  fibers.   A  nine  point  intensity  scale 
+(Form  1,  Appendix)  was  used  by  the  six-membered  experienced  taste  panel 
+for  evaluation  of  flavor,  juiciness,  tenderness  and  overall 
+acceptability  (Larmond,  1977;  IFT  Sensory  Evaluation  Division,  1981). 
+
+Objective  Measurements 
+
+The  upper  portion  of  the  pectoralis  major  muscle  was  used  for  the 
+objective  measurements  as  did  for  sensory  evaluation.   Samples  were  cut 
+parallel  to  the  muscle  fibers  and  measured  2  x  2  x  1  cm  and  weighed  4.5 
+
+
+29 
+
+
+gms.   The  instrument  used  for  measuring  the  tenderness  of  the  samples  was 
+an  Allo-Kramer  shear  press  (Alio  Precision  Metals  Engineering,  Inc., 
+Rockville,  Maryland).   The  samples  were  placed  in  the  center  of  the 
+standard  shear-compression  cell  and  were  sheared  perpendicular  to  the 
+muscle  fibers.  A  500  pound  proving  ring  was  used  to  shear  the  sample, 
+the  chart  speed  was  set  at  high  and  the  crosshead  speed  was  constant  at 
+all  times.   Only  one  measurement  was  taken  from  the  curve,  the  length  of 
+the  peak  height.  This  correlates  with  the  force  required  to  shear  a 
+given  sample  and  is  represented  in  kilograms  of  force  required  to  shear 
+one  gram  of  the  sample  (Cunningham  and  Tiede,  1981). 
+
+Soak  Pick  Up 
+
+The  breast  fillets  (pectoralis  major  muscles)  were  weighed  before 
+and  after  soaking  in  the  various  solutions  and  then  the  percentage  pick 
+up  was  calculated  (Table  3,  Appendix). 
+
+Cooking  Loss 
+
+The  breast  fillets  were  weighed  before  and  after  the  cooking  process 
+and  the  percentage  cooking  loss  was  calculated  (Table  3,  Appendix). 
+
+Shrinkage 
+
+The  length  of  the  breast  fillets  were  measured  before  and  after 
+cooking  using  stainless  steel  calipers.   These  measurements  were  then 
+used  as  an  indication  of  shrinkage  (Table  3,  Appendix). 
+
+
+30 
+
+
+RESULTS  AND  DISCUSSION 
+
+Taste  panel  scores,  shear  press  measurements,  moisture  pickup, 
+
+cooking  loss,  and  shrinkage  of  spent  hen  breast  fillets  (pectoralis  major 
+
+muscles)  treated  with  various  enzyme  and  salt  solutions  were  evaluated  as 
+shown  below. 
+
+Sensory  Evaluation 
+
+Results  of  the  six-member  taste-panel  evaluation  for  flavor, 
+juiciness,  and  overall  acceptability  using  a  nine-point  intensity  scale 
+are  presented  in  Table  1. 
+
+Flavor 
+
+There  was  no  significant  difference  in  flavor  between  the  nine 
+treatments  (P  <0.05),  but  there  were  higher  mean  values  for  the  controls 
+(treatment  1)  and  for  breast  fillets  soaked  in  1%  sodium  chloride  +  6% 
+Kena  FP=28  (treatment  6).   Panelists  noted  slight  off-flavors  in  enzyme 
+treated  breast  fillets  and  a  slight  soda  like  taste  in  breast  fillets 
+treated  with  1%  sodium  chloride  and  6%  Kena  FP-28.  Those  observations 
+were  also  made  by  Landes  (1972). 
+
+Juiciness 
+
+The  controls  and  breast  fillets  that  were  treated  with  1%  sodium 
+chloride  +  6%  Kena  FP-28  with  or  without  enzymes  (treatments  1,  6,  7, 
+8,  and  9)  were  significantly  (P  <  0.05)  juicier  than  the  other  treatments 
+(treatments  2,  3,  4  and  5).   Breast  fillets  that  were  blade-tenderized 
+were  less  juicy  than  the  controls  because  they  were  more  susceptible  to 
+moisture  loss.   Those  fillets  treated  with  1%  sodium  chloride  +  6%  Kena 
+FP-28  (treatments  6,  7,  8  and  9)  were  juicier  because  the  effect  of  the 
+salts  compensated  for  the  blade-tenderization. 
+
+
+31 
+
+
+* 
+Table  1.   Adjusted  means  for  flavor,  juiciness  and  overall 
+
+acceptability  scores. 
+
+
+2 
+Treatments 
+
+Flavor 
+
+Juiciness 
+
+Overall 
+Acceptability 
+
+1 
+
+6.20a 
+
+6.95a 
+
+6.09a 
+
+2 
+
+5.75a 
+
+5.46b 
+
+5.99a 
+
+3 
+
+5.68a 
+
+5.31b 
+
+5.71a 
+
+4 
+
+5.80a 
+
+5.40b 
+
+5.87a 
+
+5 
+
+5.62a 
+
+5.44b 
+
+6.02a 
+
+6 
+
+6.15a 
+
+5.99a 
+
+6.58a 
+
+7 
+
+5.30a 
+
+5.93a 
+
+6.17a 
+
+8 
+
+5.83a 
+
+5.81a 
+
+6.05a 
+
+9 
+
+5.88a 
+
+5.76a 
+
+6.35a 
+
+For  juiciness 
+
+LSD  Q5  =  .3015 
+
+1,  dislike  extremely,  extremely  dry  or  dislike  extremely  to  9,  like 
+extremely,  extremely  juicy  or  like  extremely. 
+
+2 
+
+1:  Control 
+
+2:  Blade-tenderized  control 
+
+3:  Blade-tenderized  +  0.002%  papain 
+
+4:  Blade-tenderized  +  0.003%  bromelain 
+
+5:  Blade-tenderized  +  0.002%  ficin 
+
+6:  Blade-tenderized  +  1%  Nacl  +  6%  Kena  FP-28 
+
+7:  Blade-tenderized  +  1%  Nacl  +  6%  Iena  FP-28  +  0.002%  papain 
+
+8:  Blade-tenderized  +  1%  Nacl  +  6%  Kena  FP-28  +  0.003%  bromelain 
+
+9:  Blade-tenderized  +  1%  Nacl  +  6%  Kena  FP-28  +  0.002%  ficin. 
+
+* 
+Refer  Cochran  and  Cox  (1957). 
+
+
+32 
+
+
+Phosphates  effects  on  juiciness  of  meat  was  noted  by  Cassidy  (1977),  May 
+(1962),  and  Spencer  and  Smith  (1962).   There  were  no  significant 
+differences  in  juiciness  between  breast  fillets  treated  with  1%  sodium 
+chloride  +  Kena  FP-28  (treatments  6,  7,  8  and  9)  and  controls. 
+
+Overall-acceptability 
+
+There  were  no  significant  differences  in  overall-acceptability 
+between  the  nine  treatments;  however,  there  was  a  preference  for  the 
+controls  and  for  those  treated  with  salts  (treatments  6,  7,  8  and  9). 
+
+Tenderness 
+
+The  blade-tenderized  controls  were  significantly  more  tender  (P  < 
+0.05)  than  the  regular  controls.   Tenderness  improvement  was  likely  due 
+to  decreased  structural  strength  of  the  myofibrillar  and  connective 
+tissue.   Similar  results  were  reported  by  Hayward  (1979).   Even  though 
+blade-tenderized  controls  were  significantly  more  tender  than  the  regular 
+controls,  taste  panel  data  showed  that  the  blade-tenderized  controls  were 
+in  between  'moderately  tough'  and  'slightly  tough'  on  the  taste  panel 
+preference  scale.   Breast  fillets  that  were  soaked  in  enzyme  solutions 
+alone  (0.002%  papain,  0.003%  bromelin,  and  0.002%  ficin  for  treatments  3, 
+4  and  5,  respectively)  were  significantly  (P  <  0.05)  more  tender  than  the 
+blade-tenderized  control  (treatment  2).  As  shown  in  Table  2,  the  breast 
+fillets  soaked  in  0.002%  papain  solution  (treatment  3)  were  significantly 
+(P  <  0.05)  more  tender  than  those  soaked  in  0.003%  bromelin  (treatment  4) 
+or  0.002%  ficin  (treatment  5). 
+
+Breast  fillets  soaked  in  1%  sodium  chloride  +  6%  Kena  FP-28  solution 
+(treatment  6)  were  significantly  (P  <  0.05)  more  tender  than  the  blade- 
+tenderized  control  (treatment  2)  but  were  not  significantly  different 
+
+
+33 
+
+
+from  those  soaked  in  0.003%  bromelin  (treatment  4)  or  0.002%  ficin 
+(treatment  5) ,  (Table  2) . 
+
+Breast  fillets  soaked  in  1%  sodium  chloride  +  6%  Kena  FP-28  +  0.003% 
+bromelin  (treatment  8)  and  1%  sodium  chloride  +  6%  Kena  FP-28  +  0.002% 
+ficin  (treatment  9)  were  significantly  (P  <  0.05)  more  tender  than  those 
+soaked  in  0.003%  bromelin  (treatment  4),  0.002%  ficin  (treatment  5),  and 
+1%  sodium  chloride  +  6%  Kena  FP-28  (treatment  6)  but  were  not 
+significantly  different  from  those  soaked  in  0.002%  papain  (treatment  3). 
+
+Breast  fillets  soaked  in  1%  sodium  chloride  +  6%  Kena  FP-28  +  0.002% 
+papain  (treatment  7)  were  significantly  (P  <  0.05)  more  tender  than  all 
+other  fillets. 
+
+The  influence  of  salts  on  tenderness  have  been  shown  by  Peterson 
+(1977),  Cassidy  (1977),  Palladino  and  Ball  (1979),  and  Baker  and  Darfler 
+(1968). 
+
+Objective  Measurements 
+
+Data  calculated  from  shear-press  curves  are  reported  in  Table  2. 
+The  shear-press  values  correlate  well  with  taste  panel  values  for 
+tenderness  having  a  correlation  coefficient  of  r  =  -.984  (Fig.  11). 
+
+The  linear  regression  equation  for  the  correlation  is 
+y  =  BQ  ♦  BL  x 
+
+where     y  =  taste  panel  value 
+
+x  =  shear-press  value 
+
+B  =  9.2224 
+o 
+
+Bj  =  -.0924 
+From  this  regression  equation,  one  can  calculate  the  expected  taste  panel 
+results  by  knowing  the  shear-press  value  of  a  sample.   For  example,  if  a 
+
+
+34 
+
+
+*  1 
+
+Table  2.   Adjusted  means  for  tenderness  from  taste-panel  scores 
+
+and  shear-press  values. 
+
+
+Treatments" 
+
+
+Taste-panel  Scores 
+
+
+Shear-press  Values 
+
+
+I 
+2 
+
+3 
+4 
+5 
+
+6 
+7 
+8 
+9 
+
+
+3.45' 
+
+
+4.82 
+
+
+6.82 
+
+
+6.33 
+
+
+6.09 
+
+
+6.22 
+
+
+7.44 
+
+
+6.66 
+
+
+6.92 
+
+
+c,d 
+
+
+62.45' 
+
+
+45.70 
+
+
+31.34' 
+
+
+31.83 
+
+
+33.17 
+
+
+33.76 
+
+
+18.89 
+
+
+24.73 
+
+
+24.32 
+
+
+Taste  panel  scores  LSD  _  =  .462 
+
+Shear-press  values  LSD  n  =  4.85 
+
+b  is  significantly  more  tender  than  a  (P  <  0.05) 
+
+c  is  significantly  more  tender  than  b  (P  <  0.05) 
+
+d  is  significantly  more  tender  than  c  (P  <  0.05) 
+
+e  is  significantly  more  tender  than  d  (P  <  0.05) 
+
+
+1 
+
+
+1,  Extremely  tough  to  9,  Extremely  tender. 
+
+
+Measured  in  Kgms  of  force  required  to  shear  4.5  gms  of  the  sample, 
+
+3 
+Treatments  -  refer  Table  1. 
+
+
+Refer  Cochran  and  Cox  (1957). 
+
+
+35 
+
+
+FIGURE   1 
+
+RELATIONSHIP  BETWEEN  TASTE  PANEL  VALUES  AND 
+
+SHEAR  VALUES  FOR  TENDERNESS 
+
+
+7.5-J 
+
+
+7.0- 
+
+
+6.5-1 
+
+
+T      6.0- 
+
+a  : 
+
+S 
+T 
+
+E  - 
+
+5.5- 
+P 
+A 
+N 
+E 
+
+L      5.0-; 
+
+i 
+
+s  3 
+
+c 
+
+o 
+
+R      4.5- 
+E 
+
+S 
+
+
+A.OA 
+
+
+3.5- 
+
+
+3.0- 
+
+
+i i i i i  ■  ■  "  •  i 1 1 1 1 1 1 1 1 1 1 1 1 1 | 
+
+
+I   I    1    I   )    I    I   )    I    I   I    I    I    1    I    I   I    T    I    I    I    I   I    1    I   1    I    I   I    I    I   I    I    T 
+
+
+I    I    I    I    I   I    I    I   I    I    I    I    I    I   I    I    I   I    I    I   I    I    !   I    I    I   I    I    I    I    [ 
+
+
+5   18   21   24   27   30   33   36   39   42   45   48   51   54   57   60   63 
+
+SHEAR  VALUES 
+
+
+CORRELATION  C0EFFICIENT=-.984 
+
+
+36 
+
+
+fillet  had  a  shear-value  of  50,  and  by  using  the  equation,  y  =  B_  +  B.  x 
+y  =  9.224  +  (-.0923)  x 
+
+=  9.224  -  .0923  (50) 
+
+=4.61  would  be  the  expected  taste  panel  response. 
+4.61  on  the  score  card  is  rated  as  between  'slightly  tough1  and  'neither 
+tough  nor  tender'. 
+
+Solution  Pickup,  Cooking  Loss,  and  Shrinkage 
+
+Percentage  solution  pickup,  cooking  loss,  and  shrinkage  are  shown 
+in  Table  3.   Breast  fillets  soaked  in  solutions  containing  1%  sodium 
+chloride  and  6%  Kena  FP-28  (treatments  6,  7,  8  and  9)  were  significantly 
+(P  <  0.05)  higher  in  solution  pickup.  May  et  al  (1962)  and  Landes 
+(1972),  showed  that  polyphosphates  increased  moisture  pickup. 
+
+Even  though  there  were  no  significant  differences  between  the 
+controls  and  the  blade-tenderized  fillets  (treatments  1,  2,  3,  4  and  5) 
+regarding  solution  pickup,  there  was  an  increase  of  solution  pickup  for 
+the  blade-tenderized  fillets  compared  to  controls. 
+
+There  was  a  significant  increase  (P  <  0.05)  in  cooking  loss  for 
+breast  fillets  that  were  blade-tenderized  (except  for  two  out  of  the  four 
+treatments  that  were  treated  with  1%  sodium  chloride  and  6%  Kena  FP-28) . 
+It  is  understandable  that  blade-tenderized  fillets  would  be  more 
+susceptible  to  higher  cooking  losses  and  it  was  hoped  that  the  addition 
+of  sodium  chloride  and  Kena  FP-28  would  reduce  the  cooking  losses,  but 
+this  was  true  only  in  two  out  of  the  four  salt  treatments. 
+
+There  was  no  significant  difference  between  any  of  the  treatments 
+regarding  shrinkage,  in  contrast  to  findings  reported  by  Shults  and 
+Wierbicki  (1973),  where  the  use  of  phosphates  in  meat  reduced  shrinkage. 
+
+
+Table  3.   Adjusted  means  for  percent  change  in 
+solution  pickup,  cooking  loss  and 
+shrinkage. 
+
+
+Treatments 
+
+
+1 
+
+
+Pickup 
+
+
+Cooking  Loss 
+
+
+Shrinkage 
+
+
+37 
+
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+
+
+1.85' 
+
+
+3.45' 
+
+
+4.64 
+
+
+5.40' 
+
+
+4.66' 
+
+
+23.071 
+
+
+22.541 
+
+
+22.23 
+
+
+29.45 
+
+
+9.70' 
+
+
+15.18' 
+
+
+11.71 
+
+
+13.26 
+
+
+12.80 
+
+
+7.02' 
+
+
+14.67 
+
+
+11.19 
+
+
+9.64' 
+
+
+23.38' 
+
+23.29' 
+
+22.26* 
+
+22.65* 
+
+20.79* 
+
+17.38* 
+
+20.24 
+
+18.70* 
+
+22.85* 
+
+
+a 
+
+
+Pickup  LSD  -  =  4, 
+
+
+86 
+
+
+Cooking  Loss  LSD  .  =  4.20 
+Shrinkage  NS2 
+
+
+Treatments  -  refer  Table  1,  Appendix 
+
+
+"NS  -  Not  significant 
+
+k 
+
+Refer  -  Cochran  and  Cox  (1957) 
+
+
+38 
+
+
+In  conclusion,  breast  fillets  that  were  blade-tenderized  were 
+significantly  more  tender  (P  <  0.05)  than  the  controls,  and  breast- 
+fillets  soaked  in  solutions  of  0.002%  papain,  0.003%  bromelin,  or  0.002% 
+ficin  were  significantly  more  tender  (P  <  0.05)  than  the  blade- 
+tenderized  controls.   The  fillets  soaked  in  papain  were  significantly 
+more  tender  (P  <  0.05)  than  those  soaked  in  solutions  of  either  bromelin 
+or  ficin.   Breast-fillets  soaked  in  1%  sodium  chloride  and  6%  Kena  FP-28 
+alone  were  as  tender  as  those  soaked  in  solutions  of  either  bromelin  or 
+ficin.   Breast-fillets  soaked  in  solutions  of  1%  sodium  chloride  and  Kena 
+FP-28  plus  either  papain,  bromelin  or  ficin  were  significantly  more 
+tender  (P  <  0.05)  than  all  other  treatments.   Those  treated  with  sodium 
+chloride  +  Kena  FP-28  +  papain  were  the  most  tender.  Taste-panel  values 
+and  shear-press  values  for  tenderness  were  highly  correlated;  the 
+coefficient  was  r  ■  -.984.   There  was  no  significant  difference  in  flavor 
+and  overall-acceptability  between  the  nine  treatments.   The  control 
+(treatment  1)  and  breast-fillets  treated  with  sodium  chloride  and  Kena 
+(treatments  6,  7,  8  and  9)  were  significantly  juicier  (P  <  0.05)  than  the 
+other  treatments.   Breast-fillets  soaked  in  solutions  containing 
+sodium-chloride  and  Kena  FP-28  had  a  significantly  higher  (P  <  0.05) 
+solution  pick  up.   Regarding  cooking  loss,  the  control,  and  treatments  6 
+and  9  had  a  significant  decrease  (P  <  0.05)  in  cooking  loss.   There  was 
+no  significant  difference  in  shrinkage  among  the  treatments. 
+
+
+39 
+
+
+References 
+
+
+Anonymous,  1975.  Meat  tenderizing  manual.   P.  17-19.   B.  Heller  and 
+Company,  Chicago,  Illinois. 
+
+Arnon,  R. ,  1970.   'Methods  in  Enzymology',  Vol.  19.   P.  226.   Academic 
+Press,  New  York,  NY. 
+
+Balls,  A.  K. ,  Thompson,  R.  R.  and  Jones,  W.  W. ,  1940.   Crude  papain. 
+Ind.  Eng.  Chem.  32:  1144-1147. 
+
+Baker,  R.  C.  and  Darfler,  J.,  1968.   A  comparsion  of  leghorn  fowl  and 
+fryers  for  precooked  battered  fried  chicken.   Poultry  Sci. 
+47:1590-1599. 
+
+Baker,  R.  C,  Darfler,  J.  M.  and  Vardehra,  D.  V.,  1972.   Preboned  fried 
+chicken.   I.  Evaluation  of  cooking  methods.   Poultry  Sci. 
+51:1215-1220. 
+
+Bandack,  Y.  S.  and  Rose,  D.,  1961.  Proteases  of  chicken  breast  muscle. 
+Food  Technol.  15:186-188. 
+
+Bawa,  A.  S.,  Orr,  H.  L.  and  Usborne,  W.  R. ,  1981.   Enzymatic 
+
+tenderization  of  spent  white  leghorn  hens.   Poultry  Sci.  60:744-749. 
+
+Beuk,  J.  F.,  Savich,  A.  L.  and  Goeser,  P.  A.,  1959.  Methods  of 
+
+tenderizing  meat.   U.  S.  Pat.  2,903,362.   Patent  issued  September  8, 
+1959. 
+
+Birkner,  M.  L.  and  Auerbach,  E.,  1960.  Microscopic  Structure  of  Animal 
+Tissues,  in  "The  Science  of  Meat  and  Meat  Products,"  p.  29-55.  W. 
+Freeman  and  Company,  San  Francisco. 
+
+Brandly,  P.  J.,  Migoki,  G.  and  Taylor,  K.  E. ,  1966.  Meat  Hygiene.  3rd 
+ed.,  p.  512-515.   Lea  and  Febiger,  Philadelphia,  PA. 
+
+Cassidy,  J.  P.,  1977.   Phosphates  in  meat  processing.   Food  Product 
+Development.   11(5): 74-77. 
+
+Charley,  H. ,  1970.   Food  Science,  p.  395-402.   The  Ronald  Press  Company, 
+New  York. 
+
+Cochran,  W.  G.  and  Cox,  G.  M. ,  1957.   Experimental  Designs.   2nd  ed., 
+p.  439-482.   John  Wiley  and  Sons,  Inc.,  New  York. 
+
+Cunningham,  F.  E.  and  Tiede,  L.  M. ,  1981.   Properties  of  selected  poultry 
+products  treated  with  a  tenderizing  marinade.   Poultry  Sci.  60: 
+2475-2479. 
+
+Davey,  C.  L.  and  Gilbert,  K.  V.,  1967.   Structural  changes  in  meat  during 
+aging.   J.  Food  Tech.  2:57-59. 
+
+
+40 
+
+
+Davey,  C.  L.,  Kuttel,  H.  and  Gilbert,  K.  V.,  1967.   Shortening  as  a 
+factor  in  meat  aging.   J.  Food  Tech.  2:53-56. 
+
+Davey,  C.  L.  and  Gilbert,  K.  V. ,  1968.   Studies  in  meat  tenderness.   6. 
+The  nature  of  myofibrillar  proteins  extracted  from  meat  during 
+aging.   J.  Food  Sci.  33:343-348. 
+
+Davey,  C.  L.  and  Gilbert,  K.  V.,  1969.   Studies  in  meat  tenderness.   7. 
+Changes  in  the  fine  structure  of  meat  during  aging.   J.  Food  Sci. 
+34:69-74. 
+
+Davey,  C.  L.  and  Dickson,  M.  R. ,  1970.   Studies  in  meat  tenderness.   8. 
+Ultra  structural  changes  in  meat  during  aging.   J.  Food  Sci. 
+35:56-60. 
+
+Dawson,  L.  E.  and  Wells,  G.  H.,  1969.   Tenderness  of  freeze-dried  chicken 
+treated  with  proteolytic  enzymes.   Poultry  Sci.  48:64-70. 
+
+De  Fremery,  D.  and  Pool,  M.  F.,  1960.  Biochemistry  of  chicken  muscle  as 
+related  to  rigor  mortis  and  tenderization.  Food  Res.  25:73-87. 
+
+De  Fremery,  D.,  1963.   Relation  between  biochemical  properties  and 
+
+tenderness  of  poultry.   Proc.  Meat  Tenderness  Symposium,   p.  99-120 
+Campbell  Soup  Company,  Camden. 
+
+De  Fremery,  D.  and  Streeter,  I.  V.,  1969.   Tenderization  of  chicken 
+
+muscle:  The  stability  of  alkali-insoluble  connective  tissue  during 
+post-mortem  aging.   J.  Food  Sci.  34:176-180. 
+
+Demby,  J.  H.  and  Cunningham,  F.  E.,  1980.   Factors  affecting  composition 
+of  chicken  meat.  A  literature  review.  World  Poultry  Sci.  J. 
+36:25-67. 
+
+Dodge,  J.  W.  and  Stadelman,  W.  J.,  1959.  Postmortem  aging  of  poultry 
+
+meat  and  its  effect  on  the  tenderness  of  the  breast  muscles.   Food 
+Technol.  13:81-83. 
+
+El-Gharbawi,  M.  and  Whitaker,  J.  R.,  1963.   Factors  affecting  enzymatic 
+solubilization  of  beef  proteins.   J.  Food  Sci.  28:168-172. 
+
+Ensminger,  M.  E.,  1980.   'Poultry  Science.'   p.  27-28.   The  Interstate 
+Printers  and  Publishers,  Inc.,  Danville,  Illinois. 
+
+Farr,  A.  J.  and  May,  K.  N.,  1970.   The  effect  of  polyphosphates  and 
+sodium  chloride  on  cooking  yields  and  oxidative  stability  of 
+chicken.   Poultry  Sci.  49:268-275. 
+
+Federal  Register,  1980.  Vol.  45:  No.  174.,  Rules  and  Regulations. 
+
+Fristrom,  G.  A.  and  Weihrauch,  J.  L.,  1973.  Comprehensive  evaluation  of 
+fatty  acids  in  foods.  3.  Eggs  and  egg  products.  J.  Amer.  Dietetic 
+Assoc.  62:724-729. 
+
+Fry,  J.  L.,  Waldroup,  P.  W.,  Ahmed,  E.  M.  and  Lydick,  H.,  1966. 
+
+Enzymatic  tenderization  of  poultry  meat.   Food  Technol.  20:102-103. 
+
+
+41 
+
+
+Gainer,  J.  M. ,  Stewart,  G.  F.  and  Lowe,  B.,  1951.   Effect  of  hand  and 
+machine  massage  on  the  tenderness  of  poultry  muscles  aged  for 
+short  time  periods.  Food  Res.  16:469-473. 
+
+Gilpin,  G.  L.,  Harkin,  A.  M.,  Redstrom,  R.  A.  and  Dawson,  E.  H. ,  1960. 
+Quality  and  yield  of  modern  old-type  chickens.   Poultry  Sci. 
+39:924930. 
+
+Goodwin,  T.  L.  and  Waldroup,  P.  W. ,  1970.  Tenderizing  meat  from  broiler 
+breeder  males  by  papain  injection  and  aging  in  slush  ice.  Arkansas 
+Farm  Res.  19(3) :7. 
+
+Gottschall,  G.  Y.  and  Kies,  M.  W. ,  1942.  Digestion  of  beef  by  papain. 
+Food  Res.  7:373-380. 
+
+Hale,  K.  K. ,  Cohn,  D.  D.  and  Stubblef ield,  J.  D.,  1977.   Effects  of 
+
+finishing  diet  and  cure  procedures  on  quality  of  smoked  poultry. 
+Poultry  Sci.  56:211-217. 
+
+Haleem,  M.  A.,  Greechar,  P.,  Baliga,  B.  R.  and  Lahiry,  N.  L.,  1970.   Some 
+observations  on  the  effects  of  crude  papain  on  tenderization  of 
+poultry  meat.   J.  Food  Sci.  and  Technol.  7:40-41. 
+
+Hamm,  R. ,  1960.   Biochemistry  of  meat  hydration.  Adv.  Food  Res. 
+10:355-463.  Academic  Press,  Inc.,  New  York. 
+
+Hay,  P.  P.,  Harrison,  D.  L.  and  Vail,  G.  E.,  1953.   Effects  of  a  meat 
+
+tenderizer  on  less  tender  cuts  of  beef  cooked  by  four  methods.  Food 
+Technol.  7:217-220. 
+
+Hayward,  L.,  1979.  Blade  tenderization  effects  on  subjective  and  Instron 
+objective  textural  measurements  of  longissimus  steaks  from  cattle 
+fed  various  nutritional  regimes.  M.S.  Thesis,  Kansas  State 
+University,  Manhattan,  Kansas. 
+
+Heinicke,  R.  M.  and  Gortner,  W.  A.,  1957.  Stem  bromelain  from  pineapple 
+plant.   Econ.  Botany.  11:225-234. 
+
+Huffman,  D.  L.,  Palmer,  A.  Z.,  Carpenter,  J.  W.  and  Shirley,  R.  L.,  1961. 
+The  effect  of  ante-mortem  injection  of  papain  on  tenderness  of 
+chickens.   Poultry  Sci.  40:1627-1630. 
+
+Hwang,  K.  and  Ivy,  A.  C.,  1951.   A  review  of  the  literature  on  the 
+
+potential  therapeutic  significance  of  papain,  in  'Papain'.  Annals 
+of  the  New  York  Academy  of  Sciences.   54  (2): 161-207. 
+
+IFT  Sensory  Evaluation  Division,  1981.   Guidelines  for  the  preparation 
+and  reviwe  of  papers  reporting  sensory  evaluation  data.   Food 
+Technol.  35(4): 16. 
+
+Kang,  C.  K.  and  Rice,  E.  E.,  1970.  Degradation  of  various  meat  fractions 
+by  tenderizing  enzymes.   J.  Food  Sci.  35:563-565. 
+
+Kang,  C.  K.  and  Warner,  W.  D.,  1974.   Tenderization  of  meat  with  latex 
+proteases.   J.  Food  Sci.  39:812-818. 
+
+
+42 
+
+
+Kami,  A.  G.,  Kask,  K.  A.,  Eeesmaa,  M.  A.,  Akhven,  P.  E.  and  Pyakhlapive, 
+E.  A.,  1974.  Possibility  of  improving  quality  of  meat  products. 
+Tallian  Poliitehnilise  Inslituudi  Tometised.  367:63.   (In  Food  Sci. 
+and  Technol.  Abstr.  1976.  8(7): 177). 
+
+Katz,  M.  A.,  Dugan,  L.  R.  Jr.  and  Dawson,  L.  E.,  1966.   Fatty  acids  in 
+
+neutral  lipids  and  phospholipids  from  chicken  tissues.   J.  Food  Sci. 
+31:717-720. 
+
+Khan,  A.  W.  and  Van  den  Berg,  L.,  1964.   Changes  in  chicken  muscle 
+
+proteins  during  aseptic  storage  at  above  freezing  temperatures.   J. 
+Food  Sci.  29:49-52. 
+
+Kimmel,  J.  R.  and  Smith,  E.  L. ,  1957.  The  properties  of  papain. 
+Advances  in  Enzymology.  19:267-334. 
+
+Klose,  A.  A.,  Pool,  M.  F.,  Wiele,  M.  B.,  Hanson,  H.  L.  and  Hans 
+
+Lineweaver,  1959.   Poultry  tenderness.   I.  Influence  of  processing 
+on  tenderness  of  turkeys.   Food  Technol.,  13:20-24. 
+
+Klose,  A.  A.,  Pool,  M.  F.,  de  Fremery,  D.,  Campbell,  A.  A.  and  Hanson, 
+H.  L.,  1960.   Effect  of  laboratory  scale  agitated  chilling  of 
+poultry  on  quality.   Poultry  Sci.  39:1193-1198. 
+
+Klose,  A.  A.,  Campbell,  A.  A.,  Pool,  M.  F.  and  Hanson,  H.  L.,  1961. 
+Turkey  tenderness  in  relation  to  holding  in  and  rate  of  passage 
+through  thawing  range  of  temperature.   Poultry  Sci.  40:1633-1636. 
+
+Klose,  A.  A.,  Campbell,  A.  A.  and  Hanson,  H.  S.,  1963.   Influence  of 
+polyphosphates  in  chilling  water  on  quality  of  poultry  meat. 
+Poultry  Sci.  42:743-749. 
+
+Koonz,  C.  H.,  Darrow,  M.  I.  and  Essary,  E.  0.,  1954.  Factors  influencing 
+tenderness  of  principal  muscles  composing  the  poultry  carcass.  Food 
+Technol.  8:97-100. 
+
+Landes,  D.  R.,  1972.   The  effects  of  polyphosphates  on  several 
+
+organoleptic,  physical,  and  chemical  properties  of  stored  precooked 
+frozen  chickens.   Poultry  Sci.  51:641-646. 
+
+Landmann,  W.  A.,  1963.   Enzymes  and  their  influence  on  meat  tenderness. 
+
+Proceedings  of  Meat  Tenderness  Symposium,  Campbell  Soup  Co.,  Camden, 
+N.J.,  p.  87-98. 
+
+Larmond,  E.,  1977.   Laboratory  Methods  for  Sensory  Evaluation  of  Food,  p. 
+41-49.  Research  Branch,  Canada  Dept.  of  Agriculture,  Publication 
+1637. 
+
+Lawrie,  R.  A.,  1968.   Meat  Science.   Pergamon  Press,  New  York,  N.Y., 
+p.  348-353. 
+
+Lee,  W.  T.  and  Dawson,  L.  E.,  1973.  Chicken  lipid  changes  during  cooking 
+in  fresh  and  reused  cooking  oil.   J.  Food  Sci.  38:1232-1237. 
+
+
+43 
+
+
+Lee,  Y.  B.,  Hargus,  G.  L.,  Hagberg,  E.  C.  and  Forsythe,  R.  H.,  1976. 
+Effect  of  antemortem  environmental  temperatures  on  postmortem 
+glycolysis  and  tenderness  in  excised  broiler  breast  muscle.   J.  Food 
+Sci.  41:1466-1469. 
+
+Lilyblade,  A.  L.  and  Peterson,  D.  W. ,  1962.   Inositol  and  free  sugars  in 
+chicken  muscle  post-mortem.   J.  Food  Sci.  27:245-249. 
+
+Lowe,  B.,  1943.   Experimental  cookery  from  the  chemical  and  physical 
+
+standpoint.   3rd  ed.,  Chapter  8,  p.  209-212.   John  Wiley  and  Sons, 
+New  York. 
+
+Lowey,  S.,  Slayter,  H.  S.,  Weeds,  A.  G.  and  Baker,  H. ,  1969. 
+
+Substructure  of  the  myosin  molecule.   I  Subfragments  of  myosin  by 
+enzymatic  degradation.   J.  Mol.  Biol.  42(1): 1-29. 
+
+Ma,  R.  T-I.,  Addis,  P.  and  Allen,  E.,  1971.  Response  to  electrical 
+stimulation  and  post-mortem  changes  in  turkey  pectoralis  major 
+muscle.   J.  Food  Sci.  36:125-129. 
+
+May,  K.  N.,  Helmer,  R.  L.,  and  Saffle,  R.  L.,  1962.   Effect  of  phosphate 
+treatment  on  carcass  weight  changes  and  organoleptic  quality  of 
+cut-up  chicken.  Poultry  Sci.  41:1665. 
+
+Mcintosh,  E.  N.  and  Carlin,  A.  F.,  1963.   The  effect  of  papain 
+
+preparations  on  beef  skeletal  muscle  proteins.   J.  Food  Sci. 
+28:283-285. 
+
+McWilliams,  M. ,  1966.   Food  Fundamentals,  p.  177-178,  John  Wiley  and 
+Sons,  New  York. 
+
+
+Mellor,  D.  B.,  Stringer,  P.  A.,  and  Mountney,  G.  J.,  1958.  The  influence 
+of  glycogen  on  tenderness  of  broiler  meat.  Poultry  Sci. 
+37:1028-1034. 
+
+Miyada,  D.  S.  and  Tappel,  A.  L.,  1956.   The  hydrolysis  of  beef  proteins 
+by  various  proteolytic  enzymes.   Food  Res.  21:217-225. 
+
+Monk,  J.  A.,  Mountney,  G.  J.  and  Prudent,  I.,  1964.   Effect  of  phosphate 
+treatment  and  cooking  method  on  moisture  losses  of  poultry  meat. 
+Food  Technol.  18:226-229. 
+
+Mountney,  G.  J.,  1976.  Poultry  Products  Technology,   p.  53-55.  AVI 
+Publ.  Co.,  Inc.,  Westport,  CT. 
+
+Neuman,  R.  E.  and  Tytell,  A.  A.,  1950.  Action  of  proteolytic  enzymes  on 
+collagen.   Soc.  Exp.  Bio.  Med.  73:409-412. 
+
+North,  M.  0.,  1941.   Influence  of  cereal  grains  upon  quality  of  meat  in 
+turkeys.   Wyo.  Agric.  Exp.  Sta.  Bull.  248.   p.  1-19. 
+
+Palladino,  D.  K.  and  Ball,  Jr.,  H.  R.,  1979.   Effects  of  selected 
+
+inorganic  salts  on  certain  tenderness  characteristics  of  spent  hen 
+muscle.   J.  Food  Sci.  44:322-207. 
+
+
+44 
+
+
+Peterson,  D.  W. ,  Simone,  M.,  Lilyblade,  A.  L.  and  Martin,  R.,  1959.   Some 
+factors  affecting  intensity  of  flavor  and  toughness  of  chicken 
+muscle.  Food  Technol.  13:204-207. 
+
+Peterson,  D.  W. ,  1977.   Effect  of  polyphosphates  on  tenderness  of  hot  cut 
+chicken  breast  meat.   J.  Food  Sci.  42:100-101. 
+
+Pool,  M.  F.,  de  Fremery,  D.,  Campbell,  A.  A.  and  Klose,  A.  A.,  1959. 
+
+Poultry  tenderness.   II.  Influence  of  processing  on  tenderness  of 
+chickens.   Food  Technol.  13:25-29. 
+
+Prusa,  K. ,  1980.   Thiamen  content  and  sensory  evaluation  of  post-mortem 
+papain- injected  chicken  cooked  in  microwave  and  conventional  ovens. 
+M.  S.  Thesis,  Kansas  State  University,  Manhattan,  Kansas. 
+
+Rattrie,  N.  W.  and  Regenstein,  J.  M. ,  1977.   Action  of  crude  papain  on 
+actin  and  myosion  heavy  chains  isolated  from  chicken  breast  muscle. 
+J.  Food  Sci.  42:1159-1163. 
+
+Reed,  G.,  1966.   Enzymes  in  Food  Processing.   P.  123-125.  Academic 
+Press,  New  York  and  London. 
+
+Robbins,  F.  M. ,  Walker,  J.  E.,  Cohen,  S.  E.  and  Chatterjee,  S.,  1979. 
+Action  of  proteolytic  enzymes  on  bovine  myofibrils.   J.  Food  Sci. 
+44:  1672-1680. 
+
+Rogers,  R.  W.,  Kemp,  J.  D.  and  Varney,  W.  Y.,  1965.   Effects  of  enzyme 
+addition  of  palatability ,  tenderness,  and  rancidity  development  in 
+quick-aged  country-style  hams.   Food  Technol.  19:1590-1594. 
+
+Sayre,  R.  N.,  1968.   Post-mortem  changes  in  extractability  of 
+
+myofibrillar  protein  from  chicken  pectoralis.   J.  Food  Sci. 
+33:609-612. 
+
+Sherman,  P.,  1961.   The  water  binding  capacity  of  fresh  pork.   I.  The 
+
+influence  of  NaCl,  pyrophosphate  on  water  absorption.  Food  Technol. 
+15:79-87. 
+
+Shrimpton,  D.  H.,  1960.   Some  causes  of  toughness  in  broilers.   I. 
+
+Packing  station  procedure,  its  influence  on  the  chemical  changes 
+associated  with  rigor  mortis  and  on  tenderness  of  the  flesh. 
+British  Poultry  Sci.  1:101-109. 
+
+Shrimpton,  D.  H.  and  Miller,  W.  S.,  1960.   Some  causes  of  toughness  in 
+broilers.   II.  Effects  of  breed,  management  and  sex.   British 
+Poultry  Sci.  1.   111-120. 
+
+Shults,  G.  W.  and  Wierbicki,  E. ,  1973.   Effects  of  sodium  chloride  and 
+
+condensed  phosphates  on  the  water  holding  capacity,  pH  and  swelling 
+of  chicken  muscle.   J.  Food  Sci.  38:991-994. 
+
+Smith,  E.  C.  B.,  1942.   The  nations  food.   V.  Meat  as  a  food.   2. 
+
+Chemical  composition  of  mammalian  and  avian  meat.   Soc.  Chem., 
+Indus.  Jour.  61:373-379. 
+
+
+45 
+
+
+Sosebee,  M.  E.,  May,  K.  N.  and  Powers,  J.  J.,  1964.   The  effects  of 
+
+enzyme  addition  on  the  quality  of  f reeze-dehydrated  chicken  meat. 
+Food  Technol.  18:149-152. 
+
+Spencer,  J.  V.  and  Smith,  L.  E.,  1962.  The  effect  of  chilling  chicken 
+
+fryers  in  a  solution  of  polyphosphates  upon  moisture  uptake, 
+
+microbial  spoilage,  tenderness,  juiciness  and  flavor.  Poultry  Sci. 
+41:1685. 
+
+Stadelman,  W.  J.  and  Wise,  R.  G.,  1961.   Tenderness  of  poultry  meat.   I. 
+Effect  of  anesthesia,  cooking  and  irradiation.   Food  Technol. 
+15:292-294. 
+
+Stadelman,  W.  J.,  1963.  Relation  of  age,  breed,  sex  and  feeding 
+practices  on  poultry  meat  tenderness.   Proceedings  of  Meat 
+Tenderness  Symposium,  Campbell  Soup  Co.,  Camden,  N.J.,  p.  183-192. 
+
+Stadelman,  W.  J.  and  Pratt,  D.  E.,  1977.   Cutting  methods  affect  fried 
+chicken  tenderness  and  flavor.   J.  Food  Sci.  42:172-173. 
+
+Stewart,  G.  E.,  Hanson,  H.  L.,  Lowe,  B.  and  Austin,  J.  J.,  1945.   Effects 
+of  aging,  freezing  rate,  and  storage  period  on  palatability  of 
+broilers.  Food  Res.  10:16-27. 
+
+Strandine,  E.  J.  and  Koonz,  C.  H.,  1963.   Effect  of  ante-mortem  enzyme 
+application  on  the  tenderness  of  turkeys.   Poultry  Sci. 
+42:1310-1311. 
+
+Stromer,  M.  H.  and  Goll,  D.  E.,  1967a.  Molecular  properties  of 
+
+post-mortem  muscle.   2.  Phase  microscopy  of  myofibrils  from  bovine 
+muscle.   J.  Food  Sci.  32:329-389. 
+
+Stromer,  M.  H.  and  Goll,  D.  E.,  1967b.  Molecular  properties  of 
+
+post-mortem  muscle.   3.  Electron  microscopy  of  myofibrils.   J.  Food 
+Sci.  32:386-389. 
+
+Stromer,  M.  H.,  Goll,  D.  E.  and  Roth,  L.  E.,  1967.  Morphology  of  rigor 
+shortened  bovine  muscle  and  the  effect  of  trypsin  on  pre-  and  post- 
+rigor  myofibrils.   J.  Cell  Biol.  34:431-445. 
+
+Stubblefield,  J.  D.  and  Hale,  K.  K. ,  Jr.,  1977.   Curing  procedure  for 
+smoked  chicken,  Poultry  Sci.  56:1135-1139. 
+
+Tappel,  A.  L.,  Miyada,  D.  S.,  Sterling,  C.  and  Maier,  V.  P.,  1956.  Meat 
+tenderization.   II.  Factors  affecting  the  tenderization  of  beef  by 
+papain.   Food  Res.  21:375-383. 
+
+Wang,  H.  and  Maynard,  N.,  1955.   Studies  of  enzymatic  tenderization  of 
+
+meat.   I.  Basic  technique  and  histological  observation  of  enzymatic 
+action.   Food  Res.  20:587-596. 
+
+Wang,  H.,  Weir,  C.  E.,  Birkner,  M.  and  Ginger,  B.,  1957.   The  influence 
+of  enzyme  tenderizers  on  the  structure  and  tenderness  of  beef. 
+Proc.  Ninth  Research  Conference,  American  Meat  Institute,  p.  69-82. 
+
+
+46 
+
+
+Wang,  H.,  Weis,  C.  E.,  Birkner,  M.  L.  and  Ginger,  B.,  1958.   Studies  on 
+enzymatic  tenderization  of  meat.   III.  Histological  and  panel 
+analysis  of  enzyme  preparations  from  three  distinct  sources.   Food 
+Res.  23:423438. 
+
+Wells,  G.  H.,  May,  K.  N.  and  Powers,  J.  J.,  1962.   Taste-panel  and 
+
+shear-press  evaluation  of  tenderness  of  freeze-dried  chicken  as 
+affected  by  age  and  pre-slaughter  feeding  of  ions.   Food  Technol. 
+16(9) -.137-139. 
+
+Wells,  G.  H.,  Dawson,  L.  E.  and  Ringer,  R.  K. ,  1965.  Histological 
+changes  in  enzyme  treated  freeze-dried  chicken.  Poultry  Sci. 
+44:1424. 
+
+Weiner,  S.  Mangel,  M. ,  MaLang,  L.  and  Kelley,  G.  C.,  1957.   Effectiveness 
+of  commercial  papain  in  meat  tenderization.   Food  Technol. 
+12:248-252. 
+
+Weir,  C.  E.,  Wang,  H. ,  Birkner,  M.  L.,  Parsons,  J.  and  Ginger,  B.,  1958. 
+Studies  on  enzymatic  tenderization  of  meat.   II.  Panel  and 
+histological  analysis  of  meat  treated  with  liquid  tenderizers 
+containing  papain.   Food  Res.  23:411-422. 
+
+Whitaker,  J.  R.,  1957.  Assay  and  properties  of  commercial  ficin.   Food 
+Res.  22:468-478. 
+
+Whitaker,  J.,  1959.   Chemical  change  associated  with  aging  of  meat  with 
+emphasis  on  the  proteins.   Advances  in  Food  Res.  9:1-60. 
+
+Wierbicki,  E.,  Cahill,  V.  R.  and  Deatherage,  F.  E.,  1957.  Effects  of 
+
+added  Nacl,  Kcl,  Cacl,  Mgcl,  and  citric  acid  on  meat  shrinkage  at 
+
+70°C  and  of  added  Nacl  on  drip  losses  after  freezing  and  thawing. 
+Food  Technol.  11:74-76. 
+
+Wismer-Pederson,  J.,  1972.   Enzymes  in  the  meat  industry.  Dechemer- 
+Monographien.  70:215.   (In  Food  Sci.  and  Technol.  Abstr.  1973. 
+5(2):174.) 
+
+Wood,  D.  and  Richards,  J.  F.,  1974.   Isometric  tension  studies  of  chicken 
+pectoralis  major  muscle.   J.  Food  Sci.  39:525-529. 
+
+Youn,  J.  E.  and  Yang,  R. ,  1974.   Studies  on  the  aging  of  beef  by  adding 
+proteolytic  enzyme.   IV.  Studies  on  the  tenderization  of  beef  by 
+papain  treatment.   Korean  J.  Food  Sci.  and  Technol.  6:163.   (In  Food 
+Sci.  and  Technol.  Abstr.   1975.  7(8): 207). 
+
+Youn,  J.  E.  and  Yang,  R. ,  1975.   Studies  on  the  aging  of  bovine  muscle  on 
+adding  proteolytic  enzyme.  V.  Studies  on  the  tenderness  evaluation 
+of  bovine  muscle  treated  with  papain  by  using  penetration  value. 
+Korean  J.  Food  Sci.  and  Technol.  7:208.   (In  Food  Sci.  and  Technol. 
+Abstr.  9(2):214). 
+
+
+47 
+
+
+ACKNOWLEDGEMENTS 
+
+Sincere  appreciation  is  expressed  to  my  major  professor,  Dr.  F.  E. 
+Cunningham,  for  his  true  interest,  patience  and  understanding  throughout 
+this  research  project. 
+
+Appreciation  is  also  expressed  to  my  graduate  committee:  Dr.  D.  Y. 
+C.  Fung,  for  his  moral  support  and  inspiring  attitude,  and  Dr.  Ike  Jeon, 
+for  advice  that  was  always  helpful. 
+
+Special  thanks  is  extended  to  Dr.  Ken  Kemp,  for  his  help  with  the 
+statistical  analysis. 
+
+Finally,  appreciation  is  expressed  to  my  family  whose  support  and 
+encouragement  have  made  the  effort  worthwhile. 
+
+
+AS 
+
+
+APPENDIX 
+
+
+49 
+
+
+FORM  1 
+
+SCORE  SHEET  FOR  SENSORY  EVALUATION  OF  SPENT  HEN  BREAST  FILLETS 
+
+SOAKED  IN  ENZYME  SOLUTION 
+
+
+SAMPLE  CODE: 
+DATE: 
+
+
+TIME: 
+
+
+PANELISTS  NAME:_ 
+LOCATION: 
+
+
+Please  taste  test  these  samples  and  check  how  much  you  like  or  dislike 
+each  one.  Use  the  appropriate  scale  to  show  your  attitude  by  checking 
+at  the  point  that  best  describes  your  feelings  about  the  sample. 
+
+
+FLAVOR 
+
+
+_Like  Extremely 
+
+
+Like  Very  Much 
+
+
+_Like  Slightly 
+
+
+_Neither  Like 
+nor  Dislike 
+
+JDislike  Slightly 
+
+
+Dislike  Moderately 
+
+
+Dislike  Very  Much 
+
+
+Dislike  Extremely 
+
+
+JUICINESS 
+
+
+Extremely  Juicy 
+
+
+_Very  Juicy 
+
+_Slightly  Juicy 
+
+_Neither  Juicy 
+nor  Dry 
+
+_Slightly  Dry 
+
+
+Moderately  Dry 
+
+
+Very  Dry 
+
+
+Extremely  Dry 
+
+
+TENDERNESS 
+
+_Extremely  Tender 
+
+_Very  Tender 
+
+_Moderately  Tender 
+
+_Slightly  Tender 
+
+_Neither  Tender 
+nor  Tough 
+
+_Slightly  Tough 
+
+_Moderately  Tough 
+
+_Very  Tough 
+
+_Extremely  Tough 
+
+
+OVERALL  ACCEPTABILITY 
+
+
+Like  Extremely 
+
+
+_Like  Very  Much 
+_Like  Moderately 
+
+
+_Like  Slightly 
+
+
+_Neither  Like 
+nor  Dislike 
+
+_Dislike  Slightly 
+
+JDislike  Moderately 
+
+
+JDislike  Very  Much 
+JDislike  Extremely 
+
+
+COMMENTS : 
+
+
+50 
+
+
+PLAN  1.    INCOMPLETE  BLOCK  DESIGN 
+
+
+t=9,  k-4,  r=8,  b=18,  A=3,  E=.84,  Type  II 
+
+Reps.  I,  II,                      Reps.  V,  VI, 
+
+Block     III,  and  IV  Block     VII,  and  VIII 
+
+(1)  14  6  7               (10) 
+
+(2)  2  6  8  9               (11) 
+
+(3)  13  8  9               (12) 
+
+(4)  12  3  4               (13) 
+
+(5)  15  7  8              (14) 
+
+(6)  4  5  6  9               (15) 
+
+(7)  2  3  6  7               (16) 
+
+(8)  2  4  5  8               (17) 
+
+(9)  3  5  7  9               (18) 
+
+
+* 
+Refer  Cochran  and  Cox  (1957). 
+
+
+1 
+
+2 
+
+5 
+
+7 
+
+2 
+
+3 
+
+5 
+
+6 
+
+3 
+
+4 
+
+7 
+
+9 
+
+1 
+
+2 
+
+4 
+
+9 
+
+1 
+
+5 
+
+6 
+
+9 
+
+1 
+
+3 
+
+6 
+
+8 
+
+4 
+
+6 
+
+7 
+
+8 
+
+3 
+
+4 
+
+5 
+
+8 
+
+2 
+
+7 
+
+8 
+
+9 
+
+Table  4.  Analysis  of  variance 
+
+
+51 
+
+
+Flavor 
+D.F. 
+
+M.S. 
+
+Group 
+
+Trt.  (unadj.) 
+
+Blocks  within  group  (adj.) 
+
+Intra-block  error 
+
+Total 
+
+F(8,46)  -  0.658KN.S.) 
+
+1 
+
+8 
+
+16 
+
+46 
+
+71 
+
+1.57035 
+0.82513 
+
+Juiciness 
+D.F. 
+
+M.S. 
+
+Group 
+
+Trt.  (unadj.) 
+
+Blocks  within  group  (adj.) 
+
+Intra-block  error 
+
+Total          A 
+
+F(8,46)  =  6.5705 
+
+1 
+
+8 
+
+16 
+
+46 
+71 
+
+0.67173 
+0.07649 
+
+Overall  Acceptability 
+D.F. 
+
+M.S. 
+
+Group 
+
+Trt.  (unadj.) 
+
+Blocks  within  group  (adj.) 
+
+Intra-block  error 
+
+Total 
+
+F(8,46)  =  2.6806(N.S.) 
+
+1 
+
+8 
+
+16 
+
+46 
+
+71 
+
+0.36980 
+0.18043 
+
+52 
+
+
+Table  5.  Analysis  of  variance 
+
+
+%  Pickup 
+
+D.F. 
+
+M.S. 
+
+Group 
+
+1 
+
+Trt.  (unadj.) 
+
+8 
+
+Block  within  group 
+
+(adj 
+
+-) 
+
+16 
+
+29.22400 
+
+Intra-block  error 
+
+46 
+
+22.56530 
+
+Total           ^ 
+
+71 
+
+F(8,46)  =  40.9556 
+
+%  Cooking  Loss 
+
+D.F. 
+
+M.S. 
+
+Group 
+
+1 
+
+Trt.  (unadj.) 
+
+8 
+
+Block  within  group 
+
+(adj, 
+
+■  ) 
+
+16 
+
+29.61998 
+
+Intra-block  error 
+
+46 
+
+16.20848 
+
+Total          ^ 
+
+71 
+
+F(8,46)  =  3.1444 
+
+%  Shrinkage 
+
+D.F. 
+
+M.S. 
+
+Group 
+
+1 
+
+Trt.  (unadj.) 
+
+8 
+
+Block  within  group 
+
+(adj  , 
+
+.) 
+
+16 
+
+37.09450 
+
+Intra-block  error 
+
+46 
+
+18.62092 
+
+Total 
+
+71 
+
+F(8,46)  =  1.8246  (N 
+
+.S.) 
+
+Table  6.   Analysis  of  variance 
+
+
+53 
+
+
+Tenderness 
+
+Taste-panel 
+
+Scores 
+
+D.F. 
+
+M.S. 
+
+Group 
+
+1 
+
+Trt.  (unadj.) 
+
+8 
+
+Blocks  within  group 
+
+(adj.)          16 
+
+0.13429 
+
+Intra-block  error 
+
+46 
+
+0.23467 
+
+Total           t* 
+
+71 
+
+F(8,46)  =  58.1139 
+
+Shear-press 
+
+Values 
+
+D.F. 
+
+M.S. 
+
+Group 
+
+1 
+
+Trt.  (unadj.) 
+
+8 
+
+Blocks  within  group 
+
+(adj.)          16 
+
+45.39453 
+
+Intra-block  error 
+
+46 
+
+32.12806 
+
+Total           ^ 
+
+71 
+
+F(8,46)  =  40.4806 
+
+TENDERIZATION  OF  SPENT  HEN  MUSCLE  USING  PAPAIN,  BROMELIN 
+OR  FICIN,  ALONE  AND  IN  COMBINATION  WITH  SALTS 
+
+
+by 
+
+
+HECTOR  A.  DE  VITRE 
+
+B.S.,  Loyola  College,  University  of  Madras, 
+Madras,  India,  1981 
+
+
+AN  ABSTRACT  OF  A  MASTER'S  THESIS 
+
+
+Submitted  in  partial  fulfillment  of  the 
+requirements  for  the  degree 
+
+
+MASTER  OF  SCIENCE 
+
+
+Food  Science 
+(Department  of  Animal  Sciences  and  Industry) 
+
+
+KANSAS  STATE  UNIVERSITY 
+Manhattan,  Kansas 
+
+1984 
+
+
+Taste  panel  scores,  shear-press  measurements,  and  percentage  of 
+cooking  loss,  shrinkage  and  soak  pick  up  of  pectoralis  major  muscles  from 
+spent  White  Leghorns,  soaked  in  solutions  of  papain,  bromelin,  and  ficin 
+alone  or  in  combination  with  sodium  chloride  and  phosphate  solutions, 
+were  determined  using  a  balanced  incomplete  block  design  with  eight 
+replications  per  treatment.   There  was  no  significant  difference  between 
+treatments  for  flavor,  overall-acceptability,  or  percentage  of  shrinkage. 
+Samples  that  were  blade-tenderized  were  significantly  more  tender  (P  < 
+0.05)  than  the  controls,  and  samples  soaked  in  solutions  of  0.002% 
+papain,  0.003%  bromelin,  and  0.002%  ficin  were  significantly  more  tender 
+(P  <  0.05)  than  the  blade-tenderized  controls.   Those  soaked  in  papain 
+were  significantly  more  tender  (P  <  0.05)  than  those  soaked  in  solutions 
+of  either  bromelin  or  ficin.   Samples  soaked  in  1%  sodium  chloride  and  6% 
+Kena  FP-28  alone  were  as  tender  as  those  soaked  in  solutions  of  either 
+bromelin  or  ficin.   Fillets  soaked  in  solutions  of  1%  sodium  chloride  and 
+Kena  FP-28  plus  either  papain,  bromelin,  or  ficin  were  significantly  more 
+tender  (P  <  0.05)  than  all  other  treatments.   Those  treated  with  sodium 
+chloride  +  Kena  FP-28  +  papain  were  the  most  tender.  Taste  panel  values 
+and  shear-press  values  for  tenderness  gave  a  correlation  coefficient  of  r 
+=  -.984.   The  controls  and  samples  treated  with  sodium  chloride  and  Kena 
+FP-28  were  significantly  juicier  (P  <  0.05)  than  the  other  treatments. 
+Samples  soaked  in  solutions  of  sodium  chloride  and  Kena  FP-28  had  a 
+significantly  higher  (P  <  0.05)  solution  pick  up. 
+
+

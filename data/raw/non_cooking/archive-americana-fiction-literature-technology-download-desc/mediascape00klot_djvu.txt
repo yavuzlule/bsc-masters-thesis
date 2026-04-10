@@ -1,0 +1,4386 @@
+I 
+
+
+iVI 
+
+
+GUGGENHEIM         MUSEUM 
+
+
+©  1996  The  Solomon  R. 
+Guggenheim  Foundation,  New  York, 
+and  ZKM/Center  for  Art  and  Media 
+Karlsruhe.  All  rights  reserved 
+
+ISBN  0-89207-172-9 
+
+Guggenheim  Museum  Publications 
+1071  Fifth  Avenue 
+New  York,  NY  10128 
+
+
+Guggenheim  Museum  S0H0 
+June  14-September  15,  1996 
+
+Mediascape  is  organized  by  the  Solomon  R.  Guggenheim  Museum,  in 
+association  with  ZKM/Center  for  Art  and  Media  Karlsruhe. 
+
+This  exhibition  is  sponsored  by  Deutsche  Telekom. 
+
+Additional  support  is  provided  by  ArtView.  The  media  sponsor  for  this 
+exhibition  is  Wired  Magazine. 
+
+
+Design  Consultant: 
+Frankfurt  Balkind  Partners 
+NY/LA/SF 
+
+
+Deutsche  H"1 
+
+Telekom   T 
+
+
+Printed  in  the  U.S.A.  by 
+Hull  Printing 
+
+"Video  Art"  by  Heinrich  Klotz 
+translated  from  the  German  by 
+Jurgen  Riehle 
+
+Texts  by  Ursula  Frohne, 
+Oliver  Seifert,  and  Annika  Blunck 
+translated  from  the  German  by 
+Bernhard  Geyer 
+
+
+Photo  credits:  pp.  12-13,  |ngo 
+Gunther;  pp.  16-17,  David  Regen, 
+courtesy  of  Barbara  Gladstone 
+Gallery,  New  York;  p.  20,  Markus 
+Hauser;  p.  21,  Toshio  Iwai;  p.  28, 
+Giorgio  Colombo,  courtesy  of 
+Panza  Archives;  pp.  30-31,  32, 
+Douglas  M.  Parker;  pp.  34-35, 
+Thomas  Goldschmidt;  pp.  46-47, 
+Jeffrey  Shaw;  pp.  50-51,  52-53, 
+Ben  Blackwell,  courtesy  of  San 
+Francisco  Museum  of  Modern  Art; 
+pp.  56-57,  Kira  Perov;  p.  59, 
+Per-Anders  Allsten;  pp.  60-61, 
+Markus  Hauser 
+
+
+CONTENTS 
+
+SPONSOR'S   STATEMENT  6 
+
+FOREWORD 
+
+Thomas  Krens  7 
+
+VIDEO     ART 
+
+Heinrich  Klotz  8 
+
+INGOGONTHER  12 
+
+JENNYHOLZER  16 
+
+TOSHIO      IWAI  20 
+
+MARIE-)0     LAFONTAINE  24 
+
+BRUCE      NAUMAN  28 
+
+NAM      JUNE      PAIK  34 
+
+BILL     SEAMAN  42 
+
+JEFFREYSHAW  46 
+
+STEINA     AND     WOODY  VASULKA                               50 
+
+BILL     VIOLA  58 
+
+
+SPONSOR'S     S  TAT  EMENT 
+
+
+Art  is  communication;  it  creates  understanding  across  frontiers.  In  many 
+respects,  Deutsche  Telekom  has  already  turned  this  truth  into  reality.  For 
+Deutsche  Telekom,  art's  beauty  is  much  more  than  what  lies  in  the  eye  of 
+the  beholder.  Art  is  intended  to  stimulate  the  mind  and  to  encourage  the 
+observer  to  examine  new  viewpoints  and  ideas.  Art  has  always  been  a 
+seismograph  registering  social  change.  Indeed,  throughout  history,  artists 
+have  depicted  processes  of  change  and  their  consequences  for  humankind. 
+
+At  Deutsche  Telekom,  we  focus  on  innovative  concepts  that  unite 
+research,  technology,  and  new  media.  For  this  reason,  we  attach  great 
+importance  to  our  collaboration  with  the  Guggenheim  Museum.  The 
+Guggenheim  has  a  long  history  of  bringing  art  to  audiences  in  the  United 
+States,  Europe,  Asia,  and  Australia.  Deutsche  Telekom  is  establishing  itself 
+as  a  global  telecommunications  player,  with  a  growing  number  of  offices, 
+partnerships,  and  activities  throughout  the  world.  The  symbiotic  relationship 
+between  art  and  telecommunications  enables  the  Guggenheim  Museum 
+and  Deutsche  Telekom  to  share  a  global  vision  of  people  communicating 
+without  borders. 
+
+Our  sponsorship  of  the  Guggenheim  Museum  concentrates  on 
+multimedia  art,  the  most  innovative  art  form  of  our  time.  Mediascape,  the 
+first  exhibition  in  our  collaboration,  displays  its  broad  scope.  Mediascape 
+brings  together,  for  the  first  time,  works  by  renowned  multimedia  artists 
+such  as  Marie-jo  Lafontaine,  Bruce  Nauman,  Nam  June  Paik,  and  Bill  Viola. 
+
+The  exhibition  takes  place,  in  part,  in  the  newly  designated 
+Deutsche  Telekom  Galleries  in  the  Guggenheim  Museum  SoHo.  These 
+galleries,  which  are  dedicated  primarily  to  the  presentation  of  works  of 
+multimedia  and  interactive  art  from  the  collections  of  the  Guggenheim 
+Museum  and  ZKM/Center  for  Art  and  Media  Karlsruhe,  reflect  the  changing 
+structure  of  society. 
+
+Deutsche  Telekom  is  committed  to  assuming  a  pioneering  role  in 
+creating  understanding  and  trust  in  the  opportunities  offered  by  future- 
+directed  technologies.  Telecommunications  will  be  among  the  key 
+technologies  of  the  next  century.  Not  only  will  telecommunications  have  a 
+lasting  impact  on  the  transfer  of  information,  they  will  change  the  very  way 
+we  work  and  how  we  enjoy  our  leisure  time.  In  short,  telecommunications 
+will  transform  our  way  of  living  and  will  restructure  society  itself. 
+
+Deutsche  Telekom  is  already  playing  a  leading  role  in  industrial 
+society's  metamorphosis  into  an  information-based  communications  society. 
+We  are  acutely  aware  of  the  enormous  responsibility  that  accompanies  this 
+role.  Our  partnership  with  the  Guggenheim  Museum  is  an  example  of  our 
+commitment  to  fulfilling  this  responsibility. 
+
+On  behalf  of  Deutsche  Telekom,  I  hope  that  you  enjoy  this 
+publication  and  the  exhibition  that  it  accompanies.  I  also  wish  you  a 
+pleasant  journey  into  the  information  age. 
+
+Dr.  Ron  Sommer 
+
+Chairman  of  the  Management  Board 
+
+Deutsche  Telekom 
+
+
+FOREWORD 
+
+
+Mediascape,  the  exhibition  that  marks  the  reopening  of  the  Guggenheim 
+Museum  SoHo,  offers  cause  for  celebration  on  many  fronts.  It  announces  the 
+Guggenheim's  commitment  to  exploring  the  relationship  between  technology 
+and  culture;  it  initiates  a  long-term  collaboration  between  the  Guggenheim 
+Museum  and  ZKM/Center  for  Art  and  Media  in  Karlsruhe,  Germany;  and, 
+finally,  the  exhibition  establishes  collaborations  with  corporate  partners  who 
+are  providing  both  financial  assistance  and  significant,  long-term  access  to 
+technology  and  expertise,  which  will  enable  the  museum  to  realize  complex 
+and  unusually  demanding  exhibitions  of  multimedia  art. 
+
+This  is  an  interesting  moment  in  history,  one  that  resembles  the 
+Italian  Renaissance  in  its  commingling  of  science,  art,  and  the  humanities.  In 
+contemporary  society,  the  traditional  notions  of  time  and  space  have  been 
+transformed  by  advances  in  technology,  telecommunications,  and  information 
+transfer.  Virtual  communities  have  emerged,  collapsing  long-standing 
+geographical  boundaries  and  localized  codes  of  cultural  identity.  The  mass 
+manufacturing  and  distribution  of  video  and  computer  equipment  has 
+generated  entirely  new  forms  of  cultural  production.  In  unprecedented 
+numbers,  and  with  a  sophistication  born  of  easy  access  to  complex 
+technologies,  artists  are  using  these  devices  as  aesthetic  tools  to  develop  a 
+new  syntax  and  structure  for  art  making.  Mediascape,  which  is  drawn  largely 
+from  the  collections  of  ZKM  and  the  Guggenheim,  offers  what  its  title 
+suggests:  a  view  of  what  new  media  have  to  offer,  from  sculptural  formats 
+and  immersive  environments  to  more  recent  interactive  digital  projects. 
+
+The  seeds  for  a  collaboration  with  ZKM  were  planted  more  than  a 
+decade  ago,  while  Heinrich  Klotz,  now  the  Executive  Director  and  Chairman 
+of  ZKM,  was  a  visiting  professor  at  Williams  College  in  Williamstown, 
+Massachusetts,  and  we  taught  a  course  together.  Over  the  years,  our 
+professional  relationship  evolved  into  a  close  friendship,  and  we  spent  many 
+hours  discussing  the  potential  impact  of  technology  on  the  culture  of  the 
+late-twentieth  and  early  twenty-first  centuries.  When  the  opportunities 
+afforded  by  the  Guggenheim's  presence  in  SoHo  intersected  with  the 
+museum's  new  partnership  with  Deutsche  Telekom,  the  collaboration  with 
+ZKM  became  a  reality.  Mediascape  is  the  first  of  a  long  series  of  exhibitions 
+planned  to  investigate  the  enormous  potential  of  the  alliance  between  high 
+technology  and  high  culture. 
+
+This  exhibition  and  its  accompanying  publication  have  been  a 
+team  effort  from  beginning  to  end.  I  am  most  grateful  to  Professor  Klotz 
+and  his  staff  at  ZKM,  including  Curator  of  Contemporary  Art  Ursula  Frohne; 
+General  Manager  Gerd  Schwandner;  Registrar  Marianne  Meister;  Curatorial 
+Assistant  Oliver  Seifert;  Research  Assistant  Annika  Blunck;  and  Technical 
+Assistants  Hartmut  Bruckner  and  Adolf  Mathias,  as  their  participation  in  this 
+project  has  been  central  to  its  success.  From  the  Guggenheim,  Associate 
+Curator  Nancy  Spector  and  Assistant  Curator  for  Research  Matthew  Drutt 
+have  done  an  exemplary  job  in  giving  shape  to  a  complex  project.  They 
+were  ably  assisted  by  Exhibition  Coordinator  Jon  Ippolito,  who  handled 
+myriad  details  of  this  undertaking.  Curatorial  interns  Miren  )aio,  Amy  Kao, 
+and  Ursula  Tax  provided  essential  research  assistance  along  the  way.  I  also 
+thank  Lisa  Dennison,  Curator  of  Collections  and  Exhibitions,  for  her 
+thoughtful  counsel  and  assistance  in  managing  various  aspects  of  the 
+project.  Paul  Kuranko  and  Mark  McLoughlin,  Multimedia  Technical-Design 
+Coordinators,  have  provided  invaluable  technical  supervision,  acting  as  the 
+museum's  liaison  to  many  of  the  artists  in  the  exhibition.  The  various 
+details  of  installing  this  project  were  masterminded  by  Dennis  Vermeulen, 
+Senior  Exhibition  Technician;  Michael  Lavin,  Head  of  Technical  Services;  Peter 
+Costa,  Project  Services  Manager/Exhibition  Design  Coordinator;  Peter  Read, 
+Production  Services  Manager/Exhibition  Design  Coordinator;  Jocelyn  Groom, 
+Exhibition  Technician/Administrative  Assistant;  Christopher  Skura,  Museum 
+Technician;  Adrienne  Shulman,  Lighting  Technician;  and  Ali  Hbcek  of  Hbcek 
+Sweeny  Walter.  Head  Registrar  for  Collections  and  Exhibitions  Suzanne 
+Quigley  arranged  for  the  safe  passage  of  works  to  the  museum  from  their 
+
+
+various  points  of  origin,  and  Director  of  Education  Marilyn  |S  Goodman  has 
+developed  a  number  of  public  programs  that  make  the  exhibition  more 
+accessible  to  the  diverse  audiences  that  visit  the  Guggenheim. 
+
+This  catalogue  was  handsomely  produced  under  the  guidance  of 
+Director  of  Publications  Anthony  Calnek,  together  with  Managing  Editor 
+Elizabeth  Levy,  Assistant  Editor  Jennifer  Knox  White,  and  intern  Jose  Ramiro 
+Higuera.  We  are  indebted  to  Lester  Chin,  Kent  Hunter,  and  Saeri  Yoo  Park  of 
+Frankfurt  Balkind  Partners,  design  consultants  for  this  publication. 
+Ms.  Blunck,  Mr.  Drutt,  and  Mr.  Seifert  prepared  the  artists'  biographies, 
+and  Mr.  Drutt,  Ms.  Frohne,  and  Mr.  Seifert  compiled  the  bibliographies.  We 
+wish  to  thank  all  the  authors  for  their  thoughtful  texts. 
+
+On  behalf  of  our  two  institutions,  I  extend  my  gratitude  to  the 
+artists  themselves,  for  their  enthusiastic  participation  in  the  planning  and 
+installation  of  this  exhibition.  Nam  June  Paik  generously  made  available  his 
+spectacular  video  wall  Megatron.  We  are  grateful  to  him,  and  to  Jung  Sung 
+Lee  and  his  assistant  Sung  Koo  Joh,  who  programmed  this  work  for  exhibition 
+at  the  Guggenheim.  I  would  also  like  to  thank  Steina  and  Woody  Vasulka  for 
+lending  their  important  early  work  Matrix  I  to  the  exhibition.  Toshio  Iwai  and 
+Bill  Seaman  lent  their  own  artworks,  both  of  which  were  developed  during 
+residencies  at  the  Institute  for  Image  Media  at  ZKM.  Ingo  Gunther  refabricated 
+key  elements  necessary  to  realize  his  installation.  I  must  also  thank  Morton 
+and  Marlene  Meyerson  for  lending  Jenny  Holzer's  untitled  installation  from  the 
+1990  Venice  Biennale.  I  am  most  appreciative  to  Vasif  Kortun,  Director  of  the 
+Center  for  Curatorial  Studies,  Bard  College,  for  generously  agreeing  to  lend  Bill 
+Viola's  The  City  of  Man  from  the  center's  Rivendell  Collection  of  Late 
+Twentieth-Century  Art.  The  artists'  assistants  and  technicians  must  also  be 
+thanked  for  their  invaluable  contributions  to  the  success  of  this  project:  Paul 
+Miller  of  Sunrise  Systems,  and  Jen  Rork,  assistant  to  Jenny  Holzer;  Sukae 
+Suzuki,  assistant  to  Mr.  Iwai;  Jochen  Saueracker,  assistant  to  Marie-Jo 
+Lafontaine,  and  Dion  Kliner  and  James  Sheppard,  who  fabricated  her  work  for 
+this  exhibition;  Juliet  Myers,  assistant  to  Bruce  Nauman;  John  McEvers,  Blair 
+Thurman,  Andrew  Norton,  and  John  Huffman  of  Mr.  Paik's  studio;  Bruce 
+Hamilton,  assistant  to  the  Vasulkas;  and  Kira  Perov,  Claire  Johnston,  and  Tom 
+Piglin  of  Mr.  Viola's  studio. 
+
+Numerous  people  have  provided  vital  counsel  and  support  during 
+the  realization  of  this  exhibition,  including  Jeanne  Greenberg;  Frederick  B. 
+Henry,  President,  The  Bohen  Foundation;  Jean-Claude  Meyer;  Adrianne 
+Wortzel;  Robert  Riley,  Curator  of  Media  Arts,  San  Francisco  Museum  of 
+Modern  Art;  Holly  Solomon,  Holly  Solomon  Gallery;  and  Lori  Zippay,  Director, 
+Electronic  Arts  Intermix. 
+
+Equipment  and  services  for  Mediascape  have  been  provided  by 
+ArtView;  Yamaha  Corporation  of  America  Keyboard  Division;  Silicon  Graphics, 
+Inc.;  and  Reuters  America,  Inc.  Fine  Arts  Risk  Management,  New  York, 
+provided  insurance  for  much  of  the  equipment.  We  are  also  pleased  to 
+welcome  Wired  Magazine  as  the  media  sponsor  for  the  exhibition. 
+
+Finally,  and  most  importantly,  this  exhibition  and  the  collaboration 
+between  the  Guggenheim  and  ZKM  have  been  made  possible  only  through 
+the  participation  of  Deutsche  Telekom.  The  third-largest  telecommunications 
+carrier  worldwide,  Deutsche  Telekom  has  long  fulfilled  its  beliefs  that  art  is 
+communication  and  that  art  unites  people.  Under  the  guidance  of  Dr.  Ron 
+Sommer,  Chairman  of  the  Management  Board,  the  company  remains 
+determined  to  enhance  its  position  as  a  global  leader  in  high  technology 
+and  telecommunications.  By  providing  the  resources  for  galleries  at  the 
+Guggenheim  Museum  SoHo  to  be  dedicated  to  multimedia  art,  and  by 
+providing  access  to  new  and  exciting  technologies  for  cultural  applications, 
+Deutsche  Telekom  has  made  a  commitment  to  contemporary  art  and  society 
+that  will  resonate  for  many  years  to  come. 
+
+Thomas  Krens 
+
+Director,  The  Solomon  R.  Guggenheim  Foundation 
+
+
+¥ 
+
+
+LD 
+
+
+c  n 
+
+
+ART 
+
+
+BEGINNINGS 
+
+As  early  as  1958,  Wolf  Vostell  used  technical  and  electronic  devices  in  his 
+"de-coil/ages ,"  incorporating  flickering  TV  screens  into  his  artworks.  But  the 
+true  birth  of  video  art  occurred  in  1963,  with  an  exhibition  of  Nam  June 
+Paik's  works  incorporating  manipulated  TV  sets  at  Galerie  Parnass  in 
+Wuppertal,  Germany,  and  with  Vostell's  6  TV  De-Coll/ages,  shown  at  Smolin 
+Gallery  in  New  York  the  same  year.' 
+
+These  early  examples  of  video  art  grew  out  of  the  artists' 
+involvement  with  Fluxus.  Paik  and  Vostell  were  both  members  of  this 
+international  group  of  artists,  participating  in  Fluxus  performances  in 
+Wiesbaden  and  Dusseldorf  in  the  first  years  of  the  1960s.  Rebellious  yet 
+unabashedly  playful,  the  Fluxus  group  reveled  in  provocative  gestures.  Its 
+members  undoubtedly  encouraged  Paik  and  Vostell  to  undertake  their 
+challenging  experiments  in  mixed-media  installations. 
+
+Another  important  influence  on  Paik  was  Karl  Otto  Gdtz, 
+an  exponent  of  Art  Informel  who  taught  at  the  Dusseldorf  Kunstakademie. 
+Since  1935,  Gotz  had  been  engaged  in  experimental  filmmaking;  like  Hans 
+Richter  and  Viking  Eggeling,  he  had  used  the  medium  to  set  abstract  forms 
+in  rapid  motion.  Gbtz's  films  may  well  be  the  most  important  link  between 
+the  historical  avant-garde's  experimental  films  and  the  moving  images  of 
+video  art.  Edith  Decker  recalls  that  at  the  opening  of  his  1963  show  at 
+Galerie  Parnass,  Paik  explicitly  thanked  Gotz  for  providing  a  crucial  impulse 
+toward  the  use  of  kinetic  images.2 
+
+The  two  contemporary  artists  Paik  most  admired  and  drew 
+inspiration  from  were  Joseph  Beuys,  who  was  beginning  to  draw  attention  in 
+Dusseldorf  at  the  same  time  as  the  Fluxus  group,  and  John  Cage.  Paik  first 
+met  Cage  in  1958,  during  the  International  Fereinkursen  fur  Neue  Musik 
+(international  summer  courses  for  new  music)  in  Darmstadt,  near  Frankfurt. 
+Paik  learned  from  Cage  a  new  concept  of  communication,  which  redefined 
+and  expanded  the  audience's  participation  in  the  performance  of  a  work  of 
+art.  Even  more  important,  however,  were  Cage's  principles  of  chance  and 
+indeterminacy.  (Explaining  one  of  his  compositions,  for  instance,  Cage  stated 
+that  the  "notes  were  determined  by  imperfections  in  the  paper  upon  which 
+the  music  was  written.  The  number  of  imperfections  was  determined  by 
+chance."3)  Chance  provided  Paik  and  many  other  artists  of  the  1960s  with 
+the  conceptual  foundations  of  a  new  aesthetics.  Embracing  chance  as  an 
+aesthetic  principle  produced  results  similar  to  those  of  classical  Modernism: 
+in  music,  the  abandonment  of  a  tonal  sequence  predicated  on  harmony;  in 
+painting,  the  espousal  of  abstraction,  which,  rejecting  mimetic 
+representation,  frees  color  from  "objective"  standards  of  "correctness."  Paik 
+has  used  chance  to  determine  the  rapid  sequences  of  abstract  shapes  in 
+many  of  his  video  works. 
+
+MEDIA     TECHNOLOGIES 
+
+During  the  1960s,  the  development  of  video  sculpture  remained  tied  to  Paik, 
+who  moved  from  Germany  to  New  York  in  1964.  When  he  exhibited  his  TV 
+Cross  at  the  Tekniska  Museet  in  Stockholm  in  1966,  video  sculpture  came 
+into  its  own  as  a  new  art  form.  A  cruciform  arrangement  of  eight  video 
+
+
+Heinrich  Klotz 
+
+
+monitors  displaying  abstract  shapes  in  rapid  succession,  the  work  was 
+shown  two  years  later  at  Galleria  Bonino  in  New  York.  It  may  have  been  the 
+first  appearance  of  a  video  sculpture  in  an  exhibition  space  dedicated  to  the 
+fine  arts. 
+
+It  took  a  long  time  for  other  artists  to  realize  the  potential  of  video 
+installations,  and  it  took  even  longer  for  a  large  audience  to  accept  and  even 
+embrace  the  new  art  form.  Video's  moving  images  share  an  obvious  affinity 
+with  those  of  television,  and  this  fosters  among  audiences  a  tendency, 
+however  unjustified,  to  implicate  video  art  in  the  sins  and  platitudes  of 
+commercial  broadcasting.  In  the  past  ten  years,  however,  there  has  been  a 
+marked  shift  in  attitude,  which,  like  the  history  of  video  art  as  a  whole,  is 
+intertwined  with  the  development  of  new  technologies,  among  them  those 
+enabling  closed-circuit  video  and  large-screen  projections. 
+
+With  closed-circuit  video,  an  image  of  the  viewer  is  included  in  the 
+video  picture  that  he  or  she  views.  Thus,  closed-circuit  can  suggest  an 
+identity  between  the  space  of  the  viewer  and  the  realm  of  the  artwork. 
+During  the  early  stages  of  the  technology's  development  the  image  appeared 
+only  after  a  slight  delay,  but  now  it  can  appear  in  real  time.  This  innovation 
+marked  a  significant  step  toward  interactivity,  which  has  decisively  changed 
+the  nature  of  video  art. 
+
+Beginning  around  1982,  Jeffrey  Shaw  and  other  video  artists  have 
+created  works  using  large-screen  projections  of  viewer-manipulated  images, 
+and  this  development  has  led  to  a  fundamental  shift  in  our  perception  of 
+images  and  our  understanding  of  what  constitutes  a  work  of  art. 
+Interactivity  and  large-screen  projection,  which  today  often  complement  each 
+other,  started  out  as  separate  phenomena  — Lynn  Hershman's  first  interactive 
+installation,  Lorna  (1979-83),  for  instance,  used  an  ordinary  TV  screen.  The 
+contemplative  calm  of  the  viewer  who  stands  before  the  static  image  of 
+traditional  art  has  been  replaced  by  the  viewer's  active  intervention  in  the 
+dynamic  images  of  the  electronic  age. 
+
+THE     AESTHETICS     OF     VIDEO     ART 
+
+Video  art  demands  that  we  redefine  our  modes  of  aesthetic  perception.  This 
+is  due  to  several  inherent  characteristics  and  possibilities  of  video: 
+
+1.  The  continuous  changing  of  the  moving  image.  The  moving  image  does 
+not  permit  contemplative  absorption;  rather,  as  we  follow  the  constantly 
+changing  images,  our  attention  focuses  on  drama,  narrative,  or  the 
+variations  of  mutable  forms.  Thus,  with  video  art,  the  nineteenth-century 
+ideal  of  delimitation  and  transcendence  of  self  through  aesthetic 
+contemplation  is  no  longer  possible. 
+
+2.  The  linking  of  numerous  images  and  the  dispersal  of  vision.  The  parallel 
+screening  of  different  videotapes  on  stacked  monitors  presents  a  multiplicity 
+of  synchronous  images,  fostering  a  nervous  tension  and  a  dispersion,  or 
+dissipation,  of  the  gaze  instead  of  focused  concentration.  (Works  that 
+display  the  same  image  in  uniform  synchronicity  on  multiple  monitors,  on 
+the  other  hand,  may  induce  a  sense  of  calm.) 
+
+
+3.  The  unfolding  of  sequences  of  images  over  time.  In  this  aspect,  video  art 
+corresponds  to  the  aesthetics  of  film  — an  aesthetics  of  narrative  and 
+development  rather  than  one  of  perception  at  a  glance.  The  static  being- 
+there  of  the  immutable  image  is  replaced  by  an  evolving  image  sequence, 
+and  the  work  of  art  becomes  a  journey  rather  than  a  presence  that  can  be 
+encompassed  in  one  glance.  Video  is  distinguished  from  film,  however,  by 
+the  simplicity  of  its  use:  like  paint  and  brush,  its  cassette  format  allows  a 
+spontaneous  approach. 
+
+4.  Spatial  simulation.  Video  and  electronic  images  permit  the  implementation 
+of  spatial  effects,  and  the  result  is  a  heightening  of  the  illusion  of  depth,  far 
+beyond  that  achieved  by  perspective  painting.  This  path  toward  a  simulated 
+perceptual  reality  leads  to  the  immersive  environments  of  virtual  reality. 
+
+5.  The  immateriality  of  the  images.  Unlike  paintings,  media  images  do  not 
+exist  in  a  largely  unaltered  state,  but  as  pixellated  possibilities  that  need  to 
+be  "switched  on."  The  media  image  makes  its  appearance  in  the  monitor's 
+rays,  without  being  there  with  any  permanence.  Mechanically  produced  and 
+reproduced,  it  is  "cold"  — a  technological  image  that  bears  no  trace  of  its 
+production.  The  media  image  possesses  no  "aura,"  to  use  Walter  Benjamin's 
+term.  This  is  not  to  say  that  the  cold,  technological  image  cannot  be  a  work 
+of  art.  Its  artistic  essence  emerges  over  the  duration  of  its  narrative,  its 
+composed  sequence  of  images. 
+
+As  it  is  immaterial  and  devoid  of  aura,  the  technological  image 
+can  be  endlessly  multiplied  without  being  robbed  of  its  "authenticity."  By 
+nature  reproducible,  the  media  artwork  exists  only  in  "copies,"  quite  like  an 
+engraving  or  woodcut,  and  the  number  of  copies  that  are  made  is  strictly 
+arbitrary.  Indeed,  a  video's  master  tape  will  fade,  only  to  be  renewed  Jn  its 
+copies.  Since  it  cannot  be  appraised  as  a  unique,  "original"  object,  a  video's 
+value  as  a  work  of  art  eludes  the  traditional  standards  that  are  applied  to  a 
+collector's  — or  investor's  — object. 
+
+6.  The  capability  of  the  viewer  to  influence  the  image  interactively. 
+Interactivity  alters  the  traditional  conception  of  the  artistic  image  as  an 
+object  on  display.  The  interactive  image  does  not  ask  to  be  silently 
+contemplated  but  demands  some  form  of  action.  As  with  all  moving  images, 
+the  conventional  notion  of  aesthetic  perception  as  "disinterested 
+contemplation"  (to  use  Arthur  Schopenhauer's  term)  is  dispersed,  and  the 
+awed  silence  of  pure  looking  makes  way  for  the  joyful  exploration  of  an 
+interactive  world.  The  viewer  becomes  a  player,  enjoying  the  freedom  of 
+intellectual  and  sensual  games.  A  playful  modification  of  the  given  within 
+limited  possibilities,  interactivity  makes  reference  to  the  limits  of  what  is 
+visually  set  in  motion,  the  limits  of  the  work  of  art,  the  limits  of  fiction.  It 
+approaches  reality  but  is  never  reality  itself. 
+
+A     HISTORY     OF     IMAGES 
+
+The  characteristics  of  video  art  that  distinguish  it  from  what  came  before 
+underscore  the  fact  that  a  new  art  form  has  emerged,  one  with  its  own 
+
+
+rules  and  concepts  — the  latest  form  in  the  long  history  of  art  mediums  and 
+their  applications.  The  true  significance  of  the  moving  image  and  its 
+technologies  is  revealed  when  we  relate  video  to  the  larger  history  of 
+artistic  image  making. 
+
+The  history  of  Western  art  forms  begins  with  the  emancipation  of 
+the  painted  image  from  a  fixed  support,  a  development  that  would 
+ultimately  lead  to  the  autonomous  image  as  an  aesthetic  object. 
+Around  1180,  the  first  movable  panel  paintings  emerged,  in  the  form  of 
+altarpieces  painted  on  wood  — surrogates  for  the  golden  tablets  of  the  early 
+Middle  Ages.  Over  the  fifteenth  and  sixteenth  centuries,  the  image 
+separated  from  the  altar,  eventually  to  become  paintings  on  canvas.  Also  in 
+the  fifteenth  century,  along  with  the  birth  of  movable  type  in  1445,  was  the 
+invention  of  the  woodcut  (ca.  1400)  and  engraving  (ca.  1430-40).  For  the 
+first  time,  images  were  able  to  be  reproduced  in  sizable  quantities.  In 
+contrast  to  paintings,  which  were  commissioned  by  individual  patrons, 
+woodcuts  and  engravings  addressed  a  general  audience,  and  they 
+contributed  significantly  to  the  formation  of  public  opinion.  Although  the 
+works  were  still  inscribed  with  the  traces  of  manual  production,  a  technical 
+process  mediated  between  the  hand-cut  image  on  the  plate  and  its 
+multiple  prints;  thus,  these  forms  marked  the  first  step  toward 
+mechanical  reproduction.  Another  new  medium  was  born  in  the  late  1790s, 
+with  Aloys  Senefelder's  invention  of  lithography,  which  allowed  the  artist's 
+brushstroke  to  be  transferred  onto  a  print,  thus  adding  a  dimension  of 
+gestural  spontaneity. 
+
+The  development  of  photography  in  the  first  half  of  the  nineteenth 
+century  introduced  a  new  quality  to  art  making,  for  in  the  photochemical 
+production  process,  direct,  physical  human  touch  is  entirely  absent.  For  this 
+reason,  the  photograph  was  thought  of  as  a  "cold"  mechanical  image,  and 
+until  recent  times  was  precluded  from  being  considered  a  medium  of 
+genuine  art. 
+
+With  the  invention  of  cinematography  at  the  end  of  the  nineteenth 
+century,  the  concept  of  the  image  expanded  further,  as  images  began  to 
+move.  The  rise  of  Modernism  was  interconnected  with  the  rise  of  the  motion 
+picture;  while  perspective  — the  great  invention  of  the  Renaissance  — had 
+added  the  appearance  of  space  to  the  flat  image  surface,  movies  added  the 
+dimension  of  time,  turning  narrative  development  into  an  unfolding  image. 
+
+The  late-nineteenth  and  early  twentieth  centuries  brought 
+further  variations  on  the  photographic  image:  the  three-dimensional 
+stereoscopic  photograph,  the  backlit  transparency,  and  the  color  photograph. 
+At  the  same  time,  photomechanical  printing  created  a  new  type  of  image 
+reproduction,  which  caused  a  revolution  in  the  way  images  were  perceived 
+by  the  public.  Broken  down  into  dots  and  reconstructed  by  the  viewer's 
+eye,  the  machine-reproduced  photograph  anticipated  the  pixellated  electronic 
+image.  The  latter's  most  pervasive  form  is  undoubtedly  television,  which  has 
+arguably  triggered  the  most  intensive  image  consumption  in  history.  (Given 
+that  a  person  in  the  industrialized  world  spends,  on  average,  three  to  four 
+hours  a  day  looking  at  a  TV  screen,  one  can  gauge  to  what  degree  this 
+form  of  image  perception  has  conditioned  the  contemporary  mind.) 
+
+
+Today's  information  technologies  have  provided  a  multitude  of  new 
+image  types,  many  of  which  are  based  on  digital  data  processing.  Now,  in 
+addition  to  traditional  mediums  such  as  oil  painting,  engraving  and  woodcut, 
+etching,  mosaic,  lithography,  photography,  film,  and  halftone  reproduction 
+and  process  printing,  we  have  many  kinds  of  electronic  images,  with 
+different  forms  of  dissemination:  television  and  video  images,  computer- 
+generated  images,  video  animation,  scanned  images,  images  stored  on 
+CD-ROM  or  traveling  through  the  Internet,  and  so  on.  The  most  intense 
+experience  of  image  perception,  however,  is  provided  by  the  artificial, 
+interactive  spaces  of  virtual  reality,  in  which,  immersed  in  a  simulated 
+environment  projected  onto  the  LCD  screens  of  3-D  goggles,  the  viewer  uses 
+his  or  her  body's  responses  to  navigate  through  the  space  at  will. 
+
+This  brief  history  clearly  shows  that  the  creation  of  image  types 
+and  the  corresponding  changes  in  image  perception  are  among  the  most 
+important  themes  of  cultural  development. 
+
+THE     TYPOLOGY     AND     PUBLIC     PERCEPTION 
+OF     VIDEO     ART 
+
+Art  has  always  responded  to  new  technologies,  appropriating  the  materials 
+of  culture  in  different  ways.  The  material  of  video  art  is  the  monitor  image 
+or,  more  accurately,  the  television  picture,  which,  since  the  1950s,  has 
+been  available  to  a  mass  audience.  Yet  video  artists  have  generally 
+assumed  a  critical  stance  toward  the  television  picture,  adopting  the 
+technology  while  challenging  its  contents.  By  employing  a  commonly  used 
+technological  material  in  a  subversive  way,  they  present  a  critical 
+counterforce  to  entertainment  and  advertising,  the  most  popular  forms  of 
+communication  today. 
+
+Video  art  is  nonetheless  subjected  to  the  same  skepticism 
+and  critical  scrutiny  that  we  bring  to  bear  on  television,  as  our 
+annoyance  at  the  glut  of  television  imagery  has  come  to  determine  our 
+attitude  toward  anything  a  monitor  shows.  It  is  therefore  not  surprising  that 
+video  artworks  sometimes  use  aesthetically  reconfigured  responses 
+to  television,  but  their  critical  nature  is  not  always  understood  by  audiences. 
+
+Paik's  was  the  first  and  most  immediate  artistic  response  to 
+television's  moving  images.  In  his  work,  he  "took  revenge"  on  television  by 
+speeding  up  its  pictures  until  they  became  barely  decipherable  flickering 
+shapes.  Oscillations  between  figurative  and  abstract  images,  they  suggest, 
+nonetheless,  a  compositional  intent,  a  kind  of  longing  for  order  amid 
+complete  disarray. 
+
+Bill  Viola's  response  has  been  quite  the  opposite:  Viola  resists 
+television's  constant  motion  by  almost  arresting  it.  In  his  video  installation 
+
+
+Threshold  (1995),  an  LED  signboard  is  mounted  on  the  outer  walls  of  a 
+room;  messages  carrying  the  latest  news  flash  across  it  in  nervous  haste. 
+Passing  through  an  opening  that  intersects  the  LED  display,  one  enters  a 
+darkened  space  where  two-meter-high  images  of  human  heads  are  projected 
+on  three  walls.  One  expects  movement,  but  nothing  stirs;  the  heads  simply 
+lie  there,  on  pillows,  immobile,  seemingly  dead.  Startled,  one  looks  for  a 
+flinch,  a  twitch,  a  sign  of  life.  Only  after  one  has  all  but  given  up, 
+apparently  confronted  with  the  stillness  of  death,  does  one  recognize  that 
+these  people  are  breathing,  their  chests  moving  up  and  down  ever  so 
+slightly.  They  are  sleeping:  it  is  a  joyful  discovery,  and  one  clings  to  the 
+barely  perceptible  movement,  grateful  that  these  pictures  are,  after  all, 
+moving,  that  the  stillness  is  not  complete.  The  scene's  power  lies  in  this 
+contrast;  it  is  an  aesthetics  of  antithesis  and  defiance,  an  aesthetics  of  the 
+unexpected.  The  human  images,  which  appear  in  photographic  form,  credibly 
+assure  us  that  we  are  still  there,  that  we  exist.  Outside  of  the  room,  we 
+experience  the  actuality  of  changing  events,  with  the  rapidly  moving  LED 
+letters  carrying  the  superficiality  of  countless  occurrences,  but  on  the  inside, 
+we  are  confronted  with  the  state  of  stillness,  of  sleep,  of  eternity. 
+
+THE     HUMAN      IMAGE 
+
+Threshold  breaks  a  near-taboo  of  recent  art— the  taboo  against  the  direct 
+representation  of  the  human  figure.  Video  art  emerged  at  a  critical  juncture 
+in  art  discourse,  lending  a  renewed  viability  to  fictional  narratives,  and 
+linking  these  narratives  to  the  representation  of  the  human  image. 
+
+Like  Viola,  Paik  has  invented  images  that  are  completely  alien,  even 
+antithetical,  to  television,  human  images  of  superb  strangeness.  In  his  well- 
+known  work  Beuys,  which  was  included  in  Documenta  8,  he  inserted  scenes 
+from  a  performance  by  Beuys  into  rapid  image  sequences.  The  scenes  show 
+Beuys  transformed  into  a  screaming  coyote;  struggling  for  words,  howling,  he 
+fights  to  regain  language,  in  order  to  metamorphose  back  into  a  human 
+being;  he  is  a  man  turned  beast,  grasping  in  vain  for  human  expression. 
+Certainly  not  the  stuff  for  television  broadcasts,  this  is  the  expression  of  a 
+profound  dissent,  a  desperate  quest  to  reconnect  to  humanity. 
+
+The  image  of  man  at  the  outer  limits  of  humanity  is  a  recurring 
+theme  in  the  work  of  many  important  video  artists.  In  Nauman's  Raw 
+Material:  Brrr,  video  projections  show  a  human  face  uttering  nothing  but 
+nonsensical  sounds.  It  is  the  image  of  a  stupid,  slobbering,  abject,  and 
+antihuman  figure,  the  very  opposite  of  television's  usual  telegenic  glamor. 
+Nauman  depicts  humanity  after  the  so-called  "loss  of  center"— the  brutish 
+human  being  of  the  twentieth  century,  who  has  shed  the  "beautiful  soul"  of 
+Romanticism  and  the  humanist  ideals  of  classical  antiquity.  In  his  work,  we 
+
+
+experience  the  vision  of  humanity  introduced  by  Francisco  de  Goya  and 
+elaborated  by  the  Surrealists:  man  at  his  most  remote  from  God's  image,  from 
+an  ideal  whose  very  absence  makes  it  the  work's  most  urgent  reference. 
+
+This  is  the  only  way  left  to  articulate  the  human  image.  The 
+representational  figure  has  lost  all  credibility  in  painting,  but  what  has 
+ceased  to  be  acceptable  in  other  art  forms,  what  has  caused  the 
+embarrassment  associated  with  insipidity  or  the  discomfort  of  deja-vu,  can 
+now  be  expressed  in  a  new  way  and  with  elemental  directness.  Video  art 
+has  expanded  our  range  of  expression  and  reintroduced  subjects  that  had 
+been  excluded  from  most  artistic  representation. 
+
+The  aesthetics  of  the  historical  avant-garde,  which  attempted  to 
+open  the  border  between  art  and  life  and  to  suspend  the  difference 
+between  reality  and  art,  has  been  supplanted  by  fictional  narratives.  The 
+more  television  imagery  has  tried  to  fraternize  with  reality,  the  more  video 
+imagery  has  stressed  the  difference.  Although  it  often  references  reality, 
+video  art  emphatically  maintains  its  own  narrative  worlds. 
+
+THE     POETICS     OF     VIDEO     ART 
+
+All  of  video's  narratives  can  be  related  to  the  classical  categories  of 
+aesthetics.  It  is  possible,  in  fact,  to  establish  a  new  poetic  typology. 
+
+When  video  takes  the  place  of  film,  it  is  commonly  used  not  for 
+long  epics  but  for  short  subjects,  for  which  film  would  be  inappropriate,  as 
+in  Das  Zersprungene  Glas  {The  Broken  Glass)  by  Dieter  Kiessling.  The  video's 
+opening  title,  "Dieter  Kiessling— Das  Zersprungene  Glas,"  is  displayed 
+vertically  on  the  screen,  but  while  we  read  it,  the  glass  plate  bearing  the 
+title  suddenly  drops  to  the  floor  and  shatters  as  the  camera  tilts  to  capture 
+its  fall.  That  is  all.  The  title  keeps  its  promise  with  unexpected  immediacy, 
+for  it  is  the  whole  work,  its  own  story.  This  is  the  shortest  form  of 
+storytelling,  the  most  concise  version  of  narration.  By  classical  categories, 
+the  work  is  a  video  poem  or  perhaps  a  video  aphorism. 
+
+While  the  epic  novel  has  remained  the  domain  of  the  movies, 
+video  tends  toward  brevity,  a  tersely  made  point,  sparse  hints.  Videos 
+usually  take  the  form  of  interpolation,  annotation,  even  haiku.  With  video, 
+there  is  a  broad  range  of  expressive  possibilities  that  supplement,  expand, 
+and  enrich  earlier  techniques  of  art.  As  with  photography  and  film  before 
+video,  these  new  forms  of  expression  will  not  destroy  the  traditional  arts, 
+but  will  open  up  new  forms  of  representation. 
+
+
+classical  poetics:  interactive  media  art,  artworks  that  are  intrinsically 
+interactive.  How  can  this  possibly  be  art?  Hasn't  art  always  been  made  for 
+the  purpose  of  contemplation;  doesn't  the  ultimate  fulfillment  of  art  lie  in 
+its  quiet  presence  before  the  eyes  of  the  beholder?  There  is  a  suspicion  that 
+interactive  art  is  appropriating  the  performing  arts  to  create  an  indigestible 
+mixture  that  defies  all  proper  categorization. 
+
+One  example:  I  am  sitting  on  a  bicycle  facing  a  large  projection 
+screen.  On  the  screen,  I  see  the  streets  of  Manhattan,  with  its  buildings 
+transformed  into  giant  letters.  I  am  pedaling  through  the  city,  steering  with 
+the  handlebar,  riding  through  the  canyons  of  midtown  and  down  Fifth 
+Avenue.  The  three-and-a-half-meter-tall  screen  pulls  me  in,  inviting  me  to 
+navigate  along  the  corridors  of  letters:  down  Broadway,  toward  the  World 
+Trade  Center,  left  on  Wall  Street,  and  on  to  the  Seaport.  The  colorful  scenery 
+of  letters,  streets,  and  sky  is  an  artificial  world,  a  fictional  city,  a  vision,  a 
+surreal  environment  of  forms.  With  my  own  bodily  movements  I  am 
+constantly  changing  the  image  before  me,  determining  and  altering  its  form 
+through  my  active  intervention.  It  is  a  playful  experience.  In  this  installation 
+by  Shaw,  The  Legible  City  (1988-89),  the  work  of  art  turns  into  play,  the 
+viewer  into  a  homo  ludens.  To  question  whether  this  is  still  art  becomes 
+meaningless:  in  The  Legible  City,  we  trespass  boundaries,  move  freely 
+across  categories,  and  liberate  ourselves  from  definitions. 
+
+1.  Edith  Decker  has  discussed  the  beginnings  of  video  art  in  Paik  — Video  (Cologne:  DuMont, 
+1988). 
+
+2.  Ibid.,  p.  21. 
+
+3.  John  Cage,  Silence  (Middletown,  Conn.:  Wesleyan  University  Press,  1973;  1979), 
+p.  27. 
+
+4.  Hans  Belting,  Bild  und  Kunst:  Zur  Geschichte  des  Bildes  vor  dem  Zeitalter  der  Kunst 
+(Munich:  C.  H.  Beck,  1990). 
+
+
+INTERACTIVITY 
+
+There  is  a  type  of  media  art  that  completely  evades  all  traditional 
+classifications  and  can  no  longer  be  addressed  within  the  framework  of 
+
+
+I 
+
+
+■ 
+
+
+■ 
+
+
+_ 
+
+
+f\ 
+
+
+GUNTH 
+
+
+IM     BEREICH      DER     W  E  S  T  -  W  I  N  D  -  W  E  L  T ,     1991 
+
+Two  flags  hoisted  on  metal  staffs  flap  in  an  artificial  wind,  approaching 
+each  other  without  ever  touching.  In  place  of  the  emblem  that  usually 
+identifies  a  piece  of  fabric's  symbolic  meaning  as  a  flag,  here  each  rectangle 
+of  pure-white  material  is  vividly  colored  by  projected  images,  virtual 
+patterns  and  signs.  Intentionally  left  blank,  their  neutral  surfaces  offer 
+themselves  as  projection  screens  for  a  variety  of  national  emblems, 
+ideological  symbols,  and  portraits  of  leaders  of  every  political  coloration.  On 
+the  flag  to  the  left,  photographs  of  outer  space  and  fighter  jets  blend  with 
+a  projection  of  the  American  flag's  stars  and  stripes.  They  constitute  a 
+symbolic  compound,  signifying  the  basic  tenets  of  democracy  and  the  world 
+influence  of  the  United  States.  The  other  flag  displays  a  hammer  and  sickle 
+on  a  red  background,  the  graphic  emblem  of  Soviet  Communism.  This  image 
+appears  in  sequence  with  portraits  of  Mikhail  Gorbachev,  the  personification 
+of  perestroika,  which  was  in  full  bloom  in  the  year  the  work  was  made.  The 
+blankness  of  the  fabric,  together  with  the  constant  changing  of  the 
+projected  images,  suggest  the  fundamental  interchangeability  of  political 
+programs  and  ideological  values. 
+
+For  Ingo  Gunther,  political  events  have  a  fascinating  aura,  for 
+while  they  are  experienced  as  complex  occurrences  in  "real  time,"  they 
+acquire  a  historical  dimension  almost  immediately.  Many  of  Giinther's 
+installations  are  based  on  current  political  tendencies  and  their  global 
+impact.  After  a  series  of  early  video  works  dealing  primarily  with  the 
+phenomenon  of  movement,  he  began  to  explore  in  greater  detail  the 
+possibilities  of  the  electronic  media  in  the  visual  arts.  In  his  research,  he 
+encountered  the  codified  language  of  the  military,  a  metalanguage  that  is 
+intentionally  made  incomprehensible  to  outsiders.  The  complex  interaction 
+between  communication  and  control— the  different  means  of  transferring 
+information  and  the  strict  censorship  of  such  data;  the  obstruction  of 
+communication  and  the  role  of  the  military  as  an  agent  of  control  in  the 
+distribution  of  information;  the  justification  of  covert  action  as  the  legal 
+instrument  of  the  government's  defense  of  national  and  ideological 
+identity— opened  up  a  wide  field  of  possible  artistic  strategies  confronting 
+the  military/industrial  information  and  technology  monopolies.  In  the  1980s, 
+Gunther  began  to  experiment  with  satellite  images  taken  from  outer  space. 
+These  images  show  the  effect  of  human  activity  on  the  climate  and  ecology 
+of  the  earth,  but  also  reveal  military  data  and  strategic  positions.  He 
+transposed  them  into  a  computer-controlled  three-dimensional  projection,  in 
+which  political  power  structures  and  their  strategic  planning  are  exposed  as 
+a  self-governing  system;  the  work  suggests  that  each  power  block's  constant 
+surveillance  of  its  own  positions  and  those  of  the  enemy  is  completely 
+disconnected  from  any  individual  experience  of  reality.1 
+
+Im  Bereich  der  West-Wind-Welt  continues  themes  found  in 
+Giinther's  earlier  work,  adopting  a  critical  position  in  relation  to  the  power 
+of  the  state  and  its  representatives,  its  systems  and  insignias,  its  ideological 
+programs  and  political  subjects.  The  opposing  flags,  symbolizing  the  two 
+superpowers  and  the  polarized  hostility  that  characterized  their  relationship 
+for  decades,  represent  Gunther's  reaction  to  the  shifts  in  world  politics  that 
+were  occurring  as  he  conceived  the  installation.  Gunther  responded  to  the 
+easing  of  tensions  between  the  United  States  and  the  former  Soviet  Union  — 
+to  a  large  degree,  the  outcome  of  Gorbachev's  perestroika  and  glasnost 
+politics— with  a  formulation  that  is  less  emphatic  than  the  approval  with 
+which  the  situation  was  generally  met;  believing  that  it  could  be  judged 
+only  from  a  historical  perspective,  he  created  a  work  that  represents  an 
+ambivalent  response.  That  the  media  played  a  crucial  role  in  this 
+development— even  in  the  Soviet  Union,  under  the  strict  censorship  of 
+Communist  rule  — is  suggested  in  Gunther's  installation  by  the  many  images 
+drawn  from  both  the  rhetoric  of  Communist  propaganda  and  the  Western 
+media.  Thus  it  would  seem  that  the  fall  of  the  Iron  Curtain  could  also  be 
+interpreted  as  a  victory  of  the  media  over  the  proclaimed  integrity  of 
+political  programs. 
+
+
+E  R 
+
+
+Oriented  toward  each  other,  the  ideological  banners  evoke  the 
+rapprochement  of  the  Soviet  Union  and  the  United  States.  Historically,  the 
+waving  flag  has  served  as  a  symbol  of  rebellion  and  the  willingness  to 
+fight;  in  this  sense,  it  seems  to  represent  a  mindset  counter  to  political 
+accord.  Yet  the  thawing  of  relations  between  former  political  enemies  is  in 
+itself  a  revolutionary  event.  The  main  impulse  behind  this  revolution, 
+however,  was  not  the  Utopian  vision  of  the  Communist  International,  which 
+once  tried  to  unify  the  masses,  but,  in  the  Soviet  Union,  the  concrete 
+promise  of  joining  the  capitalist  world— the  world  where  the  "West  wind" 
+blows.  The  opposing  flags  in  Gunther's  installation,  with  their  simulacra  of 
+the  media  world,  illustrate  the  easing  of  tensions  and  the  dissolution  of 
+ideological  differences,  leading  to  globalization. 
+
+Gunther's  casting  of  current  events  in  symbolic  form,  despite  their 
+short-lived  relevance  in  periods  of  political  and  social  change,  gives 
+evidence  of  the  artist's  concern  for  capturing  the  figurative  sense  of  the 
+historic  value  and  significance  of  complex  developments  and  processes  that 
+cannot  be  captured  through  documentary  photographs.  Thus,  the  artist 
+plays  the  role  of  Walter  Benjamin's  metaphorical  angel,  who  flies  through 
+time,  driven  by  the  wind  of  history,  with  its  back  toward  the  future,  facing 
+the  past. 
+
+In  the  clusters  of  projected  images  and  also  in  the  work's  themes, 
+Im  Bereich  der  West-Wind-Welt  can  be  compared  to  Robert  Rauschenberg's 
+silk-screen  paintings.  In  them,  Rauschenberg  uses  existing  photographs— 
+that  is,  he  reproduces  reproductions;  similarly,  Gunther  projects  onto  his 
+"canvases"  images  he  has  taken  from  the  media.  Rauschenberg's 
+manipulation  of  images— taken  from  different  viewpoints,  mounted  next  to 
+each  other,  and  sometimes  repeated  — is  similar  to  the  way  Gunther  cuts 
+and  superimposes  his  video  projections.  Projected  onto  a  surface  that  is 
+itself  in  motion,  the  moving  images  in  Gunther's  work  appear  partially 
+blurred,  thereby  communicating  their  media  character;  in  Rauschenberg's 
+silk-screens,  the  grainy  quality  of  the  magazine  pictures  serves  the  same 
+purpose.  In  both  cases,  the  visual  quality  of  the  images  forces  the  viewer  to 
+remain  aware  of  their  illusionary  character.  Both  works  also  contain  gestic 
+attributes— the  application  of  paint  in  Rauschenberg's  case,  the  moving 
+flags  in  Gunther's  installation  — and  use  vibrant  television-type  colors;  while 
+Rauschenberg  enhanced  his  colors  with  special  inks,  the  effect  is  similar  to 
+the  vibrant  colors  of  the  video  projections  on  Gunther's  flags.  The 
+interaction  between  images  that  appear  to  merge  in  the  viewer's  perception 
+brings  the  works  of  Rauschenberg  and  Gunther  very  close  to  abstraction. 
+
+It  is  inconceivable  that  Gunther,  who  has  lived  in  the  United 
+States  for  over  ten  years,  could  employ  the  symbolically  and  emotionally 
+charged  motif  of  the  flag  in  an  almost  abstract  sense  without  having  the 
+Pop  art  icons  of  Jasper  Johns  in  mind.  The  question  so  frequently  asked  in 
+front  of  the  work  of  the  American  painter— "Is  it  a  flag  or  a  painting?"  — 
+could  thus  be  rephrased  for  Gunther's  installation:  "Is  it  a  flag  or  is  it  an 
+image?" 
+
+1.  See  Jurgen  Schweinebraden,  "C3:  Command-Communication-Control  and  Intelligence,"  in 
+Documents  8,  exh.  cat.  (Kassel:  Documenta,  1987),  vol.  2,  p.  90. 
+
+Ursula  Frohne 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+EXHIBITION 
+C ATA  LO  G  U  E  S 
+
+
+pages  12-13:  Ingo  Gunther, 
+Im  Bereich  der  West-Wind -Welt 
+{In  the  Realm  of  the  West-Wind- 
+World),  1991.  Two-channel  video 
+installation,  30  minutes,  color; 
+installation  space  variable, 
+approximately  4x5x6m. 
+ZKM/Center  for  Art  and  Media 
+Karlsruhe. 
+
+
+Ingo  Gunther  was  born  in  1957 
+near  Hannover,  Germany.  He 
+studied  ethnology  and  cultural 
+anthropology  at  the  Johann- 
+Wolfgang-Goethe-Universitat  in 
+Frankfurt  in  1977.  From  1978, 
+he  attended  the  Diisseldorf 
+Kunstakademie,  where  he  studied 
+with  Fritz  Schwegler,  Gunther 
+Uecker,  and  Nam  June  Paik, 
+graduating  with  a  Master  of  Arts 
+in  1983. 
+
+During  the  1970s,  Gunther  traveled 
+extensively  in  North  Africa,  North 
+and  Central  America,  and  Asia.  In 
+1983,  he  received  a  stipend  from 
+the  Diisseldorf  Kunstakademie  for 
+a  residency  at  P.S.i  in  New  York. 
+He  received  a  DAAD  grant  in  1984, 
+and  a  Kunstfond  grant  in  1987.  In 
+1988,  he  was  awarded  the  Preis 
+des  Kulturkreises  des  Bundes  der 
+Deutschen  Industrie,  and  in  1996, 
+he  was  presented  with  a 
+Stankowski  Award.  Between  1990 
+and  1994,  Gunther  was  a  professor 
+at  the  Kunsthochschule  fiir 
+Medien,  Cologne. 
+
+Gunther's  early  work  in  video  led 
+him  to  pursue  media-  and 
+journalism-oriented  projects  in 
+print,  television,  and  art  He -has 
+worked  with  NHK  TV  in  japan  as 
+an  artist,  correspondent,  and 
+writer,  and  in  1989,  he  founded 
+Kanal  X,  the  first  independent 
+television  station  in  Eastern 
+Europe. 
+
+Works  by  Gunther  were  shown  at 
+the  Nationalgalerie  Berlin,  1983 
+and  1985;  Venice  Biennale,  1984; 
+Documents,  Kassel,  Germany, 
+1987;  Ars  Electronica,  Linz,  Austria, 
+1991;  Centra  Cultural  de  Belem, 
+Lisbon,  1994;  and  Hiroshima  City 
+Museum  of  Contemporary  Art, 
+1995. 
+
+
+Documents  8.  Kassel:  Documents, 
+1987. 
+
+Universalpoesien.  Hamburg: 
+Kunstverein  Hamburg,  1988. 
+
+Arbeit  in  Geschichte  -  Geschichte 
+in  Arbeit.  Hamburg:  Kunsthaus  und 
+Kunstverein,  1988. 
+
+World  Processor  -  Das  andere  Bild 
+der  Erde.  Hamburg: 
+Produzentengalerie,  1989. 
+
+Video-Skulptur:  Retrospektiv  und 
+Aktuell,  1963-1989.  Cologne: 
+Kolnischer  Kunstverein  and 
+DuMont  Kunsthalle,  1989. 
+
+World  Processor.  Tokyo: 
+Shogukukan,  1990. 
+
+Ars  Electronica  91.  Linz:  Ars 
+Electronica,  1991. 
+
+6a/f;'c  Biennal.  Rostock:  Kunsthalle 
+Rostock,  1992. 
+
+The  Binary  Era.  Brussels:  Musee 
+d'lssel,  1992. 
+
+Moving  Image:  Electronic  Art. 
+Karlsruhe:  ZKM;  Munich  and 
+Stuttgart:  Oktagon,  1992. 
+
+Humpty  Dumpt/s  Kaleidoscope. 
+Sydney:  Museum  of  Contemporary 
+Art,  1992. 
+
+Global  Change/Erdsicht.  Bonn: 
+Kunst-  und  Ausstellungshalle  der 
+Bundesrepublik  Deutschland,  1992. 
+
+Kunst  im  Weltmasstab.  Kiel, 
+Germany:  Kunsthalle  zu  Kiel,  1993. 
+
+Integral.  Berlin:  NGBK,  1993. 
+
+MultiMediale  3.  Karlsruhe:  ZKM, 
+1993- 
+
+40th  International  Short  Film 
+Festival.  Oberhausen,  1994. 
+
+Multiple  Dimensions.  Lisbon: 
+Centra  Cultural  de  Belem,  1994. 
+
+Fotofest  94.  Houston:  George 
+Brown  Convention  Center,  1994. 
+
+
+Wdeo  Skulptur  in  Deutschland. 
+Stuttgart:  Institut  fur 
+Auslandsbeziehungen,  1995. 
+
+After  Hiroshima.  Hiroshima: 
+Hiroshima  City  Museum  of 
+Contemporary  Art,  1995. 
+
+
+15 
+
+
+Il» 
+
+
+■ 
+
+
+■ 
+
+
+f I 
+
+
+^m 
+
+
+>.f'^\ 
+
+
+v  ■ 
+
+
+I 
+
+
+■ 
+
+
+rtSIMMSTSTEl 
+
+:H   WHEN    IT   DDE 
+EL     CIBD     HE 
+
+
+'   "*    ^^"ZlOSRWStt 
+
+
+m 
+
+
+m 
+
+
+QUE  Lfi  CRUELD 
+
+
+I 
+
+
+i»  iiljiil  S I 
+
+
+HifiE  ru  CBflElTD 
+
+
+•  I 
+
+
+1 « I 
+
+
+II 
+
+
+:H    I'iHEM    II.    DOE 
+
+
+LERI 
+
+;Wil?      I="L 
+
+QN6        GETTIN 
+
+STESSD     P 
+
+
+■*€. 
+
+:•»*' 
+
+
+IEMPRE   ES   PD 
+
+i :  111  ••»■ 
+
+
+,  ,,i;  i  ii'-'  ! 
+
+
+:     i;: 
+
+
+nin|! 
+
+
+IE Mb BE   ES   t-a 
+
+
+[LL  EXPLODE 
+
+
+cnMG       e     LIW 
+
+
+JENNY 
+
+
+HOLZER 
+
+
+UNTITLED,     1990 
+
+Since  the  late  1970s,  Jenny  Holzer  has  explored  in  her  art  strategies  of 
+public  address  and  the  production  of  knowledge,  using  language  as  her 
+primary  means  of  expression.  Rejecting  the  pictorial  and  formal  systems  of 
+painting,  her  works  appropriate  the  technological  devices  of  the  mass 
+media  to  examine  the  construction  of  social  relations  and  political 
+ideology.  Beginning  with  inexpensively  printed  posters  and  stickers,  Holzer's 
+art  has  steadily  evolved  in  sophistication,  expanding  into  a  lexicon  that 
+includes  manufactured  brass  plaques,  advertising  billboards,  television, 
+radio,  electronic  signs,  clothing,  benches,  and  sarcophagi.  For  much  of  her 
+career,  Holzer  has  presented  her  work  both  inside  and  outside  the 
+traditional  locations  for  art;  it  has  often  appeared  in  public  spaces, 
+including  parks,  bus  shelters,  airports,  and  bank  windows.  Recently,  in 
+gallery  and  museum  installations,  Holzer  has  created  contemplative 
+environments  reminiscent  of  chapels  or  burial  chambers,  introducing  into 
+her  investigation  of  how  we  define  ourselves  the  role  of  religious 
+institutions. 
+
+Holzer's  two  earliest  series  were  Truisms  (1977-79)  and 
+Inflammatory  Essays  (1979-82).  Composed  of  a  litany  of  one-line 
+statements,  the  Truisms  are  pithy,  cynical  observations  on  behavior  and 
+desire  (such  us  children  are  the  cruelest  of  all,  children  are  the  hope  of  the 
+future,  and  protect  me  from  what  1  want).  The  Inflammatory  Essays  are 
+paragraph-long  texts,  many  of  which  are  angry  or  passionate  exhortations 
+(a  cruel  but  ancient  law  demands  an  eye  for  an  eye.  murder  must  be  answered  by 
+execution.  only  god  has  the  right  to  take  a  life  and  when  someone  breaks  this  law 
+he  will  be  punished.  .  .  . )  Both  series  were  initially  produced  as  offset  posters 
+and  pasted  anonymously  to  the  facades  of  buildings,  at  construction  sites, 
+in  subways,  and  in  other  locations  where  a  profusion  of  graffiti  and 
+weathered  commercial  ephemera  is  found. 
+
+A  turning  point  in  Holzer's  art  occurred  in  1982,  when,  through 
+the  auspices  of  the  Public  Art  Fund,  the  Truisms  were  broadcast  on  the 
+Spectacolor  electronic  signboard  in  New  York's  Times  Square.  Situated  in  the 
+midst  of  the  world's  most  famous  site  for  electronic  signage,  Holzer's  art 
+was  a  jarring  intervention  into  the  more  mundane  flow  of  news  reports  and 
+seductive  commercial  messages.  From  that  point  forward,  electronic 
+technology  became  a  key  medium  for  her  work,  both  as  an  aesthetic  device 
+and  as  a  subject  of  investigation. 
+
+Holzer's  award-winning  installation  at  the  1990  Venice  Biennale, 
+for  which  Untitled  was  first  created,  offers  a  summation  of  the  artist's  work 
+to  that  point.  Two  antechambers,  situated  on  opposite  sides  of  the  rotunda 
+of  the  U.S.  Pavilion,  were  installed  with  marble  benches  lining  the 
+perimeters  of  the  rooms  and  diamond-patterned  marble  floors;  both  the 
+benches  and  the  floors  were  inscribed  with  various  texts  by  the  artist. 
+
+
+These  antechambers  led  to  two  additional  rooms,  which  were  flooded  by 
+the  searing  lights  of  multicolored  LED  signs  affixed  to  the  walls.  She  likens 
+the  reflective  surfaces  of  the  marble  floors  to  the  waters  of  Venice,  and 
+explains,  "The  idea  for  the  antechambers,  with  my  texts  on  the  floors, 
+came  from  the  old  doge  palaces,  where  you  waited  for  your  fate  to  be 
+decided.  And  my  texts  about  life  and  death  — I  know  that  sounds 
+pretentious,  but  that's  what  my  work's  always  been  about— fit  right  into 
+that  worried  atmosphere.'" 
+
+Untitled  is  the  most  lively  and  least  brooding  of  the  rooms  in  the 
+original  installation.  Eleven  horizontal  LED  signs  are  situated  on  the  far  wall 
+as  one  enters  the  room,  and  are  flanked  by  another  five  horizontal  signs  on 
+each  side  wall.  The  work  brings  together  selections  from  earlier  projects  by 
+the  artist— Truisms,  Inflammatory  Essays,  The  Living  Series  (1980-82),  The 
+Survival  Series  (1983-85),  Under  a  Rock  (1985-86),  Laments  (1988-89),  and 
+Child  Text  (1989-1990)  — programmed  in  English,  French,  German,  Italian, 
+and  Spanish.  A  veritable  Tower  of  Babel,  where  dissonant  languages  and 
+statements  clash  in  a  cacophony  of  color,  the  installation  offers  an  overview 
+of  Holzer's  different  voices,  from  her  scathing  meditations  on  everyday  life 
+(such  us  abuse  of  power  comes  as  no  surprise)  to  more  reflective  expositions 
+(for  example,  if  you're  considered  useless  no  one  will  feed  you  any  more).  The 
+images  of  the  signs  mirrored  in  the  highly  polished  floors  (in  the  current 
+exhibition  the  floor  is  wood,  rather  than  the  marble  surface  of  the  Biennale 
+installation)  creates  a  state  of  suspension  or  dislocation,  enveloping  viewers 
+in  a  sea  of  light  and  language. 
+
+1.  Jenny  Holzer,  quoted  in  Stephen  Henry  Maddoff,  "Venice:  Site  Specific,"  Art  News  89, 
+no.  7  (September  1990),  p.  177. 
+
+Matthew  Drutt 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+EXHIBITION 
+C  ATA  L  0  G  U  E  S 
+
+
+jenny  HoLzer  was  born  in  1950  in 
+Gallipolis,  Ohio.  She  received  a 
+Bachelor  of  Fine  Arts  in 
+printmaking  and  painting  from 
+Ohio  University,  Athens,  in  1972, 
+and  in  1975,  she  entered  the 
+Master  of  Fine  Arts  painting 
+program  at  the  Rhode  Island 
+School  of  Design.  While  there,  she 
+began  to  introduce  language  into 
+her  work.  Holzer  moved  to  New 
+York  after  earning  her  degree  at 
+R.I.S.D.  in  1977,  and  enrolled  in 
+the  Whitney  Museum  of  American 
+Art's  Independent  Study  Program. 
+That  year,  she  created  her  first  all- 
+text  works,  the  Truisms  series, 
+printing  them  on  paper,  which  she 
+pasted  up  anonymously  around 
+the  city. 
+
+Holzer  has  been  the  recipient  of 
+several  important  awards, 
+including  the  Blair  Award, 
+presented  by  the  Art  Institute  of 
+Chicago,  1982,  and  the  award  for 
+best  pavilion  at  the  Venice 
+Biennale,  1990. 
+
+In  addition  to  the  numerous  solo 
+and  group  exhibitions  in  which  her 
+work  has  appeared,  Holzer  has 
+created  many  public  projects, 
+among  them  a  Truisms  display  on 
+the  Spectacolor  Board  in  Times 
+Square  in  1982,  sponsored  by  the 
+Public  Art  Fund,  and  a  series  of 
+public  spots  for  MTV  in  1989.  She 
+has  also  published  several  books, 
+including  A  Little  Knowledge, 
+1979;  Black  Book,  1980;  Hotel 
+(with  Peter  Nadin),  1980;  Living 
+(with  Nadin),  1980;  Eating  Friends 
+(with  Nadin),  1981;  Eating  Through 
+Living  (with  Nadin),  1981;  and 
+Truisms  and  Essays,  1983. 
+
+
+pages  16-17:  Jenny  Holzer, 
+Untitled,  1990.  Three-color  LED 
+signs;  ten  units,  each  .14  x  6.1  x 
+.1  m;  eleven  units,  each  .24  x 
+4.47  x  .11  m;  installation  area 
+variable,  approximately  6.45  x 
+10  m.  Collection  of  Morton  and 
+Marlene  Meyerson. 
+
+
+INDIVIDUAL 
+EXHIBITIONS 
+
+Jenny  Holzer:  Signs.  Des  Moines: 
+Des  Moines  Art  Center,  1986. 
+
+Jenny  Holzer:  Signs  and  Benches. 
+Brooklyn:  Brooklyn  Museum,  1988. 
+
+Jenny  Holzer:  Messages.  London: 
+Institute  of  Contemporary  Arts, 
+1988. 
+
+Jenny  Holzer.  New  York:  Solomon 
+R.  Guggenheim  Museum,  1989. 
+
+The  Venice  Installation.  Buffalo, 
+N.Y.:  Albright-Knox  Art  Gallery, 
+1991. 
+
+Jenny  Holzer.  Mito,  Japan: 
+Contemporary  Art  Center,  Art  Tower 
+Mito,  1994. 
+
+
+GROUP 
+EXHIBITIONS 
+
+Jenny  Holzer,  Cindy  Sherman: 
+Personae.  Cincinnati:  Contemporary 
+Arts  Center,  1986. 
+
+Jenny  Holzer,  Barbara  Kruger. 
+Jerusalem:  Israel  Museum,  1986. 
+
+Documenta  8.  Kassel:  Documents, 
+1987. 
+
+Digital  Visions:  Computers  in  Art. 
+Syracuse,  N.Y.:  Everson  Museum  of 
+Art,  1987. 
+
+Committed  to  Print:  Social  and 
+Political  Themes  in  Recent 
+American  Printed  Art.  New  York: 
+Museum  of  Modern  Art,  1988. 
+
+A  Forest  of  Signs:  Art  in  the  Crisis 
+of  Representation.  Los  Angeles: 
+Museum  of  Contemporary  Art, 
+1989. 
+
+Image  World:  Art  and  Media 
+Culture.  New  York:  Whitney 
+Museum  of  American  Art,  1989. 
+
+Making  Their  Mark:  Women  Artists 
+Move  into  the  Mainstream, 
+1970-1985.  Cincinnati:  Cincinnati 
+Art  Museum,  1989. 
+
+
+Art  et  Publicite  1890-1990.  Paris: 
+Grande  Galerie  and  Centre  Georges 
+Pompidou,  1990. 
+
+Culture  and  Commentary:  An 
+Eighties  Perspective.  Washington, 
+D.C.:  Hirshhorn  Museum  and 
+Sculpture  Garden,  Smithsonian 
+Institution,  1990. 
+
+High  and  Low:  Modern  Art  and 
+Popular  Culture.  New  York: 
+Museum  of  Modern  Art,  1990. 
+
+Beyond  the  Frame:  American  Art 
+1960-1990.  Tokyo:  Setagaya  Art 
+Museum,  1991. 
+
+Dev/7  on  the  Stairs:  Looking  Back 
+on  the  Eighties.  Philadelphia: 
+Institute  of  Contemporary  Art, 
+University  of  Pennsylvania,  1991. 
+
+Metropolis.  Berlin:  Walter-Gropius- 
+Bau,  1991. 
+
+The  Words  and  the  Images. 
+Utrecht:  Centraal  Museum,  1991. 
+
+Allegories  of  Modernism: 
+Contemporary  Drawing.  New  York: 
+Museum  of  Modern  Art,  1992. 
+
+Territorium  Artis.  Bonn:  Kunst-  und 
+Ausstellungshalle  der 
+Bundesrepublik  Deutschland,  1992. 
+
+Amerikanische  Kunst  im  20. 
+Jahrhundert:  Malerei  und  Plastik 
+1913-1993.  Berlin:  Martin-Gropius- 
+Bau;  Munich:  Prestel,  1993. 
+
+Rosebud:  Jenny  Holzer,  Matt 
+Mullican,  Lawrence  Weiner. 
+Munich:  Kunstbau  Lenbachhaus 
+Miinchen,  1994. 
+
+Transformers.  New  York: 
+Independent  Curators  Incorporated, 
+1994. 
+
+In  a  Different  Light.  Berkeley: 
+University  Art  Museum,  1995. 
+
+Feminin-masculin:  Le  Sens  de  I'art. 
+Paris:  Centre  Georges  Pompidou, 
+1995- 
+
+
+19 
+
+
+_ 
+
+
+TO 
+
+
+u 
+
+
+.10  .  . 
+IWA  I 
+
+
+PIANO-AS     IMAGE     MEDIA,     1995 
+
+Toshio  Iwai's  Piano— As  Image  Media  combines  a  real  grand  piano  with 
+virtual  images.  The  player  uses  a  trackball  to  place  luminous  points, 
+representing  musical  notes,  on  a  horizontal  projection  plane.  The  points  — 
+MIDI  signals  that  control  the  piano's  strings— travel  slowly  toward  the 
+keyboard.  Accelerating  shortly  before  they  reach  their  goal,  they  generate 
+musical  notes  as  they  appear  to  hit  the  keys.  Simultaneously,  a  computer- 
+generated  image  rises  from  each  "struck"  key,  projected  by  a  video  beamer 
+onto  a  semitransparent  projection  plane  mounted  vertically  above  the 
+keyboard.  As  the  sound  fades,  the  illuminated  image  loses  speed  and, 
+rotating  slowly,  turns  into  a  starlike  crystal. 
+
+With  all  of  the  piano  keys  freely  accessible  via  the  trackball,  the 
+player  can  easily  compose  melodies.  Not  all  melodies  are  possible,  however: 
+the  structure  of  the  virtual-manipulation  device  allows  single  notes,  sound 
+ornaments,  clusters,  and  bizarre  chords  to  be  produced,  but  it  is  almost 
+impossible  to  intentionally  modulate  the  staccato  of  the  sound  explosions,  and 
+the  length  of  the  notes  cannot  be  controlled.  There  is  also  no  way  to  play 
+melodies  in  accordance  with  the  principles  of  counterpoint  and  classical  laws 
+of  harmony,  but  "hybrid"  melodies— for  instance,  those  generated  by  rapidly 
+firing  the  incandescent  trace,  like  a  handwritten  signature,  onto  the  projection 
+plane— can  be  made.  Thus  the  instrument  can  convert  handwriting  into  a 
+sound  image,  the  luminous  points  constituting  a  notation  that  conforms  with 
+the  laws  of  grammar  or  gesture  rather  than  with  those  of  music. 
+
+Iwai's  declared  goal  is  to  open  up  a  new  field  of  experience  by 
+"combining  physical  objects  and  virtual  images,"  a  project  that  has 
+particular  significance  "in  a  time  when  the  new  digital  technologies  supplant 
+our  physical  experiences  with  virtual,  media-ted  ones."1  This  objective  is 
+markedly  different  from  that  of  synesthesia.  The  notion  of  sound  as  a 
+synesthetic  medium  is  centuries  old.  It  originated  with  the  Pythagoreans, 
+who  translated  musical  chords  into  numerical  proportions,  and  tried  to 
+deduct  the  ideal  harmony  of  the  celestial  spheres  from  the  movement  of  the 
+planets.  Revived  by  the  Neo-Platonists  during  the  Renaissance,  it  was 
+immortalized  in  the  theory  of  the  different  temperaments  of  musical 
+expression  (Phrygian,  Lydian,  Mixolydian,  and  so  on).  Nicolas  Poussin, 
+among  other  artists,  tried  to  apply  this  theory  to  the  world  of  colors,  an 
+endeavor  that  has  continued  to  the  present  day;  Vasily  Kandinsky  was  one 
+of  its  most  prominent  advocates,  with  his  idea  of  a  "color  piano"  and  theory 
+of  "color  tones,"  which  he  developed  in  the  early  part  of  this  century.  The 
+underlying  impulse  of  this  pursuit  has  always  been  the  search  for  a 
+universal  world  harmony  that  would  prove  the  divine  nature  of  the  origin  of 
+the  cosmos. 
+
+This  is  not  Iwai's  intention.  We  know  that  harmonic  melodies  are 
+not  possible  on  his  piano;  indeed,  melody  plays  only  a  secondary  role.  The 
+
+
+main  purpose  of  Iwai's  piece  is  to  make  the  invisible  processes  of 
+technology— which  have  become  incomprehensible  to  us— visible  again,  to 
+bring  them  back  into  the  realm  of  the  humanly  perceptible.  This  method, 
+which  could  be  called  the  "principle  of  de-involution,"  is  a  theme  that  runs 
+through  Iwai's  entire  oeuvre.  In  his  Video  Books  (1984),  for  example, 
+television  sequences  were  printed  out  image  by  image  via  a  video  printer, 
+and  these  images  were  then  reassembled  into  a  flip  book. 
+
+Iwai's  method  is  only  partly  ironic.  His  work  gives  us  the  chance 
+to  perceive  and  experience  things,  and  therefore  it  has  a  humanizing  effect. 
+We  begin  to  play  and  to  discover  new  correlations  (like  the  discovery  of 
+different  possible  types  of  notation).  As  in  all  successful  interactive 
+artworks,  the  skillful  "composition"  of  the  technical  environment  sets  the 
+stage  for  the  actions  of  the  observer.  These  "instruments"  do  not  require 
+virtuosity— they  invite  us  to  play,  to  leave  behind  the  Homo  sapiens  in  favor 
+of  the  Homo  ludens.  This  effect  might  be  the  cause  of  Piano— As  Image 
+Media's  strangely  sympathetic  air,  which  makes  us  hear  a  scherzo  in  even 
+the  most  chaotic  staccato  of  sounds,  and  which  invests  the  cold  splendor  of 
+its  blooming  light  crystals  with  warmth. 
+
+1.  Toshio  Iwai,  "Piano— As  an  Image  Media,"  in  MultiMediale  4,  exh.  cat.  (Karlsruhe:  ZKM, 
+1995).  P-  39- 
+
+Oliver  Seifert 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+
+EXHIBITION 
+
+CATALOGUES 
+
+
+Toshio  Iwai  was  born  in  1962  in 
+Aichi,  Japan.  He  studied  sculpture 
+and  mixed-media  art  at  the 
+University  of  Tsukuba,  Japan, 
+graduating  with  a  Master  of  Arts 
+degree  in  1987.  In  1992,  he  was 
+artist-in-residence  at  the 
+Exploratorium  in  San  Francisco, 
+and  in  1994-95  was  a  guest  artist 
+at  ZKM  Karlsruhe. 
+
+Iwai  created  his  first  experimental 
+animations  in  1981,  before  turning 
+to  precinematic  devices  like  flip 
+books  and  zoetropes.  Beginning  in 
+1986,  he  became  interested  in 
+computer  games.  In  Japan,  he  is 
+well  known  not  only  as  a  media 
+artist,  but  also  for  the  computer- 
+generated  virtual  sets  he  made  in 
+1990-91  for  the  science  program 
+Einstein  on  Fuji  Television. 
+
+Iwai  has  participated  in  numerous 
+international  festivals  and 
+exhibitions,  including  Images  du 
+Futur,  Montreal,  1987;  Artec, 
+Nagoya,  1989;  EXPO  '92,  Seville, 
+1992;  Interactive  Media  Festival, 
+Los  Angeles,  1994;  MultiMediale  4, 
+ZKM  Karlsruhe,  1995;  and  Le 
+Biennale  d'Art  Contemporain  de 
+Lyon,  1995-96.  In  1994.  ZKM 
+Karlsruhe  organized  a  survey 
+exhibition  of  his  works  entitled 
+Toshio  Iwai,  which  traveled  to 
+Helsinki  and  Amsterdam. 
+
+
+INDIVIDUAL 
+EXHIBITIONS 
+
+Toshio  Iwai:  Exhibition-Machine  for 
+Trinity.  Tokyo:  Laforet  Museum 
+Espace;  Fukuoka:  Art  Gallery 
+Artium,  1990. 
+
+Toshio  Iwai.  Karlsruhe:  ZKM,  1994. 
+
+
+GROUP 
+EXHIBITIONS 
+
+Tracing  Time.  San  Francisco: 
+Exploratorium,  1991. 
+
+MultiMediale  4.  Karlsruhe:  ZKM, 
+1994. 
+
+Le  Biennale  d'Art  Contemporain  de 
+Lyon:  Installation,  Cinema,  Video, 
+Informatique.  Lyon:  Musee  d'Art 
+Contemporain,  1995. 
+
+Phantasmagoria:  Pre-Cinema  to 
+Virtuality.  Sydney:  Museum  of 
+Contemporary  Art,  1996. 
+
+
+23 
+
+
+%~ 
+
+
+5E3 
+
+
+M 
+
+
+A  R  I 
+
+
+I 
+
+
+LES     LARMES     D'ACIER,     1987 
+
+Marie-Jo  Lafontaine  is  best  known  for  her  video  installations,  but  her  artistic 
+point  of  departure  was  painting.  Inspired  by  the  work  of  Robert  Ryman  and 
+Brice  Marden,  she  began  to  examine  the  material  quality  of  color  when  she 
+was  a  student  at  the  Ecole  Nationale  Superieure  d'Architecture  et  des  Arts 
+Visuels  "La  Cambre"  in  Brussels.  She  used  dyed  cotton  woven  into  canvas, 
+which  was  then  attached  to  stretchers,  to  create  black  monochrome 
+paintings.  Iconlike  objects  in  which  color  and  canvas  merge,  these  works 
+seem  to  embody  Kazimir  Malevich's  concept  of  essential  painting;  Lafontaine 
+applied  Malevich's  metaphysical  ideas  of  expression  to  the  production 
+process,  turning  the  medium  itself  into  the  works'  formal  theme.  The 
+strongly  emphasized  weave  structure  of  these  paintings  permits  color  and 
+texture  to  act  together  as  a  conceptualized  monolithic  unit.  The  subtle 
+oscillation  across  borders  of  classification  that  is  already  present  in  these 
+works  grew,  in  the  following  years,  into  an  interest  in  all  the  different  forms 
+of  visual  art.  She  began  making  multimedia  installations  that  bring  together 
+sculpture,  photography,  painting,  and  video. 
+
+Lafontaine's  monumental  video  sculpture  Les  Larmes  d'acier  was 
+first  shown  at  Documenta  8  in  Kassel,  Germany,  in  1987.  It  is  the 
+continuation  of  a  frequent  theme  in  the  artist's  work— the  contradiction  of 
+Western  culture  after  the  demise  of  its  stabilizing  traditions,  exemplified 
+here  in  the  pairing  of  Eros  and  Thanatos,  violence  and  passion,  power  and 
+pain,  beauty  and  terror.  Three  athletic  young  men— embodiments,  in  their 
+physiognomy,  of  cloned  masculinity— are  shown  on  the  installation's  twenty- 
+seven  monitors  performing  power-training  exercises.  The  camera  pans  slowly 
+across  their  faces;  frozen  into  masks  of  stoic  self-reference,  they  reveal  the 
+power  trainers'  determination  to  go  to  the  limit  and  their  attempts  to 
+suppress  their  pain.  The  camera  moves  gradually  over  mechanically 
+contracting  muscles,  fixing  finally  on  the  steel  skeleton  of  the  weight 
+machines,  which  seem  to  govern  the  monotonous  rhythm  of  the  men's 
+movements.  Their  bodies  are  naked  and  sculpturelike;  the  machine  appears 
+to  replace  the  self.  This  "mechanical  ballet"  of  masculine  bodies  is 
+accompanied  by  the  music  of  Vincenzo  Bellini's  Casta  Diva;  the  opera's 
+dramatic  intensity  contrasts  with  the  monotony  of  the  physical  exercise  and 
+acts  simultaneously  as  a  suggestive  layer.  At  its  climactic  moment,  the 
+music's  inner  dynamic  provides  an  exciting,  contrapuntal  echo  to  the  men's 
+weight-lifting  routine.  As  the  voice  of  Maria  Callas  reaches  its  highest  pitch, 
+the  athlete  bites  his  lower  lip  in  response  to  his  effort;  agony  and  ecstasy 
+converge,  the  pain  of  exertion  turns  into  lust  for  exertion,  agony  is 
+transformed  into  passion.  The  emotional  expressiveness  of  the  singing 
+compounds  the  appearance  of  strength  of  the  men's  bodies,  turning  them 
+into  symbols  of  power;  what  enables  the  body  to  endure  the  regimen  of 
+discipline  and  pain,  the  work  suggests,  also  enables  it  to  exercise  male 
+dominance.  When  accompanied  by  the  passionate  sound  of  a  female  voice, 
+exercising  on  the  machine  becomes  a  surrogate  for  love-making.  In  the 
+tension  between  the  severe,  formal  rigidity  of  the  masculine  stance  and  the 
+emotional  release  of  the  female  voice,  a  game  of  seduction  unfolds,  staged 
+by  Lafontaine  as  an  equally  erotic  and  ideological  theme. 
+
+Les  Larmes  d'acier  plays  a  key  role  in  Lafontaine's  oeuvre, 
+because  it  projects  a  complex  constellation  of  ideas  onto  a  simple  surrogate 
+action:  under  the  dictate  of  beauty,  man,  machine,  power,  and  sexuality  are 
+transmuted  into  a  totalitarian  scheme.  The  music  plays  a  crucial  role,  not 
+only  because  of  its  ironic  dismantling  of  empty  pathos,  but  also  because  of 
+its  complicity  with  the  entire  composition.  Apollo  mistakes  himself  for 
+Dionysus;  and  Narcissus  aspires  to  become  the  Ubermensch;  we  watch  the 
+
+
+TA  I  N  E 
+
+
+stages  of  this  metamorphosis  on  the  screens,  where,  the  artist  confesses, 
+she  is  playing  with  our  "most  extreme  fantasies": 
+
+1.  the  double  meaning  of  the  objectified  body  and  the  eroticized  machine:  a 
+myth  of  male  sexuality; 
+
+2.  the  double  meaning  of  statue  and  model:  the  identification  with  an 
+absolute  aesthetics,  which  has  become  a  myth  itself; 
+
+3.  the  affront  of  escalating  violence;  a  borderline  situation,  where  pleasure 
+and  play  turn  into  a  horrible  outburst  of  passion; 
+
+4.  the  acceleration  of  this  rage  to  the  point  where  sexual  power  surrenders 
+to  the  dangers  of  a  glorious  transgression.' 
+
+Les  larmes  d'acier,  or  "tears  of  steel,"  was  the  name  given  to  the  German 
+bombs  that  rained  upon  Europe  in  World  War  II.  (Evocative  of  the  suffering 
+caused  by  the  bombing,  the  phrase  also  sounds  similar  to  les  armes 
+d'acier,  or  "arms  of  steel.")  With  this  reference  in  mind,  it  soon  becomes 
+clear  that  the  young  trainers— who  perform  a  ritual  of  power,  absorbed  in 
+their  labor  in  the  service  of  beauty— have  a  disturbing  resemblance  to  the 
+battle-hardened  heroes  of  the  National  Socialist  sculptor  Arno  Breker  and 
+the  Rassemenschen  of  Leni  Riefenstahl's  films.  But  despite  all  its  intentional 
+historical-political  references,  Les  Larmes  d'acier  is  not  a  political  manifesto. 
+Lafontaine  challenges  the  stigmatized  ideal  of  heroic  strength  and  beauty, 
+while  alluding  to  our  fascination  with  terror.  The  athlete-turned-machine 
+finally  collapses  under  the  sound  of  air-raid  sirens,  as  the  pose  of 
+dominance  surrenders  to  the  ideology  it  has  created.  In  those  moments 
+where  the  music's  power  does  not  overcome  the  ideological  hubris  but 
+rather  mocks  it  in  feigned  reflection,  the  ritual  performed  by  the  three 
+athletes  is  reduced  to  an  empty  mannerism. 
+
+By  evoking  the  suggestive  vortex  of  collective  repressions  and 
+ideological  taboos  in  her  installations,  Lafontaine  touches  upon  similar 
+issues  to  those  treated  by  Anselm  Kiefer  and  Gerhard  Merz.  With  its 
+monumental  architecture,  and  the  impression  of  sacredness  this  lends  to  its 
+video  images,  Les  Larmes  d'acier  is  also  a  commentary  on  the  idea  of  the 
+Gesamtkunstwerk.  "This  time,"  states  Lafontaine,  "the  monochrome 
+seduction  of  all  the  previous  installations  is  fully  realized  and  serves  as  a 
+protection."  Embedded  in  a  construction  supported  by  gigantic  buttresses, 
+the  layout  of  the  monitors  repeats  the  triptych  configuration  of  an 
+altarpiece;  the  installation  criticizes  both  monumentality  and  monism 
+through  this  juxtaposition.  The  work's  references  to  Gothic  cathedrals  and 
+expressionistic  cinema  architecture  represent  the  helpless,  pathetic  attempt 
+to  build  an  isolated  and  autonomous  cultural  prerogative  from  the 
+ideological  "remnants  of  beauty,"  nature  and  culture  being  abused  in  the 
+construction  of  a  "great  ideal."  Because  of  its  inherent  tendency  to  eliminate 
+differences  and  its  propensity  for  totalitarian  excesses,  the  striving  for 
+absolute  perfection  is  becoming  ever  more  violent,  transforming  men's 
+bodies  into  unshaped  masses  of  flesh  through  the  extreme  exaltation  of 
+ideal  human  proportions.  Lafontaine  brings  this  inclination  to  full  fruition  in 
+the  rhetoric  of  the  work's  different  mediums  and  the  gender  roles  it 
+describes.  Her  ant\-Gesamtkunstwerk  visualizes  how  barbarism  began  with 
+beauty's  arrogant  emancipation. 
+
+1.  Marie-Jo  Lafontaine,  "Les  Larmes  d'acier,"  in  Documenta  8,  exh.  cat.  (Kassel:  Documenta, 
+1987),  vol.  2,  p.  140. 
+
+Ursula  Frohne 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+EXHIBITION 
+C  ATA  L  0  G  U  E  S 
+
+
+pages  24-25:  Marie-Jo  Lafontaine, 
+Les  Larmes  d'acier  (Tears  of 
+Steel),  1987.  Six-channel  video 
+and  one-channel  sound 
+installation,  approximately 
+20  minutes,  black  and  white, 
+3-33  x  7.75  x  2.7  m.  ZKM/Center 
+for  Art  and  Media  Karlsruhe, 
+On  permanent  loan  from  the  Land 
+Baden  Wurttemberg. 
+
+
+Marie-Jo  Lafontaine  was  born  in 
+1950  in  Antwerp,  Belgium.  From 
+1975  to  1979,  she  studied  at  the 
+Ecole  Nationale  Superieure 
+d'Architecture  et  des  Arts  Visuels 
+"La  Cambre"  in  Brussels. 
+
+In  1977,  she  was  awarded  the  Prix 
+de  la  Jeune  Peinture  Beige,  and  in 
+
+1979,  the  Prix  de  la  Critique.  Since 
+
+1980,  she  has  been  integrating 
+video  into  her  sculptures  and 
+environments.  She  won  the  Grand 
+Prix  de  la  Litterature  Argielienne 
+de  Pierre  Restany  in  1981,  and  the 
+Meatball  Video  Award  the  following 
+year.  She  received  a  1985  grant 
+from  the  Institute  of  Arts  and 
+Humanities  in  Boston,  and  in  1986 
+was  presented  with  a  fiacre 
+stipend  from  the  French  Ministry  of 
+Culture.  In  1990,  she  was  a  guest 
+professor  at  the  Sommerakademie 
+in  Salzburg,  Austria,  and  since 
+1992,  she  has  been  a  professor  of 
+sculpture  and  multimedia  at  the 
+Staatliche  Hochschule  fur 
+Gestattung,  Karlsruhe. 
+
+Solo  exhibitions  of  Lafontaine's 
+work  have  been  held  at  the 
+Fruitmarket  Gallery,  Edinburgh, 
+and  Whitechapel  Art  Gallery, 
+London,  1989;  and  Salzburger 
+Kunstverein,  1990.  Her  work  has 
+appeared  in  many  group 
+exhibitions,  including  the  Biennale 
+de  Paris,  1980,  and  Documenta, 
+Kassel,  Germany,  1987. 
+
+
+INDIVIDUAL 
+EXHIBITIONS 
+
+Des  Jeux  pour  rejouir  le  regard  des 
+dieux.  Marseille:  Musee  Cantini, 
+1986. 
+
+A  las  cinco  de  la  tarde.  Hannover: 
+Sprengel  Museum,  1986. 
+
+L'lnterdit  Desire.  Bourg-en-Bresse: 
+Musee  de  Brou,  1987. 
+
+Marie-jo  Lafontaine.  Los  Angeles: 
+Museum  of  Contemporary  Art, 
+1988. 
+
+Museum  fur  Gegenwartskunst 
+Basel:  Marie-jo  Lafontaine:  Les 
+Larmes  d'acier.  Basel:  Offentliche 
+Kunstsammlung,  1988. 
+
+Marie-Jo  Lafontaine.  Hamburg: 
+Weisses  Haus,  1989. 
+
+Marie-Jo  Lafontaine.  London: 
+Whitechapel  Art  Gallery; 
+Edinburgh:  Fruitmarket  Gallery, 
+1989. 
+
+Passio.  Salzburg:  Salzburger 
+Kunstverein,  1990. 
+
+Marie-Jo  Lafontaine.  Munich:  W. 
+Storms,  1991. 
+
+Marie-Jo  Lafontaine.  Deventer,  The 
+Netherlands:  Bergkirche  Kunst, 
+1991. 
+
+History  Is  Against  Forgiveness. 
+Brussels:  Goethe  Institut,  1992. 
+
+Wer,  wenn  ich  schriee,  hdrte  mich 
+denn  aus  der  Engel  Ordnungen. 
+Kassel,  1993. 
+
+Savoir  retenir  et  fixer  ce  qui  est 
+sublime.  Long  Beach:  California 
+State  University  Art  Museum,  1994. 
+
+Jeder  Engel  ist  schrecklich. 
+Oberhausen,  Germany:  Gasometer, 
+1994. 
+
+
+GROUP 
+EXHIBITIONS 
+
+Documenta  8.  Kassel:  Documenta, 
+1987. 
+
+Arbeit  in  Geschichte  -  Geschichte 
+in  Arbeit.  Hamburg:  Kunsthaus  und 
+Kunstverein,  1988. 
+
+Video-Skulptur:  Retrospektiv  und 
+Aktuell,  1963-1989.  Cologne: 
+Kolnischer  Kunstverein  and 
+DuMont  Kunsthalle,  1989. 
+
+Wiener  Diwan.  Vienna:  Museum 
+des  20.  jahrhunderts,  1989. 
+
+Zur  Sache  Selbst.  Wiesbaden: 
+Kunstmuseum,  1990. 
+
+The  Readymade  Boomerang: 
+Certain  Relations  in  Twentieth 
+Century  Art:  The  Eighth  Biennale  of 
+Sydney.  Sydney:  Biennale  of 
+Sydney,  1990. 
+
+MultiMediale  2.  Karlsruhe:  ZKM, 
+1991. 
+
+Kunst  Videnskab.  Copenhagen: 
+Charlottenborg,  1992. 
+
+Moving  Image:  Electronic  Art. 
+Karlsruhe:  ZKM;  Munich  and 
+Stuttgart:  Oktagon,  1992. 
+
+Feuer,  Wasser,  Erde,  Luft:  Die 
+vier  Elemente.  Hamburg: 
+Deichtorhallen,  1993. 
+
+Retrospectives  Installations  Videos. 
+Antwerp:  MUHKA,  1993. 
+
+Philips  Electronic  Art.  Berlin:  I  FA, 
+1993- 
+
+Confrontation.  Brussels:  Musee 
+d'lssel,  1994. 
+
+Himmel  und  Hblle.  Helsinki: 
+Museum  of  Contemporary  Art, 
+1995- 
+
+Ich  Phoenix.  Oberhausen: 
+Gasometer,  1996. 
+
+
+27 
+
+
+TO* 
+
+
+JTR 
+
+
+VIDEO     SURVEILLANCE     PIECE     (PUBLIC 
+ROOM,     PRIVATE     ROOM),     1969-70 
+
+Defying  the  conventions  of  traditional  artistic  practice,  Bruce  Nauman  has 
+worked  in  almost  every  conceivable  medium  since  1965.  In  mixed-media  and 
+neon  sculptures,  photographs,  films,  and  videos,  he  has  engaged  in  an 
+examination  of  the  self,  using  language  and  the  body  to  ruminate  upon 
+issues  of  anxiety,  constraint,  and  aggression.  Like  Man  Ray  and  Marcel 
+Duchamp,  whose  works  are  sources  of  inspiration,  Nauman  has  produced 
+"unfinished"  artworks  that  depend  on  a  viewer  for  completion;  they  pose 
+existential  questions  of  meaning  and  comprehension  inspired  by  the  artist's 
+interest  in  the  writings  of  Ludwig  Wittgenstein. 
+
+Video  Surveillance  Piece  (Public  Room,  Private  Room)  consists  of 
+two  spaces.  The  "Private  Room"  is  an  enclosed  space  containing  no  entrance,  in 
+which  a  monitor  sits  in  one  corner  and  a  video  camera  is  suspended 
+diagonally  across  from  it.  The  "Public  Room"  is  the  same  size  as  the  Private 
+Room,  with  a  similar  configuration;  in  this  space,  the  camera  sits  on  the  floor 
+and  the  monitor  is  suspended,  and  an  opening  allows  the  viewer  to  enter.  The 
+cameras  in  both  spaces  sweep  in  a  horizontal  arc,  relaying  their  images  to 
+the  monitor  in  the  other  room;  what  the  camera  sees  in  the  Private  Room 
+appears  on  the  monitor  in  the  Public  Room  and  vice  versa. 
+
+Nauman's  installation  suggests  the  way  in  which  video's 
+increasingly  ubiquitous  presence  in  everyday  life  has  begun  to  shift  the 
+balance  between  privacy  and  the  observation  of  behavior.  By  turning  the 
+viewer  into  the  subject  of  the  camera's  gaze,  the  work  creates  a  sense  of 
+discomfort  and  insecurity  in  relation  to  the  experience  of  space.  Like  other 
+video  works  of  the  late  1960s  and  early  1970s,  such  as  those  by  Ant  Farm,  it 
+also  explores  the  role  of  the  mass  media  as  an  apparatus  of  the  state. 
+
+Video  Surveillance  Piece  (Public  Room,  Private  Room)  brings 
+together  two  kinds  of  information  — physical  and  intellectual  — and  places 
+them  in  a  strained  relationship.  The  Private  Room,  a  real  space,  is  turned 
+into  a  kind  of  imaginary  one;  viewers  must  complete  the  picture  of  it  in 
+their  minds  from  the  partial  information  they  are  offered  by  the  video  feed. 
+Moreover,  the  image  that  viewers  see  on  the  monitor  in  the  Public  Room  is 
+of  a  space  into  which  they  can  enter  only  by  having  their  image  broadcast 
+into  it.  These  various  levels  of  observation  and  withholding  of  information 
+reinforce  the  work's  disarming  atmosphere,  foregrounding  a  dystopic  rather 
+than  Utopian  view  of  technology. 
+
+Matthew  Drutt 
+
+
+RAW     MATERIAL:     BRRR,     1990 
+
+A  moment  of  surprise,  followed  by  irritation,  then  aggression,  and  finally 
+the  desire  to  withdraw— this  is  the  usual  response  to  Bruce  Nauman's  Raw 
+Material  installations.  As  in  other  works  from  this  series,  the  elements  of 
+Raw  Material:  Brrr  are  organized  to  provoke  a  strong  emotional  reaction.  On 
+two  stacked  monitors,  and  on  a  large-scale  projection  on  an  adjacent  wall 
+of  the  same  room,  the  same  face  — that  of  the  artist— appears  in  three 
+different  recorded  versions.  In  all  three  videos  its  only  action  is  to  utter 
+"brrr,"  with  its  lips  pressed  together  and  eyes  closed.  The  face  appears 
+sideways,  rotated  ninety  degrees  from  its  usual  orientation  on  TV  screens; 
+this  introduces  a  slightly  alienating  effect,  which  is  joined  by  more  irritating 
+elements  after  longer  observation.  The  face  trembles  with  the  effort  to 
+produce  sounds;  its  facial  expression— with  its  childishly  pursed  lips, 
+repeatedly  uttering  the  same  annoying  and  numbing  "brrr"  — turns  into  a 
+
+
+grotesque  mask  of  human  regression.  Equally  obtrusive,  sound  and  image 
+are  closely  interwoven,  each  intensifying  the  other  to  such  a  degree  that 
+they  project  a  monumental  presence.  An  aggressive  inferno  grows  in  the 
+mind  of  the  observer  as  the  compulsive  actions  of  this  person  become 
+physically  and  psychically  tormenting. 
+
+Without  any  explanatory  accessories,  the  person  who  appears  in 
+the  videos  seems  to  be  caught  up  in  a  form  of  autism,  and  the  serial 
+repetition  of  screens  in  the  installation  compounds  the  confrontational  effect 
+of  the  video  recordings.  In  contrast  to  the  clearly  functional  character  of  the 
+installation's  mechanical  equipment,  which  seems  almost  to  be  transformed 
+into  stage  props,  his  foolish  actions  seem  an  embodiment  of  the 
+unconscious.  This  scenic  framework  lets  the  observer  become  aware  of  his 
+or  her  voyeuristic  role,  but  it  also  implicates  the  viewer  as  an  actor  within  a 
+play  reminiscent  of  Samuel  Beckett's  Endgame. 
+
+The  disturbing  grimace  of  the  face  in  Raw  Material:  Brrr  is  similar 
+to  the  features  of  some  of  the  wax  heads  Nauman  used  in  earlier  works, 
+and  quite  possibly  derives  from  the  make-up  mask  of  a  clown,  the  theme  of 
+an  earlier  series  of  video  installations.  Although  Nauman  makes  intentional 
+reference  to  the  cliched  nature  of  the  clown's  pain-stricken  face,  it  cannot 
+be  read  entirely  as  parody  in  his  work;  these  clown  figures,  like  the 
+grimacing  expression  in  Raw  Material:  Brrr,  need  to  be  interpreted  in  both  a 
+literal  and  a  metaphorical  sense.  Almost  like  successors  of  the  clownish 
+parts  in  Beckett's  plays,  they  reproduce  and  parody,  in  their  bare,  self- 
+indulgent  actions,  the  plainly  comic  aspects  of  their  character.  In  one  sense, 
+they  can  be  understood  simply  as  a  structural  phenomenon,  but  they  also 
+impersonate  an  uncertainty  of  human  experience:  that  of  being  lost  in  an 
+impersonal  and  transindividual  codification.  The  clowns  personify  fear, 
+exposure,  aggression,  and  suffering— the  socio-anthropological  categories 
+that  are  the  "raw  material"  of  Nauman's  installations. 
+
+As  a  vital  part  of  the  raw  material  of  human  expressive  behavior, 
+language  plays  a  significant  role  in  Nauman's  artistic  repertoire.  Nauman 
+sees  language  as  a  combination  of  sign  systems  and  patterns  of  behavior, 
+functioning  as  a  variable  continuum  beyond  the  strictly  verbal.  His  earlier 
+neon  sculptures,  with  their  laconic  litanies,  assert  that  language  itself  is  a 
+plastic  material.  In  his  Raw  Material  installations,  Nauman  began  to 
+incorporate  the  sound  of  language  as  well.  By  emphasizing  sound  vibrations, 
+he  turned  language  into  both  a  material  and  a  physical  experience.  In  Raw 
+Material:  Brrr,  he  operates  with  a  hieroglyphic,  compressed  form  of 
+language  — the  "raw  material"  of  linguistic  communication  — that  contrasts 
+with  the  concise  messages  of  the  earlier  works,  such  as  "Speak  and  Die/Lie 
+and  Die/Hear  and  Die."  If  we  take  the  minutely  organized  word  games  of 
+Nauman's  neon  sculptures  and  apply  them  to  the  title  of  Raw  Material:  Brrr, 
+we  can  rearrange  the  letters  of  "raw,"  treating  it  as  an  anagram  of  "war"; 
+"brrr"  can  also  be  interpreted  as  the  garbled  pronunciation  or  regressive 
+stammering  of  the  first  letters  of  the  artist's  given  name,  Bruce.  What  the 
+title  implies  through  this  latent  double  meaning  becomes  more  legible  in 
+terms  of  the  complete  "text"  of  the  installation.  The  seemingly  harmless 
+image  of  the  infantile  man  and  his  utterances,  which  appear  meaningless  at 
+first,  turn,  in  their  obsessive  repetitiveness,  into  an  act  of  potential 
+aggression.  Like  the  litanies  of  Nauman's  sober  neon  sculptures,  the 
+primitive  expressive  behavior  here  culminates  in  an  emotional  confrontation, 
+as  the  man's  detonations  of  sound  begin  to  reveal  deeper  connotations.  By 
+attacking  the  viewer's  emotions  while  yet  appealing  to  archaic  levels  of 
+perception,  the  work  gives  meaning  to  its  apparently  nonsensical  sounds. 
+
+
+29 
+
+
+*IIIIHMH' 
+
+
+M»t*»Mn»m*mMU4>»um»»Mmn*mn* nw>tm 
+
+
+page  28:  Bruce  Nauman,  Video 
+Surveillance  Piece  (Public  Room, 
+Private  Room),  1969-70.  Two  video 
+cameras  on  oscillating  mounts,  and 
+two  video  monitors,  installed  in 
+two  rooms;  installation  area 
+variable.  Solomon  R.  Guggenheim 
+Museum,  New  York,  Panza 
+Collection  92.4167. 
+
+left  and  following  page:  Bruce 
+Nauman,  Raw  Material:  Brrr,  1990. 
+Two-channel  video  and  two- 
+channel  sound  installation, 
+60  minutes,  color;  installation  area 
+variable,  approximately  7.5  x 
+6.25  m.  ZKM  Center  for  Art  and 
+Media  Karlsruhe. 
+
+
+/ 
+
+
+In  1965,  when  Nauman  started  his  career,  Minimalism  was 
+becoming  increasingly  influential  in  the  art  world.  Instead  of  formulating  his 
+adherence  or  opposition  to  this  movement,  Nauman  chose  the  path  of  self- 
+confrontation  in  the  isolation  of  his  studio.  The  title  "Withdrawal  as  an  Art 
+Form,"  which  he  chose  for  one  of  a  series  of  "notes  and  projects"  published 
+in  Artforum  in  1970,  is  an  indication  of  his  determination  to  use  self- 
+referential  methods  and  of  his  retreat  into  the  metaphorical  vacuum  of  the 
+studio.  At  that  early  stage,  Nauman  already  understood  his  personal 
+experiences  to  be  founded  on  collective  patterns  of  perception  and  reaction. 
+Based  on  this,  it  can  be  said  that  individuality  is  a  concrete  manifestation 
+of  a  greater  totality,  and  that  every  individual  action  can  be  interpreted  on  a 
+more  universal  level.  Nauman  began  to  use  his  body  as  a  medium  to 
+communicate  ideas,  documenting  his  actions,  without  aesthetic  or  narrative 
+references,  in  photography,  film,  and  video.  With  these  technological 
+extensions,  he  undertook  a  systematic  exploration  of  self-consciousness 
+through  self-observation,  as  in  his  Video  Surveillance  Piece  {Public  Room, 
+Private  Room)  (1969-70).  In  marked  contrast  to  public  performance  — a 
+predominant  artistic  practice  of  the  time  — Nauman  used  his  video  camera  in 
+the  privacy  of  his  studio  to  film  a  series  of  daily  routines,  supplementing  it 
+regularly  to  create  a  type  of  encyclopedia  of  human  behavior.  In  the  mid- 
+1980s,  Nauman  began  to  experiment  more  rigorously  with  the  plastic 
+possibilities  of  video.  In  1987,  he  started  projecting  videos  directly  onto 
+walls,  using  these  large-scale  projections  together  with  multiple  monitors  set 
+up  in  different  parts  of  the  room.  In  these  installations,  including  Raw 
+Material:  Brrr,  the  content  of  the  video  images  and  the  formal  composition 
+of  the  various  elements  reintroduced  a  theme  from  Nauman's  earlier 
+catalogue  of  topics:  the  capacity  of  the  body  and  language  for  social 
+communication. 
+
+
+Nauman  owes  his  precise  artistic  language  primarily  to  his  early 
+contact  with  the  work  of  Jasper  Johns.  From  the  wax  casts  of  body  parts  to 
+the  words  and  furniture  fragments  that  became  predominant  themes  in 
+Nauman's  drawings,  sculptures,  and  installations,  the  intellectual  rigor  of 
+Johns's  assemblages  proved  to  be  a  far  more  congenial  source  of  inspiration 
+than  the  ironic  detachment  of  Marcel  Duchamp's  surrealist  found  objects. 
+
+Human  and  animal  body  parts,  cast  in  wax  or  aluminum  and 
+heaped  into  piles;  grimacing  heads,  suspended  on  wires  from  the  ceiling 
+like  macabre  references  to  Alexander  Calder's  mobiles,  or  shown  spinning 
+ceaselessly  on  video  monitors;  these  elements  of  Nauman's  earlier  work  are 
+no  doubt  related  to  the  head  that  appears  in  Raw  Material:  Brrr.  Caught  in 
+an  incurable  fixation  of  self-expression,  it  seems  to  bear  witness  to  the 
+overwhelming  inner  conflicts  that  are  carried  out  in  the  unconscious.  Its 
+behavior  is  reminiscent  of  a  catatonic's  convulsions  and  involuntary 
+contractions,  compulsive  symptoms  that  are  the  result  of  a  psychic 
+instability  manifested  as  physical  reactions.  This  form  of  confinement  is 
+analogous  to  the  human  subjection  to  patterns  of  behavior  and  perception 
+beyond  the  sphere  of  the  individual,  which  Nauman  describes  as 
+anthropological  factors.  Despite  his  distanced  artistic  stance  and  his 
+dissecting  observation  of  this  existential  predicament,  he  also  places  himself 
+in  a  fully  exposed  position  in  this  vivisection  of  the  human  condition.  The 
+viewer  might  begin  to  feel  the  emotional  substance  of  Nauman's  work  only 
+after  experiencing  dismay  in  reaction  to  its  themes,  but,  nevertheless,  it  is 
+this  human  aspect  of  Nauman's  artistic  approach  that  reveals  the  deep 
+seriousness  that  runs  through  all  of  his  work. 
+
+Ursula  Frohne 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+
+EXHIBITION 
+
+CATALOGUES 
+
+
+Bruce  Nauman  was  born  in  1941  in 
+Fort  Wayne,  Indiana.  From  i960,  he 
+studied  mathematics,  physics,  and 
+art  at  the  University  of  Wisconsin 
+in  Madison,  receiving  a  Bachelor  of 
+Arts  degree  in  1964.  He  went  on  to 
+study  under  William  T.  Wiley  and 
+Robert  Arneson  at  the  University  of 
+California  at  Davis,  graduating  with 
+a  Master  of  Arts  degree  in  1966. 
+
+In  1964,  Nauman  gave  up  painting 
+and  began  working  in  sculpture 
+and  performance  art;  he  also 
+began  experimenting  with  film.  He 
+received  an  Artist  Fellowship  Award 
+from  the  National  Endowment  for 
+the  Arts  in  1968.  In  1970,  he 
+taught  a  spring  course  at  the 
+University  of  California  at  Irvine, 
+and  in  the  same  year,  he  received 
+a  grant  from  the  Aspen  Institute 
+for  Humanistic  Studies.  He  was 
+awarded  an  Honorary  Doctor  of 
+Fine  Arts  degree  from  the  San 
+Francisco  Art  Institute  in  1989,  and 
+in  1990,  he  received  the  Max 
+Beckmann  Preis  from  the  City  of 
+Frankfurt. 
+
+
+In  1972,  the  Los  Angeles  County 
+Museum  of  Art  and  the  Whitney 
+Museum  of  American  Art,  New 
+York,  organized  the  first 
+retrospective  exhibition  of 
+Nauman's  work.  From  1986  to 
+1988,  an  exhibition  of  Nauman's 
+drawings  traveled  through 
+museums  in  Europe  and  the  United 
+States.  Between  1990  and  1992, 
+sculptures  and  installations  were 
+shown  at  Museum  fur 
+Gegenwartskunst,  Basel; 
+Stadtische  Galerie,  Frankfurt  am 
+Main;  and  Musee  Cantonal  des 
+Beaux-Arts,  Lausanne.  The  most 
+recent  Nauman  retrospective 
+traveled  to  the  Museo  Nacional 
+Centra  de  Arte  Reina  Sofia,  Madrid; 
+Walker  Art  Center,  Minneapolis;  the 
+Museum  of  Contemporary  Art,  Los 
+Angeles;  Hirshhorn  Museum  and 
+Sculpture  Garden,  Washington, 
+D.C.;  and  the  Museum  of  Modern 
+Art,  New  York,  from  1993  to  1995. 
+The  numerous  group  exhibitions  in 
+which  Nauman's  work  has 
+appeared  include  Documenta, 
+Kassel,  Germany,  1968,  1972, 
+1977.  1982,  and  1992;  Tokyo 
+Biennale  '70;  Biennale  de  Paris, 
+1971;  Venice  Biennale,  1978  and 
+1980;  and  Amerikanische  Kunst  im 
+20.  Jahrhundert,  Martin-Gropius- 
+Bau,  Berlin,  and  Royal  Academy  of 
+Arts,  London,  1993. 
+
+
+Bruce  Nauman.  London: 
+Whitechapel  Art  Gallery,  1986. 
+
+Bruce  Nauman:  Prints,  1970-80:  A 
+Catalogue  Raisonne.  New  York: 
+Castelli  Graphics,  1989. 
+
+Bruce  Nauman:  Skulpturen  und 
+Installationen,  1085-1990.  Basel: 
+Museum  fiir  Gegenwartskunst; 
+Cologne:  DuMont,  1990. 
+
+Bruce  Nauman.  Minneapolis: 
+Walker  Art  Center,  1994. 
+
+
+1987  Biennial  Exhibition.  New  York: 
+Whitney  Museum  of  American  Art, 
+1987. 
+
+Carnegie  International  1988. 
+Pittsburgh:  Museum  of  Art, 
+Carnegie  Institute,  1988. 
+
+Zeitlos.  Berlin:  Hamburger 
+Bahnhof,  1988. 
+
+Image  World:  Art  and  Media 
+Culture.  New  York:  Whitney 
+Museum  of  American  Art,  1989. 
+
+L'Art  des  annees  soixante  et 
+soixante-dix:  La  Collection  Panza. 
+Saint-Etienne,  France:  Musee  d'Art 
+Moderne,  1989. 
+
+Video-Skulptur:  Retrospektiv  und 
+Aktuell,  1963-1989.  Cologne: 
+Kolnischer  Kunstverein  and 
+DuMont  Kunsthalle,  1989. 
+
+The  Readymade  Boomerang: 
+Certain  Relations  in  Twentieth 
+Century  Art:  The  Eighth  Biennale  of 
+Sydney.  Sydney:  Biennale  of 
+Sydney,  1990. 
+
+Carnegie  International  1991. 
+Pittsburgh:  Museum  of  Art, 
+Carnegie  Institute,  1991. 
+
+Devil  on  the  Stairs:  Looking  Back 
+on  the  Eighties.  Philadelphia: 
+Institute  of  Contemporary  Art, 
+University  of  Pennsylvania,  1991. 
+
+
+Dislocations.  New  York:  Museum  of 
+Modern  Art,  1991. 
+
+Metropolis-International  Art 
+Exhibition  Berlin  1991.  Berlin: 
+Martin-Gropius-Bau,  1991. 
+
+Motion  and  Document— Sequence 
+and  Time:  Eadweard  Muybridge 
+and  Contemporary  American 
+Photography.  Andover:  Addison 
+Gallery  of  American  Art,  Phillips 
+Academy,  1991. 
+
+The  Pleasure  Machine:  Recent 
+American  Video.  Milwaukee: 
+Milwaukee  Art  Museum,  1991. 
+
+Documenta  9.  Kassel:  Documenta, 
+1992. 
+
+Moving  Image:  Electronic  Art. 
+Karlsruhe:  ZKM;  Munich  and 
+Stuttgart:  Oktagon,  1992. 
+
+Transform:  BildObjektSkulptur  im 
+20.  jahrhundert.  Basel: 
+Kunstmuseum  Basel  and 
+Kunsthalle  Basel,  1992. 
+
+Amerikanische  Kunst  im  20. 
+Jahrhundert:  Malerei  und  Plastik 
+1913-1993.  Berlin:  Martin-Gropius- 
+Bau;  Munich:  Prestel,  1993. 
+
+Gravity  and  Grace:  The  Changing 
+Condition  of  Sculpture  1965-1975. 
+London:  Hayward  Gallery  and  Arts 
+Council  of  Great  Britain,  1993. 
+
+Self/Made  Self/Conscious:  Janine 
+Antoni  and  Bruce  Nauman.  Boston: 
+Museum  of  Fine  Arts,  1994. 
+
+Le  Biennale  d'Art  Contemporain  de 
+Lyon:  Installation,  Cinema,  Video, 
+Informatique.  Lyon:  Musee  d'Art 
+Contemporain,  1995. 
+
+Feminin-masculin:  Le  Sens  de  I' art. 
+Paris:  Centre  Georges  Pompidou, 
+1995- 
+
+1965-1975:  Reconsidering  the 
+Object  of  Art.  Los  Angeles: 
+Museum  of  Contemporary  Art, 
+1995- 
+
+
+33 
+
+
+NAM     I  II  M  F 
+
+PA  I  K 
+
+
+34 
+
+
+PASSAGE,     1986 
+
+It  is  tempting  to  see  Nam  June  Paik's  Passage  as  the  Gates  of  Hell  of  the 
+twentieth  century.  The  comparison  to  Auguste  Rodin's  masterwork  might 
+seem  surprising,  but  if  one  looks  beyond  the  more  obvious  differences,  the 
+similarities  that  lie  beneath  the  surface  become  clear. 
+
+The  main  portal  structure  of  Passage  is  composed  of  old  TV 
+cabinets.  The  doors  of  these  outdated  models  are  left  partially  open,  their 
+inside  surfaces  covered  with  mysterious  characters  from  various  sources, 
+including  prehistoric  rock  engravings,  hieroglyphics,  cuneiform  writing,  and 
+Sanskrit,  Syri-Hittite,  and  ancient  Greek  scripts.  Each  of  these  "doorposts" 
+consists  of  three  stacked  cabinets,  crowned  by  a  seventeen-inch  Motorola 
+set  from  1953.  The  "architrave"  is  a  plain  metal  construction  with  a  1949 
+RCA  Victor  chassis  on  either  side,  below  which  round  speakers  are 
+mounted  in  the  triangular  spandrels.  In  the  center  of  the  architrave,  in  place 
+of  the  escutcheon  of  Baroque  doorways,  is  the  square  screen  of  a 
+seemingly  free-floating,  caseless  monitor,  pulsating  with  a  frantic  storm  of 
+images  and  framed  by  a  mandala  of  eight  1948  Motorola  chassis  with 
+circular  Braun  tubes. 
+
+Everything  in  this  ephemeral  structure,  pieced  together  from  an 
+old  collection  of  objects  as  though  by  children,  seems  to  mock  Rodin's  awe- 
+inspiring  bronze  doors.  In  place  of  bronze,  the  aes  aeternum,  there  are 
+prefabricated  consumer  products,  and  instead  of  sculptural  forms  there  are 
+the  immaterial  images  that  flicker  on  the  TV  screens. 
+
+Nevertheless,  these  two  works  have  in  common  movement,  a 
+"storm  of  images."  In  discourse  about  media  art,  the  temporal  dimension  of 
+pictures  in  motion  is  frequently  cited  as  the  primary  feature  that 
+differentiates  the  new  mediums  from  traditional  visual  art.  While  this  is 
+undoubtedly  true,  another  important  factor  is  frequently  overlooked:  as 
+Thomas  Mann  remarked  in  connection  with  his  novel  about  time,  The  Magic 
+Mountain,  it  is  not  at  all  the  case  that  images  exist  only  synchronously,  and 
+texts  only  in  a  sequence  of  time,  for  images,  too,  are  "read"  piece  by  piece, 
+and  memory  condenses  stories  and  plots  into  one  complete  sensation.  The 
+comparison  between  Passage  and  The  Gates  of  Hell  confirms  this 
+observation  in  terms  of  still  and  moving  images.  Although  they  are 
+physically  static,  it  would  be  absurd  to  say  that  the  dramatic  reliefs  of 
+Rodin's  work  are  without  motion.  Their  endless  stream  of  ecstatic  bodies 
+threatens  to  overflow  the  surrounding  architecture;  the  planes  vibrate  with  a 
+movement  that  is  eternalized,  not  frozen.  In  Paik's  work,  however,  the 
+movement  is  just  opposite:  flickering  video  images  chase  each  other, 
+creating  a  hypnotic  vortex. 
+
+By  entering  the  deeper  structure  of  the  images,  we  discover 
+further  similarities  between  these  two  works.  Using  a  video  synthesizer 
+developed  by  Shuya  Abe,  Paik  manipulated  his  video  images  at  the 
+electron-beam  level,  then  edited  the  altered  material  into  rapid  image 
+cascades.  Each  shot  appears  just  long  enough  to  attract  the  eye,  but  the 
+cuts  are  too  fast  to  give  the  viewer  a  clear  understanding  of  the  images. 
+Two  different  programs  run  simultaneously  on  the  nine  screens,  overloading 
+the  viewer's  attention  as  it  shifts  constantly  between  them.  By  presenting 
+the  images  in  this  way,  Paik  made  it  virtually  impossible  for  the  viewer  to 
+discern  a  narrative.  Because  of  the  cuts  and  the  simultaneity  of  the 
+programs,  the  strict  linear  progress  of  time  breaks  down  and  branches  off— 
+perhaps  it  even  stops  altogether. 
+
+Rodin  engaged  in  similar  processes.  Although  his  figures  were 
+modeled  by  hand,  almost  none  of  them  was  "original"  in  the  classical 
+sense -the  work  is  a  complex  montage,  an  editing  together  of  a  great 
+
+
+... 
+1 .  >  ■  ■  - 
+
+
+. 
+
+
+r'TH 
+
+
+flat?  6^1  uigq 
+
+**  te  wairatf 
+
+<**aa.  as©® 
+
+
+@  ©I    "W   le  @ 
+
+
+*a  L  L 
+
+
+•* 
+
+
+/ 
+
+
+> 
+
+
+V 
+
+
+- 
+
+
+■ 
+
+
+mm*?  tmmim 
+
+
+< 
+
+
+- 
+
+
+l'G&&- 
+
+
+■ 
+
+
+* 
+
+
+• 
+
+
+■ 
+
+
+■ 
+
+
+-  ^ 
+
+
+v 
+
+
+■ 
+
+
+r 
+
+
+- 
+
+
+■ 
+
+
+umwrm 
+
+
+- 
+
+
+xJ 
+
+
+■ 
+
+
+■ 
+
+
+f&E  '& 
+
+
+i 
+
+
+^="   ■•^  ■  49  ^T"    Zffrm  ^ 
+
+
+T 
+
+
+~- 
+
+
+r  *T*."S!kt    I'fg  ill 
+
+lill 
+
+■k      as.      ML.      OF  *■ 
+
+llll 
+
+ft  ft  ft  1Tb 
+
+&ft  ft  ft 
+
+PPPP 
+
+PPPP 
+
+PPPP 
+
+PPPP 
+
+IH£«II 
+
+pppp 
+pppp 
+
+S^k  iM 
+
+
+Nktb£k    j* 
+
+iflB^'ft  k 
+
+J 
+
+j 
+
+f 
+
+j 
+
+J 
+
+J 
+
+I 
+
+I 
+
+1 
+
+!»■  PT*i ^d  t»i 
+
+I 
+
+y 
+
+\ 
+
+V 
+
+V 
+
+\ 
+
+»I 
+
+J 
+
+■  m  11  ■       i    i 
+
+* 
+
+V^^v        r^r   ^Tn^r      -      ^B^^^^k^^^B^v^^l   ILa^^^« 
+
+,\ 
+
+4 
+
+f 
+
+j 
+
+&i^  ikww  ^9^7 
+
+"jrr 
+
+'> 
+
+f 
+
+1 
+
+T 
+
+I 
+
+^B  MB  ^B  ^K  ^^                              X 
+J.>         £*  '^    ft     J            -  — ■  ^^ 
+
+t 
+
+I 
+
+J 
+
+t 
+
+J 
+
+:      «&* 
+
+■ir^i 
+
+_J 
+
+t 
+
+J 
+
+J 
+
+IMS 
+
+lift**! 
+
+f 
+
+f 
+
+»*'  ^B  n     h  ■      ?  **?•  ~n     ^ 
+
+99  /*■ 
+
+
+/w     «/^ra 
+
+
+t.     IsmP. 
+
+
+IS** 
+
+
+si.* 
+
+
+riTi*  l^f t 
+
+
+number  of  distinct  pictorial  inventions  that  Rodin  used  repeatedly 
+throughout  his  career.  Even  within  individual  figures,  Rodin  employed  this 
+technique  of  combining  disparate  parts.  The  impulse  of  the  human  eye  to 
+integrate  the  dislocated  elements  triggers  a  sense  of  movement.  Thus,  the 
+artist  achieved  in  the  work  an  eternalized  motion,  which  is  constantly 
+revived  by  the  observer. 
+
+The  shape  of  the  two  works  leads  us  to  a  third  comparison.  As 
+entranceways,  both  are  strangely  nonfunctional.  Rodin's  gateway  cannot  be 
+opened  and,  like  Paik's,  leads  from  nowhere  to  nowhere— they  are  entries 
+without  buildings,  relics  of  what  was  once  a  totality.  If  Rodin's  gateway  is 
+the  secular  heir  of  the  church  portal,  with  scenes  of  Judgment  Day  gracing 
+the  tympanum,  Paik's  Passage  may  be  compared  to  the  torana  of  a  Hindu 
+temple,  or  the  entrance  to  a  Buddhist  stupa.  The  arches  of  the  temples  of 
+Shiva  often  carry  a  mandala  or  a  lion's  mask,  which  represents  the  sun  and 
+serves  as  a  reference  to  time,  death,  and  the  cosmic  fire  that  will  consume 
+all;  it  is  therefore  no  coincidence  that  Paik  has  placed  a  TV-mantra  in  that 
+very  spot.  In  its  shape  and  materials,  Passage  is  also  evocative  of  Shinto 
+structures.  Shinto  shrines  are  usually  situated  in  parks,  which  are  entered 
+through  a  torii— a  free-standing  gateway  composed  of  wooden  beams. 
+Passage  reflects  the  form  of  the  torii,  and  its  TV  cabinets  are  reminiscent  of 
+the  shrines  themselves,  in  which  a  mirror— a  direct  parallel  to  the  TV 
+monitor— is  kept  as  a  symbol  of  the  sun  goddess  Amaterasu. 
+
+With  The  Gates  of  Hell,  Rodin  subjectively  recast  Dante's 
+description  of  Inferno,  presenting  a  personal,  un-Christian  view  of  worldly 
+life  as  eternal  judgment.  Rodin's  subjectivity  contrasts  with  the 
+depersonalized  attitude  of  Paik,  but  both  positions  meet  in  their  aspiration 
+toward  the  same  goal.  Referring  not  to  Christianity  but  to  the  teachings  — 
+and  forms— of  Hinduism,  Zen-Buddhism,  and  even  Taoism,  and  combining 
+them  with  the  artistic  ideas  of  the  Fluxus  movement  ("passage"  is,  after  all, 
+just  another  word  for  "Fluxus"),  Paik  criticizes  the  linear  logic  of  the  West. 
+This  logic  is  manifest  in  the  "one-way  time"  of  television,  which  Paik 
+subverts  by  applying  ancient  meditation  techniques  to  the  medium:  as  he 
+stated  in  1963,  "To  observe  the  parallel  streams  of  various  independent 
+movements  simultaneously  is  a  classical  technique  to  grasp  eternity."'  The 
+video  cuts,  the  parallel  display  of  separate  programs,  and  the  resulting 
+unpredictability  of  the  visual  processes  in  Passage  all  appear  to  be  a  literal 
+translation  of  this  statement,  and  the  cryptic  characters  inside  the  TV 
+cabinets  are  further  signs  of  the  departure  from  an  imperative  to  follow 
+linear  codes. 
+
+1.  Nam  June  Paik,  "Nachspiel  zur  austellung  des  experimentelien  fernsehens,  Marz  1963,  Galerie 
+Parnass,"  in  Paik,  Niederschriften  eines  Kulturnomaden,  Aphorismen,  Briefe,  Texte,  ed.  Edith 
+Decker  (Cologne:  DuMont,  1992),  p.  106. 
+
+Oliver  Seifert 
+
+
+MEG  AT  RON,     1995 
+
+A  pioneer  of  video  art,  Nam  June  Paik  is  widely  considered  to  be  a 
+preeminent  figure  in  the  medium's  evolution.  Since  the  early  1960s,  he  has 
+manipulated  television  — its  images  and  its  physical  apparatus— in  almost 
+every  imaginable  way:  reconfiguring  its  electronic  signal,  emptying  it  of  its 
+circuitry,  filling  it  with  different  artifacts,  and  fashioning  it  into  sculptural 
+arrangements.  He  belongs  to  the  early  generation  of  artists  whose  work  was 
+both  a  celebration  and  a  critique  of  the  language  of  television;  these  artists 
+transformed  television  from  a  quotidian  device  of  popular  culture  into  an 
+alternative  means  of  artistic  expression. 
+
+Paik's  approach  to  video  is  informed  by  myriad  impulses.  His 
+performances  and  video  works  are  characterized  by  satire  and  an  almost 
+reckless  will  to  defy  convention,  attitudes  that  are  typical  of  the  works  of 
+
+
+the  Fluxus  group,  which  counted  Paik  as  a  member.  Treating  the  television 
+as  a  kind  of  canvas,  he  has  attempted  to  develop  an  electronic  language 
+analogous  to  painting.  He  deploys  an  improvisational  approach  that  has  its 
+roots  in  his  musical  training  and  his  appreciation  for  both  classical  and 
+avant-garde  compositions.  In  particular,  the  sound  variations  of  John  Cage, 
+with  whom  Paik  became  friends  in  the  late  1950s,  have  been  a  long-lasting 
+influence,  which  is  evident  in  Paik's  affinity  for  generating  random,  cyclical 
+patterns  of  imagery. 
+
+In  his  earliest  experiments  with  cathode-ray  tubes,  Paik  converted 
+the  electronic  image  into  an  abstract  form,  distorting  the  television's  signal 
+into  wavelike  gyrations  that  could  occasionally  be  manipulated  by  the 
+viewer.  By  1968,  Paik  had  developed,  with  his  colleague  Shuya  Abe,  a 
+mechanism  called  the  Video  Synthesizer,  a  modified  colorizer  that  turns 
+stable  images  into  swirling  explosions  of  form  and  color.  Further 
+destabilizing  the  veneer  of  reality  offered  by  the  telecast  image,  Paik  then 
+developed  his  characteristic  style  of  splicing  together  images  from  disparate 
+sources  in  rapid  and  random  succession,  a  technique  that  is  associated 
+today  with  the  aesthetic  of  music  videos. 
+
+Megatron  is  Paik's  most  ambitious  statement  to  date.  Composed 
+of  two  adjoining  video  walls— the  rectangular  150-monitor  Megatron  and  the 
+square  sixty-five-monitor  Matrix— the  piece  is  fed  by  an  array  of  laser-disc 
+players  and  controlled  by  several  computers.  The  two  works  play  off  one 
+another,  occasionally  sharing  imagery  but  generally  functioning  as 
+independent,  yet  synchronized,  elements.  As  is  characteristic  of  many  of 
+Paik's  recent  works,  Megatron  reintroduces  elements  from  earlier  projects, 
+such  as  his  Fluxus  performances  and  collaborations  with  Charlotte  Moorman 
+and  Joseph  Beuys.  These  works,  which  by  now  have  an  air  of  familiarity  to 
+them,  are  placed  in  a  context  rich  with  iconic  images  from  both  Eastern  and 
+Western  popular  culture.  At  one  moment,  pictures  from  the  Seoul  Olympic 
+Games  flash  across  the  screen;  in  another,  Merce  Cunningham  pirouettes  in 
+a  pure,  white  space.  Scenes  of  traditional  Korean  rituals  are  interrupted  by 
+David  Bowie  in  concert.  Live  video  dissolves  into  electronic  distortions, 
+which  are  punctuated  by  computer-generated  animation.  Images  of  war  and 
+of  love  assault  the  viewer,  as  rocket  explosions  are  displaced  by  images  of 
+nude  women  reclining  provocatively  on  sofas.  Periodically,  the  entire  wall 
+becomes  the  flag  of  Norway,  Iceland,  Japan,  or  any  other  country, 
+emphasizing  the  degree  to  which  the  work  celebrates  a  fusion  of 
+international  sources.  The  visual  tumult  of  Megatron  is  rivaled  only  by  the 
+cacophony  of  its  audio  tracks,  which  bump  and  grind  with  the  cadence  of 
+the  video  transformations. 
+
+Megatron  appears  to  constantly  reinvent  itself;  its  cycle  of  images 
+seldom  repeats.  To  achieve  this  effect,  Paik  used  sophisticated  digital 
+sequencers  that  generate  random  patterns  of  images.  Even  more 
+spectacular,  however,  is  Megatron's  technical  breakthrough  of  fusing 
+animation  and  live  video.  For  example,  a  large  animated  bird  — a  recurrent 
+motif— flies  across  the  monitors,  sometimes  overlaying  video  tracks  and  at 
+other  times  incorporating  them  within  its  contours.  Paik  has  juxtaposed 
+animation  and  live  video  in  the  past,  and  has  turned  live  video  into  a  barely 
+recognizable  distortion,  but  in  Megatron,  video  and  animation  become  one. 
+
+Megatron  is  compelling  in  scale,  scope,  and  technical  prowess.  It 
+embodies  an  array  of  contrasting  qualities  that  create  a  kind  of  unity 
+through  disunity.  Visually  imposing,  even  confusing,  it  manages  to  create  a 
+state  of  hypnotic  serenity,  calling  to  mind  the  wry  image  of  a  Buddha 
+seated  in  front  of  a  TV,  a  recurring  image  in  the  artist's  work  and  one  of 
+Paik's  most  acerbic  commentaries  on  spectatorship. 
+
+Matthew  Drutt 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+EXHIBITION 
+C  ATA  L  0  G  U  E  S 
+
+
+pages  34-35:  Nam  June  Paik, 
+Passage,  1986.  Two-channel  video 
+installation,  30  minutes,  color, 
+3.48  x  4.31  x  .61  m.  ZKM/Center 
+for  Art  and  Media  Karlsruhe. 
+
+pages  36-39:  Nam  June  Paik, 
+Megatron,  1995  (five  views). 
+Eight-channel  video  and  two- 
+channel  sound  installation,  color; 
+two  parts:  Megatron,  3.62  x 
+6.85  x  .6  m;  Matrix,  3.25  x 
+3.25  x  .6  m.  Courtesy  of  Holly 
+Solomon  Gallery,  New  York. 
+
+
+Nam  June  Paik  was  born  in  1932  in 
+Seoul.  From  1953  to  1956,  he 
+studied  music  history,  art  history, 
+and  philosophy  at  the  University  of 
+Tokyo,  writing  a  dissertation  on 
+Arnold  Schonberg.  Subsequently, 
+he  went  to  Germany,  continuing 
+his  studies  in  music  history  and 
+composition  under  Wolfgang 
+Fortner  in  Munich  and  at  the 
+Hochschule  fur  Musik  in 
+Freiburg.  During  1957  and 
+1958,  he  took  part  in  the 
+Internationalen  Ferienkursen  fiir 
+Neue  Musik  in  Darmstadt,  where 
+he  met  John  Cage. 
+
+In  1958,  Paik  worked  with 
+Karlheinz  Stockhausen  at  the 
+Studio  fiir  Elektronische  Musik  of 
+the  broadcasting  station  WDR,  and 
+in  1962,  he  performed  at  the 
+Fluxus  Internationale  Festspiele 
+Neuester  Musik  in  Wiesbaden. 
+Paik's  first  works  incorporating 
+manipulated  TV  sets  were  shown 
+at  the  Galerie  Parnass  in 
+Wuppertal  in  1963.  In  1964,  he 
+moved  to  New  York  City.  Two  years 
+later,  he  built  his  first  video 
+sculpture,  titled  TV  Cross,  and 
+between  1970  and  1971,  together 
+with  Shuya  Abe,  he  developed  the 
+first  video  synthesizer.  Since  1979, 
+Paik  has  been  a  professor  at  the 
+Kunstakademie  Dusseldorf.  During 
+the  1980s,  for  a  number  of  works, 
+including  Good  Morning  Mr. 
+Orwell,  he  organized  large-scale 
+live  exchanges  of  electronic 
+images  between  Europe,  Asia,  and 
+the  United  States.  In  1987,  he 
+became  a  member  of  the  Akademie 
+der  Bildenden  Kunste,  Berlin. 
+
+Paik's  work  has  appeared  in  many 
+individual  and  group  exhibitions  in 
+the  United  States,  Germany, 
+Austria,  Switzerland,  and  Japan. 
+Most  recently,  his  work  has  been 
+shown  at  the  Kunstmuseum 
+Wolfsburg,  Germany,  and  at  the 
+Biennale  d'Art  Contemporain  de 
+Lyon,  1995-96. 
+
+
+INDIVIDUAL 
+EXHIBITIONS 
+
+Nam  June  Paik:  Video  Works 
+1963-88.  London:  Hayward  Gallery, 
+1988. 
+
+Nam  June  Paik:  Eine  Kerze. 
+Frankfurt:  Portikus,  1989. 
+
+Nam  June  Paik:  La  Fee 
+electronique.  Paris:  Musee  d'Art 
+Moderne  de  (a  Ville  de  Paris,  1989. 
+
+Nam  June  Paik:  Beuys  Vox 
+1061-86.  Seoul:  Won  Gallery  and 
+Hyundai  Gallery,  1990. 
+
+Nam  June  Paik:  A  Pas  de  loup—De 
+Seoul  a  Budapest.  Seoul:  Won 
+Gallery  and  Hyundai  Gallery,  1991. 
+
+Nam  June  Paik:  Video  Time  - 
+Video  Space.  Stuttgart:  Cantz, 
+1991. 
+
+Nam  June  Paik:  Video  and  Paper 
+with  Allen  Ginsberg.  Seoul:  Gallery 
+Meegun,  1992. 
+
+Electro-Symbio  Phonics  for 
+Phoenix.  Knokke,  Belgium:  Casino 
+Knokke,  1992. 
+
+Feedback  and  Feedforth.  Tokyo: 
+Watari  Museum  of  Contemporary 
+Art,  1993. 
+
+NAM  JUNE  PAIK:  Eine  DATA  base. 
+Stuttgart:  Cantz,  1993. 
+
+Artist  as  Nomad.  Venice,  1993. 
+
+The  Electronic  Superhighway:  Nam 
+June  Paik  in  the  Nineties.  New 
+York:  Holly  Solomon  Gallery  and 
+Hyundai  Gallery;  Fort  Lauderdale: 
+Fort  Lauderdale  Museum  of  Art, 
+1994. 
+
+
+GROUP 
+EXHIBITIONS 
+
+1987  Biennial  Exhibition.  New  York: 
+Whitney  Museum  of  American  Art, 
+1987. 
+
+Digital  Visions:  Computers  in  Art. 
+Syracuse,  N.Y:  Everson  Museum  of 
+Art,  1987. 
+
+L'Epoque,  la  mode,  la  morale,  la 
+passion  .-Paris:  Centre  Georges 
+Pompidou,  1987. 
+
+Video  Art:  Expanded  Forms.  New 
+York:  Whitney  Museum  of  American 
+Art,  1988. 
+
+Image  World:  Art  and  Media 
+Culture.  New  York:  Whitney 
+Museum  of  American  Art,  1989. 
+
+Video-Skulptur:  Retrospektiv  und 
+Aktuell,  1963-1989.  Cologne: 
+Kolnischer  Kunstverein  and 
+DuMont  Kunsthalle,  1989. 
+
+Moving  Image:  Electronic  Art. 
+Karlsruhe:  ZKM;  Munich  and 
+Stuttgart:  Oktagon,  1992. 
+
+Fluxus.  Basel:  Kunsthalle  Basel, 
+1994. 
+
+Le  Biennale  d'Art  Contemporain  de 
+Lyon:  Installation,  Cinema,  Video, 
+Informatique.  Lyon:  Musee  d'Art 
+Contemporain,  1995. 
+
+
+41 
+
+
+* 
+
+
+3? .  ;• 
+
+.  .   . 
+
+
+panorama 
+
+
+video 
+
+
+passage 
+
+
+A 
+
+
+Li 
+
+
+'  * » • 
+
+
+44 
+
+
+AM  AN 
+
+
+PASSAGE     SETS/ONE     PULLS     PIVOTS     AT 
+THE     TIP     OF     THE     TONGUE,     1994-95 
+
+Bill  Seaman's  Passage  Sets/One  Pulls  Pivots  at  the  Tip  of  the  Tongue  is 
+essentially  a  poem  generator.  It  can  be  run  automatically,  or  it  can  be 
+controlled  by  the  viewer,  who  may  assemble  poems  from  given  phrases  or 
+use  photo  images  to  navigate  through  an  inventory  of  words.  Texts,  still 
+images,  and  video  scenes  appear  on  three  adjacent  projection  planes;  music 
+plays  and,  from  time  to  time,  a  sonorous  voice  recites  the  mysterious 
+poems.  The  viewer  is  connected,  via  a  trackball,  to  the  central  projection 
+plane,  on  which  a  grid  of  150  randomly  mixed  image  segments  is  imposed. 
+The  images  are  details  lifted  from  eight  panorama  photographs  taken  at 
+various  locations  in  Australia.  At  this  point,  the  viewer  has  two  options.  The 
+first  is  to  zoom  into  one  of  the  images  and,  by  moving  the  trackball, 
+explore  the  full  picture.  Each  image  is  overlayed  with  several  words, 
+haikulike  fragments  from  the  collection  of  words  in  the  computer's  memory. 
+The  images  are  thus  transformed  into  sites  of  poetry,  and  the  poem 
+acquires  an  architectural/spatial  structure.  The  second  option  is  to  access  a 
+"poem  generator"  by  clicking  on  a  word  on  the  central  projection  plane. 
+Four  lists  appear,  containing  a  total  of  800  text  fragments,  each  of  which  is 
+connected  to  one  of  the  150  cropped  images.  Here  again  the  viewer  has  two 
+options:  either  choosing  words  from  the  lists  to  create  a  verse,  or  "visiting" 
+the  location  of  a  text  fragment  within  its  original  context,  at  which  point  the 
+computer  program  returns  to  the  image  that  contains  that  particular  word. 
+
+By  clicking  on  one  of  the  150  photos  (or  on  the  word  "passage"  at 
+the  bottom  of  the  projection  plane),  a  specific  video  sequence  on  the 
+projection  plane  on  the  right  is  activated;  a  female  and  a  male  actor 
+appear,  performing  a  series  of  abstract  gestures  recorded  in  slow  motion. 
+The  viewer  can  now  choose  to  have  a  poem  read  aloud.  On  the  projection 
+plane  to  the  left,  only  words  appear.  A  separate,  completely  autonomous 
+and  noninteractive  poem  generator  operates  here,  continuously  rearranging 
+the  words  that  appear  in  the  four  lists  in  the  central  field. 
+
+Seaman's  installation  is  a  reflection  on  the  theme  of  traveling.  At 
+the  most  immediate  level,  the  images,  which  were  made  in  Tokyo  and 
+Karlsruhe,  are  evocative  of  foreign  places.  But  here,  "to  travel"  stands  also 
+for  the  notion  of  identity  and  motion  in  cyberspace.  The  bodiless  passage 
+through  the  various  image  and  text  spaces  of  the  poetic  architecture  is 
+contrasted  with  the  apparent  sensuality  of  a  gestic  language.  Before  the 
+eyes  and  under  the  hand  of  the  viewer,  a  network  of  associations  between 
+images,  places,  poetic  language,  and  the  viewer's  own  memories  grows, 
+which  ultimately  can  be  read  as  a  model  of  the  creation  of  meaning  through 
+the  accumulation  of  associations. 
+
+From  a  formal  viewpoint,  the  visual  output  generated  by  Seaman's 
+machine  could  be  seen  to  stand  in  the  tradition  of  the  emblem;  it  produces 
+interactive  emblems,  consisting  not  only  of  moving  images  but  also  of 
+
+
+variable  text  passages.  In  an  emblem,  an  image  is  associated  with  a  motto, 
+aphorism,  proverb,  or  short,  pointed  poem.  The  philosopher  Francis  Bacon 
+wrote  in  1605,  "The  emblem  reduceth  conceits  intellectual  to  images 
+sensible";  he  stressed  the  value  of  emblems  as  memory  aids,  summarizing 
+the  art  of  memorizing  using  the  principles  of  mnemonics,  a  tradition 
+Seaman  has  explicitly  referred  to  by  quoting  from  Francis  Yates's  book  The 
+Art  of  Memory.'  Yet  the  texts  and  images  of  Passage  Sets  are  markedly 
+different  from  those  of  an  emblem  in  a  number  of  ways:  the  work  has  none 
+of  the  emblem's  pointed  character,  and  it  opens,  through  variation, 
+recombination,  and  associative  connotation,  a  virtually  endless  field  of 
+vague  and  subtle  recollections  and  feelings.  With  Seaman's  work,  we  enter 
+a  space  that  is  completely  devoid  of  purpose. 
+
+Like  Jeffrey  Shaw  and  Toshio  Iwai,  Seaman  does  not  use  the 
+computer— the  most  powerful  artificial  memory  yet  created— for  pragmatic 
+or  scientific  ends.  To  the  contrary,  he  employs  the  machine  to  play  games. 
+By  offering  the  wide  range  of  choices  made  possible  by  the  computer,  his 
+work  alters  the  conventional  relationship  between  art  and  viewer.  The 
+meanings  of  his  images  are  not  predetermined,  but  are  established  as  the 
+viewer  experiences  the  work.  As  in  all  interactive  art,  the  process  of 
+reinterpretation  is  not  only  experienced  passively,  as  it  is  in  traditional 
+painting,  but  is  turned  into  a  material  condition  for  the  very  existence  of  the 
+work.  The  "open  work  of  art,"  to  use  Umberto  Eco's  phrase,  has  become  a 
+physical  reality— Passage  Sets  is  an  emblem  of  ever-changing  memory,  an 
+emblem  of  the  very  state  of  emblemlessness. 
+
+i.  Level  2  Project,  exh.  broch.  (Sydney:  Art  Gallery  of  New  South  Wales,  1995). 
+Oliver  Seifert 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+EXHIBITION 
+C  ATA  L  0  G  U  E  S 
+
+
+pages  42-43:  Bill  Seaman, 
+Passage  Sets/One  Pulls  Pivots  at 
+the  Tip  of  the  Tongue,  1994-95. 
+Interactive  audiovisual  installation; 
+three  screens,  each  approximately 
+1.5  x  2  m;  installation  area 
+variable,  approximately  7.5  x 
+6.4  m.  Programming  by 
+Christian  Ziegler.  Saxophone  by 
+Tony  Wheeler.  Cello  by 
+Catherine  Hewgill.  Produced  at 
+ZKM/Center  for  Art  and  Media 
+Karlsruhe  with  funds  provided  by 
+the  Siemens  Stipend  and  the 
+Intercommunication  Centre,  Tokyo. 
+Collection  of  the  artist 
+
+
+Bill  Seaman  was  born  in  1956  in 
+Kennet,  Missouri.  He  received  a 
+Bachelor  of  Fine  Arts  degree  from 
+the  San  Francisco  Art  Institute,  and 
+a  Master  of  Science  in  visual 
+studies  from  M.I.T.,  Cambridge, 
+Massachusetts. 
+
+He  has  received  a  number  of 
+stipends  and  awards,  among  them 
+a  Rockefeller  Foundation  Visual 
+Arts  Award,  1986;  a  Massachusetts 
+State  Council  Artist  Fellowship, 
+1989;  a  Siemens-Projektstipendium 
+from  ZKM  Karlsruhe,  1994;  and  the 
+Prix  Ars  Electronica,  1992  and 
+1995- 
+
+Seaman's  video  works  and 
+interactive  installations  have  been 
+shown  in  several  international 
+exhibitions  and  festivals,  including 
+The  Biennale  of  Sydney,  1992; 
+Siggraph,  Anaheim,  1993;  M.I.T. 
+Twenty-Five-Year  Retrospective, 
+Cambridge,  Massachusetts,  1994; 
+MultiMediale  4,  ZKM  Karlsruhe, 
+1995;  and  International 
+Symposium  on  Electronic  Art, 
+Montreal,  1995;  and  at  the  Art 
+Gallery  of  New  South  Wales, 
+Sydney,  1995. 
+
+From  1992  to  1995,  Seaman  taught 
+media  art  at  the  College  of  Fine  Art 
+of  the  University  of  New  South 
+Wales  in  Sydney.  Since  1996,  he 
+has  taught  at  the  University  of 
+Maryland  in  Baltimore. 
+
+
+GROUP 
+EXHIBITIONS 
+
+The  Boundary  Rider:  The  Ninth 
+Biennale  of  Sydney.  Sydney:  Art 
+Gallery  of  New  South  Wales,  1992. 
+
+MultiMediale  4.  Karlsruhe:  ZKM, 
+1995- 
+
+European  Media  Art  Festival. 
+Osnabruck,  1995. 
+
+
+45 
+
+
+r 
+
+
+I 
+
+
+r 
+
+
+* 
+
+
+J  F_  F  F  R  E  Y 
+
+'  *     sVaw 
+
+
+THE  LEGIBLE  CITY,  1988-91 
+
+7"/re  Legible  City  fuses  the  experience  of  the  city  with  the  experience  of 
+reading.  The  viewer  sits  on  a  stationary  bicycle,  using  the  handlebar  and 
+pedals  to  "ride"  through  the  scale  simulation  of  a  city  that  appears  on  a 
+large  projection  screen.  The  city's  "buildings"  are  computer-generated  letters, 
+which  form  words  and  sentences  lining  the  city's  streets.  The  handlebar  and 
+pedals  of  the  bicycle  are  connected  to  a  Silicon  Graphics  workstation  that 
+calculates  the  viewer's  position  within  the  simulated  city,  allows  the  viewer 
+to  control  the  route  and  speed  of  his  or  her  tour,  and  modifies  the  projected 
+image  in  real  time,  according  to  the  viewer's  movements.  An  additional 
+small  monitor  in  front  of  the  bicycle  displays  a  map  of  the  city,  where  a 
+cursor  indicates  the  current  location  of  the  cyclist. 
+
+Shaw  has  created  three  different  versions  of  The  Legible  City. 
+Each  is  based  on  a  real-life  cityscape,  the  downtown  areas  of  Karlsruhe, 
+Amsterdam,  and  New  York  serving  as  his  models.  With  each  version,  Shaw 
+used  texts  that  relate  directly  to  the  history  of  that  city.  In  the  Manhattan 
+version  (created  in  1988-89),  which  represents  the  area  between  Thirty- 
+fourth  and  Sixty-sixth  streets  and  Park  and  Eleventh  avenues,  the  viewer 
+can  follow  eight  independent  narratives:  fictional  monologues  by  Ed  Koch, 
+Frank  Lloyd  Wright,  Donald  Trump,  Noah  Webster,  a  tourist,  a  con  man,  an 
+ambassador,  and  a  cab  driver,  all  written  by  Shaw's  collaborator  Dirk 
+Groeneveld.  Each  text  appears  in  a  different  color,  so  the  cyclist  can  easily 
+choose  a  certain  story  line  and  follow  it  through  the  streets. 
+
+The  historical  texts  in  the  Amsterdam  version  (1990)  were  selected 
+by  Groeneveld  from  fifteenth-  to  nineteenth-century  sources,  and  they 
+appear,  in  the  simulated  city,  at  the  very  place  where  the  events  they 
+describe  actually  occurred.  The  texts  in  the  Karlsruhe  version  (1991),  too, 
+are  largely  based  on  historical  incidents.  They  include  references  to  notable 
+former  inhabitants  of  the  city,  such  as  Karl  von  Drais,  the  inventor  of  the 
+Laufrad,  a  precursor  of  the  bicycle.  Tourist  information  published  by  the 
+municipal  administration  is  also  quoted. 
+
+While  the  immediate  experience  of  The  Legible  City—  being  able  to 
+move  freely  through  an  artificial  world  — is  compelling,  the  complex 
+metaphorical  possibilities  that  arise  from  the  work  are  equally  startling. 
+There  is  a  sensual  contrast  between  the  real  bicycle  and  the  virtual  space. 
+The  cyclist  can  pedal  hard  enough  to  run  out  of  breath,  but  will  always 
+remain  physically  in  the  same  place,  while  at  the  same  time  he  or  she 
+traverses  the  virtual  city  bodiless,  perhaps  even  cutting  through  the 
+buildings'  walls. 
+
+The  piece  also  involves  the  superimposition  of  subjective  memory 
+onto  the  objective  reality  of  city  architecture.  Only  those  visitors  to  the 
+simulated  cities  who  are  familiar  with  their  factual  counterparts  will  be  able 
+to  uncover  all  the  work's  treasures;  they  will  experience  the  familiar  in  an 
+
+
+unfamiliar  guise,  and  this  breach  provides  a  measure  of  our  perceptual 
+limitations. 
+
+Beyond  these  two  aspects  of  The  Legible  City,  the  phenomena  of 
+language  and  writing  add  other  layers  of  meaning  to  the  work.  If  the  viewer 
+could  do  nothing  more  than  ride  aimlessly  through  the  cities,  The  Legible 
+City  would  be  no  more  than  a  kind  of  video  game.  And  if  the  objective  were 
+simply  to  alter  the  appearance  of  a  given  city,  why  would  an  artist  create  a 
+real-time  simulation?  Only  the  presence  of  writing  makes  it  clear  that  a  city 
+is  not  only  a  geographical  agglomeration  of  architecture,  but  also  an 
+immaterial  pattern  of  experiences.  The  content  of  the  texts,  which  can  be 
+perceived  only  when  the  viewer  performs  the  activities  of  cycling  and 
+reading,  reveals  that  the  inhabitants'  history  plays  an  important  role  in 
+shaping  the  identity  of  a  place.  The  effort  it  takes  the  viewer  to  synthesize 
+the  slowly  approaching,  extremely  foreshortened  letters  into  phrases  while 
+cycling  gives  evidence  of  the  fact  that,  in  spite  of  the  immateriality  of  the 
+virtual  city,  a  new  reality  is  being  formed  in  the  viewer's  mind. 
+
+When  writing  literally  becomes  architecture,  as  it  does  in  this 
+installation,  it  somehow  transcends  its  own  linearity.  As  a  network  of 
+"streets,"  the  text  of  The  Legible  City  puts  in  visual  form  the  hypertext  links 
+that  thread  their  way  through  the  Internet.  And  as  a  "city,"  the  work  is  a 
+materialized  metaphor,  a  model  of  the  process  of  perception. 
+
+Oliver  Seifert 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+EXHIBITION 
+C  ATA  L  0  G  U  E  S 
+
+
+pages  46-47:  Jeffrey  Shaw,  The 
+Legible  City,  1988-91.  Interactive 
+computer-graphic  installation; 
+screen  approximately  3.5  x  5  m; 
+installation  area  variable, 
+approximately  5.5  x  8.8  m.  Text 
+by  Dirk  Groeneveld.  Programming 
+by  Gideon  May.  ZKM/Center  for  Art 
+and  Media  Karlsruhe. 
+
+
+Jeffrey  Shaw  was  born  in  1944  in 
+Melbourne,  Australia.  From  1963, 
+he  studied  architecture  and  later 
+art  history  at  the  University  of 
+Melbourne.  In  1965,  he  continued 
+his  education  in  the  visual  arts  at 
+the  Brera  Art  Academy  in  Milan 
+and  at  the  St  Martin's  School  of 
+Art  in  London.  At  the  end  of  the 
+1980s,  Shaw  taught  at  the 
+Academie  van  Beeldende  Kunsten 
+Rotterdam  and  in  1990  at  the 
+Rietveld  Akademie  in  Amsterdam. 
+Since  1991,  he  has  been  director 
+of  the  Institute  for  Image  Media  at 
+ZKM  Karlsruhe. 
+
+For  his  interactive  installations, 
+Shaw  received  an  award  at 
+L'lmmagine  Elettronica  festival, 
+Ferrara,  Italy,  and  a  Prix  Ars 
+Electronica,  both  in  1990. 
+
+Shaw's  work  has  been  shown  at 
+the  Biennale  de  Paris,  1975; 
+Bonnefanten  Museum,  Maastricht, 
+The  Netherlands,  1988; 
+International  Art  and  Science 
+Exhibition,  Kanagawa  Science 
+Center  Kawasaki-Shi,  Kawasaki, 
+Japan,  1989;  Musee  d'lssel, 
+Brussels,  1992;  Ars  Electronica, 
+Linz,  1994;  and  Le  Biennale  d'Art 
+Contemporain  de  Lyon,  1995-96.  A 
+solo  exhibition  of  his  computer 
+installations  was  shown  at  Neue 
+Galerie  am  Landesmuseum 
+Joanneum  Graz,  Austria,  1995. 
+
+
+GROUP 
+
+E  X  H  I  B  I  T  I  0  ? 
+
+Moving  Image:  Electronic  Art. 
+Karlsruhe:  Zentrum  fur  Kunst  und 
+Medientechnologie;  Munich  and 
+Stuttgart:  Oktagon,  1992. 
+
+The  Boundary  Rider:  The  Ninth 
+Biennale  of  Sydney.  Sydney:  Art 
+Gallery  of  New  South  Wales,  1992. 
+
+MultiMediale  3.  Karlsruhe:  ZKM, 
+1993- 
+
+Ars  Electronica  94.  Linz,  1994. 
+
+Interface  2,  Weltbilder  - 
+Bildwelten,  Computergestutzte 
+Visionen.  Hamburg,  1995. 
+
+MultiMediale  4.  Karlsruhe:  ZKM, 
+1995- 
+
+FotograRe  nach  der  Fotografie. 
+Munich:  Aktionsforum  Praterinsel, 
+1995- 
+
+ie  Biennale  d'Art  Contemporain  de 
+Lyon:  Installation,  Cinema,  Video, 
+Informatique.  Lyon:  Musee  d'Art 
+Contemporain,  1995. 
+
+The  Butterfly  Effect.  Budapest: 
+Soros  Foundation,  1996. 
+
+
+49 
+
+
+SJ I 
+
+
+~    —    J 
+
+
+V 
+
+
+a  mw 
+
+
+MATRIX     I  ,     1970-72 
+
+Steina  and  Woody  Vasulka  began  working  in  the  pioneering  days  of  video 
+art  in  the  1960s  and  1970s,  when  artists  interested  in  the  medium  were 
+largely  concerned  with  the  social  and  political  implications  of  television.  In 
+an  era  when  "the  establishment"  as  a  political  body  was  generally  under 
+attack,  the  seamless  flow  of  commercial  and  institutional  information  in  the 
+form  of  broadcast  images,  texts,  and  sound  was  subject  to  intense  scrutiny 
+and  criticism.  Artists  took  possession  of  the  television  medium  to  generate 
+alternative  strategies  of  production,  offering  it  as  a  site  for  aesthetic 
+investigation  rather  than  as  a  space  for  commercial  entertainment  and 
+institutional  authority. 
+
+In  contrast  to  many  of  their  peers,  the  Vasulkas  focused  on  the 
+technological  infrastructure  of  television,  rather  than  on  the  social  issues 
+surrounding  it.  Four  years  after  their  arrival  in  the  United  States  in  1965 
+(they  met  in  Prague  in  the  early  1960s),  they  began  creating  collaborative 
+works  that  utilized  their  respective  skills:  his  as  an  engineer  and  film  editor, 
+hers  as  a  musician.  In  1971,  along  with  Andres  Mannik,  they  founded  the 
+Kitchen,  an  alternative  space  in  New  York  where  artists  could  experiment 
+with  sound  and  electronic  images.  With  a  more  scientific  than  intuitive 
+approach,  the  Vasulkas  began  testing  the  limits  of  existing  technologies  to 
+explore  the  formal  properties  of  digital  and  analog  imagery,  the  materiality 
+of  electronic  signals,  and  the  temporal  relations  between  audio  and  video. 
+
+Matrix  I  represents  their  first  attempt  to  formalize  many  of  these 
+early  experiments.  A  twenty-screen  video  array  (or  configuration  of  multiple 
+monitors)  that  knits  together  a  selection  of  the  Vasulkas'  investigations  into 
+the  phenomenology  of  sound  and  vision,  Matrix  I  brings  together  a  selection 
+from  the  artists'  1970-72  Matrix  series  of  video-array  projects.'  The  Vasulkas 
+were  early  proponents  of  multimonitor  video  configurations,  an  initial 
+departure  from  the  convention  of  single-channel  works  that  would 
+eventually  lead  to  video  installations. 
+
+For  the  Matrix  series,  the  Vasulkas  worked  with  engineer  George 
+Brown,  a  frequent  collaborator  in  these  years,  in  adapting  a  keyer— a  device 
+that  regulates  the  combination  of  two  visual  signals  — into  an  apparatus 
+capable  of  layering  multiple  images;  this  approach  is  typical  of  the  artists' 
+interest  in  modifying  technology  for  aesthetic  ends.  The  sound  in  Matrix  I  is 
+generated,  in  part,  by  patterns  of  random  electronic  signals.  These  signals 
+also  generate  images,  which  themselves  generate  sound.  The  result  is  a 
+sequence  of  pulsing  abstract  forms  that  move  horizontally  across  the  video 
+monitors;  although  the  same  image  appears  on  each  screen,  the  impression 
+is  of  synchronized  waves  moving  across  the  field  of  monitors.  This 
+horizontal  movement,  which  might  seem  mundane  to  the  sophisticated 
+viewer  of  the  1990s,  was  another  technical  breakthrough;  up  until  that 
+point,  experiments  in  scrolling  and  simulating  the  passage  of  images 
+between  different  screens  had  been  limited  to  vertical  movement,  as  in 
+Joan  Jonas's  Vertical  Roll  (1972). 
+
+In  some  respects,  the  abstract,  geometric  character  of  Matrix  I  is 
+reminiscent  of  the  experiments  in  film  and  nonobjective  form  conducted  by 
+artists  in  the  1920s.  In  the  work  of  Hans  Richter  and  Laszlo  Moholy-Nagy, 
+for  example,  abstract  shapes  are  manipulated  into  moving  compositions  that 
+simulate  rhythm,  musical  harmony,  and  the  contrasting  values  of  opacity 
+and  transparency.  The  desire  to  create  form  from  technical  process  is  an 
+inherently  Modernist  impulse.  While  acknowledging  a  general  interest  in 
+such  aesthetics,  however,  the  Vasulkas  credit  the  less  austere  painterly 
+investigations  of  Salvador  Dali  and  Maurits  Cornelis  Escher,  with  their 
+distortions  of  visual  perception,  as  more  immediate  influences.  The  artists 
+
+
+: 
+
+
+■  ■ 
+■ 
+
+■ 
+
+
+■ 
+
+
+M 
+
+
+* 
+
+
+1 
+
+
+pages  50-51:  Steina  and  Woody 
+Vasulka,  Matrix  I,  1970-72.  One- 
+channel  video  and  two-channel 
+sound  installation,  30  minutes, 
+black  and  white,  1.63  x  3.18  x 
+.48  m.  Collection  of  the  artists. 
+
+left:  Steina  Vasulka,  Borealis,  1993. 
+Two-channel  video  and  four- 
+channel  sound  installation, 
+10  minutes,  color;  installation 
+space  variable,  approximately  5  x 
+9-75  x  9.75  m.  ZKM/Center  for  Art 
+and  Media  Karlsruhe. 
+
+
+also  cite  the  significance  of  Bela  Jules,  whose  essays  on  the  nature  of 
+"Cyclopean  vision"  — the  fusion  of  left-  and  right-eye  cognition  to  create  a 
+third-eye  viewpoint  — bear  specifically  on  the  effects  achieved  in  Matrix  I,2 
+where  multiple  camera  setups  were  employed  to  create  an  overall 
+composite  image. 
+
+i.  While  the  Matrix  series  includes  experiments  in  both  black-and-white  and  color,  Matrix  I 
+includes  monochrome  images  only.  A  second  work,  Matrix  II,  which  is  not  in  this  exhibition, 
+is  a  twelve-monitor  video  wall  that  incorporates  their  experiments  from  this  series  in  color. 
+2.  Conversation  with  the  author,  April  1996. 
+
+Matthew  Drutt 
+
+
+BOREALIS,     1993 
+
+Steina  Vasulka  uses  rotating  cameras  in  her  installations  as  instruments  to 
+explore  the  phenomena  of  time  and  space,  recording  her  surroundings 
+without  any  interference  to  create  documents  of  given  forms  and  sounds.  In 
+Borealis,  Vasulka  establishes  a  spatial  relationship  between  the  visual  and 
+acoustic  elements  of  nature.  Fragmented  landscape  images,  which  the  artist 
+recorded  in  her  country  of  origin,  Iceland,  in  1992,  appear  on  four  free- 
+standing, transparent  screens  in  a  darkened  room.  Two  mirrors  set  up  in 
+conjunction  with  two  projectors  disseminate  the  images  to  the  screens; 
+because  of  the  screens'  translucent  material,  the  images  are  visible  on  both 
+sides.  The  viewer  is  surrounded  by  a  play  of  recorded  sounds  and  moving, 
+free-floating  depictions  of  water,  rock  surfaces,  and  soil,  becoming 
+captivated  by  the  images  of  natural  phenomena  and  experiencing  a  direct 
+confrontation  with  the  physical  power  of  the  elements. 
+
+The  electronic  manipulations  employed  by  Vasulka  and  her 
+husband,  Woody,  in  both  their  collaborative  and  individual  projects,  produce 
+strange  effects  that  seem  to  subvert  natural  laws,  confusing  our  perceptual 
+beliefs.  In  Borealis,  the  video  material  is  manipulated  in  such  a  way  that  we 
+see  the  flow  of  water  in  reverse,  returning  to  its  source;  through  cross- 
+fading,  minute  shifts  in  the  soil  appear  to  swell  to  the  size  of  avalanches; 
+and  precise  superimpositions  transform  natural  rock  formations  into 
+complex,  virtual  sedimentations.  The  main  theme  of  Borealis  is  the 
+movement  and  flow  of  nature.  Because  of  the  open  arrangement  of  the 
+large  screens,  the  visitor  can  feel  entrapped  by  the  power  of  nature  in  the 
+gaps  that  are  left  between  them.  The  enhanced  visual  and  acoustic  presence 
+of  the  recordings  allows  the  viewer  to  participate  in  a  visual  and  sensual 
+experience  while  being  drawn  closer  to  the  textures  of  the  natural  elements. 
+
+Borealis  incorporates  landscape  within  an  architectural 
+configuration,  fusing  both  elements  to  create  a  new,  artifical  genre  made 
+possible  by  the  medium  of  video.  The  projections  on  the  screens  interact 
+with  the  space  around  them,  while  the  planes  themselves,  in  their  random 
+placement  and  their  orientation  toward  the  projectors,  create  their  own 
+spaces— they  act  as  an  incidentally  arranged  subarchitecture,  offering  both 
+fixed  and  changing  scenes  in  which  the  viewer  has  no  option  but  to  react 
+to  the  ceaseless  movement  of  the  images.  Despite  the  material  presence  of 
+the  screens,  the  motion  of  the  images  suggests  a  purely  illusionary 
+tectonics  of  planes.  The  architecture  of  the  floating  screens  seems  to  fade 
+under  the  immateriality  of  the  images.  In  contrast,  the  projected  images  fill 
+the  space  with  their  extraordinary  mass,  the  emphasized  materiality  of  their 
+content  superceding  their  virtual  character.  Close-ups  of  small  sections  of 
+landscape  and  enlargements  of  detailed  surface  textures  grow  in  the  video 
+projections  into  towering  formations.  Concentrated  fragments  of  nature  can 
+turn  into  mountain  ranges  and  landscape  panoramas.  Their  monumentality 
+represents  their  ability  to  withstand  the  forces  of  time,  climate,  and 
+evolution.  As  architecture  and  landscape  interact,  each  simultaneously 
+constructs  and  deconstructs  the  other. 
+
+
+Since  her  move  to  New  Mexico  in  1980,  Vasulka  has  drawn  on  the 
+landscape  as  a  recurring  theme  in  her  work.  It  is  not  the  romantic 
+implication  of  this  traditional  artistic  motif  that  interests  her,  but  the 
+influence  of  machines  on  geographical  and  geological  conditions.  Unimpeded 
+by  the  art-historical  associations  of  the  landscape  genre,  Vasulka  views  the 
+scenery  she  encounters  in  the  Southwest  quite  pragmatically,  as  an 
+extension  of  spatial  dimensions  and  perspectives  that  allows  her  to  expand 
+her  artistic  configurations.  The  whole  of  the  Southwest,  she  has  said,  now 
+serves  as  her  studio.'  This  impulse  to  move  the  studio  outside,  into  nature, 
+evokes  a  long  succession  of  plein-air  movements  with  widely  varying  artistic 
+intentions,  from  Impressionism  in  the  nineteenth  century  to  the  earthworks 
+of  the  1960s  and  1970s.  Vasulka's  manipulations  of  nature  are  most  closely 
+related  to  Robert  Smithson's  large-scale  landscape  interventions,  some  of 
+which  were  only  accessible  through  the  mediums  of  film  and  photography. 
+Like  Smithson,  who  called  himself  a  "site-seer,"  Vasulka  uses  her  camera  to 
+penetrate  deep  into  the  geological  and  physical  structures  of  earth,  stone, 
+and  water.  Works  such  as  Summer  Salt  (1982),  The  West  (1983),  and 
+Geomania  (1989),  which  are  based  on  an  optically  deconstructed 
+approximation  of  detailed  landscape  textures,  bring  to  mind  Smithson's 
+approach  to  natural  realities.  While  Smithson  used  heavy  machinery  to  move 
+large  amounts  of  earth,  in  Vasulka's  work  this  feat  is  accomplished  by  her 
+use  of  video.  Like  Smithson's  earthworks,  Borealis  is  composed  of  a  number 
+of  precisely  choreographed  pieces  of  nature  that  reorganize  geological 
+processes;  in  Vasulka's  work,  this  is  accomplished  by  means  of  depth 
+adjustments,  optical  echoes  and  reversal  effects,  superimpositions,  and 
+other  electronic  manipulations.  Borealis  seems  to  tell  the  history  of  the 
+earth  in  a  fragmented  text  composed  of  the  sediments  of  time.  The  viewer's 
+experience  is  that  of  a  traveler,  who,  via  the  real-time  projections,  develops 
+a  sense  of  the  duration  of  an  observation.  While  Process  and  performance 
+art  of  the  late  1960s  and  early  1970s  brought  real  time  into  the  galleries 
+and  museums,  Borealis  employs  geological  and  paleontological  measures  of 
+time,  which  leave  little  space  for  human  intervention.  The  pixellated 
+structure  of  Vasulka's  medium— the  digital  image— relates  to  the  geological 
+and  archeological  structures  of  the  subject  of  her  recordings.  Like  a 
+cartographer,  she  documents  the  graphic  and  structural  elements  of  natural 
+sites,  her  digitalized  projections  forming  "maps"  of  the  landscape. 
+
+Smithson  did  not  consider  his  inclination  toward  earthworks  as 
+biographically  predetermined,  and  Vasulka,  also,  though  her  work  is 
+concerned  with  the  landscape  of  her  birthplace  and  immediate  surroundings, 
+resists  a  mythical/female  or  purely  aesthetic  interpretation.  Her  landscape 
+adaptations  underscore  the  phenomenological  interest  of  a  place  where  pre- 
+and  posthistorical  aspects  meet  in  one  material  formation.  Vasulka  leaves 
+behind  painting,  sculpture,  and  architecture,  using  video  to  enter  a  timeless 
+world  of  ideas  where  she  transposes  history  and  entropy,  material  and 
+erosion  into  the  transparency  of  a  visual  language. 
+
+1.  Steina  Vasulka,  quoted  in  Marita  Sturken,  "Steina  and  Woody  Vasulka:  In  Dialogue  with 
+the  Machine,"  in  Steina  and  Woody  Vasulka:  Machine  Media,  exh.  cat.  (San  Francisco:  San 
+Francisco  Museum  of  Modern  Art,  1996),  p.  46. 
+
+Ursula  Frohne 
+
+
+BIOGRAPHIES 
+
+
+SELECTED 
+EXHIBITION 
+C  ATA  L  0  G  U  E  S 
+
+
+Steina  Vasulka  was  born  Steinunn 
+Briem  Bjarnadottir  in  1940  in 
+Reykjavik,  Iceland.  She  studied 
+violin  and  musical  theory,  and  in 
+*959.  she  received  a  scholarship 
+from  the  Czechoslovak  Ministry  of 
+Culture  to  attend  the  music 
+conservatory  in  Prague.  In  1964, 
+she  joined  the  Icelandic 
+Symphony  Orchestra. 
+
+Woody  Vasulka  was  born 
+Bohuslav  Peter  Vasulka  in  1937  in 
+Brno,  Czechoslovakia.  He  studied 
+metal  technology  and  hydraulic 
+mechanics  at  the  School  of 
+Industrial  Engineering  in  Brno, 
+where  he  received  a  baccalaureate 
+degree  in  1956.  Later,  he  attended 
+the  Academy  of  the  Performing 
+Arts  in  Prague,  where  he  directed 
+and  produced  several  short  films. 
+
+The  Vasulkas  met  in  Prague  in  the 
+early  1960s.  They  were  married  in 
+
+1964,  and  moved  to  New  York  in 
+
+1965.  There,  Steina  worked  as  a 
+free-lance  musician  and  Woody  as 
+a  multiscreen  film  editor.  In  1971, 
+together  with  Andreas  Mannik, 
+they  founded  the  Kitchen,  a 
+performance  space  for  the  media 
+arts  in  New  York.  During  these 
+years,  they  collaborated 
+extensively  on  investigations  into 
+the  electronic  nature  of  video  and 
+sound,  to  produce  documentaries 
+about  theater,  dance,  and  music. 
+In  1974,  the  Vasulkas  moved  to 
+Buffalo,  New  York,  where  they 
+joined  the  faculty  of  the  Center  for 
+Media  Study  at  the  State 
+University  of  New  York.  At  this 
+
+
+point,  their  interests  diverged. 
+Woody  turned  his  attention  to  the 
+Rutt/Etra  Scan  Processor,  and  in 
+1976,  worked  with  Don  MacArthur 
+and  then  Jeffrey  Schier  to  build 
+the  Digital  Image  Articulator.  Steina 
+began  experimenting  with  the 
+camera  as  an  autonomous  imaging 
+instrument  in  work  that  would 
+later  become  the  Machine  Vision 
+series.  Since  1980,  the  Vasulkas 
+have  lived  in  Santa  Fe,  New 
+Mexico. 
+
+The  Vasulkas  have  been  artists-in- 
+residence  at  the  National  Center  for 
+Experiments  in  Television  at  KQED 
+in  San  Francisco,  and  at 
+WNET/Thirteen  in  New  York. 
+Individually  and  collectively,  they 
+have  received  funding  from  the 
+New  York  Council  on  the  Arts, 
+Creative  Artists  Public  Service,  the 
+National  Endowment  for  the  Arts, 
+the  Corporation  for  Public 
+Broadcasting,  the  John  Simon 
+Guggenheim  Memorial  Foundation, 
+and  the  New  Mexico  Arts  Division. 
+Both  received  the  American  Film 
+Institute  Maya  Deren  Award  in 
+1992  and  the  Siemens- 
+Medienkunstpreis  from  ZKM 
+Karlsruhe  in  1995.  In  1988,  Steina 
+was  an  artist-in-residence  in  Tokyo 
+on  a  U.S. /Japan  Friendship 
+Commission  grant  In  1993,  Woody 
+received  a  Soros  Foundation 
+fellowship  to  lecture  and  present 
+work  throughout  Eastern  Europe. 
+
+Among  the  exhibitions  that  have 
+been  devoted  to  the  Vasulkas' 
+work  are  The  West,  Centre  Georges 
+
+
+Pompidou,  Paris,  1984;  Focus:  The 
+Vasulkas,  Institute  of 
+Contemporary  Art,  Boston,  1986; 
+Steina  &  Woody  Vasulka,  Hitachi 
+Showroom,  Tokyo,  1988;  and 
+Woody  and  Steina  Vasulka: 
+Machine  Media,  San  Francisco 
+Museum  of  Modern  Art,  1996. 
+Group  exhibitions  in  which  their 
+work  has  appeared  include 
+Projected  Video,  Whitney  Museum 
+of  American  Art,  New  York,  1975; 
+Festival  International  d'Art  Video, 
+Locarno,  Switzerland,  1984;  and 
+Biennial  Exhibition,  Whitney 
+Museum  of  American  Art,  1989.  In 
+1992,  the  Vasulkas  organized 
+Eigenwelt  der  Apparate-Welt: 
+Pioneers  of  Electronic  Art,  an 
+exhibition  of  early  electronic  tools 
+at  Ars  Electronica  in  Linz,  Austria. 
+
+Steina  has  taught  at  the  Akademie 
+fur  Angewandte  Kunst  in  Vienna, 
+the  Institut  fur  Neue  Medien  at  the 
+Stadelschule,  Frankfurt,  and  the 
+College  of  Arts  and  Crafts, 
+Reykjavik.  Since  1993,  Woody  has 
+been  a  visiting  professor  at  the 
+Faculty  of  Art  Polytechnic  Institute, 
+in  Brno,  Czech  Republic. 
+
+Reprinted  from  Steina  and  Woody  Vasulka: 
+Machine  Media,  exh.  cat.  (San  Francisco: 
+San  Francisco  Museum  of  Modern  Art, 
+1996). 
+
+
+TWO-PERSON 
+EXHIBITIONS 
+
+Steina  and  Woody  Vasulka:  The 
+West.  New  York:  Fine  Arts  Center 
+Gallery,  State  University  of  New 
+York  at  Stony  Brook,  1987. 
+
+Steina  and  Woody  Vasulka: 
+Machine  Media.  San  Francisco: 
+Museum  of  Modern  Art,  1996. 
+
+
+GROUP 
+EXHIBITIONS 
+
+American  Landscape  Video:  The 
+Electronic  Grove.  Pittsburgh: 
+Museum  of  Art,  Carnegie  Institute, 
+1988. 
+
+Traversals:  Instructions  to  the 
+Double.  Long  Beach:  Long  Beach 
+Museum  of  Art,  1990. 
+
+Eigenwelt  der  Apparate-Welt: 
+Pioneers  of  Electronic  Art.  Linz:  Ars 
+Electronica,  1992. 
+
+Critical  Mass.  Santa  Fe:  Museum  of 
+Fine  Arts,  1993. 
+
+
+55 
+
+
+*  i  .» 
+
+
+n 
+
+
+■ 
+
+■ 
+
+
+M 
+
+
+I 
+
+
+I  0  LA 
+
+
+THE     CITY     OF     MAN,     1989 
+
+The  coexistence  and  fusion  of  different  modes  of  being  is  one  of  the  main 
+themes  in  Bill  Viola's  theatrical  installations.  His  works  often  express, 
+through  the  simultaneity  and  permutation  of  collected  images,  in  which 
+fragments  of  landscapes,  cities,  nature,  destruction,  birth,  and  death  come 
+together  in  rhythmic  sequences  to  form  contemporary  tableaus,  the  passage 
+through  different  stages  of  life,  illustrating  through  varying  references  the 
+artist's  experience  and  world  view:  that  everything  revolves  around  "change 
+and  process."'  This  insight  seems  disarmingly  simple  at  first,  but  proves  to 
+be  quite  complex  if  we  contemplate  the  antitheses  between  the  elements  of 
+Viola's  installations. 
+
+The  City  of  Man  consists  of  three  large  projection  planes,  set  up 
+side  by  side  in  a  triptych  arrangement.  The  austerity  of  the  altarlike 
+composition,  with  two  narrow  side  panels  flanking  a  larger  central  panel,  is 
+further  emphasized  by  the  brown  walnut  frame  that  encloses  these  three 
+elements.  The  frame  defines  the  space  of  the  images  that  appear  on  the 
+panels,  but  it  also  elevates  these  images,  which  outwardly  remain  grounded 
+in  the  sphere  of  the  ordinary.  Real-time  recordings  are  shown  in  parallel  on 
+the  screens,  where  the  mediums  of  painting,  cinema,  and  video  merge. 
+Repeating  the  threefold  arrangement  of  the  screens,  the  content  of  the 
+images  is  grouped  into  three  symbolic  units— paradise,  earthly  life,  and 
+hell,  themes  in  the  tradition  of  medieval  painting,  as  exemplified  in  the 
+works  of  Hieronymous  Bosch.  Using  moving  signs,  with  a  typology  that 
+does  not  hide  its  indebtedness  to  Bosch's  allegorical  parables,  Viola  draws 
+scenes  of  a  modern  world  that  unfold  atmospherically  in  sequences  that 
+oscillate  between  dream  and  reality,  idyll  and  inferno. 
+
+The  City  of  Man's  left  field  represents  the  archetype  of  paradise, 
+displaying  bucolic  land-  and  cityscape  impressions.  In  their  pathetic  beauty, 
+they  seem  to  be  modern  replicas  of  the  dream  of  the  New  World,  where 
+arcadia  and  wilderness  were  to  be  transformed  into  an  earthly  paradise  by 
+the  civilizing  capacity  of  man,  so  both  could  exist  side  by  side  as  sublime 
+entities.  The  topic  of  the  middle  field  is  the  material  world,  as  the  site  of 
+human  competition  for  resources,  power,  and  territory.  Prosaic  scenes  of 
+people  at  work  alternate  with  views  of  profane  meeting  rooms  and  sacred 
+church  interiors,  symbolizing  humankind's  "developed"  state,  in  which  man 
+has  established  a  pragmatic,  cultural  relationship  with  the  natural,  sensual 
+world  and  the  profitable  possibilities  he  has  created.  The  different  spheres 
+of  public  life  shown  here  represent  the  value  systems  that  regulate  the 
+ownership  and  utilization  of  resources;  interpreted  in  a  more  general  sense, 
+the  centerpiece  depicts  the  spectrum  of  different  relations  to  life  and  the 
+world  that  are  shaped  by  society,  politics/ideology,  and  religion.  In  the 
+work's  right  field,  we  witness  an  allegorical  vision  of  hell.  Buildings  drown 
+in  a  sea  of  flames  and  smoke  while  lone  figures  try  to  extinguish  the  blaze, 
+in  what  is  clearly  a  hopeless  endeavor.  Destruction,  damnation,  and 
+desperation  dominate  this  part  of  the  composition. 
+
+In  The  City  of  Man,  as  in  his  later  works  Nantes  Triptych  (1992) 
+and  The  Greeting  (1995),  Viola  intentionally  refers  to  the  European  tradition 
+of  altar  painting,  attempting  to  establish  a  direct  dialogue  with  it.  Part  of 
+Viola's  identity  as  an  artist  is  his  awareness  that  he  is  part  of  a  tradition, 
+and  that  even  video  images  can  receive  vital  impulses  from  the  latent 
+power  of  age-old  codifications.  Because  of  The  City  of  Man's  connection  to 
+a  classical  form  of  painting,  its  video  images  share  the  multiple  levels  of 
+communication  inherent  in  traditional  iconography.  Even  more  importantly, 
+the  religious  origin  of  the  triptych  form  increases  the  spiritual  value  of  the 
+work's  immaterial  images,  and  the  daily  products  of  television  take  on  the 
+
+
+sacred  and  awe-inspiring  qualities  of  a  religious  apocalypse.  The 
+"faithfulness"  of  a  religious  world  view  appears  in  the  form  of  a  profane 
+medium,  bringing  to  mind  the  commonplace  that  watching  the  daily 
+newscast  is  the  modern-day  version  of  prayer  time  and  that  the  television 
+set  has  supplanted  the  domestic  altar. 
+
+Viola  has  commented  on  his  art-historical  reference  to  the  triptych 
+form:  "I  am  interested  in  its  use  as  referent  to  the  European  Christian 
+tradition,  as  an  image  that  arises  out  of  the  culture  and  therefore  resides 
+within,  not  without,  many  of  the  people  who  have  come  to  see  it  in  Europe. 
+I  am  less  interested  in  its  use  as  a  quotation,  or  an  'appropriated  image.' 
+.  .  .  Beyond  more  technical  reasons  such  as  the  delicate  balance  of  the 
+number  three  and  its  use  for  comparative  contrast  and  interaction,  both 
+visually  and  especially  temporally,  ultimately  my  interest  in  the  triptych  form 
+is  that  it  is  a  reflection  of  a  cosmological  and  social  world  view,  'Heaven- 
+Earth-Hell,'  and  its  tripartite  structure  is  an  image  of  the  structure  of  the 
+European  mind  and  consciousness.  These  aspects  can  become  activated 
+energies  when  applied  to  images  of  a  contemporary  nature."2  These  remarks 
+suggest  that  Viola  sees  his  video  art  as  a  way  of  revitalizing  historical 
+painting  as  an  art  discipline.  He  does  not  idealize  the  past  in  comparison  to 
+the  world  as  it  has  become;  rather,  he  is  concerned  with  the  way 
+perceptions  change  under  different  circumstances,  and  with  correlating  this 
+relationship,  through  series  of  images,  to  life.  With  this  claim  to  the 
+importance  of  his  medium,  Viola  defends  with  fantastic  intensity  a  more 
+allegorical  than  virtual  or  real  image  space. 
+
+The  visual  memory  that  Viola  always  returns  to— the  history  of 
+art  — is  only  the  source  for  a  new  genealogy  of  images.  In  their  fluctuating 
+juxtapositions,  his  images  tell  another  kind  of  "history,"  one  that  owes  its 
+existence  to  the  very  fact  that  there  is  no  narrative  in  his  work.  Viola 
+alludes  and  conjures,  allowing  the  origins,  actions,  life,  and  suffering  of  the 
+images  and  figures  that  appear  in  his  work  to  remain  a  mystery.  An 
+allegorist,  he  incorporates  everything,  and  everything  means  something  to 
+him:  words  and  dreams,  people  and  legends,  facts  and  visions.  He  does  not 
+want  to  create  a  distilled  product  called  art,  with  a  life  that  has  been  left 
+behind  like  an  empty  shell,  but  an  encounter  with  the  world  in  the  most 
+complete  and  precise  sense:  as  an  endless  process  and  not  as  an  event,  as 
+a  physical  sensation  beyond  the  immediate  and  not  as  a  single  moment  of 
+clarified  perception.  His  art  does  not  gain  a  privileged  position  — it  is  not  a 
+playground  for  aesthetics,  but  the  means  of  a  confrontational  re-integration. 
+For  Viola,  art  is  a  medium  of  reflection  and  a  tool  to  penetrate  the  hidden 
+layers  of  the  unconscious,  the  "sediments"  of  human  experience,  which  will 
+ultimately  enable  us  to  unearth  the  most  elementary  structures  of  being. 
+
+Narrative  is  entirely  absent  from  The  City  of  Man,  and  is  replaced 
+by  the  rhythm  of  the  work's  images  and  the  mood  emanating  from  its 
+scenic  compilations.  The  image  sequences  create  a  suggestion  that  is 
+entirely  different  in  content  from  that  of  the  dramatic  structure  of  classical 
+narration.  The  moment  the  consonance  of  images  seems  to  describe  a 
+situation,  the  motion  of  the  triptych's  image  machine  disrupts  a  coherent 
+reading.  The  background  noise  is  the  only  unifying  element  in  the  flow  of 
+disparate  scenes,  the  buzz  of  a  freeway  on  the  left  blending  with  the  sound 
+of  the  crackling  fire  on  the  right;  applause  is  heard  periodically  from  the 
+middle  segment  of  the  triptych,  and,  aided  by  the  twitter  of  birds  from  the 
+left,  its  staccato  disrupts  the  murmur  synchronized  with  the  images  of  a 
+church.  As  it  is  impossible  to  determine  exactly  which  segment  is  the  source 
+of  a  specific  sound,  the  eye  moves  restlessly  across  the  screens. 
+
+
+IE 
+
+
+■  > 
+
+
+v 
+
+
+3 
+
+
+I  ■ 
+
+
+■ 
+
+
+Tr»**         ••-    iV% 
+
+
+■yf 
+
+
+v.3 
+
+
+pages  56-57:  Bill  Viola,  The  City 
+of  Man,  1989.  Three-channel  video 
+and  four-channel  sound 
+installation,  color;  central  screen, 
+2.14  x  2.14  m;  two  lateral  screens, 
+each  approximately  2.14  x  1.07  m; 
+installation  space  variable, 
+approximately  4.3  x  7.6  x  7.6  m. 
+Number  one  of  an  edition  of  two. 
+Rivendell  Collection  of  Late 
+Twentieth-Century  Art,  On 
+permanent  loan  to  the  Center  for 
+Curatorial  Studies,  Bard  College, 
+Annandale-on-Hudson,  New  York. 
+(Number  two:  ZKM/Center  for  Art 
+and  Media  Karlsruhe.) 
+
+above  and  following  two  pages: 
+Bill  Viola,  Threshold,  1992. 
+Three-channel  video  and  two- 
+channel  sound  installation, 
+black  and  white;  and  electronic 
+sign  with  newsfeed;  installation 
+space  variable,  approximately 
+4.75  x  4.72  x  8.12  m.  ZKM/Center 
+for  Art  and  Media  Karlsruhe. 
+
+
+1 1 . 
+
+
+H 
+
+
+9kjn 
+
+
++ 
+
+
+Viola's  images  absorb  the  viewer  in  the  "logic"  of  their  associative 
+combinations.  His  aim  is  the  complete  dissolution  of  expectations  and  the 
+acceptance  of  the  permanent  disappearance  of  all  particularity.  His  works 
+demand  the  viewer's  immersion  into  their  process  of  flux,  invoking 
+continuous  change  with  hypnotic  intensity.  Through  its  time-based  structure, 
+The  City  of  Man  reveals  Viola's  hostility  toward  time:  everything  happens 
+simultaneously  and  perpetually,  repeating  itself  in  cycles,  as  in  its  video 
+loops.  But  in  the  end  the  video  image,  too,  is  mortal:  when  the  equipment 
+is  turned  off,  the  images  vanish  and  nothing  is  left  but  memory.  In  The  City 
+of  Man,  the  "temporality"  of  existence  is  dissolved  at  last  — formally  it 
+becomes  a  "contemporality,"  and  in  the  work's  content  a  "supratemporality." 
+
+1.  Bill  Viola,  "Das  Ganze  wieder  zusammenfugen,  Bill  Viola  im  Gesprach  mit  Otto  Neumaier 
+und  Alexander  Puhringer,"  in  Alexander  Puhringer,  ed.,  Bill  Viola,  exh.  cat.  (Salzburg:  Ritter 
+Klagenfurt  and  Salzburger  Kunstverein,  1994),  p.  143. 
+
+2.  Viola,  Reasons  for  Knocking  at  an  Empty  House,  Writings  19/3-1994,  ed.  Robert  Violette 
+and  Viola  (Cambridge,  Mass.:  M.I.T.  Press;  London:  Thames  and  Hudson,  in  association  with 
+Anthony  d'Offay  Gallery,  1995),  pp.  244-45. 
+
+Ursula  Frohne 
+
+
+THRESHOLD,     1992 
+
+As  in  many  of  Bill  Viola's  works,  the  theme  of  Threshold  is  the  connection 
+between  body  and  spirit,  thought  and  action,  contemplation  and 
+concentration,  inner  and  outer  reality.  Space  is  organized  to  allow  the 
+concrete  experience  of  crossing  a  threshold,  where  the  moment  of  transition 
+from  one  symbolic  reality  into  another  becomes  the  main  event  and  the 
+subject  of  perception. 
+
+As  the  viewer  stands  outside  the  main  room  of  the  installation, 
+his  or  her  attention  is  absorbed  by  the  bright  light  of  an  electronic 
+signboard.  The  sign  broadcasts  the  latest  news,  displaying  messages 
+transmitted  directly  from  a  press  agency.  Because  of  the  almost  painful 
+brightness  of  the  moving  letters,  one  does  not  notice  right  away  that  there 
+is  a  gap  in  the  middle  of  the  sign,  where  the  display  breaks  off  around  an 
+opening  in  the  wall.  This  is  the  threshold  the  viewer  is  supposed  to  cross, 
+passing  through  the  silent,  but  visually  obtrusive,  flow  of  electronic  data  to 
+enter  a  darkened  space. 
+
+After  entering  the  barely  lit  room,  the  viewer's  eyes  slowly  adapt, 
+and  the  faint  images  of  three  people  sleeping  begin  to  appear  on  the  walls. 
+With  their  closed  eyes  and  calm  features,  the  larger-than-life-size  portraits 
+look  at  first  like  black-and-white  photographs  of  corpses.  But  there  is  the 
+sound  of  breathing,  and  after  longer  observation,  minimal  movements  in  the 
+sleepers'  faces  can  be  discerned:  gradually  the  viewer  becomes  aware  that 
+these  are  living  people,  and  slowly  becomes  immersed  in  the  peacefulness 
+of  the  scene.  The  situation  is  so  intimate  that  it  seems  to  establish  a 
+personal  relationship  between  the  viewer  and  the  sleeping  people,  but  the 
+immediacy  of  this  relationship  also  heightens  the  anonymity  of  the  figures, 
+and,  in  a  certain  way,  that  of  sleep  itself.  The  sleepers  are  exposed  to  the 
+gaze  of  the  observer,  and  that  leads  to  more  than  psychological 
+identification,  as  the  sound  of  regular  breathing  defines  the  space  as  a 
+realm  of  the  unconscious  beyond  the  tireless  affairs  of  the  outside  world.  By 
+observing  the  submersion  of  the  sleepers,  the  viewer  slowly  sinks  into  a 
+meditative  state  of  self-reflection.  The  perception  of  the  projected  images 
+begins  to  correspond  to  the  vaguely  felt  images  inside,  and  the  threshold 
+between  outer  and  inner  perception  is  crossed.  Outside,  objective  data  and 
+facts  reign;  inside,  spiritual  reflection  takes  place  — outside,  information; 
+inside,  contemplation.  The  coexistence  of  these  two  levels  is  the 
+fundamental  reality  of  Viola's  spatial  compositions.  By  including  in  his  work 
+what  exists  "after  or  behind  the  physical  world,"  he  opens  up  a 
+metaphysical  horizon. 
+
+
+The  drama  of  this  contrast  between  levels  of  perception  is 
+heightened  through  a  carefully  orchestrated  turn  of  events.  Although  the 
+threshold  is,  in  itself,  neutral,  marking  only  the  point  of  transition  from  one 
+state  into  another,  it  is  a  very  intense  motif.  Because  we  do  not  know  what 
+awaits  us  beyond  it  as  we  approach  the  installation,  we  are  uncertain  and 
+at  the  same  time  curious.  Breaking  through  the  noisy  information  barrier, 
+we  enter  an  unexpectedly  quiet  room.  By  crossing  the  threshold,  we 
+experience  two  extreme  conditions:  on  the  outside,  the  blinding  light  and 
+the  relentless  bombardment  of  the  news  media,  which  absorb  even  the 
+cruelest  and  most  banal  incidents  in  their  persistent  "alertness";  on  the 
+inside,  the  introverted  and  introspective  sleepers,  who  are  untouched  by 
+outside  events.  On  reflection,  we  come  to  see  that  it  is  not  the  sleepers 
+who  are  unconscious,  but  on  the  contrary,  the  media,  who,  in  their  restless 
+dissemination  and  accumulation  of  news,  act  literally  without  consciousness. 
+The  moving  letters  of  the  electronic  signboard  do  indeed  hold  a  host  of 
+factual  information,  but  its  full  significance  cannot  be  processed  in  such  a 
+short  span  of  time.  If  we  spend  a  few  minutes  reading  the  procession  of 
+illuminated  letters,  we  learn  of  crises  and  catastrophes,  of  politics  and 
+surveys,  but  we  cannot  find  a  personal  perspective  in  this  mantra  of 
+messages,  or  even  a  method  to  weigh  the  importance  of  the  different 
+reports.  They  dissolve  in  a  quantitative  continuum  and  evaporate  into 
+indistinct  noise.  This,  together  with  the  sign's  disturbing  glare,  creates  an 
+overwhelming  impression,  and  it  is  at  this  point  that  we  find  the  symbolic 
+threshold  that  Viola  evokes  in  the  installation's  title.  In  Threshold,  he 
+provokes  us  to  enter  the  door  that  leads  from  the  "dimension  of  real  time," 
+the  "primary  time  of  experience,"  into  the  sphere  of  the  "other  time,"  where 
+the  individual  experience  of  time  takes  place.1  Crossing  this  threshold,  we 
+perceive  ourselves  not  only  as  the  subjects  of  our  experiences,  but  also  as 
+objects  of  the  events  occurring  around  us,  as  exposed  to  the  impact  of 
+these  events  as  the  sleepers  are  to  the  gaze  of  the  audience.  Threshold 
+creates  the  impression  of  the  simultaneous  occurrence  of  different  levels  of 
+time  and  consciousness.  At  the  same  time,  however,  in  both  sections  of  the 
+installation,  it  makes  reference  to  the  instability  of  this  "threshold" 
+condition:  the  transitory  nature  of  the  events  that  unravel  on  the  outside  as 
+constantly  changing  news  reports  corresponds  to  the  labile  state  of 
+dreaming  on  the  inside;  and  the  continuous  flow  of  words  has  its 
+counterpart  in  the  stream  of  consciousness  in  the  brain,  which  always 
+remains  active,  even  during  sleep. 
+
+Just  like  the  motif  of  the  threshold,  sleep  must  be  read  as  a 
+multiple  metaphor  in  this  work.  (Viola  treated  this  theme  earlier,  referring  to 
+Francisco  de  Goya's  Sleep  of  Reason  in  the  title  of  a  1988  installation.) 
+Sleep  can  serve  to  restore  an  identity  that  has  been  deformed  by  the 
+impact  of  events,  for  dreaming  has  a  regenerative  power,  as  a  source  of 
+compensation  for  oppressing  circumstances  and  psychic  pressure.  People  in 
+extreme  misery,  for  example,  can  have  pleasant  dreams  nonetheless,  as  if 
+the  always  active  unconscious  wanted  to  alleviate  the  horrors  of  reality. 
+Metaphorically,  then,  we  can  say  that  the  dream  "works"  whereas  the  flow 
+of  information  sleeps.  The  artistic  fusion  of  both  dimensions  in  one  spatial 
+arrangement  in  Viola's  work  shows  us  a  world  that  is  fragmented  into  inner 
+opposites,  one  that  finds  its  only  unity  in  the  irreconcilable  contradictions  of 
+security  and  fear,  protection  and  exposure,  continuum  and  discontinuum, 
+harmony  and  dissonance.  Viola's  installations  illustrate  an  understanding  of 
+experience  as  an  integrated  system  of  opposing  forces,  which  sustain, 
+precisely  because  of  their  antagonistic  character,  the  Utopian  desire  for  a 
+harmonious  whole. 
+
+1.  Leonhard  Emmerling,  "Bill  Viola's  Installation  'The  Stopping  Mind,'"  in  Bill  Viola,  Videos 
+1976-1991,  exh.  cat.  (Mannheim:  Cinema  Quadrat  a.V.,  1992),  p.  14. 
+
+Ursula  Frohne 
+
+
+BIOGRAPHY 
+
+
+SELECTED 
+EXHIBITION 
+C  ATA  LO  G  U  E  S 
+
+
+Bill  Viola  was  born  in  1951  in  New 
+York  City.  From  1969,  he  studied  at 
+the  College  of  Visual  and 
+Performing  Arts  of  Syracuse 
+University,  Syracuse,  New  York, 
+graduating  with  a  Bachelor  of  Fine 
+Arts  degree  in  1973. 
+
+During  the  1970s,  Viola  assisted 
+Nam  June  Paik  and  Peter  Campus 
+with  various  projects,  and  between 
+
+1973  and  1980  worked  with  the 
+composer  David  Tudor  and  the 
+avant-garde  music  group 
+Composers  Inside  Electronics.  From 
+
+1974  to  1976,  he  was  the  technical 
+production  manager  of  the 
+Art/Tapes/22  Video  Studio  in 
+Florence  and,  from  1976  to  1983, 
+was  a  visiting  artist  at  the 
+WNET/Thirteen  Television 
+Laboratory  in  New  York.  During 
+this  time,  Viola  traveled  frequently 
+to  the  South  Pacific,  Indonesia, 
+Australia,  Tunisia,  and  India. 
+
+In  1978,  and  again  in  1983  and 
+1989,  the  National  Endowment  for 
+the  Arts  awarded  Viola  a  Visual 
+Artist  Fellowship  for  his  work  in 
+video.  From  1980  to  1981,  he  lived 
+in  Japan  on  a  fellowship  from  the 
+U.S./Japan  Friendship  Commission, 
+and  was  an  artist-in-residence  at 
+the  Sony  Corporation's  Atsugi 
+Laboratories,  Atsugi,  Japan.  He 
+received  a  Video  Artist  Fellowship 
+from  the  Rockefeller  Foundation  in 
+1982.  In  1983,  he  taught  video  at 
+the  California  Institute  for  the  Arts 
+in  Valencia.  He  received  the 
+Polaroid  Video  Award  for 
+outstanding  achievement  in  1984, 
+and  spent  part  of  that  year  as 
+artist-in-residence  at  the  San  Diego 
+Zoo.  Also  in  1984,  he  traveled  to 
+Fiji  to  document  the  fire-walking 
+ceremony  of  the  South  Indian 
+community  in  Suva.  The  John 
+Simon  Guggenheim  Memorial 
+Foundation  presented  Viola  with  a 
+video  stipend  in  1985.  In  1987,  he 
+won  the  American  Film  Institute 
+Maya  Deren  Award,  and  two  years 
+later,  a  John  D.  and  Catherine  T. 
+
+
+MacArthur  Foundation  Award.  That 
+year,  he  traveled  throughout  the 
+American  Southwest  to  study 
+ancient  Native  American 
+archeological  sites  and  rock  art 
+In  1993,  he  was  the  first  recipient 
+of  the  Medienkunstpreis,  awarded 
+by  ZKM  Karlsruhe  and  the 
+Siemens  Kulturprogramm.  In  1995, 
+he  was  awarded  an  Honorary 
+Doctor  of  Fine  Arts  degree  from 
+Syracuse  University. 
+
+Among  Viola's  numerous  individual 
+exhibitions  since  1973  are  Projects, 
+the  Museum  of  Modern  Art,  New 
+York,  1979;  Bill  Viola:  Survey  of  a 
+Decade,  Contemporary  Arts 
+Museum,  Houston,  Texas,  1988; 
+Bill  Viola,  Fukui  Fine  Arts  Museum, 
+Fukui,  Japan,  1989;  Slowly  Turning 
+Narrative,  Institute  of 
+Contemporary  Art,  Philadelphia, 
+Virginia  Museum  of  Fine  Arts, 
+Richmond,  Musee  d'Art 
+Contemporain,  Montreal, 
+Indianapolis  Museum  of  Art, 
+Indianapolis,  Museum  of 
+Contemporary  Art,  San  Diego, 
+Center  for  the  Fine  Arts,  Miami, 
+and  the  Parrish  Art  Museum, 
+Southampton,  New  York;  and  Bill 
+Viola:  Unseen  Images,  Kunsthalle 
+Dusseldorf,  Moderna  Museet, 
+Stockholm,  Museo  Nacional  Centro 
+de  Arte  Reina  Sofia,  Madrid,  Musee 
+Cantonal  des  Beaux-Arts, 
+Lausanne,  Whitechapel  Art  Gallery, 
+London,  and  Tel  Aviv  Museum  of 
+Art,  1992.  Viola  represented  the 
+United  States  at  the  Venice 
+Biennale  in  1995.  The  group 
+shows  in  which  his  work  has 
+appeared  include  the  Biennale  de 
+Paris,  1975  and  1977;  Biennial 
+Exhibition,  Whitney  Museum  of 
+American  Art,  1975,  1977,  1979, 
+1981,  1983,  1985,  1987,  and  1993; 
+Venice  Biennale,  1986;  Passages 
+de  I'image,  Centre  Georges 
+Pompidou,  Paris,  1990;  and 
+Video  Spaces,  the  Museum  of 
+Modern  Art,  New  York,  1995. 
+
+
+INDIVIDUAL 
+EXHIBITIONS 
+
+Bill  Viola:  Installations  and 
+Videotapes.  New  York:  Museum  of 
+Modern  Art,  1987. 
+
+Bill  Viola:  Survey  of  a  Decade. 
+Houston:  Contemporary  Arts 
+Museum,  1988. 
+
+Bill  Viola.  Fukui,  Japan:  Fukui  Fine 
+Arts  Museum,  1990. 
+
+Slowly  Turning  Narrative. 
+Philadelphia:  Institute  of 
+Contemporary  Art,  University  of 
+Pennsylvania;  Richmond:  Virginia 
+Museum  of  Fine  Arts,  1992. 
+
+Bill  Viola:  Unseen  Images. 
+Dusseldorf:  Kunsthalle  Dusseldorf, 
+1992. 
+
+Bill  Viola.  Montreal:  Musee  d'Art 
+Contemporain  de  Montreal,  1993. 
+
+Valentini,  Valentina,  ed.  Bill  Viola: 
+Vedere  con  la  mente  e  con  it 
+cuore.  Rome:  Gangemi,  1993. 
+
+Bill  Viola.  Salzburg:  Ritter 
+Klagenfurt  and  Satzburger 
+Kunstverein,  1994. 
+
+Bill  Viola:  Images  and  Spaces. 
+Madison,  Wis.:  Madison  Art  Center, 
+1994. 
+
+Bill  Viola:  Buried  Secrets.  Tempe, 
+Ariz.:  Arizona  State  University  Art 
+Museum,  Nelson  Fine  Arts  Center; 
+Hannover,  Germany:  Kestner- 
+Gesellschaft,  1995. 
+
+
+GROUP 
+EXHIBITIONS 
+
+The  Arts  for  Television.  Amsterdam: 
+Stedelijk  Museum;  Los  Angeles: 
+Museum  of  Contemporary  Art,  1987. 
+
+Avant-Garde  in  the  Eighties.  Los 
+Angeles:  Los  Angeles  County 
+Museum  of  Art,  1987. 
+
+1987  Biennial  Exhibition.  New  York: 
+Whitney  Museum  of  American  Art, 
+1987. 
+
+
+American  Landscape  Video:  The 
+Electronic  Grove.  Pittsburgh:  The 
+Museum  of  Art,  Carnegie  Institute, 
+1988. 
+
+Einleuchten:  Will,  Vorstel  und 
+Simul  in  HH.  Hamburg: 
+Deichtorhallen,  1989. 
+
+Image  World:  Art  and  Media 
+Culture.  New  York:  Whitney 
+Museum  of  American  Art,  1989. 
+
+Video-Skulptur:  Retrospektiv  und 
+Aktuell,  1963-1989.  Cologne: 
+Kolnischer  Kunstverein  and 
+DuMont  Kunsthalle,  1989. 
+
+Bienal  de  la  imagen  en 
+movimiento  '90.  Madrid:  Museo 
+Nacional  Centro  de  Arte  Reina 
+Sofia,  1990. 
+
+Eye  for  I:  Video  Self-Portrait.  New 
+York:  Independent  Curators 
+Incorporated,  1990. 
+
+Metropolis.  Berlin:  Martin-Gropius- 
+Bau,  1991. 
+
+Art  and  the  Armory:  Occupied 
+Territory.  Chicago:  Museum  of 
+Contemporary  Art,  1992. 
+
+Documenta  9.  Kassel:  Documenta, 
+1992. 
+
+Feuer,  Wasser,  Erde,  Luft:  Die 
+vier  Elemente.  Hamburg: 
+Deichtorhallen,  1993. 
+
+Frischluft:  Installation-lnteraktion: 
+Videokunst  der  8oer  jahre. 
+Duisburg,  Germany:  Wilhelm 
+Lehmbruck  Museum  Duisburg, 
+1993- 
+
+Rites  of  Passage.  London:  Tate 
+Gallery,  1995. 
+
+Video  Spaces.  New  York:  Museum 
+of  Modern  Art,  1995. 
+
+Video  d'autore  1986-1995.  Rome: 
+Gangemi,  1995. 
+
+
+63 
+
+
+THE     SOLOMON      R.     GUGGENHEIM 
+FOUNDATION 
+
+
+Honorary  Trustees  in  Perpetuity 
+
+Solomon  R.  Guggenheim 
+Justin  K.  Thannhauser 
+Peggy  Guggenheim 
+
+Chairman 
+
+Peter  Lawson-Johnston 
+
+President 
+
+Ronald  0.  Perelman 
+
+Vice-Presidents 
+
+Robert  M.  Gardiner 
+Wendy  L-J.  McNeil 
+
+Vice-President  and  Treasurer 
+
+Stephen  C.  Swid 
+
+Director 
+
+Thomas  Krens 
+
+Secretary 
+
+Edward  F.  Rover 
+
+Honorary  Trustee 
+
+Claude  Pompidou 
+
+Trustee,  Ex  Officio 
+
+Jacques  E.  Lennon 
+
+Director  Emeritus 
+
+Thomas  M.  Messer 
+
+
+Trustees 
+
+Giovanni  Agnelli 
+Jon  Imanol  Azua 
+Edgar  Bronfman,  Jr. 
+The  Right  Honorable  Earl 
+
+Castle  Stewart 
+Mary  Sharp  Cronson 
+Carlo  De  Benedetti 
+Daniel  Filipacchi 
+Robert  M.  Gardiner 
+Rainer  Heubach 
+Barbara  Jonas 
+David  H.  Koch 
+Thomas  Krens 
+Peter  Lawson-Johnston 
+Rolf-Dieter  Leister 
+Peter  B.  Lewis 
+Natalie  Lieberman 
+Wendy  L-J.  McNeil 
+Edward  H.  Meyer 
+Ronald  0.  Perelman 
+Michael  M.  Rea 
+Richard  A.  Rifkind 
+Denise  Saul 
+Rudolph  B.  Schulhof 
+Terry  Semel 
+James  B.  Sherwood 
+Raja  Sidawi 
+Seymour  Slive 
+Stephen  C.  Swid 
+John  S.  Wadsworth,  Jr. 
+Cornel  West 
+Michael  F.  Wettach 
+John  Wilmerding 
+William  T.  Ylvisaker 
+
+
