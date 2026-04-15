@@ -20,9 +20,9 @@ data:
 
 preprocessing:
   chunking:
-    enabled: true
-    chunk_size: 500
-    overlap: 50
+    enabled: false
+    max_words: 256
+    overlap: 1
 
   embeddings:
     enabled: true

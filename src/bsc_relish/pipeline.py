@@ -2,6 +2,7 @@ from datetime import datetime
 import json
 import os
 import argparse
+from pathlib import Path
 import yaml
 import pandas as pd
 
@@ -37,6 +38,7 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
     """
 
     # ---- 1. Load raw text ---- #
+    print("Constructing dataframes from txt files...")
     df = txt_folder_to_df_with_labels(
         root_dir="data/raw",
         label_map={
@@ -44,16 +46,17 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
             "archive-americana-download-desc": 1,
             "archive-americana-recipe-download-desc": 1,
             "archive-americana-fiction-literature-technology-download-desc": 0
-        }
+        },
+        max_files=100
     )
+    print("Constructing dataframes from txt files...")
 
     # ---- 2. Chunking ---- #
     if config["preprocessing"]["chunking"]["enabled"]:
         df = split_text_into_chunks(
             df,
             text_column="text",
-            chunk_size=config["preprocessing"]["chunking"]["chunk_size"],
-            overlap=config["preprocessing"]["chunking"]["overlap"],
+            max_words=config["preprocessing"]["chunking"]["max_words"],
         )
         text_column = "chunk_text"
     else:
@@ -96,6 +99,7 @@ def save_dataset(df: pd.DataFrame, config: dict):
         "n_cols": df.shape[1],
         "columns": list(df.columns),
         "target": config["data"]["target_column"],
+        "example_row": df.sample(1, random_state=42).iloc[0].to_dict()
     }
 
     with open(metadata_path, "w") as f:
@@ -122,8 +126,30 @@ def main(config_path: str):
 
     # ---- Step 2: Training ---- #
     if config["pipeline"]["run_training"]:
+
+        
         print("Running training...")
-        train_main()
+        if config["pipeline"]["run_preprocessing"]:
+            train_main(df)
+        else:
+            interim_path = Path(config["data"]["train_path"])
+
+            # get all timestamped directories
+            dirs = [d for d in interim_path.iterdir() if d.is_dir()]
+
+            if not dirs:
+                raise FileNotFoundError(f"No subdirectories found in {interim_path}")
+
+            # latest by lexicographic order (safe due to YYYY-MM-DD_HH-MM-SS format)
+            latest_dir = max(dirs, key=lambda d: d.name)
+
+            dataset_path = latest_dir / "dataset.parquet"
+
+            if not dataset_path.exists():
+                raise FileNotFoundError(f"No dataset.parquet in {latest_dir}")
+
+            df = pd.read_parquet(dataset_path)
+            train_main(df)
     else:
         print("Skipping training...")
 

@@ -22,7 +22,8 @@ dist/
 # Jupyter Notebook
 # =====================
 .ipynb_checkpoints/
-*.ipynb_checkpoints
+*.ipynb
+notebooks/
 
 # =====================
 # Logs
@@ -33,8 +34,8 @@ logs/
 # =====================
 # ML / Data (IMPORTANT)
 # =====================
-data/processed/
-datasets/
+data/
+*.parquet
 
 
 # Model checkpoints

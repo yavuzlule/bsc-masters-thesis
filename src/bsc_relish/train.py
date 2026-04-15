@@ -108,11 +108,11 @@ import os
 from datetime import datetime
 
 
-def main():
+def main(df):
     config = load_config("/Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/config.yaml")
 
     # Load data
-    train_df = pd.read_parquet(config["data"]["train_path"])
+    train_df = df
     target = config["data"]["target_column"]
 
     #X = train_df.drop(columns=[target])

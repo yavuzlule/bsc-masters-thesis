@@ -89,52 +89,41 @@ def txt_folder_to_df(
 
     return df
 
-def _chunk_text(
-    text: str,
-    chunk_size: int,
-    overlap: int
-) -> List[str]:
+
+from typing import List
+import pandas as pd
+
+def _chunk_text_by_words(text: str, max_words: int = 256) -> List[str]:
     """
-    Split text into overlapping chunks.
-
-    Args:
-        text: input string
-        chunk_size: max characters per chunk
-        overlap: overlap between consecutive chunks
-
-    Returns:
-        List[str]
+    Split text into chunks of up to `max_words` words.
     """
-    if chunk_size <= 0:
-        raise ValueError("chunk_size must be > 0")
-    if overlap >= chunk_size:
-        raise ValueError("overlap must be smaller than chunk_size")
+    if max_words <= 0:
+        raise ValueError("max_words must be > 0")
 
+    words = text.split()
     chunks = []
-    start = 0
-    text_length = len(text)
 
-    while start < text_length:
-        end = start + chunk_size
-        chunk = text[start:end]
-        chunks.append(chunk)
-        start += chunk_size - overlap
+    for i in range(0, len(words), max_words):
+        chunk = words[i:i + max_words]
+        chunks.append(" ".join(chunk))
 
     return chunks
+
 
 def split_text_into_chunks(
     df: pd.DataFrame,
     text_column: str = "text",
     *,
-    chunk_size: int = 1024,
-    overlap: int = 0
+    max_words: int = 256
 ) -> pd.DataFrame:
     """
-    Expand a DataFrame into chunk-level rows.
+    Expand a DataFrame into word-chunk-level rows.
+
+    Each row's text is split into chunks of at most `max_words` words.
 
     Adds:
         - chunk_text
-        - chunk_index (position within original document)
+        - chunk_index (position within original row)
 
     Returns:
         pd.DataFrame (one row per chunk)
@@ -147,18 +136,15 @@ def split_text_into_chunks(
 
     for _, row in df.iterrows():
         text = str(row[text_column])
-        chunks = _chunk_text(text, chunk_size, overlap)
+        chunks = _chunk_text_by_words(text, max_words=max_words)
 
         for idx, chunk in enumerate(chunks):
             record = row.to_dict()
-
             record["chunk_text"] = chunk
             record["chunk_index"] = idx
-
             records.append(record)
 
     return pd.DataFrame(records)
-
 
 from pathlib import Path
 import pandas as pd
@@ -176,7 +162,7 @@ def txt_folder_to_df_with_labels(
     recursive: bool = True,
     encoding: str = "utf-8",
     drop_empty: bool = True,
-    max_files: int = 2
+    max_files: int = 5
 ) -> pd.DataFrame:
 
     root_path = Path(root_dir)
