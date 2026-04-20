@@ -1,4 +1,5 @@
 import os
+import numpy as np
 import yaml
 import json
 import joblib
@@ -109,14 +110,14 @@ from datetime import datetime
 
 
 def main(df):
-    config = load_config("/Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/config.yaml")
+    config = load_config("configs/logreg.yaml")
 
     # Load data
     train_df = df
     target = config["data"]["target_column"]
 
     #X = train_df.drop(columns=[target])
-    X = train_df.loc[:, train_df.columns.str.contains("emb_", case=False)]
+    X = np.vstack(train_df["embedding"].values)
     y = train_df[target]
 
     # Split
@@ -196,5 +197,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", required=True, help="Path to config.yaml")
     args = parser.parse_args()
+    config = load_config("configs/logreg.yaml")
 
-    main()
+    df = pd.read_parquet(config["df"])
+    main(df)

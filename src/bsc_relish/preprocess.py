@@ -4,12 +4,13 @@ import json
 import os
 from pathlib import Path
 from typing import List, Optional
+import numpy as np
 import pandas as pd
 import yaml
 from typing import Dict
 from collections import defaultdict
 from bsc_relish.embed import EmbeddingPipeline, add_embeddings_to_df, expand_embedding_column
-
+from tqdm import tqdm
 
 # ---- Core file loading ---- #
 
@@ -142,16 +143,16 @@ def split_text_into_chunks(
     Returns:
         pd.DataFrame (one row per chunk)
     """
-
+    print(f"Splitting texts into chunks of {max_words} tokens(words).")
     if text_column not in df.columns:
         raise ValueError(f"Column '{text_column}' not found")
 
     records = []
 
-    for _, row in df.iterrows():
+
+    for _, row in tqdm(df.iterrows(), total=len(df), desc="Chunking texts"):
         text = str(row[text_column])
         chunks = _chunk_text_by_words(text, max_words=max_words)
-
         for idx, chunk in enumerate(chunks):
             record = row.to_dict()
             record["chunk_text"] = chunk
@@ -175,7 +176,7 @@ def txt_folder_to_df_with_labels(
 
     records = []
     folder_counts = defaultdict(int)  # track per-folder counts
-
+    print(f"Constructing dataframes from text files in folders {label_map.keys()}")
     files = root_path.rglob("*.txt") if recursive else root_path.glob("*.txt")
 
     for file_path in files:
@@ -187,9 +188,9 @@ def txt_folder_to_df_with_labels(
         # enforce per-folder limit
         if folder_counts[folder_name] >= max_files:
             continue
-
+        
         text = file_path.read_text(encoding=encoding)
-
+        print(f"{file_path}\n")
         if drop_empty and not text.strip():
             continue
 
@@ -208,6 +209,7 @@ def txt_folder_to_df_with_labels(
     return pd.DataFrame(records)
 
 def save_dataset(df: pd.DataFrame, config: dict):
+
     base_dir = "data/interim"
     run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
@@ -218,7 +220,12 @@ def save_dataset(df: pd.DataFrame, config: dict):
     metadata_path = os.path.join(save_dir, "metadata.json")
 
     # Save dataset
-    df.to_parquet(dataset_path, index=False, compression="zstd")
+    df.drop(columns=["text"], inplace=True)
+    print(f"Saving dataset to {dataset_path}")
+    for col in df.columns:
+        mb = df[col].memory_usage(deep=True) / 1024**2
+        print(f"{col}: {mb:.1f} MB")
+    df.to_parquet(dataset_path, index=False, row_group_size=5_000, compression="snappy")
 
     # Save metadata (very useful later)
     metadata = {
@@ -229,10 +236,18 @@ def save_dataset(df: pd.DataFrame, config: dict):
         "example_row": df.sample(1, random_state=42).iloc[0].to_dict()
     }
 
-    with open(metadata_path, "w") as f:
-        json.dump(metadata, f, indent=2)
+    def make_serializable(obj):
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        return str(obj)
 
-    print(f"Saved dataset to {dataset_path}")
+    with open(metadata_path, "w") as f:
+        json.dump(metadata, f, indent=2, default=make_serializable)
+
 
 
 
@@ -243,13 +258,12 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
     """
 
     # ---- 1. Load raw text ---- #
-    print("Constructing dataframes from txt files...")
+    
     df = txt_folder_to_df_with_labels(
         root_dir="data/raw",
         label_map=config["data"]["label_map"],
         max_files=config["data"]["limit_files"]["max_files"] if config["data"]["limit_files"]["enabled"] else float('inf')
     )
-    print("Constructing dataframes from txt files...")
 
     # ---- 2. Chunking ---- #
     if config["preprocessing"]["chunking"]["enabled"]:
@@ -275,7 +289,7 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
             embedding_column="embedding",
             model_column="embedding_model",
         )
-        df = expand_embedding_column(df)
+        #df = expand_embedding_column(df)
 
     return df
 

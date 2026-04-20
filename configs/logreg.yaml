@@ -9,25 +9,6 @@ model:
     class_weight: "balanced"
     random_state: 42
 
-pipeline:
-  run_preprocessing: true
-  run_training: true
-
-data:
-  raw_text_dir: "data/raw"
-  interim_path: "data/interim"
-  target_column: label
-
-preprocessing:
-  chunking:
-    enabled: false
-    max_words: 256
-    overlap: 1
-
-  embeddings:
-    enabled: true
-    model_name: "all-MiniLM-L6-v2"
-
 training:
   test_size: 0.2
   stratify: true
@@ -48,3 +29,10 @@ evaluation:
 output:
   base_dir: results
   save_model: true
+
+data:
+  raw_text_dir: "data/raw"
+  interim_path: "data/interim"
+  target_column: label
+
+df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-20_12-42-25/dataset.parquet"

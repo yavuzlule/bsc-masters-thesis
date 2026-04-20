@@ -16,8 +16,10 @@ import argparse
 import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
-
 # ---- Core reusable functions ---- #
+
+
+
 
 def get_embedding(
     text,
@@ -50,6 +52,7 @@ def add_embeddings_to_df(
     Returns a copy of df with embedding + model name columns added.
     """
 
+    print(f"Computing embeddings for {len(df)} rows.")
     if target_column not in df.columns:
         raise ValueError(f"Column '{target_column}' not found in DataFrame")
 
@@ -68,7 +71,7 @@ def add_embeddings_to_df(
     df_out[embedding_column] = list(embeddings)
 
     # Store model name for traceability
-    model_name = getattr(model, "name_or_path", "unknown_model")
+    model_name = "all-MiniLM-L6-v2"
     df_out[model_column] = model_name
 
     return df_out
@@ -138,7 +141,7 @@ class EmbeddingPipeline:
 
 # ---- CLI entry point ---- #
 
-def main():
+def main(config_path: str):
     parser = argparse.ArgumentParser(description="Generate embeddings from a DataFrame")
 
     parser.add_argument("--input", type=str, required=True, help="Input dataframe file (parquet)")
@@ -172,4 +175,14 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Full ML pipeline")
+
+    parser.add_argument(
+        "--config",
+        required=True,
+        help="Path to config.yaml"
+    )
+
+    args = parser.parse_args()
+
+    main(args.config)

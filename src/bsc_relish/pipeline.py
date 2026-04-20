@@ -37,7 +37,7 @@ def main(config_path: str):
     if config["pipeline"]["run_training"]:
 
         
-        print("Running training...")
+        print("\nRunning training...")
         if config["pipeline"]["run_preprocessing"]:
             train_main(df)
         else:

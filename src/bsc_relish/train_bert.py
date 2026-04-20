@@ -136,6 +136,8 @@ def main(df):
     # Build pipeline
     #preprocessor = build_preprocessor(config)
     model = load_model(config["model"]["type"], config["model"]["params"])
+
+    
     print("\n\n\nMODEL LOADED\n\n")
 
     """

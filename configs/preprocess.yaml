@@ -6,18 +6,18 @@ data:
             "archive-americana-recipe-download-desc": 1,
             "archive-americana-fiction-literature-technology-download-desc": 0
         }
-  train_path: "data/interim"
+  interim_path: "data/interim"
   target_column: label
   limit_files:
-    enabled: false
-    max_files: 32
+    enabled: true
+    max_files: 2
 
 
 preprocessing:
   chunking:
-    enabled: true
+    enabled: false
     max_words: 256
-    overlap: 1
+    overlap: 128
 
   embeddings:
     enabled: true

@@ -1,0 +1,58 @@
+model:
+  name: logistic_regression
+  type: sklearn.linear_model.LogisticRegression
+
+  params:
+    C: 1.0
+    solver: saga
+    max_iter: 500
+    class_weight: "balanced"
+    random_state: 42
+
+pipeline:
+  run_preprocessing: true
+  run_training: false
+
+data:
+  raw_text_dir: "data/raw"
+  interim_path: "data/interim"
+  target_column: label
+  label_map: {
+            "archive-americana-cookbook-download-desc": 1,
+            "archive-americana-download-desc": 1,
+            "archive-americana-recipe-download-desc": 1,
+            "archive-americana-fiction-literature-technology-download-desc": 0
+        }
+  limit_files:
+    enabled: true
+    max_files: 5
+preprocessing:
+  chunking:
+    enabled: true
+    max_words: 256
+    #overlap: 1
+
+  embeddings:
+    enabled: true
+    model_name: "all-MiniLM-L6-v2"
+
+training:
+  test_size: 0.2
+  stratify: true
+
+  cross_validation:
+    enabled: false   # enable later if needed
+    folds: 5
+    scoring: roc_auc
+
+evaluation:
+  metrics:
+    - accuracy
+    - precision
+    - recall
+    - f1
+    - roc_auc
+
+output:
+  base_dir: results
+  save_model: true
