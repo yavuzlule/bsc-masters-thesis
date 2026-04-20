@@ -10,14 +10,14 @@ data:
   target_column: label
   limit_files:
     enabled: true
-    max_files: 2
+    max_files: 20
 
 
 preprocessing:
   chunking:
-    enabled: false
+    enabled: true
     max_words: 256
-    overlap: 128
+    #overlap: 128
 
   embeddings:
     enabled: true
