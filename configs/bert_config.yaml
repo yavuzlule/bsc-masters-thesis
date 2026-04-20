@@ -18,7 +18,7 @@ pipeline:
 
 data:
   raw_text_dir: "data/raw"
-  train_path: "data/interim"
+  interim_path: "data/interim"
   target_column: label
 
 preprocessing:
