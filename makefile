@@ -5,6 +5,7 @@ train:
 	python src/bsc_relish/train.py --config configs/logreg.yaml
 
 train-bert:
+	python src/bsc_relish/train_bert.py --config configs/bert_config.yaml
 
 pipe:
 	python src/bsc_relish/pipeline.py --config configs/pipeline.yaml

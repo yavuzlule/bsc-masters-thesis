@@ -18,14 +18,14 @@ data:
   interim_path: "data/interim"
   target_column: label
   label_map: {
-            "archive-americana-cookbook-download-desc": 1,
-            "archive-americana-download-desc": 1,
-            "archive-americana-recipe-download-desc": 1,
-            "archive-americana-fiction-literature-technology-download-desc": 0
+            "archive-americana-fiction-literature-technology-download-desc": 0,
+            "chunks_output": 1
         }
   limit_files:
-    enabled: true
-    max_files: 5
+    enabled: false
+    max_files: 100
+
+
 preprocessing:
   chunking:
     enabled: true

@@ -1,5 +1,9 @@
 import os
+from xml.parsers.expat import model
+import numpy as np
+from sklearn.utils import compute_class_weight
 import torch
+from tqdm import tqdm
 from transformers import BertTokenizer
 import yaml
 import json
@@ -22,7 +26,20 @@ from sklearn.metrics import (
 )
 import logging
 import yaml
-from torch import nn
+from torch import device, nn
+from transformers import get_linear_schedule_with_warmup
+
+
+from transformers import BertForSequenceClassification
+import torch.nn as nn
+
+# Standard approach: let BERT handle it
+
+# During training:
+# - Forward pass outputs logits
+# - Loss function (CrossEntropyLoss) applies softmax internally
+# - You get probabilities during inference with softmax
+
 
 
 class TextClassificationDataset(Dataset):
@@ -53,21 +70,38 @@ class TextClassificationDataset(Dataset):
             'label': torch.tensor(label, dtype=torch.long)
         }
     
-
-
-def train(model, data_loader, optimizer, scheduler, device):
+def train(model, data_loader, optimizer, scheduler, device, loss_fn):
     model.train()
-    for batch in data_loader:
+    total_loss = 0
+
+    progress_bar = tqdm(data_loader, desc="Training")
+
+    for batch in progress_bar:
+        input_ids = batch["input_ids"].to(device)
+        attention_mask = batch["attention_mask"].to(device)
+        labels = batch["label"].to(device)
+
         optimizer.zero_grad()
-        input_ids = batch['input_ids'].to(device)
-        attention_mask = batch['attention_mask'].to(device)
-        labels = batch['label'].to(device)
-        outputs = model(input_ids=input_ids, attention_mask=attention_mask)
-        #print(type(outputs))
-        loss = nn.CrossEntropyLoss()(outputs.logits, labels)
+
+        outputs = model(
+            input_ids=input_ids,
+            attention_mask=attention_mask
+        )
+
+        loss = loss_fn(outputs.logits, labels)
+
         loss.backward()
+
+        torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+
         optimizer.step()
         scheduler.step()
+
+        total_loss += loss.item()
+
+        progress_bar.set_postfix(loss=loss.item())
+
+    return total_loss / len(data_loader)
 
 # -------------------------
 # Utils
@@ -92,16 +126,26 @@ def evaluate(model, data_loader, device):
     model.eval()
     predictions = []
     actual_labels = []
+    
     with torch.no_grad():
         for batch in data_loader:
             input_ids = batch['input_ids'].to(device)
             attention_mask = batch['attention_mask'].to(device)
             labels = batch['label'].to(device)
-            outputs = model(input_ids=input_ids, attention_mask=attention_mask)
-            _, preds = torch.max(outputs.logits, dim=1)
+            
+            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
+            logits = outputs.logits  # Shape: (batch_size, 2)
+            probs = torch.softmax(logits, dim=-1)  # Convert to probabilities
+            food_probs = probs[:, 1]  # Probability of class 1 (food)
+            preds = (food_probs > 0.5).long()  # Now threshold makes sense
+
             predictions.extend(preds.cpu().tolist())
             actual_labels.extend(labels.cpu().tolist())
+    
     return accuracy_score(actual_labels, predictions), classification_report(actual_labels, predictions)
+
+
+
 
 
 # -------------------------
@@ -111,8 +155,10 @@ import os
 from datetime import datetime
 
 
+
+
 def main(df):
-    config = load_config("/Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/bert_config.yaml")
+    config = load_config("configs/bert_config.yaml")
 
     # Load data
     train_df = df
@@ -132,31 +178,68 @@ def main(df):
     val_texts = val_texts.reset_index(drop=True)
     train_labels = train_labels.reset_index(drop=True)
     val_labels = val_labels.reset_index(drop=True)
+    
 
     # Build pipeline
     #preprocessor = build_preprocessor(config)
-    model = load_model(config["model"]["type"], config["model"]["params"])
-
+    #device = torch.device("mps") if torch.backends.mps.is_available() else torch.device("cpu")
+    model = BertForSequenceClassification.from_pretrained(
+    'bert-base-uncased',
+    num_labels=2  # binary classification
+    )
     
     print("\n\n\nMODEL LOADED\n\n")
 
-    """
-    
-    bert_model_name = 'bert-base-uncased'
-    num_classes = 2
-    max_length = 128
-    batch_size = 16
-    num_epochs = 4  
-    learning_rate = 2e-5
-    """
     # Train
     tokenizer = BertTokenizer.from_pretrained(config["model"]["name"])
     train_dataset = TextClassificationDataset(train_texts, train_labels, tokenizer, config['model']['params']['max_length'])
     val_dataset = TextClassificationDataset(val_texts, val_labels, tokenizer, config['model']['params']['max_length'])
     train_dataloader = DataLoader(train_dataset, batch_size=config['model']['params']['batch_size'], shuffle=True)
     val_dataloader = DataLoader(val_dataset, batch_size=config['model']['params']['batch_size'])
+    
+    
+    device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
+    model.to(device)
+    optimizer = torch.optim.AdamW(model.parameters(), lr=float(config['model']['params']['learning_rate']))
+
+    epochs = config['model']['params']['num_epochs']
+    total_steps = len(train_dataloader) * epochs
+
+    scheduler = get_linear_schedule_with_warmup(
+        optimizer,
+        num_warmup_steps=int(total_steps * 0.1),
+        num_training_steps=total_steps
+    )
+
+
+    weights = compute_class_weight(
+        class_weight="balanced",
+        classes=np.array([0, 1]),
+        y=train_labels.values
+    )
+
+    class_weights = torch.tensor(
+        weights,
+        dtype=torch.float32,
+        device=device
+    )
+
+    loss_fn = nn.CrossEntropyLoss(weight=class_weights)
+    for epoch in range(epochs):
+        loss = train(
+            model,
+            train_dataloader,
+            optimizer,
+            scheduler,
+            device,
+            loss_fn
+        )
+        print(f"Epoch {epoch+1}/{epochs} - Loss: {loss:.4f}")
+
+
 
     # Evaluate
+
     accuracy, report = evaluate(model, val_dataloader, device="cpu")
     print(f"Validation Accuracy: {accuracy:.4f}")
     print(report)
@@ -173,19 +256,18 @@ def main(df):
 
 
 
-    model_path = os.path.join(run_dir, "model.joblib")
     metrics_path = os.path.join(run_dir, "metrics.json")
     logs_path = os.path.join(run_dir, "logs.txt")
     config_path = os.path.join(run_dir, "config.yaml")
 
 
     if config["output"]["save_model"]:
-        joblib.dump(model, model_path)
-
+        model.save_pretrained(run_dir)
+        tokenizer.save_pretrained(run_dir)
 
     # Predictions
     with open(metrics_path, "w") as f:
-        json.dump(report, f, indent=2)
+        json.dump(report, f, indent=0)
 
     with open(config_path, "w") as f:
         yaml.dump(config, f)
@@ -203,5 +285,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", required=True, help="Path to config.yaml")
     args = parser.parse_args()
+    config = load_config("configs/bert_config.yaml")
+    df = pd.read_parquet(config["df"])
 
-    main()
+    main(df)
