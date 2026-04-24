@@ -1,0 +1,4 @@
+model_paths:
+  - "results/roberta-base_2026-04-24_16-12-53/model.pt"
+  - "results/distilbert-base-uncased_2026-04-24_16-12-53/model.pt"
+  - "results/bert-base-uncased_2026-04-24_16-12-53/model.pt"

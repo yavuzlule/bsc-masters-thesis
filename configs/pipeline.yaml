@@ -18,12 +18,12 @@ data:
   interim_path: "data/interim"
   target_column: label
   label_map: {
-            "archive-americana-fiction-literature-technology-download-desc": 0,
+            "new": 0,
             "chunks_output": 1
         }
   limit_files:
     enabled: false
-    max_files: 100
+    max_files: 15
 
 
 preprocessing:

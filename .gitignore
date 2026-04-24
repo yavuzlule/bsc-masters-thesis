@@ -39,11 +39,11 @@ data/
 
 
 # Model checkpoints
-results/
 *.pt
 *.pth
 *.bin
 *.safetensors
+*.joblib
 
 # Hugging Face cache
 .cache/

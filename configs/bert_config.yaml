@@ -52,4 +52,4 @@ output:
   base_dir: results
   save_model: true
 
-df: "data/interim/2026-04-20_13-04-01/dataset.parquet"
+df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-24_16-12-53/dataset.parquet"

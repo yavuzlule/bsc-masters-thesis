@@ -35,47 +35,33 @@ def get_embedding(
         show_progress_bar=show_progress_bar,
         normalize_embeddings=normalize
     )
-
-
 def add_embeddings_to_df(
-    df: pd.DataFrame,
+    df,
     model,
-    target_column: str = "text",
-    *,
-    embedding_column: str = "embedding",
-    model_column: str = "embedding_model",
-    normalize: bool = False,
-    batch_size: int = 32,
-    show_progress_bar: bool = True
-) -> pd.DataFrame:
-    """
-    Returns a copy of df with embedding + model name columns added.
-    """
+    target_column="text",
+    embedding_column="embedding",
+    model_column="embedding_model",
+    normalize=False,
+    batch_size=32
+):
+    texts = df[target_column].astype(str).to_numpy()
 
-    print(f"Computing embeddings for {len(df)} rows.")
-    if target_column not in df.columns:
-        raise ValueError(f"Column '{target_column}' not found in DataFrame")
+    embeddings = []
 
-    texts = df[target_column].astype(str).tolist()
+    for i in range(0, len(texts), batch_size):
+        batch = texts[i:i+batch_size]
+        emb = model.encode(batch, normalize_embeddings=normalize)
+        embeddings.append(emb)
 
-    embeddings = model.encode(
-        texts,
-        batch_size=batch_size,
-        show_progress_bar=show_progress_bar,
-        normalize_embeddings=normalize
-    )
+    embeddings = np.vstack(embeddings)
 
     df_out = df.copy()
+    df_out[model_column] = "all-MiniLM-L6-v2"
 
-    # Store embeddings (object dtype: list/array per row)
+    # WARNING: still memory-heavy for large N
     df_out[embedding_column] = list(embeddings)
 
-    # Store model name for traceability
-    model_name = "all-MiniLM-L6-v2"
-    df_out[model_column] = model_name
-
     return df_out
-
 
 def expand_embedding_column(
     df: pd.DataFrame,

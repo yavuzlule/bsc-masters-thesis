@@ -5,8 +5,8 @@ model:
   params:
     num_classes: 2
     max_length: 128
-    batch_size: 32
-    num_epochs: 4
+    batch_size: 64
+    num_epochs: 1
     learning_rate: 3e-5
 
   optimizer: torch.optim.AdamW
@@ -22,12 +22,12 @@ data:
 
 preprocessing:
   chunking:
-    enabled: false
+    enabled: true
     max_words: 256
     overlap: 1
 
   embeddings:
-    enabled: true
+    enabled: false
     model_name: "all-MiniLM-L6-v2"
 
 training:
@@ -51,4 +51,4 @@ output:
   base_dir: results
   save_model: true
 
-df: "data/interim/2026-04-20_13-04-01/dataset.parquet"
+df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-24_16-12-53/dataset.parquet"

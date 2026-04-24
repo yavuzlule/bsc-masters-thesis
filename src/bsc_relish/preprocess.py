@@ -219,36 +219,53 @@ def save_dataset(df: pd.DataFrame, config: dict):
     dataset_path = os.path.join(save_dir, "dataset.parquet")
     metadata_path = os.path.join(save_dir, "metadata.json")
 
-    # Save dataset
-    df.drop(columns=["text"], inplace=True)
     print(f"Saving dataset to {dataset_path}")
-    for col in df.columns:
-        mb = df[col].memory_usage(deep=True) / 1024**2
-        print(f"{col}: {mb:.1f} MB")
-    df.to_parquet(dataset_path, index=False, row_group_size=5_000, compression="snappy")
 
-    # Save metadata (very useful later)
+    # --- MEMORY INSPECTION (lighter version) ---
+    total_mb = df.memory_usage(deep=False).sum() / 1024**2
+    print(f"Total shallow memory usage: {total_mb:.1f} MB")
+
+    # avoid per-column deep scans unless debugging
+    for col in df.columns:
+        print(f"{col}: {df[col].memory_usage(deep=False) / 1024**2:.1f} MB")
+
+    # --- optional dtype optimization (VERY helpful for parquet) ---
+    for col in df.select_dtypes(include=["object"]).columns:
+        # try converting low-cardinality strings to category
+        if df[col].nunique(dropna=False) / len(df) < 0.5:
+            df[col] = df[col].astype("category")
+
+    # --- WRITE PARQUET ---
+    df.to_parquet(
+        dataset_path,
+        index=False,
+        engine="pyarrow",
+        compression="snappy",
+        row_group_size=50_000  # bigger row groups reduce overhead
+    )
+
+    # --- METADATA (avoid full row copy via sample) ---
+    example_row = df.iloc[0].to_dict() if len(df) > 0 else None
+
     metadata = {
-        "n_rows": len(df),
-        "n_cols": df.shape[1],
+        "n_rows": int(len(df)),
+        "n_cols": int(df.shape[1]),
         "columns": list(df.columns),
         "target": config["data"]["target_column"],
-        "example_row": df.sample(1, random_state=42).iloc[0].to_dict()
+        "example_row": example_row
     }
 
     def make_serializable(obj):
         if isinstance(obj, np.ndarray):
             return obj.tolist()
-        if isinstance(obj, np.integer):
+        if isinstance(obj, (np.integer,)):
             return int(obj)
-        if isinstance(obj, np.floating):
+        if isinstance(obj, (np.floating,)):
             return float(obj)
         return str(obj)
 
     with open(metadata_path, "w") as f:
         json.dump(metadata, f, indent=2, default=make_serializable)
-
-
 
 
 def run_preprocessing(config: dict) -> pd.DataFrame:
@@ -262,7 +279,7 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
     df = txt_folder_to_df_with_labels(
         root_dir="data/raw",
         label_map=config["data"]["label_map"],
-        max_files=config["data"]["limit_files"]["max_files"] if config["data"]["limit_files"]["enabled"] else float('inf')
+        max_files=config["data"]["limit_files"]["max_files"] if config["data"]["limit_files"]["enabled"] else 1000
     )
 
     # ---- 2. Chunking ---- #
@@ -272,16 +289,18 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
             text_column="text",
             max_words=config["preprocessing"]["chunking"]["max_words"],
         )
+        df.drop(columns=["text"], inplace=True)
+
         text_column = "chunk_text"
     else:
         text_column = "text"
+    """
 
     # ---- 3. Embeddings ---- #
     if config["preprocessing"]["embeddings"]["enabled"]:
         pipeline = EmbeddingPipeline(
             model_name=config["preprocessing"]["embeddings"]["model_name"]
         )
-
         df = add_embeddings_to_df(
             df,
             pipeline.model,
@@ -290,9 +309,9 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
             model_column="embedding_model",
         )
         #df = expand_embedding_column(df)
+    """
 
     return df
-
 
 
 

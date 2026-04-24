@@ -9,3 +9,9 @@ train-bert:
 
 pipe:
 	python src/bsc_relish/pipeline.py --config configs/pipeline.yaml
+
+train-roberta:
+	python src/bsc_relish/train_roberta.py --config configs/roberta_config.yaml
+
+train-distilbert:
+	python src/bsc_relish/train_distilbert.py --config configs/distilbert_config.yaml
