@@ -16,22 +16,18 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.impute import SimpleImputer
-from sklearn.metrics import (
-    accuracy_score,
-    classification_report,
-    precision_score,
-    recall_score,
-    f1_score,
-    roc_auc_score,
-)
+from sklearn.metrics import classification_report, accuracy_score, roc_auc_score
 import logging
 import yaml
-from torch import device, nn
+from torch import nn
 from transformers import get_linear_schedule_with_warmup
 
 
 from transformers import BertForSequenceClassification
 import torch.nn as nn
+
+from bsc_relish.evaluate import evaluate
+from bsc_relish.visualize_report import confusion_matrix_heatmap, visualize_report
 
 # Standard approach: let BERT handle it
 
@@ -70,16 +66,16 @@ class TextClassificationDataset(Dataset):
             'label': torch.tensor(label, dtype=torch.long)
         }
     
-def train(model, data_loader, optimizer, scheduler, device, loss_fn):
+def train(model, data_loader, optimizer, scheduler, loss_fn):
     model.train()
     total_loss = 0
 
     progress_bar = tqdm(data_loader, desc="Training")
 
     for batch in progress_bar:
-        input_ids = batch["input_ids"].to(device)
-        attention_mask = batch["attention_mask"].to(device)
-        labels = batch["label"].to(device)
+        input_ids = batch["input_ids"].to("cpu")
+        attention_mask = batch["attention_mask"].to("cpu")
+        labels = batch["label"].to("cpu")
 
         optimizer.zero_grad()
 
@@ -118,35 +114,21 @@ def load_model(model_path: str, params: dict):
     model_class = getattr(module, class_name)
     return model_class(**params)
 
+def balance_classes(df, label_col):
+    if label_col not in df.columns:
+        raise ValueError(f"Missing '{label_col}'. Columns: {df.columns.tolist()}")
 
-# -------------------------
-# Evaluation
-# -------------------------
-def evaluate(model, data_loader, device):
-    model.eval()
-    predictions = []
-    actual_labels = []
-    
-    with torch.no_grad():
-        for batch in data_loader:
-            input_ids = batch['input_ids'].to(device)
-            attention_mask = batch['attention_mask'].to(device)
-            labels = batch['label'].to(device)
-            
-            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
-            logits = outputs.logits  # Shape: (batch_size, 2)
-            probs = torch.softmax(logits, dim=-1)  # Convert to probabilities
-            food_probs = probs[:, 1]  # Probability of class 1 (food)
-            preds = (food_probs > 0.5).long()  # Now threshold makes sense
+    min_count = df[label_col].value_counts().min()
 
-            predictions.extend(preds.cpu().tolist())
-            actual_labels.extend(labels.cpu().tolist())
-    
-    return accuracy_score(actual_labels, predictions), classification_report(actual_labels, predictions)
+    print(f"Balancing classes to {min_count} samples each.")
 
+    balanced_df = (
+        df.groupby(label_col, group_keys=False)
+          .sample(n=min_count, random_state=42)
+          .reset_index(drop=True)
+    )
 
-
-
+    return balanced_df
 
 # -------------------------
 # Main
@@ -161,8 +143,8 @@ def main(df):
     config = load_config("configs/bert_config.yaml")
 
     # Load data
-    train_df = df
-    target = config["data"]["target_column"]
+
+    df = balance_classes(df, label_col=config["data"]["target_column"])
 
     texts = df['chunk_text']
     labels = df['label']
@@ -196,10 +178,9 @@ def main(df):
     val_dataset = TextClassificationDataset(val_texts, val_labels, tokenizer, config['model']['params']['max_length'])
     train_dataloader = DataLoader(train_dataset, batch_size=config['model']['params']['batch_size'], shuffle=True)
     val_dataloader = DataLoader(val_dataset, batch_size=config['model']['params']['batch_size'])
+
     
-        
-    device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
-    model.to(device)
+    model.to("cpu")
 
     optimizer = torch.optim.AdamW(
         model.parameters(),
@@ -228,7 +209,6 @@ def main(df):
     class_weights = torch.tensor(
         weights,
         dtype=torch.float32,
-        device=device
     )
 
     loss_fn = nn.CrossEntropyLoss(weight=class_weights)
@@ -241,15 +221,13 @@ def main(df):
             train_dataloader,
             optimizer,
             scheduler,
-            device,
             loss_fn
         )
 
         # ---- Validation ----
         val_accuracy, report = evaluate(
             model,
-            val_dataloader,   # validation dataloader required
-            device,
+            val_dataloader  # validation dataloader required
         )
 
         print(
@@ -278,7 +256,7 @@ def main(df):
     """
     # Evaluate
 
-    accuracy, report = evaluate(model, val_dataloader, device="cpu")
+    accuracy, report = evaluate(model, val_dataloader)
     print(f"Validation Accuracy: {accuracy:.4f}")
     print(report)
 
@@ -315,6 +293,9 @@ def main(df):
             level=logging.INFO,
             format="%(asctime)s - %(levelname)s - %(message)s"
         )
+    
+    visualize_report(run_dir)
+    confusion_matrix_heatmap(run_dir)
 
 
 if __name__ == "__main__":

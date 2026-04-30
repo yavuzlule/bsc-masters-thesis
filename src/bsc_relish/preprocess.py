@@ -209,8 +209,8 @@ def txt_folder_to_df_with_labels(
     return pd.DataFrame(records)
 
 def save_dataset(df: pd.DataFrame, config: dict):
-
-    base_dir = "data/interim"
+    
+    base_dir = config["data"]["interim_path"]
     run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
     save_dir = os.path.join(base_dir, run_id)
@@ -279,7 +279,7 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
     df = txt_folder_to_df_with_labels(
         root_dir="data/raw",
         label_map=config["data"]["label_map"],
-        max_files=config["data"]["limit_files"]["max_files"] if config["data"]["limit_files"]["enabled"] else 1000
+        max_files=config["data"]["limit_files"]["max_files"] if config["data"]["limit_files"]["enabled"] else 10000
     )
 
     # ---- 2. Chunking ---- #
@@ -318,12 +318,9 @@ def main(config_path: str):
     config = load_config(config_path)
 
     # ---- Step 1: Preprocess ---- #
-    if config["pipeline"]["run_preprocessing"]:
-        print("Running preprocessing...")
-        df = run_preprocessing(config)
-        save_dataset(df, config)
-    else:
-        print("Skipping preprocessing...")
+    print("Running preprocessing...")
+    df = run_preprocessing(config)
+    save_dataset(df, config)
 # -------------------------
 # CLI
 # -------------------------

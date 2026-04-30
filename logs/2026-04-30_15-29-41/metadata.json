@@ -1,0 +1,21 @@
+{
+  "n_rows": 22315,
+  "n_cols": 6,
+  "columns": [
+    "label",
+    "file_name",
+    "file_path",
+    "parent_folder",
+    "chunk_text",
+    "chunk_index"
+  ],
+  "target": "label",
+  "example_row": {
+    "label": 0,
+    "file_name": "halbjahrsverzei02abtegoog_djvu.txt",
+    "file_path": "data/raw/non_cooking/filtered_non_cooking/halbjahrsverzei02abtegoog_djvu.txt",
+    "parent_folder": "filtered_non_cooking",
+    "chunk_text": "Google This is a digital copy of a book that was prcscrvod for gcncrations on library shclvcs bcforc it was carcfully scannod by Google as pari of a projcct to make the world's books discoverablc online. It has survived long enough for the Copyright to expire and the book to enter the public domain. A public domain book is one that was never subject to Copyright or whose legal Copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books are our gateways to the past, representing a wealth of history, cultuie and knowledge that's often difficult to discover. Marks, notations and other maiginalia present in the original volume will appear in this flle - a reminder of this book's long journcy from the publisher to a library and finally to you. Usage guidelines Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken Steps to prcvcnt abuse by commcrcial parties, including placing technical restrictions on automatcd qucrying. We also ask that you: + Make non-commercial use ofthefiles We designed Google Book Search for use by individuals, and we request that you use these files for personal, non-commercial purposes. + Refrain from automated querying Do not send aulomated queries of any sort to Google's System: If you are conducting research on",
+    "chunk_index": 0
+  }
+}

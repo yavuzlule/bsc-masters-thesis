@@ -16,14 +16,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.impute import SimpleImputer
-from sklearn.metrics import (
-    accuracy_score,
-    classification_report,
-    precision_score,
-    recall_score,
-    f1_score,
-    roc_auc_score,
-)
+from bsc_relish.evaluate import evaluate
 import logging
 import yaml
 from torch import device, nn
@@ -117,32 +110,6 @@ def load_model(model_path: str, params: dict):
     module = importlib.import_module(module_name)
     model_class = getattr(module, class_name)
     return model_class(**params)
-
-
-# -------------------------
-# Evaluation
-# -------------------------
-def evaluate(model, data_loader, device):
-    model.eval()
-    predictions = []
-    actual_labels = []
-    
-    with torch.no_grad():
-        for batch in data_loader:
-            input_ids = batch['input_ids'].to(device)
-            attention_mask = batch['attention_mask'].to(device)
-            labels = batch['label'].to(device)
-            
-            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
-            logits = outputs.logits  # Shape: (batch_size, 2)
-            probs = torch.softmax(logits, dim=-1)  # Convert to probabilities
-            food_probs = probs[:, 1]  # Probability of class 1 (food)
-            preds = (food_probs > 0.5).long()  # Now threshold makes sense
-
-            predictions.extend(preds.cpu().tolist())
-            actual_labels.extend(labels.cpu().tolist())
-    
-    return accuracy_score(actual_labels, predictions), classification_report(actual_labels, predictions)
 
 
 

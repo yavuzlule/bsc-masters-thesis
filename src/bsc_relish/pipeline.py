@@ -1,21 +1,14 @@
 from datetime import datetime
-import json
-import os
 import argparse
 from pathlib import Path
-import yaml
 import pandas as pd
-
-# Your modules
 from bsc_relish.preprocess import (
     run_preprocessing,
     save_dataset,
     load_config
 )
 from bsc_relish.embed import EmbeddingPipeline, add_embeddings_to_df, expand_embedding_column
-
-# Import train logic
-from bsc_relish.train import main as train_main
+from bsc_relish.train_logreg import main as train_main
 
 
 # -------------------------

@@ -1,17 +1,14 @@
 data:
   raw_text_dir: "data/raw"
   label_map: {
-            "archive-americana-cookbook-download-desc": 1,
-            "archive-americana-download-desc": 1,
-            "archive-americana-recipe-download-desc": 1,
-            "archive-americana-fiction-literature-technology-download-desc": 0
+            "recipes": 1,
+            "filtered_non_cooking": 0
         }
-  interim_path: "data/interim"
+  interim_path: "data/interim/chunked_256"
   target_column: label
   limit_files:
-    enabled: true
+    enabled: false
     max_files: 20
-
 
 preprocessing:
   chunking:
@@ -20,7 +17,7 @@ preprocessing:
     #overlap: 128
 
   embeddings:
-    enabled: true
+    enabled: false
     model_name: "all-MiniLM-L6-v2"
 
 pipeline:

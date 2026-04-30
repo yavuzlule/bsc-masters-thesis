@@ -16,20 +16,12 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.impute import SimpleImputer
-from sklearn.metrics import (
-    accuracy_score,
-    classification_report,
-    precision_score,
-    recall_score,
-    f1_score,
-    roc_auc_score,
-)
 import logging
 import yaml
 from torch import device, nn
 from transformers import get_linear_schedule_with_warmup
 
-
+from bsc_relish.evaluate import evaluate
 from transformers import BertForSequenceClassification
 import torch.nn as nn
 
@@ -118,35 +110,25 @@ def load_model(model_path: str, params: dict):
     model_class = getattr(module, class_name)
     return model_class(**params)
 
-
-# -------------------------
-# Evaluation
-# -------------------------
-def evaluate(model, data_loader, device):
-    model.eval()
-    predictions = []
-    actual_labels = []
+def balance_classes(df, label_col):
+    """
     
-    with torch.no_grad():
-        for batch in data_loader:
-            input_ids = batch['input_ids'].to(device)
-            attention_mask = batch['attention_mask'].to(device)
-            labels = batch['label'].to(device)
-            
-            outputs = model(input_ids=input_ids, attention_mask=attention_mask, labels=labels)
-            logits = outputs.logits  # Shape: (batch_size, 2)
-            probs = torch.softmax(logits, dim=-1)  # Convert to probabilities
-            food_probs = probs[:, 1]  # Probability of class 1 (food)
-            preds = (food_probs > 0.5).long()  # Now threshold makes sense
+    Balances the classes in the DataFrame by undersampling the majority class and oversampling the minority class.
+    This ensures that the model sees an equal number of samples from each class during training, which
+    can help improve performance on imbalanced datasets.
+    Args:
+        df (pd.DataFrame): Input DataFrame containing the data to be balanced.
+        label_col (str): Name of the column containing the class labels.
+    Returns:
+        pd.DataFrame: A new DataFrame with balanced classes.
+    """
 
-            predictions.extend(preds.cpu().tolist())
-            actual_labels.extend(labels.cpu().tolist())
-    
-    return accuracy_score(actual_labels, predictions), classification_report(actual_labels, predictions)
+    class_counts = df[label_col].value_counts()
+    min_count = class_counts.min()
 
+    balanced_df = df.groupby(label_col).apply(lambda x: x.sample(n=min_count, replace=True, random_state=42)).reset_index(drop=True)
 
-
-
+    return balanced_df
 
 # -------------------------
 # Main
@@ -161,12 +143,12 @@ def main(df):
     config = load_config("configs/distilbert_config.yaml")
 
     # Load data
-    train_df = df
+    df = balance_classes(df, target)
     target = config["data"]["target_column"]
 
     texts = df['chunk_text']
     labels = df['label']
-
+    
     train_texts, val_texts, train_labels, val_labels = train_test_split(
         texts,
         labels,

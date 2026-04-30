@@ -29,13 +29,12 @@ notebooks/
 # Logs
 # =====================
 *.log
-logs/
 
 # =====================
 # ML / Data (IMPORTANT)
 # =====================
 data/
-*.parquet
+
 
 
 # Model checkpoints
