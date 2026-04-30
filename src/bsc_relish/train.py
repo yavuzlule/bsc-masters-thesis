@@ -117,7 +117,7 @@ def main(df):
     target = config["data"]["target_column"]
 
     #X = train_df.drop(columns=[target])
-    X = np.vstack(train_df["embedding"].values)
+    X = train_df["embedding"].tolist() 
     y = train_df[target]
 
     # Split

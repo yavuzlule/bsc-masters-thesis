@@ -11,7 +11,7 @@ model:
 
 pipeline:
   run_preprocessing: true
-  run_training: false
+  run_training: true
 
 data:
   raw_text_dir: "data/raw"
@@ -19,11 +19,11 @@ data:
   target_column: label
   label_map: {
             "new": 0,
-            "chunks_output": 1
+            "recipes": 1
         }
   limit_files:
     enabled: false
-    max_files: 15
+    max_files: 2
 
 
 preprocessing:

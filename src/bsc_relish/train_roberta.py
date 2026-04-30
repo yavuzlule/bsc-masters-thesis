@@ -158,7 +158,7 @@ from datetime import datetime
 
 
 def main(df):
-    config = load_config("configs/bert_config.yaml")
+    config = load_config("configs/roberta_config.yaml")
 
     # Load data
     train_df = df

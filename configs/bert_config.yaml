@@ -4,16 +4,18 @@ model:
 
   params:
     num_classes : 2
-    max_length : 256
+    max_length : 128
     batch_size : 16
     num_epochs : 1
-    learning_rate : 2e-5
+    learning_rate : 1e-5
+    early_stopping : 2
+
 
   optimizer: torch.optim.AdamW
 
   
 pipeline:
-  run_preprocessing: true
+  run_preprocessing: false
   run_training: true
 
 data:
@@ -24,7 +26,7 @@ data:
 preprocessing:
   chunking:
     enabled: false
-    max_words: 256
+    max_words: 128
     overlap: 1
 
   embeddings:
@@ -52,4 +54,4 @@ output:
   base_dir: results
   save_model: true
 
-df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-24_16-12-53/dataset.parquet"
+df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-29_02-45-44/dataset.parquet"

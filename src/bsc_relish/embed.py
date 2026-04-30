@@ -56,7 +56,7 @@ def add_embeddings_to_df(
     embeddings = np.vstack(embeddings)
 
     df_out = df.copy()
-    df_out[model_column] = "all-MiniLM-L6-v2"
+    df_out[model_column] = "all-MiniLM-L6-v2" 
 
     # WARNING: still memory-heavy for large N
     df_out[embedding_column] = list(embeddings)

@@ -228,13 +228,13 @@ def save_dataset(df: pd.DataFrame, config: dict):
     # avoid per-column deep scans unless debugging
     for col in df.columns:
         print(f"{col}: {df[col].memory_usage(deep=False) / 1024**2:.1f} MB")
-
+    """
     # --- optional dtype optimization (VERY helpful for parquet) ---
     for col in df.select_dtypes(include=["object"]).columns:
         # try converting low-cardinality strings to category
         if df[col].nunique(dropna=False) / len(df) < 0.5:
             df[col] = df[col].astype("category")
-
+    """
     # --- WRITE PARQUET ---
     df.to_parquet(
         dataset_path,
@@ -294,7 +294,6 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
         text_column = "chunk_text"
     else:
         text_column = "text"
-    """
 
     # ---- 3. Embeddings ---- #
     if config["preprocessing"]["embeddings"]["enabled"]:
@@ -309,7 +308,6 @@ def run_preprocessing(config: dict) -> pd.DataFrame:
             model_column="embedding_model",
         )
         #df = expand_embedding_column(df)
-    """
 
     return df
 

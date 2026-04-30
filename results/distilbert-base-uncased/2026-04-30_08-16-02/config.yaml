@@ -1,0 +1,43 @@
+data:
+  interim_path: data/interim
+  raw_text_dir: data/raw
+  target_column: label
+df: /Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-29_00-33-21/dataset.parquet
+evaluation:
+  metrics:
+  - accuracy
+  - precision
+  - recall
+  - f1
+  - roc_auc
+model:
+  name: distilbert-base-uncased
+  optimizer: torch.optim.AdamW
+  params:
+    batch_size: 16
+    learning_rate: 1e-5
+    max_length: 256
+    num_classes: 2
+    num_epochs: 1
+  type: transformers.DistilBertForSequenceClassification
+output:
+  base_dir: results
+  save_model: true
+pipeline:
+  run_preprocessing: true
+  run_training: true
+preprocessing:
+  chunking:
+    enabled: true
+    max_words: 256
+    overlap: 1
+  embeddings:
+    enabled: false
+    model_name: all-MiniLM-L6-v2
+training:
+  cross_validation:
+    enabled: false
+    folds: 5
+    scoring: roc_auc
+  stratify: true
+  test_size: 0.2

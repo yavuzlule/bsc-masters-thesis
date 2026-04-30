@@ -197,12 +197,20 @@ def main(df):
     train_dataloader = DataLoader(train_dataset, batch_size=config['model']['params']['batch_size'], shuffle=True)
     val_dataloader = DataLoader(val_dataset, batch_size=config['model']['params']['batch_size'])
     
-    
+        
     device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
     model.to(device)
-    optimizer = torch.optim.AdamW(model.parameters(), lr=float(config['model']['params']['learning_rate']))
+
+    optimizer = torch.optim.AdamW(
+        model.parameters(),
+        lr=float(config['model']['params']['learning_rate'])
+    )
 
     epochs = config['model']['params']['num_epochs']
+    patience = 2                      # early stopping patience
+    best_val_loss = float("inf")
+    patience_counter = 0
+
     total_steps = len(train_dataloader) * epochs
 
     scheduler = get_linear_schedule_with_warmup(
@@ -210,7 +218,6 @@ def main(df):
         num_warmup_steps=int(total_steps * 0.1),
         num_training_steps=total_steps
     )
-
 
     weights = compute_class_weight(
         class_weight="balanced",
@@ -225,8 +232,11 @@ def main(df):
     )
 
     loss_fn = nn.CrossEntropyLoss(weight=class_weights)
+
     for epoch in range(epochs):
-        loss = train(
+
+        # ---- Train ----
+        train_loss = train(
             model,
             train_dataloader,
             optimizer,
@@ -234,10 +244,38 @@ def main(df):
             device,
             loss_fn
         )
-        print(f"Epoch {epoch+1}/{epochs} - Loss: {loss:.4f}")
 
+        # ---- Validation ----
+        val_accuracy, report = evaluate(
+            model,
+            val_dataloader,   # validation dataloader required
+            device,
+        )
 
+        print(
+            f"Epoch {epoch+1}/{epochs} | "
+            f"Train Loss: {train_loss:.4f} | "
+            f"Val Accuracy: {val_accuracy:.4f}"
+        )
+        """
+        # ---- Early Stopping Logic ----
+        if val_loss < best_val_loss:
+            best_val_loss = val_loss
+            patience_counter = 0
 
+            # save best model
+            torch.save(model.state_dict(), "best_model.pt")
+
+        else:
+            patience_counter += 1
+            print(f"No improvement ({patience_counter}/{patience})")
+
+            if patience_counter >= patience:
+                print("Early stopping triggered.")
+                break
+    # Load best model after training
+    model.load_state_dict(torch.load("best_model.pt"))
+    """
     # Evaluate
 
     accuracy, report = evaluate(model, val_dataloader, device="cpu")
@@ -267,7 +305,7 @@ def main(df):
 
     # Predictions
     with open(metrics_path, "w") as f:
-        json.dump(report, f, indent=0)
+        json.dump(report, f, indent=2)
 
     with open(config_path, "w") as f:
         yaml.dump(config, f)

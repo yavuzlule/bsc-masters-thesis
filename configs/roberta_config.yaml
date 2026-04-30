@@ -4,13 +4,18 @@ model:
 
   params:
     num_classes: 2
-    max_length: 128
-    batch_size: 64
+    max_length: 256
+    batch_size: 16
     num_epochs: 1
-    learning_rate: 2e-5
+    learning_rate: 1e-5
 
   optimizer: torch.optim.AdamW
 
+
+data:
+  raw_text_dir: "data/raw"
+  interim_path: "data/interim"
+  target_column: label
 pipeline:
   run_preprocessing: true
   run_training: true
@@ -31,4 +36,4 @@ output:
   base_dir: results
   save_model: true
 
-df: "data/interim/2026-04-20_13-04-01/dataset.parquet"
+df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-29_02-45-44/dataset.parquet"

@@ -4,10 +4,10 @@ model:
 
   params:
     num_classes: 2
-    max_length: 128
-    batch_size: 64
+    max_length: 256
+    batch_size: 16
     num_epochs: 1
-    learning_rate: 3e-5
+    learning_rate: 1e-5
 
   optimizer: torch.optim.AdamW
 
@@ -51,4 +51,4 @@ output:
   base_dir: results
   save_model: true
 
-df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-24_16-12-53/dataset.parquet"
+df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-29_00-33-21/dataset.parquet"

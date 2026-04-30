@@ -35,4 +35,4 @@ data:
   interim_path: "data/interim"
   target_column: label
 
-df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-20_12-42-25/dataset.parquet"
+df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-29_02-45-44/dataset.parquet"
