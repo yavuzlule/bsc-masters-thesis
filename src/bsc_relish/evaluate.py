@@ -1,21 +1,22 @@
-from sklearn.metrics import classification_report, roc_auc_score
 import torch
-from sklearn.metrics import classification_report, accuracy_score, roc_auc_score
+from sklearn.metrics import accuracy_score, classification_report, roc_auc_score, confusion_matrix
 
-
-def evaluate(model, data_loader):
+def evaluate(model, data_loader, device="cpu"):
     model.eval()
-    model.to("cpu")
+    model.to(device)
 
     predictions = []
     actual_labels = []
     positive_probs = []
 
+    total_loss = 0.0
+    loss_fn = torch.nn.CrossEntropyLoss()
+
     with torch.no_grad():
         for batch in data_loader:
-            input_ids = batch["input_ids"].to("cpu")
-            attention_mask = batch["attention_mask"].to("cpu")
-            labels = batch["label"].to("cpu")
+            input_ids = batch["input_ids"].to(device)
+            attention_mask = batch["attention_mask"].to(device)
+            labels = batch["label"].to(device)
 
             outputs = model(
                 input_ids=input_ids,
@@ -23,15 +24,23 @@ def evaluate(model, data_loader):
             )
 
             logits = outputs.logits
-            probs = torch.softmax(logits, dim=1)
 
+            loss = loss_fn(logits, labels)
+            total_loss += loss.item()
+
+            probs = torch.softmax(logits, dim=1)
             preds = torch.argmax(logits, dim=1)
 
             predictions.extend(preds.cpu().numpy())
             actual_labels.extend(labels.cpu().numpy())
             positive_probs.extend(probs[:, 1].cpu().numpy())
 
-    accuracy = accuracy_score(actual_labels, predictions)
+    # Final metrics
+    validation_loss = total_loss / len(data_loader)
+    validation_accuracy = accuracy_score(actual_labels, predictions)
+    auc = roc_auc_score(actual_labels, positive_probs)
+
+    cm = confusion_matrix(actual_labels, predictions)
 
     report = classification_report(
         actual_labels,
@@ -39,12 +48,14 @@ def evaluate(model, data_loader):
         output_dict=True
     )
 
-    auc = roc_auc_score(actual_labels, positive_probs)
-
-    report["accuracy"] = accuracy
+    # Add summary fields
+    report["accuracy"] = validation_accuracy
     report["roc_auc"] = float(auc)
+    report["loss"] = validation_loss
 
-    return accuracy, report
+    return report, cm
+
+
 
 def evaluate_logreg(model, X_test, y_test):
     y_pred = model.predict(X_test)

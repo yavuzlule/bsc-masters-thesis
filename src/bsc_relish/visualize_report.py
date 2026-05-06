@@ -6,121 +6,173 @@ import json
 import argparse
 from pathlib import Path
 
+import os
+import json
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+def load_metrics(folder_path):
+    metrics_path = os.path.join(folder_path, "metrics.json")
+    with open(metrics_path, "r") as f:
+        return json.load(f)
+
+
+# -------------------------------
+# Classification Report Heatmap
+# -------------------------------
 def visualize_report(folder_path):
-    """
-    Visualize the classification report as a heatmap.
-
-    Args:
-        report (str): The classification report string from sklearn.
-
-    Returns:
-        None: Displays a heatmap of the classification report.
-
-    Example report format:
-    {
-    "0": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 807.0
-    },
-    "1": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 24.0
-    },
-    "accuracy": 1.0,
-    "macro avg": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 831.0
-    },
-    "weighted avg": {
-        "precision": 1.0,
-        "recall": 1.0,
-        "f1-score": 1.0,
-        "support": 831.0
-    },
-    "roc_auc": 1.0
-    }
-    """
-    # Parse the report into a DataFrame
-
     print("Loading classification report...")
 
-    report_path = os.path.join(folder_path, "metrics.json")
-    with open(report_path, 'r') as f:
-        report = f.read()
-    lines = json.loads(report)
-    data = []
-    for key, metrics in lines.items():
-        if key not in ["accuracy", "macro avg", "weighted avg", "roc_auc"]:
-            data.append({
-                'class': key,
-                'precision': metrics['precision'],
-                'recall': metrics['recall'],
-                'f1-score': metrics['f1-score'],
-                'support': metrics['support']
+    report = load_metrics(folder_path)
+
+    # Extract only per-class metrics
+    rows = []
+    for key, val in report.items():
+        if isinstance(val, dict) and "precision" in val:
+            rows.append({
+                "class": key,
+                "precision": val["precision"],
+                "recall": val["recall"],
+                "f1-score": val["f1-score"],
+                "support": val["support"]
             })
 
-    df_report = pd.DataFrame(data)
+    df = pd.DataFrame(rows).set_index("class")
 
-    # Set class as index for better visualization
-    df_report.set_index('class', inplace=True)
-
-    # Create a heatmap of precision, recall, and f1-score
     plt.figure(figsize=(10, 6))
-    sns.heatmap(df_report[['precision', 'recall', 'f1-score']], annot=True, cmap='Blues', fmt=".4f", vmin=0, vmax=1)
-    title = "/".join(report_path.split("/")[-3:-1])  # Extract filename from path
-    title = f"Classification Report ({title})"
-    title = title.replace("_", " ").replace(".json", "")
-    plt.title(title)
-    plt.savefig(os.path.join(folder_path, "classification_report.png"))
-    print("Classification report heatmap saved to:", os.path.join(folder_path, "classification_report.png"))
+    sns.heatmap(
+        df[["precision", "recall", "f1-score"]],
+        annot=True,
+        fmt=".4f",
+        cmap="Blues",
+        vmin=0,
+        vmax=1
+    )
 
+    title = f"Classification Report | Acc={report['validation_accuracy']:.4f} | AUC={report['roc_auc']:.4f}"
+    plt.title(title)
+
+    out_path = os.path.join(folder_path, "classification_report.png")
+    plt.savefig(out_path)
+    plt.close()
+
+    print("Saved:", out_path)
+
+
+# -------------------------------
+# ❗ Proper Confusion Matrix Handling
+# -------------------------------
 def confusion_matrix_heatmap(folder_path):
     """
-    Visualize the confusion matrix as a heatmap.
-
-    Args:
-        cm (array-like): Confusion matrix values.
-        classes (list): List of class names corresponding to the confusion matrix.
-        folder_path (str): Path to save the heatmap image.
-    Returns:
-        None: Displays a heatmap of the confusion matrix.
+    This version EXPECTS a real confusion matrix saved separately.
+    If you don't have one, DO NOT fabricate it from support.
     """
 
-    print("Creating confusion matrix heatmap...")
+    cm_path = os.path.join(folder_path, "confusion_matrix.npy")
 
-    report_path = os.path.join(folder_path, "metrics.json")
-    with open(report_path, 'r') as f:
-        report = f.read()
-    lines = json.loads(report)
-    cm = [[lines['0']['support'], 0], [0, lines['1']['support']]]
-    classes = ['Non-recipe', 'Recipe']
+    if not os.path.exists(cm_path):
+        print("⚠️ No confusion_matrix.npy found. Skipping confusion matrix.")
+        return
+
+    cm = np.load(cm_path)
 
     plt.figure(figsize=(8, 6))
-    sns.heatmap(cm, annot=True, cmap='Reds', xticklabels=classes, yticklabels=classes)
+    sns.heatmap(cm, annot=True, fmt="d", cmap="Reds")
 
-    
-    plt.xlabel('Predicted')
-    plt.ylabel('Actual')
-    title = "/".join(report_path.split("/")[-3:-1])  # Extract filename from path
-    title = f"Confusion Matrix ({title})"
-    title = title.replace("_", " ").replace(".json", "")
-    plt.title(title)
-    plt.savefig(os.path.join(folder_path, "confusion_matrix.png"))
+    plt.xlabel("Predicted")
+    plt.ylabel("Actual")
+    plt.title("Confusion Matrix")
 
-    print("Confusion matrix heatmap saved to:", os.path.join(folder_path, "confusion_matrix.png"))
+    out_path = os.path.join(folder_path, "confusion_matrix.png")
+    plt.savefig(out_path)
+    plt.close()
+
+    print("Saved:", out_path)
+
+
+# -------------------------------
+# Training Curves Visualization
+# -------------------------------
+def plot_training_curves(folder_path):
+    print("Loading training curves...")
+
+    npz_path = os.path.join(folder_path, "epochs.npz")
+
+    if not os.path.exists(npz_path):
+        print("⚠️ epochs.npz not found. Skipping curves.")
+        return
+
+    data = np.load(npz_path)
+
+    train_loss = data["train_loss"]
+    val_loss = data["val_loss"]
+    val_acc = data["accuracy"]
+    val_auc = data["roc_auc"]
+    val_f1 = data["f1_score"]
+
+    epochs = np.arange(1, len(train_loss) + 1)
+
+    # ---- Loss curve ----
+    plt.figure()
+    plt.plot(epochs, train_loss, label="Train Loss")
+    plt.plot(epochs, val_loss, label="Validation Loss")
+    plt.xlabel("Epoch")
+    plt.ylabel("Loss")
+    plt.title("Training vs Validation Loss")
+    plt.legend()
+    plt.savefig(os.path.join(folder_path, "loss_curve.png"))
+    plt.close()
+
+    # ---- Accuracy curve ----
+    plt.figure()
+    plt.plot(epochs, val_acc, label="Validation Accuracy")
+    plt.xlabel("Epoch")
+    plt.ylabel("Accuracy")
+    plt.title("Validation Accuracy")
+    plt.legend()
+    plt.savefig(os.path.join(folder_path, "accuracy_curve.png"))
+    plt.close()
+
+    # ---- ROC AUC ----
+    plt.figure()
+    plt.plot(epochs, val_auc, label="Validation ROC AUC")
+    plt.xlabel("Epoch")
+    plt.ylabel("ROC AUC")
+    plt.title("Validation ROC AUC")
+    plt.legend()
+    plt.savefig(os.path.join(folder_path, "roc_auc_curve.png"))
+    plt.close()
+
+    # ---- F1 Score ----
+    plt.figure()
+    plt.plot(epochs, val_f1, label="Validation F1 Score")
+    plt.xlabel("Epoch")
+    plt.ylabel("F1 Score")
+    plt.title("Validation F1 Score")
+    plt.legend()
+    plt.savefig(os.path.join(folder_path, "f1_curve.png"))
+    plt.close()
+
+    print("Training curves saved.")
+
+
+# -------------------------------
+# Main
+# -------------------------------
+def main(folder_path):
+    visualize_report(folder_path)
+    confusion_matrix_heatmap(folder_path)
+    plot_training_curves(folder_path)
 
 
 def main(folder_path):
     # Example usage
-
     visualize_report(folder_path)
     confusion_matrix_heatmap(folder_path)
+    plot_training_curves(folder_path)
 
 
 if __name__ == "__main__":

@@ -1,5 +1,4 @@
 import os
-from xml.parsers.expat import model
 import numpy as np
 from sklearn.utils import compute_class_weight
 import torch
@@ -7,27 +6,20 @@ from tqdm import tqdm
 from transformers import BertTokenizer
 import yaml
 import json
-import joblib
 import importlib
 import pandas as pd
 from torch.utils.data import DataLoader, Dataset
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.impute import SimpleImputer
-from sklearn.metrics import classification_report, accuracy_score, roc_auc_score
-import logging
+from sklearn.model_selection import train_test_split
 import yaml
 from torch import nn
 from transformers import get_linear_schedule_with_warmup
-
+import mlflow
 
 from transformers import BertForSequenceClassification
 import torch.nn as nn
 
 from bsc_relish.evaluate import evaluate
-from bsc_relish.visualize_report import confusion_matrix_heatmap, visualize_report
+from bsc_relish.visualize_report import confusion_matrix_heatmap
 
 # Standard approach: let BERT handle it
 
@@ -65,17 +57,21 @@ class TextClassificationDataset(Dataset):
             'attention_mask': encoding['attention_mask'].flatten(),
             'label': torch.tensor(label, dtype=torch.long)
         }
-    
-def train(model, data_loader, optimizer, scheduler, loss_fn):
+import torch
+from tqdm import tqdm
+
+def train(device, model, data_loader, optimizer, scheduler, loss_fn):
+    model = model.to(device)
     model.train()
-    total_loss = 0
+
+    total_loss = 0.0
 
     progress_bar = tqdm(data_loader, desc="Training")
 
     for batch in progress_bar:
-        input_ids = batch["input_ids"].to("cpu")
-        attention_mask = batch["attention_mask"].to("cpu")
-        labels = batch["label"].to("cpu")
+        input_ids = batch["input_ids"].to(device)
+        attention_mask = batch["attention_mask"].to(device)
+        labels = batch["label"].to(device)
 
         optimizer.zero_grad()
 
@@ -84,11 +80,14 @@ def train(model, data_loader, optimizer, scheduler, loss_fn):
             attention_mask=attention_mask
         )
 
-        loss = loss_fn(outputs.logits, labels)
+        logits = outputs.logits
+
+        # ensure dtype safety (important for many loss functions like CrossEntropyLoss)
+        loss = loss_fn(logits, labels)
 
         loss.backward()
 
-        torch.nn.utils.clip_grad_norm_(model.parameters(), 1.0)
+        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
         optimizer.step()
         scheduler.step()
@@ -118,7 +117,7 @@ def balance_classes(df, label_col):
     if label_col not in df.columns:
         raise ValueError(f"Missing '{label_col}'. Columns: {df.columns.tolist()}")
 
-    min_count = df[label_col].value_counts().min()
+    min_count = 5 #df[label_col].value_counts().min()
 
     print(f"Balancing classes to {min_count} samples each.")
 
@@ -129,6 +128,39 @@ def balance_classes(df, label_col):
     )
 
     return balanced_df
+
+def save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr):
+
+
+    epochs_path = os.path.join(run_dir, "training_curves.npz")
+    np.savez(epochs_path, train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)
+
+    metrics_path = os.path.join(run_dir, "metrics.json")
+    logs_path = os.path.join(run_dir, "logs.txt")
+    config_path = os.path.join(run_dir, "config.yaml")
+
+
+    if config["output"]["save_model"]:
+        model.save_pretrained(run_dir)
+        tokenizer.save_pretrained(run_dir)
+
+    # Predictions
+    with open(metrics_path, "w") as f:
+        json.dump(report, f, indent=2)
+
+    with open(config_path, "w") as f:
+        yaml.dump(config, f)
+
+    with open(logs_path, "w") as f:
+        f.write(f"Validation Accuracy: {report['accuracy']:.4f}\n")
+        f.write(f"Validation Loss: {report['loss']:.4f}\n")
+        f.write(f"ROC AUC: {report['roc_auc']:.4f}\n")
+        f.write(json.dumps(report, indent=2))
+
+
+def save_epoch_outputs(run_dir, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr):
+    epochs_path = os.path.join(run_dir, "training_curves.npz")
+    np.savez(epochs_path, train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)
 
 # -------------------------
 # Main
@@ -149,12 +181,17 @@ def main(df):
     texts = df['chunk_text']
     labels = df['label']
 
+
+
+
+
     train_texts, val_texts, train_labels, val_labels = train_test_split(
         texts,
         labels,
         test_size=0.2,
         random_state=42
     )
+
 
     train_texts = train_texts.reset_index(drop=True)
     val_texts = val_texts.reset_index(drop=True)
@@ -164,13 +201,14 @@ def main(df):
 
     # Build pipeline
     #preprocessor = build_preprocessor(config)
-    #device = torch.device("mps") if torch.backends.mps.is_available() else torch.device("cpu")
+    device = torch.device("mps") if torch.backends.mps.is_available() else torch.device("cpu")
     model = BertForSequenceClassification.from_pretrained(
     'bert-base-uncased',
     num_labels=2  # binary classification
     )
     
-    print("\n\n\nMODEL LOADED\n\n")
+    print(f"Using device: {device}")
+    print(f"Model: {config['model']['name']} with {config['model']['params']['num_epochs']} epochs, batch size {config['model']['params']['batch_size']}, learning rate {config['model']['params']['learning_rate']} \n")
 
     # Train
     tokenizer = BertTokenizer.from_pretrained(config["model"]["name"])
@@ -180,7 +218,7 @@ def main(df):
     val_dataloader = DataLoader(val_dataset, batch_size=config['model']['params']['batch_size'])
 
     
-    model.to("cpu")
+    model.to(device)
 
     optimizer = torch.optim.AdamW(
         model.parameters(),
@@ -211,12 +249,36 @@ def main(df):
         dtype=torch.float32,
     )
 
-    loss_fn = nn.CrossEntropyLoss(weight=class_weights)
+    loss_fn = nn.CrossEntropyLoss(weight=class_weights).to(device)
+
+
+    val_loss_arr = np.zeros(epochs)
+    train_loss_arr = np.zeros(epochs)
+    val_accuracy_arr = np.zeros(epochs)
+    val_roc_auc_arr = np.zeros(epochs)
+    val_f1_arr = np.zeros(epochs)
+
+
+    best_f1 = -1
+    start = datetime.now()
+    run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
+    mlflow.set_experiment("BERT Text Classification")
+    mlflow.start_run(run_name=f"bert-base-uncased-{run_id}")
+    mlflow.log_param("learning_rate", config["model"]["params"]["learning_rate"])
+    mlflow.log_param("batch_size", config["model"]["params"]["batch_size"])
+    mlflow.log_param("num_epochs", config["model"]["params"]["num_epochs"])
+    mlflow.log_param("model_name", config["model"]["name"])
+    mlflow.log_param("max_length", config["model"]["params"]["max_length"])
+    mlflow.log_param("training_data_size", len(train_dataset))
+    mlflow.log_param("validation_data_size", len(val_dataset))
 
     for epoch in range(epochs):
 
+        
         # ---- Train ----
         train_loss = train(
+            device,
             model,
             train_dataloader,
             optimizer,
@@ -225,43 +287,50 @@ def main(df):
         )
 
         # ---- Validation ----
-        val_accuracy, report = evaluate(
+        report, cm = evaluate(
             model,
             val_dataloader  # validation dataloader required
         )
 
+        f1 = report["macro avg"]["f1-score"]
+        mlflow.log_metric("val_f1", f1, step=epoch)
+        mlflow.log_metric("val_accuracy", report["accuracy"], step=epoch)
+        mlflow.log_metric("val_loss", report["loss"], step=epoch)
+        mlflow.log_metric("val_roc_auc", report["roc_auc"], step=epoch)
+        mlflow.log_metric("train_loss", train_loss, step=epoch)
+        if f1 > best_f1:
+            best_f1 = f1
+            mlflow.log_metric("best_f1", best_f1)
+
+        val_accuracy_arr[epoch] = report["accuracy"]
+        val_loss_arr[epoch] = report["loss"]
+        train_loss_arr[epoch] = train_loss
+        val_roc_auc_arr[epoch] = report["roc_auc"]
+        val_f1_arr[epoch] = report["macro avg"]["f1-score"]
+
+
         print(
             f"Epoch {epoch+1}/{epochs} | "
             f"Train Loss: {train_loss:.4f} | "
-            f"Val Accuracy: {val_accuracy:.4f}"
+            f"Val Accuracy: {report['accuracy']:.4f}"
         )
-        """
-        # ---- Early Stopping Logic ----
-        if val_loss < best_val_loss:
-            best_val_loss = val_loss
-            patience_counter = 0
 
-            # save best model
-            torch.save(model.state_dict(), "best_model.pt")
+        #save_epoch_outputs(run_dir, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
 
-        else:
-            patience_counter += 1
-            print(f"No improvement ({patience_counter}/{patience})")
+    end = datetime.now()
+    hours, remainder = divmod((end - start).total_seconds(), 3600)
+    minutes, seconds = divmod(remainder, 60)
+    print(f"Training completed in: {int(hours)}h {int(minutes)}m {int(seconds)}s \n")
 
-            if patience_counter >= patience:
-                print("Early stopping triggered.")
-                break
-    # Load best model after training
-    model.load_state_dict(torch.load("best_model.pt"))
-    """
-    # Evaluate
 
-    accuracy, report = evaluate(model, val_dataloader)
-    print(f"Validation Accuracy: {accuracy:.4f}")
+    report, cm = evaluate(model, val_dataloader)
+  
+    print(f"Accuracy: {report['accuracy']:.4f}")
+    print(f"Loss: {report['loss']:.4f}")
+    print(f"ROC AUC: {report['roc_auc']:.4f}")
     print(report)
 
-    # Save outputs
-    run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
 
     model_name = config["model"]["name"]
     base_dir = config["output"]["base_dir"]
@@ -270,33 +339,18 @@ def main(df):
     os.makedirs(run_dir, exist_ok=True)
 
 
-
-
-    metrics_path = os.path.join(run_dir, "metrics.json")
-    logs_path = os.path.join(run_dir, "logs.txt")
-    config_path = os.path.join(run_dir, "config.yaml")
-
-
-    if config["output"]["save_model"]:
-        model.save_pretrained(run_dir)
-        tokenizer.save_pretrained(run_dir)
-
-    # Predictions
-    with open(metrics_path, "w") as f:
-        json.dump(report, f, indent=2)
-
-    with open(config_path, "w") as f:
-        yaml.dump(config, f)
-
-    logging.basicConfig(
-            filename=logs_path,
-            level=logging.INFO,
-            format="%(asctime)s - %(levelname)s - %(message)s"
-        )
+    save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
     
-    visualize_report(run_dir)
+    np.save(os.path.join(run_dir, "confusion_matrix.npy"), cm)
+    np.savez(os.path.join(run_dir, "training_curves.npz"), train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)   
+    #visualize_report(run_dir)
     confusion_matrix_heatmap(run_dir)
+    mlflow.log_artifact(os.path.join(run_dir, "config.yaml"))
+    mlflow.log_artifact(os.path.join(run_dir, "confusion_matrix.png"))
+    mlflow.log_artifact(os.path.join(run_dir, "metrics.json"))
+    mlflow.log_artifact(os.path.join(run_dir, "training_curves.npz"))
 
+    mlflow.end_run()
 
 if __name__ == "__main__":
     import argparse
