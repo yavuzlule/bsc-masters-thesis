@@ -1,6 +1,6 @@
 import torch
 import pandas as pd
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, BertForSequenceClassification, BertTokenizer
 from safetensors.torch import load_file
 from pathlib import Path
 
@@ -43,10 +43,10 @@ def load_roberta_model(model_path):
         tuple: (model, tokenizer)
     """
     print("Loading tokenizer...")
-    tokenizer = AutoTokenizer.from_pretrained('roberta-base')
+    tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     
     print("Loading model architecture...")
-    model = AutoModelForSequenceClassification.from_pretrained('roberta-base', num_labels=2)
+    model = BertForSequenceClassification.from_pretrained('bert-base-uncased', num_labels=2)
 
     print("Loading safetensors weights...")
     state_dict = load_file(model_path)
@@ -161,7 +161,7 @@ def infer_bert_batch(df, model_path, column_name='chunk_text', batch_size=8, max
     return df
 
 
-def infer_bert_optimized(df, model_path, column_name='chunk_text', batch_size=32, max_length=512):
+def infer_bert_optimized(df, model_path, column_name='chunk_text', batch_size=32, max_length=256):
     """
     Optimized batch inference using vectorized operations.
     More efficient than processing one-by-one.
@@ -268,7 +268,7 @@ def debug_logits(df, model_path, column_name='chunk_text', num_samples=5):
 if __name__ == "__main__":
     # Load your DataFrame
     df = pd.read_parquet('/Users/yavuzlule/Desktop/bsc-relish/data/interim/b2drop_dataset.parquet')
-    model_path='/Users/yavuzlule/Desktop/bsc-relish/results/bert-base-uncased/2026-04-30_14-20-28/model.safetensors'
+    model_path='/Users/yavuzlule/Desktop/bsc-relish/results/roberta-base/2026-05-11_00-21-15/model.safetensors'
     # Option 1: Single-by-single processing (slower, more memory efficient)
     #df = infer_bert_batch(df, model_path='path/to/model.safetensors')
     #debug_logits(df, model_path, num_samples=5)

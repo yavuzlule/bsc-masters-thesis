@@ -54,4 +54,4 @@ output:
   base_dir: results
   save_model: true
 
-df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/2026-04-30_05-11-20/dataset.parquet"
+df: "/Users/yavuzlule/Desktop/bsc-relish/data/interim/chunked_256/2026-04-30_15-29-41/dataset.parquet"

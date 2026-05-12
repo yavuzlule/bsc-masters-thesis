@@ -265,13 +265,13 @@ def debug_logits(df, model_path, column_name='chunk_text', num_samples=5):
 if __name__ == "__main__":
     # Load your DataFrame
     df = pd.read_parquet('/Users/yavuzlule/Desktop/bsc-relish/data/interim/b2drop_dataset.parquet')
-    model_path='/Users/yavuzlule/Desktop/bsc-relish/results/roberta-base/2026-04-29_04-02-52/model.safetensors'
+    model_path='/Users/yavuzlule/Desktop/bsc-relish/results/roberta-base/2026-05-11_00-21-15/model.safetensors'
     # Option 1: Single-by-single processing (slower, more memory efficient)
     # df = infer_roberta_batch(df, model_path='path/to/model.safetensors')
-    debug_logits(df, model_path, num_samples=5)
+    #debug_logits(df, model_path, num_samples=5)
     
     # Option 2: Batch processing (faster, recommended)
-    #df = infer_roberta_optimized(df, model_path=model_path, batch_size=32)
+    df = infer_roberta_optimized(df, model_path=model_path, batch_size=32)
     
     # Save results
-    #df.to_parquet('/Users/yavuzlule/Desktop/bsc-relish/data/interim/b2drop_v1/output_with_probabilities.parquet')
+    df.to_parquet('/Users/yavuzlule/Desktop/bsc-relish/data/interim/b2drop_v1/output_with_probabilities_roberta.parquet')

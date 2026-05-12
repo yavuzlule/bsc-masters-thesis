@@ -127,7 +127,7 @@ def process_folders(base_folder, df=None):
 
 def main():
     result_df = process_folders("/Users/yavuzlule/Desktop/bsc-relish/data/external/internet_archive")
-    result_df = result_df[:5]
+    #result_df = result_df[:5]
     df = split_text_into_chunks(
             result_df,
             text_column="text",

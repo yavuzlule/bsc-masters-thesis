@@ -1,8 +1,8 @@
 data:
   raw_text_dir: "data/raw"
   label_map: {
-            "recipes": 1,
-            "filtered_non_cooking": 0
+            "recipes": 0,
+            "titles": 1
         }
   interim_path: "data/interim/chunked_256"
   target_column: label

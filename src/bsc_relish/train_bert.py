@@ -60,7 +60,8 @@ class TextClassificationDataset(Dataset):
 import torch
 from tqdm import tqdm
 
-def train(device, model, data_loader, optimizer, scheduler, loss_fn):
+def train(device, model, data_loader, optimizer, #scheduler, 
+          loss_fn):
     model = model.to(device)
     model.train()
 
@@ -90,7 +91,7 @@ def train(device, model, data_loader, optimizer, scheduler, loss_fn):
         torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
         optimizer.step()
-        scheduler.step()
+        #scheduler.step()
 
         total_loss += loss.item()
 
@@ -262,7 +263,10 @@ def main(df):
     best_f1 = -1
     start = datetime.now()
     run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    os.environ["MLFLOW_TRACKING_USERNAME"] = "yavuz"
+    os.environ["MLFLOW_TRACKING_PASSWORD"] = "af>[9w?W}d]/:|xHx?N`hZv8{"
 
+    mlflow.set_tracking_uri("https://mlflow.dataviz.bsc.es")
     mlflow.set_experiment("BERT Text Classification")
     mlflow.start_run(run_name=f"bert-base-uncased-{run_id}")
     mlflow.log_param("learning_rate", config["model"]["params"]["learning_rate"])
@@ -282,7 +286,7 @@ def main(df):
             model,
             train_dataloader,
             optimizer,
-            scheduler,
+            #scheduler,
             loss_fn
         )
 
@@ -340,15 +344,15 @@ def main(df):
 
 
     save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
-    
+
     np.save(os.path.join(run_dir, "confusion_matrix.npy"), cm)
     np.savez(os.path.join(run_dir, "training_curves.npz"), train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)   
     #visualize_report(run_dir)
     confusion_matrix_heatmap(run_dir)
-    mlflow.log_artifact(os.path.join(run_dir, "config.yaml"))
-    mlflow.log_artifact(os.path.join(run_dir, "confusion_matrix.png"))
-    mlflow.log_artifact(os.path.join(run_dir, "metrics.json"))
-    mlflow.log_artifact(os.path.join(run_dir, "training_curves.npz"))
+
+
+    if config["output"]["save_model"]:
+        mlflow.log_artifacts(os.path.join(run_dir))
 
     mlflow.end_run()
 
