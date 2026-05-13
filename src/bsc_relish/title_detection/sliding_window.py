@@ -235,7 +235,7 @@ if __name__ == "__main__":
     text_2 = """
 
 
-            No-Bake Nut Cookies, "1 c. firmly packed brown sugar", "1/2 c. evaporated milk", "1/2 tsp. vanilla", "1/2 c. broken nuts..., Creamy Corn, "Combine first four ingredients and press in 13 x 9-inch ungreased pan.", "Melt chocolate chips and..., Rhubarb Coffee Cake
+            No-Bake Nut Cookies, 1 c. firmly packed brown sugar, 1/2 c. evaporated milk, 1/2 tsp. vanilla, 1/2 c. broken nuts..., Creamy Corn, Combine first four ingredients and press in 13 x 9-inch ungreased pan. Melt chocolate chips and..., Rhubarb Coffee Cake
 
 
             """
@@ -271,7 +271,6 @@ if __name__ == "__main__":
         max_window=5,
         stride=1,
         threshold=0.9995,
-
     )
 
     final_predictions = remove_overlapping_predictions(

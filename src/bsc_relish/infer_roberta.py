@@ -161,7 +161,7 @@ def infer_roberta_batch(df, model_path, column_name='chunk_text', batch_size=8, 
     return df
 
 
-def infer_roberta_optimized(df, model_path, column_name='chunk_text', batch_size=32, max_length=512):
+def infer_roberta_optimized(df, model_path, column_name='recipe_text', batch_size=32, max_length=512):
     """
     Optimized batch inference using vectorized operations.
     More efficient than processing one-by-one.
@@ -264,7 +264,8 @@ def debug_logits(df, model_path, column_name='chunk_text', num_samples=5):
 # Usage
 if __name__ == "__main__":
     # Load your DataFrame
-    df = pd.read_parquet('/Users/yavuzlule/Desktop/bsc-relish/data/interim/b2drop_dataset.parquet')
+    data_path = "/Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/test_real/data/relish_dataset.parquet"
+    df = pd.read_parquet(data_path)
     model_path='/Users/yavuzlule/Desktop/bsc-relish/results/roberta-base/2026-05-11_00-21-15/model.safetensors'
     # Option 1: Single-by-single processing (slower, more memory efficient)
     # df = infer_roberta_batch(df, model_path='path/to/model.safetensors')
@@ -272,6 +273,6 @@ if __name__ == "__main__":
     
     # Option 2: Batch processing (faster, recommended)
     df = infer_roberta_optimized(df, model_path=model_path, batch_size=32)
-    
+    save_data_path = "/Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/test_real/data/output.parquet"
     # Save results
-    df.to_parquet('/Users/yavuzlule/Desktop/bsc-relish/data/interim/b2drop_v1/output_with_probabilities_roberta.parquet')
+    df.to_parquet(save_data_path)
