@@ -10,7 +10,7 @@ pipe:
 
 # PREPROCESSING
 preprocess:
-	python src/bsc_relish/preprocess.py --config configs/preprocess.yaml
+	python /Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/preprocess/pipeline/run_pipeline.py --config configs/preprocess.yaml
 
 
 
@@ -44,3 +44,13 @@ infer-roberta:
 
 infer-distilbert:
 	python src/bsc_relish/infer_distilbert.py
+
+
+# TRANSLATION
+
+translate-folder:
+
+	python src/bsc_relish/translate/translate_llm.py \
+		--input_dir data/raw/cooking/recipes_10 \
+		--langs es fr de nl it\
+		--outdir data/raw/cooking/recipes_10/

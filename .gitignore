@@ -77,3 +77,8 @@ htmlcov/
 *.bak
 *.orig
 
+
+# =====================
+# Model Logs (already in MLFlow)
+# =====================
+mlruns/

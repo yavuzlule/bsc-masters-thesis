@@ -1,26 +1,83 @@
+# =========================
+# DATA CONFIGURATION
+# =========================
 data:
-  raw_text_dir: "data/raw"
-  label_map: {
-            "recipes": 0,
-            "titles": 1
-        }
-  interim_path: "data/interim/chunked_256"
-  target_column: label
-  limit_files:
-    enabled: false
-    max_files: 20
+  raw_path: data/raw
+  interim_path: data/interim
 
+  # label mapping for supervised tasks
+  label_map: {
+            "recipes": 1,
+            "filtered_non_cooking": 0
+        }
+
+  limit_files:
+    enabled: true
+    max_files: 5
+
+  encoding: utf-8
+  recursive: true
+  drop_empty: true
+
+
+# =========================
+# PREPROCESSING PIPELINE
+# =========================
 preprocessing:
+
+  # -------- CHUNKING --------
   chunking:
     enabled: true
+    strategy: word  # options: word | char | sentence (future)
     max_words: 256
-    #overlap: 128
+    overlap: 0       # future extension
+
+  # -------- CLEANING --------
+  cleaning:
+    enabled: false
+    lowercase: false
+    remove_punctuation: false
+    strip_whitespace: true
 
   embeddings:
-    enabled: false
-    model_name: "all-MiniLM-L6-v2"
+    enabled: true
 
-pipeline:
-  run_preprocessing: true
-  run_training: false
+    model:
+      name: sentence-transformers/all-MiniLM-L6-v2
+      type: sentence_transformer
 
+    batch_size: 32
+    normalize: true
+
+
+
+# =========================
+# OUTPUT / STORAGE
+# =========================
+output:
+
+  dataset_name: processed_text_dataset
+
+  store:
+    format: parquet        # parquet | csv | pickle
+    compression: snappy
+    row_group_size: 50000
+
+  save_intermediate:
+    chunked: true
+    embeddings: true
+
+
+# =========================
+# EXECUTION SETTINGS
+# =========================
+execution:
+
+  device: cpu   # cpu | cuda
+
+  logging:
+    level: INFO
+    show_progress: true
+
+  reproducibility:
+    seed: 42
