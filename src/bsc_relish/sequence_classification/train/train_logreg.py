@@ -19,7 +19,7 @@ from sklearn.metrics import (
     roc_auc_score,
 )
 
-from bsc_relish.evaluate import evaluate
+from bsc_relish.sequence_classification.train.evaluate import evaluate
 
 import logging
 

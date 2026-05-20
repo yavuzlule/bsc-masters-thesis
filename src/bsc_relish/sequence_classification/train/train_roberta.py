@@ -17,7 +17,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.impute import SimpleImputer
-from bsc_relish.evaluate import evaluate
+from bsc_relish.sequence_classification.train.evaluate import evaluate
 import logging
 import yaml
 from torch import device, nn
@@ -27,7 +27,7 @@ from transformers import get_linear_schedule_with_warmup
 from transformers import BertForSequenceClassification
 import torch.nn as nn
 
-from bsc_relish.visualize_report import confusion_matrix_heatmap
+from bsc_relish.utils.visualize_report import confusion_matrix_heatmap
 
 # Standard approach: let BERT handle it
 

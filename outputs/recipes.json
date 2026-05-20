@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "title": "Tomato Soup",
+      "ingredients": [
+        "tomatoes",
+        "onion",
+        "garlic",
+        "olive oil"
+      ],
+      "instructions": [
+        "Cook vegetables",
+        "Blend",
+        "Simmer"
+      ],
+      "confidence": 0.85
+    }
+  ]
+}

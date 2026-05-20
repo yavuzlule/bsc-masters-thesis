@@ -50,4 +50,5 @@ df = pd.DataFrame(data)
 df.to_parquet("/Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/test_real/data/relish_dataset.parquet", index=False)
 
 print(df.columns)
+
 df.to_parquet("/Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/test_real/data/relish_dataset.parquet", index=False)

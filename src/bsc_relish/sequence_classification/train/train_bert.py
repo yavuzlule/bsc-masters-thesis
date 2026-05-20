@@ -18,8 +18,8 @@ import mlflow
 from transformers import BertForSequenceClassification
 import torch.nn as nn
 
-from bsc_relish.evaluate import evaluate
-from bsc_relish.visualize_report import confusion_matrix_heatmap
+from bsc_relish.sequence_classification.train.evaluate import evaluate
+from bsc_relish.utils.visualize_report import confusion_matrix_heatmap
 
 # Standard approach: let BERT handle it
 

@@ -45,7 +45,8 @@ infer-roberta:
 infer-distilbert:
 	python src/bsc_relish/infer_distilbert.py
 
-
+infer-xlmroberta:
+	python src/bsc_relish/sequence_classification/infer/infer_xlmroberta.py
 # TRANSLATION
 
 translate-folder:

@@ -1,12 +1,13 @@
+import os
 from typing import List, Dict, Callable, Iterable
 from dataclasses import dataclass
 
 import torch
-from transformers import DistilBertForSequenceClassification, DistilBertTokenizer
+from transformers import AutoTokenizer, DistilBertForSequenceClassification, DistilBertTokenizer, XLMRobertaForSequenceClassification
 from safetensors.torch import load_file
 
-from bsc_relish import infer_bert
-from bsc_relish.infer_roberta import get_device
+from bsc_relish.sequence_classification.infer import infer_bert
+from bsc_relish.sequence_classification.infer.infer_roberta import get_device
 
 
 # ------------------------------------------------------------
@@ -239,14 +240,13 @@ if __name__ == "__main__":
 
 
             """
-    model_path = "/Users/yavuzlule/Desktop/bsc-relish/results/distilbert-base-cased/2026-05-12_16-00-12/model.safetensors"
     
     
-    model = DistilBertForSequenceClassification.from_pretrained(
-    'distilbert-base-cased',
-    num_labels=2  # binary classification
-    )
-    tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-cased")
+    model_path = "/Users/yavuzlule/Desktop/bsc-relish/results/Untitled/model.safetensors"
+
+    model = XLMRobertaForSequenceClassification.from_pretrained("xlm-roberta-base", num_labels=2, use_safetensors=True)
+
+    tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
 
     state_dict = load_file(model_path)
     
@@ -270,7 +270,7 @@ if __name__ == "__main__":
         min_window=2,
         max_window=5,
         stride=1,
-        threshold=0.9995,
+        threshold=0.5,
     )
 
     final_predictions = remove_overlapping_predictions(
