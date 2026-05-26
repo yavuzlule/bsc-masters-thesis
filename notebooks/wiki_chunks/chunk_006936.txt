@@ -1,0 +1,1 @@
+plot, repeated measures, and Latin squares, and their analysis in R (University of Southampton) NIST/SEMATECH e-Handbook of Statistical Methods, section 7.4.3: "Are the means equal?" Analysis of variance: Introduction Design of experiments Statistical tests Parametric statistics

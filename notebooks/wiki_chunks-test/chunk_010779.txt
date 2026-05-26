@@ -1,0 +1,1 @@
+7 11 13 17 19 23 29 Il primo numero della lista dopo il è il : non essendoci più suoi multipli, i numeri restanti sono i numeri primi che cercavamo. Altri progetti Collegamenti esterni Algoritmi per la matematica Scienza ellenistica Numeri primi

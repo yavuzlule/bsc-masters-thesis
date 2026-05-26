@@ -1,0 +1,1 @@
+soll die Längeneinheit Ångström durch den Großbuchstaben Å (U+00C5) dargestellt werden. Unicode enthält zwar auch ein Zeichen namens ANGSTROM SIGN (Ångströmzeichen, U+212B: Å), dieses wurde jedoch lediglich zur Kompatibilität mit älteren Zeichenkodierungsstandards aufgenommen und soll in neu erstellten Texten nicht verwendet werden. Weblinks Einzelnachweise Längeneinheit

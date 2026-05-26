@@ -52,6 +52,6 @@ infer-xlmroberta:
 translate-folder:
 
 	python src/bsc_relish/translate/translate_llm.py \
-		--input_dir data/raw/cooking/recipes_10 \
-		--langs es fr de nl it\
-		--outdir data/raw/cooking/recipes_10/
+		--input_dir /Users/yavuzlule/Desktop/bsc-relish/notebooks/chunked_recipes_2k/de \
+		--langs de \
+		--outdir /Users/yavuzlule/Desktop/bsc-relish/notebooks/chunked_recipes_2k/de/

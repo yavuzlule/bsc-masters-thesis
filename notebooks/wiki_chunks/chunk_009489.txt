@@ -1,0 +1,1 @@
+Zie ook Abstracte syntaxis Externe links A Compact Guide to Lex & Yacc, een korte, praktische introductie tot het schrijven van compilers met behulp van lex en yacc. Compiler Construction, een boek van Niklaus Wirth (gearchiveerd)

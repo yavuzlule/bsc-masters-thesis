@@ -22,8 +22,15 @@ dist/
 # Jupyter Notebook
 # =====================
 .ipynb_checkpoints/
-*.ipynb
-notebooks/
+*.parquet
+*.csv
+
+
+/recipe_ner
+/recipe-title-ner
+/xlm-title-ner
+
+
 
 # =====================
 # Logs
@@ -83,3 +90,7 @@ htmlcov/
 # =====================
 mlruns/
 xlmr-title-ner/
+
+results/
+
+outputs/
