@@ -1,1 +1,0 @@
-of U". For any partition of X into two disjoint sets, one of them will necessarily contain almost all elements of X. It is possible to think of the elements of a filter on X as containing almost all elements of X, even if it isn't an ultrafilter. Proofs See also Almost Almost everywhere Almost surely References Primary sources Secondary sources Mathematical terminology

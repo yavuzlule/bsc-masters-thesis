@@ -1,1 +1,0 @@
-y Selective Repeat ARQ; estos protocolos pertenecen a la Capa de enlace de datos y/o a la Capa de transporte del modelo OSI Véase también Parada y espera Rechazo selectivo Control de enlace lógico Capa de enlace de datos Capa de transporte Detección y corrección de errores Protocolos de red

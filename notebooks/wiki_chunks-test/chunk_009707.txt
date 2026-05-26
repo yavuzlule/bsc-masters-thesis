@@ -1,1 +1,0 @@
-FF 00 is G is Groen. (#00FF00) 3e byte 00 00 FF is B is Blauw. (#0000FF) het weergeven van een MAC-adres zoals 00:0C:6E:D2:11:E6 het weergeven van een IP-adres (IPv6). het bekijken van binaire bestanden (in hex-editors) Getalsysteem Rekenen Computerterminologie

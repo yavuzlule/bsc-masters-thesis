@@ -1,1 +1,0 @@
-Voor Linux is er onder andere ProFTPd en vsFTPd. Zie ook Trivial File Transfer Protocol Simple File Transfer Protocol FTP over SSH FTP over SSL Lijst van FTP-serversoftware

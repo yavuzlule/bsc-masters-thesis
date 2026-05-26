@@ -25,6 +25,8 @@ dist/
 *.parquet
 *.csv
 
+/notebooks
+    
 
 /recipe_ner
 /recipe-title-ner
@@ -41,7 +43,7 @@ dist/
 # ML / Data (IMPORTANT)
 # =====================
 data/
-
+*.txt
 
 
 # Model checkpoints
@@ -94,3 +96,5 @@ xlmr-title-ner/
 results/
 
 outputs/
+
+mlruns/

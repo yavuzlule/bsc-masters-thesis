@@ -1,1 +1,0 @@
-Inkapseling heeft verschillende betekenissen voor verschillende disciplines: Het proces waarbij iets van een beschermende laag (een capsule) voorzien wordt, zie inkapseling (biologie) Bij het programmeren een strategie waarbij stukjes software niet meer informatie over zichzelf laten blijken dan strikt noodzakelijk, zie encapsulatie

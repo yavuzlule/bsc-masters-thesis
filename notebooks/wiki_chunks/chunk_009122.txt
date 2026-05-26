@@ -1,1 +1,0 @@
-van vier bits, en twee nibbles samen vormen dus één byte. Kwantumcomputers Het equivalent van bits voor de ons bekende computers zijn qubits voor kwantumcomputers. Informatie-eenheid

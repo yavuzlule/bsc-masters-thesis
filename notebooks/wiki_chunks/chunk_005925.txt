@@ -1,1 +1,0 @@
-Algorithms von David J. C. MacKay erklärt in Kapitel 6 das arithmetische Kodieren. Einzelnachweise Datenkompression

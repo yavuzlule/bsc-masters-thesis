@@ -1,1 +1,0 @@
-pour désigner une connexion de niveau application, voire un contexte partagé par plusieurs connexions de niveau application sans support protocolaire (cas des « sessions Web » notamment). C'est un usage dérivé de sa signification dans les systèmes d'exploitation, indépendant du modèle OSI. Modèle OSI

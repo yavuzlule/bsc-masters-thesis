@@ -1,1 +1,0 @@
-zegt dat voor elke , een geheel getal is. De som gaat over alle priemgetallen waarvoor geldt dat een deler is van . Een gevolg hiervan is dat de noemer van gelijk is aan het product van alle priemgetallen waarvoor geldt dat een deler is van . Externe links Getaltheorie Rij van gehele getallen
