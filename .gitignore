@@ -22,8 +22,17 @@ dist/
 # Jupyter Notebook
 # =====================
 .ipynb_checkpoints/
-*.ipynb
-notebooks/
+*.parquet
+*.csv
+
+/notebooks
+    
+
+/recipe_ner
+/recipe-title-ner
+/xlm-title-ner
+
+
 
 # =====================
 # Logs
@@ -34,7 +43,7 @@ notebooks/
 # ML / Data (IMPORTANT)
 # =====================
 data/
-
+*.txt
 
 
 # Model checkpoints
@@ -81,4 +90,15 @@ htmlcov/
 # =====================
 # Model Logs (already in MLFlow)
 # =====================
+
+results/
+
+outputs/
+
 mlruns/
+
+# =====================
+# JSON Files
+# =====================
+
+*.json

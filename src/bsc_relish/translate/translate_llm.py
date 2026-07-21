@@ -147,8 +147,11 @@ def process_directory(input_dir: Path, out_dir: Path, langs, translator: Transla
 
         output_name = f"{file_path.stem}_{lang}.txt"
         output_path = out_dir / output_name
-
+        
         write_file(output_path, translated)
+
+        original_txt = file_path.with_suffix(".txt")
+        original_txt.unlink(missing_ok=True)
 
 
 # ----------------------------

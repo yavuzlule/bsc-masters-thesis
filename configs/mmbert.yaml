@@ -1,0 +1,30 @@
+model:
+  name: jhu-clsp/mmBERT-base
+  type: transformers.BertForSequenceClassification
+
+  params:
+    num_classes: 2
+    max_length: 256
+    batch_size: 16
+    num_epochs: 20
+    learning_rate: 1e-5
+
+  optimizer: torch.optim.AdamW
+
+
+training:
+  test_size: 0.2
+  stratify: true
+
+  cross_validation:
+    enabled: true
+    n_splits: 5
+    shuffle: true
+    random_state: 42
+
+output:
+  base_dir: results
+  save_model: true
+
+#df: "/media/M2_disk/yavuz/bsc-masters-thesis/data/train/preprocessed_miriam_corpus_train.parquet"
+df: "/media/M2_disk/yavuz/bsc-masters-thesis/data/test/multilingual_test.parquet"

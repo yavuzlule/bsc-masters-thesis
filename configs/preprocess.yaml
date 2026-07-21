@@ -7,22 +7,27 @@ data:
 
   # label mapping for supervised tasks
   label_map: {
-            "recipes": 1,
-            "filtered_non_cooking": 0
+            "wiki_chunks-test": 0
         }
 
   limit_files:
-    enabled: true
-    max_files: 5
+    enabled: false
+    #max_files: 5
 
   encoding: utf-8
   recursive: true
   drop_empty: true
 
 
+df: "/media/M2_disk/yavuz/bsc-masters-thesis/data/test/multilingual_test.parquet"
+
 # =========================
 # PREPROCESSING PIPELINE
 # =========================
+model:
+  name: sentence-transformers/all-MiniLM-L6-v2
+  type: sentence_transformer
+
 preprocessing:
 
   # -------- CHUNKING --------
@@ -40,7 +45,7 @@ preprocessing:
     strip_whitespace: true
 
   embeddings:
-    enabled: true
+    enabled: false
 
     model:
       name: sentence-transformers/all-MiniLM-L6-v2
@@ -61,7 +66,7 @@ output:
   store:
     format: parquet        # parquet | csv | pickle
     compression: snappy
-    row_group_size: 50000
+    row_group_size: 100000
 
   save_intermediate:
     chunked: true
@@ -73,7 +78,7 @@ output:
 # =========================
 execution:
 
-  device: cpu   # cpu | cuda
+  device: cuda   # cpu | cuda
 
   logging:
     level: INFO

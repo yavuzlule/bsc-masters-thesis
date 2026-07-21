@@ -27,6 +27,7 @@ def run_pipeline(config):
             max_words=config["preprocessing"]["chunking"]["max_words"]
         )
         text_column = "chunk_text"
+        df.drop(columns=["text"])
     else:
         text_column = "text"
 
