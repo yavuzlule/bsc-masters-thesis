@@ -55,3 +55,24 @@ translate-folder:
 		--input_dir /Users/yavuzlule/Desktop/bsc-relish/notebooks/chunked_recipes_2k/de \
 		--langs de \
 		--outdir /Users/yavuzlule/Desktop/bsc-relish/notebooks/chunked_recipes_2k/de/
+
+translate-df:
+	python src/bsc_relish/translate/translate_df_with_llm.py \
+		--input_folder /Users/yavuzlule/Desktop/bsc-relish/data/corpus/20260529_163813 \
+		--langs es de it nl fr \
+		--output_folder /Users/yavuzlule/Desktop/bsc-relish/data/corpus/20260529_160341 \
+
+
+# MoE
+moe:
+	python src/bsc_relish/MoE/main.py --config configs/moe.yaml
+
+
+gepeto:
+	python src/bsc_relish/agentic/main_gepeto.py --num_recipes 10 --model_name qwen2.5
+
+agentic:
+	python src/bsc_relish/agentic/main.py --num_recipes 10 --model_name phi4-mini-reasoning:3.8b
+
+archive:
+	python src/bsc_relish/MoE/internet_archive_moe/main.py --config configs/moe.yaml

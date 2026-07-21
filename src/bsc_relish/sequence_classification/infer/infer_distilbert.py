@@ -1,10 +1,9 @@
 from datetime import datetime
 import torch
 import pandas as pd
-from transformers import AutoModelForSequenceClassification, AutoTokenizer, RobertaForSequenceClassification, RobertaTokenizer
+from transformers import DistilBertForSequenceClassification, DistilBertTokenizer
 from safetensors.torch import load_file
 from pathlib import Path
-
 def convert_tf_to_pytorch_layernorm(state_dict):
     """
     Convert TensorFlow LayerNorm parameters (gamma, beta) to PyTorch (weight, bias).
@@ -44,10 +43,10 @@ def load_roberta_model(model_path):
         tuple: (model, tokenizer)
     """
     print("Loading tokenizer...")
-    tokenizer = RobertaTokenizer.from_pretrained(model_path)
+    tokenizer = DistilBertTokenizer.from_pretrained(model_path)
 
     print("Loading model architecture...")
-    model = RobertaForSequenceClassification.from_pretrained(
+    model = DistilBertForSequenceClassification.from_pretrained(
         model_path,
         num_labels=2,
         use_safetensors=True,
@@ -67,7 +66,6 @@ def load_roberta_model(model_path):
     print("Model loaded successfully!")
     
     return model, tokenizer
-
 
 def get_device():
     """
@@ -125,7 +123,8 @@ def predict_single_text(text, model, tokenizer, device, max_length=512):
     
     return label_1_probability
 
-def infer_roberta_optimized(
+
+def infer_bert_optimized(
     df,
     model_path,
     column_name="chunk_text",
@@ -143,12 +142,12 @@ def infer_roberta_optimized(
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    model = RobertaForSequenceClassification.from_pretrained(
+    model = DistilBertForSequenceClassification.from_pretrained(
         model_path,
         num_labels=2,
         use_safetensors=True,
     )
-    tokenizer = RobertaTokenizer.from_pretrained(model_path)
+    tokenizer = DistilBertTokenizer.from_pretrained(model_path)
 
     model.to(device)
     model.eval()
@@ -191,9 +190,10 @@ def infer_roberta_optimized(
             tqdm.write(f"Batch error {batch_start}-{batch_end}: {e}")
             all_probabilities.extend([np.nan] * len(batch_texts))
 
-    df["roberta-base-proba"] = all_probabilities
+    df["distilbert-base-proba"] = all_probabilities
 
     return df
+
 
 def debug_logits(df, model_path, column_name='chunk_text', num_samples=5):
     """Check raw logits being produced"""
@@ -227,25 +227,21 @@ def debug_logits(df, model_path, column_name='chunk_text', num_samples=5):
         print(f"  Logit difference: {abs(logits[0].item() - logits[1].item()):.4f}")
         print()
 
-
-
 # Usage
 if __name__ == "__main__":
     # Load your DataFrame
-    data_path = "/media/M2_disk/yavuz/bsc-masters-thesis/data/interim/chunked_256/2026-06-17_06-51-17-multilingual-roberta-256/dataset.parquet"
+
+    data_path = "/media/M2_disk/yavuz/bsc-masters-thesis/data/interim/chunked_256/2026-06-13_11-58-49-distilbert-256-test/dataset.parquet"
     df = pd.read_parquet(data_path)
-    model_path='/media/M2_disk/yavuz/bsc-masters-thesis/results/roberta-base/2026-06-12_14-33-01'
+    model_path='/media/M2_disk/yavuz/bsc-masters-thesis/results/distilbert-base-uncased/2026-06-12_14-41-34'
     # Option 1: Single-by-single processing (slower, more memory efficient)
-    # df = infer_roberta_batch(df, model_path='path/to/model.safetensors')
+    #df = infer_bert_batch(df, model_path='path/to/model.safetensors')
     #debug_logits(df, model_path, num_samples=5)
     run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    
+
     # Option 2: Batch processing (faster, recommended)
-    df = infer_roberta_optimized(df, model_path=model_path, batch_size=32)
-
-
-    save_data_path = f"data/test/miriam_test-roberta-proba-{run_id}.parquet"
+    df = infer_bert_optimized(df, model_path=model_path, batch_size=32)
+    save_data_path = f"data/test/miriam-test-distilbert-proba-{run_id}.parquet"
     print(f"Saving results to: {save_data_path}")
     # Save results
-    
     df.to_parquet(save_data_path)

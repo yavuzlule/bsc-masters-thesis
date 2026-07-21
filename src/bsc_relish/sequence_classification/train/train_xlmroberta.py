@@ -5,29 +5,28 @@ import numpy as np
 from sklearn.utils import compute_class_weight
 import torch
 from tqdm import tqdm
-from transformers import AutoTokenizer, XLMRobertaForSequenceClassification
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, XLMRobertaForSequenceClassification
 import yaml
 import json
 import joblib
 import importlib
 import pandas as pd
 from torch.utils.data import DataLoader, Dataset
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.pipeline import Pipeline
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import StandardScaler, OneHotEncoder
-from sklearn.impute import SimpleImputer
-from bsc_relish.evaluate import evaluate
+from sklearn.model_selection import StratifiedKFold, train_test_split, cross_val_score
+from bsc_relish.preprocess.chunk.chunk import expand_chunks
+from bsc_relish.sequence_classification.train.evaluate import evaluate
 import logging
 import yaml
 from torch import device, nn
 from transformers import get_linear_schedule_with_warmup
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import StratifiedKFold
+from torch.utils.data import Subset
 
-
-from transformers import BertForSequenceClassification
 import torch.nn as nn
 
-from bsc_relish.visualize_report import confusion_matrix_heatmap
+#from bsc_relish.visualize_report import confusion_matrix_heatmap
 
 # Standard approach: let BERT handle it
 
@@ -36,12 +35,32 @@ from bsc_relish.visualize_report import confusion_matrix_heatmap
 # - Loss function (CrossEntropyLoss) applies softmax internally
 # - You get probabilities during inference with softmax
 
+language_order = ['english', 
+                  'old german', 
+                  'catalan', 
+                  'multiple', 
+                  'italian', 
+                  'latin',
+                  'french', 
+                  'old french', 
+                  'venetian/italian', 
+                  'old danish', 
+                  'middle dutch', 
+                  'middle low german', 
+                  'early modern english', 
+                  'middle french', 
+                  'spanish', 
+                  'german', 
+                  'dutch']
+
 
 
 class TextClassificationDataset(Dataset):
-    def __init__(self, texts, labels, tokenizer, max_length):
+    def __init__(self, texts, labels, lang_ids, tokenizer, max_length):
         self.texts = texts.reset_index(drop=True)
         self.labels = labels.reset_index(drop=True)
+        self.lang_ids = lang_ids.reset_index(drop=True)
+
         self.tokenizer = tokenizer
         self.max_length = max_length
 
@@ -51,22 +70,25 @@ class TextClassificationDataset(Dataset):
     def __getitem__(self, idx):
         text = self.texts.iloc[idx]
         label = self.labels.iloc[idx]
+        lang_id = self.lang_ids.iloc[idx]
 
         encoding = self.tokenizer(
             text,
-            return_tensors='pt',
             max_length=self.max_length,
             padding='max_length',
-            truncation=True
+            truncation=True,
+            return_tensors='pt'
         )
 
         return {
-            'input_ids': encoding['input_ids'].flatten(),
-            'attention_mask': encoding['attention_mask'].flatten(),
-            'label': torch.tensor(label, dtype=torch.long)
+            "input_ids": encoding["input_ids"].squeeze(0),
+            "attention_mask": encoding["attention_mask"].squeeze(0),
+            "label": torch.tensor(label, dtype=torch.long),
+            "lang_ids": torch.tensor(lang_id, dtype=torch.long),
         }
-    
-def train(device, model, data_loader, optimizer, #scheduler, 
+
+
+def train(device, model, data_loader, optimizer, scheduler,
           loss_fn):
     model = model.to(device)
     model.train()
@@ -97,7 +119,7 @@ def train(device, model, data_loader, optimizer, #scheduler,
         torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
         optimizer.step()
-        #scheduler.step()
+        scheduler.step()
 
         total_loss += loss.item()
 
@@ -168,186 +190,408 @@ def save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_
 
 
 
-# -------------------------
-# Main
-# -------------------------
 import os
+import copy
+import numpy as np
+import torch
+import mlflow
+import pandas as pd
+
 from datetime import datetime
+from torch.utils.data import DataLoader, Subset
+from transformers import AutoTokenizer, get_linear_schedule_with_warmup
+from sklearn.model_selection import train_test_split, StratifiedKFold
 
 
+def build_model(config):
+    """
+    Replace with your actual model constructor.
+    """
+    from transformers import AutoModelForSequenceClassification
 
-
-def main(df):
-    config = load_config("configs/xlmroberta_config.yaml")
-
-    # Load data
-    target = config["data"]["target_column"]
-    df = balance_classes(df, target)
-    texts = df['chunk_text']
-    labels = df['label']
-
-    train_texts, val_texts, train_labels, val_labels = train_test_split(
-        texts,
-        labels,
-        test_size=0.2,
-        random_state=42
+    return AutoModelForSequenceClassification.from_pretrained(
+        config["model"]["name"],
+        num_labels=config["model"]["params"]["num_labels"]
     )
 
-    train_texts = train_texts.reset_index(drop=True)
-    val_texts = val_texts.reset_index(drop=True)
-    train_labels = train_labels.reset_index(drop=True)
-    val_labels = val_labels.reset_index(drop=True)
-    
 
-    # Build pipeline
-    #preprocessor = build_preprocessor(config)
-    #device = torch.device("mps") if torch.backends.mps.is_available() else torch.device("cpu")
-    model = XLMRobertaForSequenceClassification.from_pretrained(config["model"]["name"], num_labels=2, use_safetensors=True)
-    print("\n\n\nMODEL LOADED\n\n")
+def create_dataloaders(train_dataset, val_dataset, batch_size):
+    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
+    val_loader = DataLoader(val_dataset, batch_size=batch_size, shuffle=False)
+    return train_loader, val_loader
 
-    # Train
-    tokenizer = AutoTokenizer.from_pretrained(config["model"]["name"],  use_safetensors=True)
-    train_dataset = TextClassificationDataset(train_texts, train_labels, tokenizer, config['model']['params']['max_length'])
-    val_dataset = TextClassificationDataset(val_texts, val_labels, tokenizer, config['model']['params']['max_length'])
-    train_dataloader = DataLoader(train_dataset, batch_size=config['model']['params']['batch_size'], shuffle=True)
-    val_dataloader = DataLoader(val_dataset, batch_size=config['model']['params']['batch_size'])
-    
-    
-    device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
-    #device = "cpu"
-    model.to(device)
-    optimizer = torch.optim.AdamW(model.parameters(), lr=float(config['model']['params']['learning_rate']))
 
-    epochs = config['model']['params']['num_epochs']
-    total_steps = len(train_dataloader) * epochs
-    """
+def setup_optimizer_scheduler(model, config, total_steps):
+    optimizer = torch.optim.AdamW(
+        model.parameters(),
+        lr=float(config["model"]["params"]["learning_rate"])
+    )
+
     scheduler = get_linear_schedule_with_warmup(
         optimizer,
         num_warmup_steps=int(total_steps * 0.1),
         num_training_steps=total_steps
     )
 
-    """
+    return optimizer, scheduler
 
-    weights = compute_class_weight(
-        class_weight="balanced",
-        classes=np.array([0, 1]),
-        y=train_labels.values
+
+def train_one_epoch(model, loader, optimizer, scheduler, loss_fn, device):
+    model.train()
+    total_loss = 0
+
+    for batch in loader:
+        batch = {k: v.to(device) for k, v in batch.items()}
+
+        optimizer.zero_grad()
+
+        outputs = model(
+            input_ids=batch["input_ids"],
+            attention_mask=batch["attention_mask"],
+            labels=batch["labels"]
+        )
+
+        loss = outputs.loss
+        loss.backward()
+
+        optimizer.step()
+        scheduler.step()
+
+        total_loss += loss.item()
+
+    return total_loss / len(loader)
+
+
+def evaluate_model(model, loader, device):
+    return evaluate(model, loader, device)  # your existing function
+
+
+def run_single_training(model, train_loader, val_loader, config, device, mlflow_prefix=""):
+    epochs = config["model"]["params"]["num_epochs"]
+
+    optimizer, scheduler = setup_optimizer_scheduler(
+        model,
+        config,
+        total_steps=len(train_loader) * epochs
     )
 
-    class_weights = torch.tensor(
-        weights,
-        dtype=torch.float32,
-        device=device
-    )
+    loss_fn = torch.nn.CrossEntropyLoss()
 
-    loss_fn = nn.CrossEntropyLoss(weight=class_weights)
+    best_f1 = 0
+    best_state = copy.deepcopy(model.state_dict())
 
+    for epoch in range(epochs):
 
-    val_loss_arr = np.zeros(epochs)
-    train_loss_arr = np.zeros(epochs)
-    val_accuracy_arr = np.zeros(epochs)
-    val_roc_auc_arr = np.zeros(epochs)
-    val_f1_arr = np.zeros(epochs)
+        train_loss = train_one_epoch(
+            model, train_loader, optimizer, scheduler, loss_fn, device
+        )
 
+        report, _ = evaluate_model(model, val_loader, device)
+        f1 = report["macro_f1"]
 
-    best_f1 = -1
-    start = datetime.now()
-    run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        mlflow.log_metric(f"{mlflow_prefix}train_loss", train_loss, step=epoch)
+        mlflow.log_metric(f"{mlflow_prefix}val_f1", f1, step=epoch)
+
+        if f1 > best_f1:
+            best_f1 = f1
+            best_state = copy.deepcopy(model.state_dict())
+
+    model.load_state_dict(best_state)
+    return model, best_f1
+
+import os
+import json
+import numpy as np
+import pandas as pd
+import torch
+import mlflow
+
+from datetime import datetime
+from torch import nn
+from torch.utils.data import DataLoader, Subset
+from sklearn.model_selection import train_test_split, StratifiedKFold
+from transformers import (
+    AutoTokenizer,
+    AutoModelForSequenceClassification,
+    get_linear_schedule_with_warmup,
+)
+
+def main(df, config_file):
+
+    # -----------------------
+    # Config
+    # -----------------------
 
     os.environ["MLFLOW_TRACKING_USERNAME"] = "yavuz"
     os.environ["MLFLOW_TRACKING_PASSWORD"] = "af>[9w?W}d]/:|xHx?N`hZv8{"
+    config = config_file
 
-    mlflow.set_tracking_uri("https://mlflow.dataviz.bsc.es")
-    mlflow.enable_system_metrics_logging()
-    mlflow.set_experiment("XLMRoBERTa Text Classification")
-    mlflow.start_run(run_name=f"xlmroberta-{run_id}")
-    
-    mlflow.log_param("learning_rate", config["model"]["params"]["learning_rate"])
-    mlflow.log_param("batch_size", config["model"]["params"]["batch_size"])
-    mlflow.log_param("num_epochs", config["model"]["params"]["num_epochs"])
-    mlflow.log_param("model_name", config["model"]["name"])
-    mlflow.log_param("max_length", config["model"]["params"]["max_length"])
-    mlflow.log_param("training_data_size", len(train_dataset))
-    mlflow.log_param("validation_data_size", len(val_dataset))
-    
-    for epoch in range(epochs):
-        # ---- Train ----
-        train_loss = train(
-            device,
-            model,
-            train_dataloader,
-            optimizer,
-            #scheduler,
-            loss_fn
-        )
-
-        # ---- Validation ----
-        report, cm = evaluate(
-            model,
-            val_dataloader,  # validation dataloader required
-            device=device
-        )
-
-        f1 = report["macro avg"]["f1-score"]
-        mlflow.log_metric("val_f1", f1, step=epoch)
-        mlflow.log_metric("val_accuracy", report["accuracy"], step=epoch)
-        mlflow.log_metric("val_loss", report["loss"], step=epoch)
-        mlflow.log_metric("val_roc_auc", report["roc_auc"], step=epoch)
-        mlflow.log_metric("train_loss", train_loss, step=epoch)
-        if f1 > best_f1:
-            best_f1 = f1
-            mlflow.log_metric("best_f1", best_f1)
-
-        val_accuracy_arr[epoch] = report["accuracy"]
-        val_loss_arr[epoch] = report["loss"]
-        train_loss_arr[epoch] = train_loss
-        val_roc_auc_arr[epoch] = report["roc_auc"]
-        val_f1_arr[epoch] = report["macro avg"]["f1-score"]
-
-
-        print(
-            f"Epoch {epoch+1}/{epochs} | "
-            f"Train Loss: {train_loss:.4f} | "
-            f"Val Accuracy: {report['accuracy']:.4f}"
-        )
-
-
-    end = datetime.now()
-    hours, remainder = divmod((end - start).total_seconds(), 3600)
-    minutes, seconds = divmod(remainder, 60)
-    print(f"Training completed in: {int(hours)}h {int(minutes)}m {int(seconds)}s \n")
-
-
-    report, cm = evaluate(model, val_dataloader, device=device)
-  
-    print(f"Accuracy: {report['accuracy']:.4f}")
-    print(f"Loss: {report['loss']:.4f}")
-    print(f"ROC AUC: {report['roc_auc']:.4f}")
-    print(report)
-
-
+    preprocess_config = load_config(
+        "/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml"
+    )
 
     model_name = config["model"]["name"]
+    batch_size = config["model"]["params"]["batch_size"]
+    max_length = config["model"]["params"]["max_length"]
+    epochs = config["model"]["params"]["num_epochs"]
+
     base_dir = config["output"]["base_dir"]
 
+    cross_validation = config["training"]["cross_validation"]["enabled"]
+
+    # -----------------------
+    # Run ID + output dir (FIXED ORDER)
+    # -----------------------
+    run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     run_dir = os.path.join(base_dir, model_name, run_id)
     os.makedirs(run_dir, exist_ok=True)
 
+    # -----------------------
+    # Preprocess
+    # -----------------------
+    df = balance_classes(df, "label")
+    df["language"] = df["language"].str.lower()
 
-    save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
+    df["language"] = pd.Categorical(
+        df["language"],
+        categories=language_order,
+        ordered=True,
+    )
+    df["lang_id"] = df["language"].cat.codes
 
-    np.save(os.path.join(run_dir, "confusion_matrix.npy"), cm)
-    np.savez(os.path.join(run_dir, "training_curves.npz"), train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)   
-    #visualize_report(run_dir)
-    confusion_matrix_heatmap(run_dir)
+    rows = df.rename(columns={"chunk_text": "text"}).to_dict(orient="records")
 
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
 
-    if config["output"]["save_model"]:
-        mlflow.log_artifacts(os.path.join(run_dir))
+    expanded = expand_chunks(
+        preprocess_config,
+        tokenizer,
+        rows,
+        preprocess_config["preprocessing"]["chunking"]["max_words"],
+    )
 
-    mlflow.end_run()
+    df = pd.DataFrame(expanded)
+    df = df[["chunk_text", "label", "language", "lang_id"]]
 
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    # -----------------------
+    # Common dataset (for CV)
+    # -----------------------
+    full_dataset = TextClassificationDataset(
+        df["chunk_text"],
+        df["label"],
+        df["lang_id"],
+        tokenizer,
+        max_length,
+    )
+
+    labels = df["label"].values
+
+    # ============================================================
+    # SIMPLE TRAIN/VAL SPLIT MODE
+    # ============================================================
+    if not cross_validation:
+
+        train_df, val_df = train_test_split(
+            df,
+            test_size=0.2,
+            random_state=42,
+            stratify=df["label"],
+        )
+
+        train_dataset = TextClassificationDataset(
+            train_df["chunk_text"],
+            train_df["label"],
+            train_df["lang_id"],
+            tokenizer,
+            max_length,
+        )
+
+        val_dataset = TextClassificationDataset(
+            val_df["chunk_text"],
+            val_df["label"],
+            val_df["lang_id"],
+            tokenizer,
+            max_length,
+        )
+
+        train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
+        val_loader = DataLoader(val_dataset, batch_size=batch_size)
+
+        model = AutoModelForSequenceClassification.from_pretrained(
+            model_name,
+            num_labels=len(df["label"].unique()),
+            use_safetensors=True,
+        ).to(device)
+
+        optimizer = torch.optim.AdamW(
+            model.parameters(),
+            lr=float(config["model"]["params"]["learning_rate"]),
+        )
+
+        total_steps = len(train_loader) * epochs
+
+        scheduler = get_linear_schedule_with_warmup(
+            optimizer,
+            num_warmup_steps=int(total_steps * 0.1),
+            num_training_steps=total_steps,
+        )
+
+        loss_fn = nn.CrossEntropyLoss()
+
+        mlflow.set_tracking_uri("https://mlflow.dataviz.bsc.es")
+        mlflow.set_experiment("XLMRoBERTa Text Classification")
+
+        best_f1 = 0.0
+
+        with mlflow.start_run(run_name=f"xlmroberta-{run_id}"):
+
+            mlflow.log_params({
+                "learning_rate": config["model"]["params"]["learning_rate"],
+                "batch_size": batch_size,
+                "num_epochs": epochs,
+                "model_name": model_name,
+                "max_length": max_length,
+                "training_size": len(train_dataset),
+                "validation_size": len(val_dataset),
+            })
+
+            for epoch in range(epochs):
+
+                train_loss = train(
+                    device,
+                    model,
+                    train_loader,
+                    optimizer,
+                    scheduler,
+                    loss_fn,
+                )
+
+                report, cm = evaluate(model, val_loader, device=device)
+
+                f1 = report["macro_f1"]
+
+                mlflow.log_metric("train_loss", train_loss, step=epoch)
+                mlflow.log_metric("val_f1", f1, step=epoch)
+                mlflow.log_metric("val_loss", report["loss"], step=epoch)
+
+                if f1 > best_f1:
+                    best_f1 = f1
+
+                    best_dir = os.path.join(run_dir, "best_model")
+                    os.makedirs(best_dir, exist_ok=True)
+
+                    model.save_pretrained(best_dir)
+                    tokenizer.save_pretrained(best_dir)
+
+                    torch.save(model.state_dict(), os.path.join(best_dir, "pytorch_model.bin"))
+
+            save_outputs(
+                run_dir,
+                model,
+                tokenizer,
+                report,
+                config,
+                None,
+                None,
+                None,
+                None,
+                None,
+            )
+
+        return best_f1
+
+    # ============================================================
+    # CROSS VALIDATION MODE
+    # ============================================================
+    else:
+
+        skf = StratifiedKFold(
+            n_splits=config["training"]["cross_validation"]["n_splits"],
+            shuffle=True,
+            random_state=42,
+        )
+
+        fold_scores = []
+
+        mlflow.set_tracking_uri("https://mlflow.dataviz.bsc.es")
+        mlflow.set_experiment("XLMRoBERTa Text Classification")
+
+        with mlflow.start_run(run_name=f"cross_validation-{run_id}"):
+
+            for fold, (train_idx, val_idx) in enumerate(skf.split(df, labels)):
+
+                with mlflow.start_run(run_name=f"fold_{fold}", nested=True):
+
+                    train_subset = Subset(full_dataset, train_idx)
+                    val_subset = Subset(full_dataset, val_idx)
+
+                    train_loader = DataLoader(train_subset, batch_size=batch_size, shuffle=True)
+                    val_loader = DataLoader(val_subset, batch_size=batch_size)
+
+                    model_fold = AutoModelForSequenceClassification.from_pretrained(
+                        model_name,
+                        num_labels=len(df["label"].unique()),
+                        use_safetensors=True,
+                    ).to(device)
+
+                    optimizer = torch.optim.AdamW(
+                        model_fold.parameters(),
+                        lr=float(config["model"]["params"]["learning_rate"]),
+                    )
+
+                    total_steps = len(train_loader) * epochs
+
+                    scheduler = get_linear_schedule_with_warmup(
+                        optimizer,
+                        num_warmup_steps=int(total_steps * 0.1),
+                        num_training_steps=total_steps,
+                    )
+
+                    loss_fn = nn.CrossEntropyLoss()
+
+                    best_f1 = 0.0
+                    best_state = None
+
+                    for epoch in range(epochs):
+
+                        train_loss = train(
+                            device,
+                            model_fold,
+                            train_loader,
+                            optimizer,
+                            scheduler,
+                            loss_fn,
+                        )
+
+                        report, cm = evaluate(
+                            model_fold,
+                            val_loader,
+                            device=device,
+                        )
+
+                        f1 = report["macro_f1"]
+
+                        mlflow.log_metric("train_loss", train_loss, step=epoch)
+                        mlflow.log_metric("val_f1", f1, step=epoch)
+                        mlflow.log_metric("val_loss", report["loss"], step=epoch)
+                        mlflow.log_metric("val_accuracy", report["accuracy"], step=epoch)
+
+                        if f1 > best_f1:
+                            best_f1 = f1
+                            best_state = model_fold.state_dict()
+
+                            fold_dir = os.path.join(run_dir, f"fold_{fold}_best")
+                            os.makedirs(fold_dir, exist_ok=True)
+
+                            model_fold.save_pretrained(fold_dir)
+                            tokenizer.save_pretrained(fold_dir)
+                            torch.save(best_state, os.path.join(fold_dir, "pytorch_model.bin"))
+
+                    fold_scores.append(best_f1)
+
+        return float(np.mean(fold_scores))
 if __name__ == "__main__":
     import argparse
 
@@ -357,4 +601,5 @@ if __name__ == "__main__":
     config = load_config(args.config)
     df = pd.read_parquet(config["df"])
 
-    main(df)
+    main(df, config)
+

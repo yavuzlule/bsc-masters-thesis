@@ -1,9 +1,9 @@
-from datetime import datetime
 import os
 import numpy as np
 from sklearn.utils import compute_class_weight
 import torch
 from tqdm import tqdm
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import yaml
 import json
 import importlib
@@ -14,17 +14,26 @@ import yaml
 from torch import nn
 from transformers import get_linear_schedule_with_warmup
 import mlflow
-
-from transformers import DistilBertForSequenceClassification, DistilBertTokenizer
+from tqdm import tqdm
 import torch.nn as nn
+from transformers import AutoModel
 
-from bsc_relish.sequence_classification.train.evaluate_la import evaluate
+from bsc_relish.preprocess.chunk.chunk import expand_chunks
+from bsc_relish.sequence_classification.train.evaluate import evaluate
 #from bsc_relish.visualize_report import confusion_matrix_heatmap
 
+
+# During training:
+# - Forward pass outputs logits
+# - Loss function (CrossEntropyLoss) applies softmax internally
+# - You get probabilities during inference with softmax
+
+    
 class TextClassificationDataset(Dataset):
     def __init__(self, texts, labels, tokenizer, max_length):
         self.texts = texts.reset_index(drop=True)
         self.labels = labels.reset_index(drop=True)
+
         self.tokenizer = tokenizer
         self.max_length = max_length
 
@@ -37,53 +46,49 @@ class TextClassificationDataset(Dataset):
 
         encoding = self.tokenizer(
             text,
-            return_tensors='pt',
             max_length=self.max_length,
             padding='max_length',
-            truncation=True
+            truncation=True,
+            return_tensors='pt'
         )
 
         return {
-            'input_ids': encoding['input_ids'].flatten(),
-            'attention_mask': encoding['attention_mask'].flatten(),
-            'label': torch.tensor(label, dtype=torch.long)
+            "input_ids": encoding["input_ids"].squeeze(0),
+            "attention_mask": encoding["attention_mask"].squeeze(0),
+            "label": torch.tensor(label, dtype=torch.long),
         }
 
-def train(device, model, data_loader, optimizer, scheduler,
-          loss_fn):
+
+
+def train(device, model, data_loader, optimizer, scheduler, loss_fn):
     model = model.to(device)
     model.train()
 
     total_loss = 0.0
-
     progress_bar = tqdm(data_loader, desc="Training")
 
     for batch in progress_bar:
         input_ids = batch["input_ids"].to(device)
         attention_mask = batch["attention_mask"].to(device)
         labels = batch["label"].to(device)
-
         optimizer.zero_grad()
 
+        assert labels.min() >= 0
         outputs = model(
             input_ids=input_ids,
             attention_mask=attention_mask
         )
 
         logits = outputs.logits
-
-        # ensure dtype safety (important for many loss functions like CrossEntropyLoss)
         loss = loss_fn(logits, labels)
 
         loss.backward()
-
         torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 
         optimizer.step()
         scheduler.step()
 
         total_loss += loss.item()
-
         progress_bar.set_postfix(loss=loss.item())
 
     return total_loss / len(data_loader)
@@ -103,7 +108,6 @@ def load_model(model_path: str, params: dict):
     model_class = getattr(module, class_name)
     return model_class(**params)
 
-
 def balance_classes(df, label_col):
     if label_col not in df.columns:
         raise ValueError(f"Missing '{label_col}'. Columns: {df.columns.tolist()}")
@@ -121,11 +125,49 @@ def balance_classes(df, label_col):
     return balanced_df
 
 
-def save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr):
-
+def save_outputs_torch(
+    run_dir, model, tokenizer, report, config,
+    train_loss_arr, val_loss_arr, val_accuracy_arr,
+    val_roc_auc_arr, val_f1_arr
+):
+    os.makedirs(run_dir, exist_ok=True)
 
     epochs_path = os.path.join(run_dir, "training_curves.npz")
-    np.savez(epochs_path, train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)
+    np.savez(
+        epochs_path,
+        train_loss=train_loss_arr,
+        val_loss=val_loss_arr,
+        accuracy=val_accuracy_arr,
+        roc_auc=val_roc_auc_arr,
+        f1_score=val_f1_arr
+    )
+
+    metrics_path = os.path.join(run_dir, "metrics.json")
+    logs_path = os.path.join(run_dir, "logs.txt")
+    config_path = os.path.join(run_dir, "config.yaml")
+
+    if config.get("output", {}).get("save_model", False):
+        save_path = os.path.join(run_dir, "model_weights.pth")
+        torch.save(model.state_dict(), save_path)
+        tokenizer.save_pretrained(run_dir)
+
+    with open(metrics_path, "w") as f:
+        json.dump(report, f, indent=2)
+
+    with open(config_path, "w") as f:
+        yaml.dump(config, f, default_flow_style=False)
+
+    with open(logs_path, "w") as f:
+        f.write(f"Validation Accuracy: {report.get('accuracy', 0):.4f}\n")
+        f.write(f"Validation Loss: {report.get('loss', 0):.4f}\n")
+        f.write(f"ROC AUC: {report.get('roc_auc', 0):.4f}\n")
+        f.write(json.dumps(report, indent=2))
+
+
+def save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr):
+
+    #epochs_path = os.path.join(run_dir, "training_curves.npz")
+    #np.savez(epochs_path, train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)
 
     metrics_path = os.path.join(run_dir, "metrics.json")
     logs_path = os.path.join(run_dir, "logs.txt")
@@ -150,72 +192,105 @@ def save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_
         f.write(json.dumps(report, indent=2))
 
 
+def save_epoch_outputs(run_dir, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr):
+    epochs_path = os.path.join(run_dir, "training_curves.npz")
+    np.savez(epochs_path, train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)
 
 # -------------------------
 # Main
 # -------------------------
+import os
+from datetime import datetime
 
 
-def main(df):
-    config = load_config("configs/distilbert_config.yaml")
 
-    # Load data
-    target = config["data"]["target_column"]
-    df = balance_classes(df, target)
 
-    # Print class distribution after balancing
-    print("\nClass distribution after balancing:")
-    print(df[target].value_counts())
+def main(df, config):
+    config = config
+    preprocess_config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml")
 
-    texts = df['chunk_text']
-    labels = df['label']
+    df = balance_classes(df, "label")
+    print(len(df))
+    preprocess_config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml")
 
-    train_texts, val_texts, train_labels, val_labels = train_test_split(
-        texts,
-        labels,
-        test_size=0.2,
-        random_state=42
+
+
+    rows = df.rename(columns={"chunk_text": "text"}).to_dict(orient="records")
+    model_name = config["model"]["name"]
+
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+    expanded = expand_chunks(
+        preprocess_config,
+        tokenizer,
+        rows,
+        preprocess_config["preprocessing"]["chunking"]["max_words"],
     )
 
+    df = pd.DataFrame(expanded)
 
-    train_texts = train_texts.reset_index(drop=True)
-    val_texts = val_texts.reset_index(drop=True)
-    train_labels = train_labels.reset_index(drop=True)
-    val_labels = val_labels.reset_index(drop=True)
+
+    # Reset indices
+    df = df.reset_index(drop=True)
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    epochs = config["model"]["params"]["num_epochs"]
+    max_length = config["model"]["params"]["max_length"]
+    batch_size = config["model"]["params"]["batch_size"]
+    lr = float(config["model"]["params"]["learning_rate"])
+
+    # Train/validation split
+    train_df, val_df = train_test_split(
+        df,
+        test_size=0.2,
+        random_state=42,
+        stratify=df["label"],  # remove if labels are too sparse
+    )
+
+    train_df = train_df.reset_index(drop=True)
+    val_df = val_df.reset_index(drop=True)
+
+    # Train dataset
+    train_dataset = TextClassificationDataset(
+        train_df["chunk_text"],
+        train_df["label"],
+        tokenizer,
+        max_length,
+    )
+
+    # Validation dataset
+    val_dataset = TextClassificationDataset(
+        val_df["chunk_text"],
+        val_df["label"],
+        tokenizer,
+        max_length,
+    )
+    train_dataloader = DataLoader(train_dataset, batch_size=config['model']['params']['batch_size'], shuffle=True)
+    val_dataloader = DataLoader(val_dataset, batch_size=config['model']['params']['batch_size'])
+    
+    # Print class distribution after balancing
+    print("\nClass distribution after balancing:")
+    print(df["label"].value_counts())
+    
     
 
     # Build pipeline
-    #preprocessor = build_preprocessor(config)
-    #device = torch.device("cuda") if torch.backends.mps.is_available() else torch.device("cpu")
-    model = DistilBertForSequenceClassification.from_pretrained(
-    'distilbert-base-uncased',
-    num_labels=2,  # binary classification
-    use_safetensors=True
+    num_labels = len(df["label"].unique())
+    model = AutoModelForSequenceClassification.from_pretrained(
+        model_name,
+        num_labels=num_labels,
+        use_safetensors=True,
     )
-  
-    # Train
-    tokenizer = DistilBertTokenizer.from_pretrained(config["model"]["name"])
-    train_dataset = TextClassificationDataset(train_texts, train_labels, tokenizer, config['model']['params']['max_length'])
-    val_dataset = TextClassificationDataset(val_texts, val_labels, tokenizer, config['model']['params']['max_length'])
-    train_dataloader = DataLoader(train_dataset, batch_size=config['model']['params']['batch_size'], shuffle=True)
-    val_dataloader = DataLoader(val_dataset, batch_size=config['model']['params']['batch_size'])
 
-    # Print class distribution after balancing
-    print("\nClass distribution after balancing:")
-    print(df[target].value_counts())
-    
-    device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
-    #device = "cpu"
 
     print(f"Using device: {device}")
     print(f"Model: {config['model']['name']} with {config['model']['params']['num_epochs']} epochs, batch size {config['model']['params']['batch_size']}, learning rate {config['model']['params']['learning_rate']} \n")
-
+   
     model.to(device)
 
-    optimizer = torch.optim.AdamW(
-        model.parameters(),
-        lr=float(config['model']['params']['learning_rate'])
-    )
+    optimizer = torch.optim.AdamW(model.parameters(), lr=float(config['model']['params']['learning_rate']))
+
 
     epochs = config['model']['params']['num_epochs']
     total_steps = len(train_dataloader) * epochs
@@ -239,13 +314,14 @@ def main(df):
     best_f1 = -1
     start = datetime.now()
     run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
     os.environ["MLFLOW_TRACKING_USERNAME"] = "yavuz"
     os.environ["MLFLOW_TRACKING_PASSWORD"] = "af>[9w?W}d]/:|xHx?N`hZv8{"
 
     mlflow.set_tracking_uri("https://mlflow.dataviz.bsc.es")
     mlflow.enable_system_metrics_logging()
-    mlflow.set_experiment("DistilBERT Text Classification")
-    mlflow.start_run(run_name=f"distilbert-base-{run_id}")
+    mlflow.set_experiment(f"{config['model']['name']} Text Classification")
+    mlflow.start_run(run_name=f"{config['model']['name']}-{run_id}")
     
     mlflow.log_param("learning_rate", config["model"]["params"]["learning_rate"])
     mlflow.log_param("batch_size", config["model"]["params"]["batch_size"])
@@ -254,10 +330,6 @@ def main(df):
     mlflow.log_param("max_length", config["model"]["params"]["max_length"])
     mlflow.log_param("training_data_size", len(train_dataset))
     mlflow.log_param("validation_data_size", len(val_dataset))
-
-    y_train = train_labels.values
-    print(np.bincount(y_train))
-
 
 
     for epoch in range(epochs):
@@ -280,7 +352,7 @@ def main(df):
             device=device
         )
 
-        f1 = report["macro avg"]["f1-score"]
+        f1 = report["macro_f1"]
         mlflow.log_metric("val_accuracy", report["accuracy"], step=epoch)
         mlflow.log_metric("val_precision", report["precision"], step=epoch)
         mlflow.log_metric("val_recall", report["recall"], step=epoch)
@@ -333,17 +405,17 @@ def main(df):
     model_name = config["model"]["name"]
     base_dir = config["output"]["base_dir"]
 
-    run_dir = os.path.join(base_dir, model_name, run_id)
-    os.makedirs(run_dir, exist_ok=True)
-
+    run_dir = os.path.join(
+        base_dir,
+        model_name,
+        run_id
+    )
 
     save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
 
-    np.save(os.path.join(run_dir, "confusion_matrix.npy"), cm)
-    np.savez(os.path.join(run_dir, "training_curves.npz"), train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)   
-    #visualize_report(run_dir)
-    #confusion_matrix_heatmap(run_dir)
 
+    #save_outputs_torch(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
+    #confusion_matrix_heatmap(run_dir)
 
     mlflow.log_artifacts(os.path.join(run_dir))
 
@@ -355,7 +427,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", required=True, help="Path to config.yaml")
     args = parser.parse_args()
-    config = load_config("configs/distilbert_config.yaml")
+    config = load_config(args.config)
     df = pd.read_parquet(config["df"])
 
-    main(df)
+    main(df, config)

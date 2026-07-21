@@ -215,15 +215,8 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
     concatenated_directions = " ".join(
         df["title"].astype(str) + " " + df["directions"].astype(str)
     )
-    df_directions = df["directions"].astype(str).tolist()
     df_titles = df["title"].astype(str).tolist()
-    df_ingredients = df["NER"].astype(str)
-    for i in range(len(df_ingredients)):
-        if df_ingredients[i].startswith("[") and df_ingredients[i].endswith("]"):
-            df_ingredients[i] = df_ingredients[i][1:-1]
-            df_ingredients[i] = df_ingredients[i].replace("'", "")
-            df_ingredients[i] = df_ingredients[i].replace('"', "")
-            
+    df_ingredients = df["ingredients"].astype(str).tolist()
     df_extracted = pd.DataFrame(columns=["title", "text", "ingredients", "actions"])
     chunks_list = []
     recipe_list = []
@@ -242,9 +235,6 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
     print("\n")
     for i in range(len(chunks)):
         chunk = chunks[i]    
-        reference_recipe_text = most_similar_recipe = max(df_directions, key=lambda r: evaluate_extraction(r, chunk)['iou'])
-        reference_ingredients = df_ingredients[df_directions.index(reference_recipe_text)].strip("[]").replace("'", "").split(", ")
-        reference_title = df_titles[df_directions.index(reference_recipe_text)]
         print("\n")
         print("="*100)
         print(f"\nCHUNK #{i+1}: \n{chunk}\n")
@@ -273,7 +263,7 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
 
         print("Normalization Report:")
         print(normalization_report)
-        normalization_path = os.path.join(base_dir, f"normalization_{model_name}_{num_recipes}.json")
+        normalization_path = os.path.join(base_dir, f"normalization_results_{model_name}.json")
         save_report(normalization_report, normalization_path)
 
         # ==============================================
@@ -281,12 +271,9 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
         # ==============================================
 
         validation_start = datetime.now()
-        try:
-            validation = await document_validator.run(normalized_text)
-            
-        except Exception as e:
-            print(f"Error occurred during validation: {e}")
-            validation = {"error": str(e)}
+        validation = await document_validator.run(normalized_text)
+        if not validation.output:
+            raise ValueError(validation.output['errors'])
         validation_end = datetime.now()
         validation_time = validation_end - validation_start
         print("Validation: ")
@@ -302,20 +289,19 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
         print("Boundary Extraction:")
         print(extended_chunk)
         boundary_start = datetime.now()
-        try:
-            result = await boundary_extractor.run(extended_chunk)
-            recipe = result.output
-        except Exception as e:
-            print(f"Error occurred during boundary extraction: {e}")
-            recipe = ""
+        result = send_prompt(
+            BOUNDARY_EXTRACTION_PROMPT.format(extended_chunk=extended_chunk),
+            model="nemotron-3-super:120b",
+        )
+        recipe = result
         boundary_end = datetime.now()
         boundary_time = boundary_end - boundary_start
 
-        boundary_extraction_report = evaluate_extraction(extended_chunk, reference_recipe_text)
+        boundary_extraction_report = evaluate_extraction(extended_chunk, recipe)
 
         print("Boundary Extraction Report:")
         print(boundary_extraction_report)
-        boundary_extraction_path = os.path.join(base_dir, f"boundary_extraction_{model_name}_{num_recipes}.json")
+        boundary_extraction_path = os.path.join(base_dir, f"boundary_extraction_results_{model_name}.json")
         save_report(boundary_extraction_report, boundary_extraction_path)
 
         # ==============================================
@@ -326,7 +312,7 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
         try:
             ingredients = await ingredient_extractor.run(recipe)
             ingredients = ingredients.output.ingredients
-            ingredients_report = evaluate_list(reference_ingredients, ingredients)
+            ingredients_report = evaluate_list(df_ingredients, ingredients)
         except Exception as e:
             ingredients = DEFAULT_INGREDIENTS_VALUE
             ingredients_report = {"error": str(e)}
@@ -334,11 +320,7 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
         ingredient_time = ingredient_end - ingredient_start
         print("Ingredients Report:")
         print(ingredients_report)
-        print("Reference Ingredients:")
-        print(reference_ingredients)
-        print("Extracted Ingredients:")
-        print(ingredients)
-        ingredients_path = os.path.join(base_dir, f"ingredient_extraction_{model_name}_{num_recipes}.json")
+        ingredients_path = os.path.join(base_dir, f"ingredient_extraction_results_{model_name}.json")
         save_report(ingredients_report, ingredients_path)
 
 
@@ -365,7 +347,8 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
         try:
             title = await title_extractor.run()
             title = title.output.title
-            title_report = evaluate_extraction(reference_title, title)
+            most_similar_title = max(df_titles, key=lambda t: evaluate_extraction(t, title)['iou'])
+            title_report = evaluate_extraction(most_similar_title, title)
         except Exception as e:
             title = DEFAULT_TITLE_VALUE
             title_report = {"error": str(e)}
@@ -375,13 +358,9 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
 
         print("Title Report:")
         print(title_report)
-        print("Reference Title:")
-        print(reference_title)
-        print("Extracted Title:")
-        print(title)
 
 
-        title_path = os.path.join(base_dir, f"title_extraction_{model_name}_{num_recipes}.json")
+        title_path = os.path.join(base_dir, f"title_extraction_results_{model_name}.json")
         save_report(title_report, title_path)
 
         # ==============================================
@@ -395,16 +374,16 @@ async def main(df: pd.DataFrame) -> pd.DataFrame:
             "text": new_recipe.text,
             "ingredients": new_recipe.ingredients,
             "actions": new_recipe.actions,
-            "normalization_time": normalization_time.total_seconds(),
-            "validation_time": validation_time.total_seconds(),
-            "boundary_time": boundary_time.total_seconds(),
-            "ingredient_time": ingredient_time.total_seconds(),
-            "action_time": action_time.total_seconds(),
-            "title_time": title_time.total_seconds(),
+            "normalization_time": normalization_time.microseconds / 1_000_000,
+            "validation_time": validation_time.microseconds / 1_000_000,
+            "boundary_time": boundary_time.microseconds / 1_000_000,
+            "ingredient_time": ingredient_time.microseconds / 1_000_000,
+            "action_time": action_time.microseconds / 1_000_000,
+            "title_time": title_time.microseconds / 1_000_000,
             "total_time": (
-                normalization_time.total_seconds() + validation_time.total_seconds() + boundary_time.total_seconds() +
-                ingredient_time.total_seconds() + action_time.total_seconds() + title_time.total_seconds()
-            ),
+                normalization_time.microseconds + validation_time.microseconds + boundary_time.microseconds +
+                ingredient_time.microseconds + action_time.microseconds + title_time.microseconds
+            ) / 1_000_000,
             "text_length": len(recipe.split()),
 
         }])
@@ -428,7 +407,7 @@ if __name__ == "__main__":
     print(f"Processing {num_recipes} files...")
     df_path = "/Users/yavuzlule/Desktop/bsc-relish/src/bsc_relish/agentic/data/recipe1m_10000.parquet"
     df = pd.read_parquet(df_path)
-    df = df[:num_recipes]
+    df = df[10:10+num_recipes]
     """
     
         Unnamed: 0	title	ingredients	directions	link	source	NER
@@ -444,8 +423,9 @@ if __name__ == "__main__":
 
 
     recipes = asyncio.run(main(df))
-    save_path = os.path.join(base_dir, f"recipes_{model_name}_{num_recipes}.csv")
-    recipes.to_csv(save_path, index=False)
+    title_path = os.path.join(base_dir, f"title_extraction_results_{model_name}-{num_recipes}.json")
+
+    recipes.to_csv("recipes.csv")
 
     print("\n")
     print("="*100)
@@ -453,8 +433,5 @@ if __name__ == "__main__":
     print("="*100)
     print("\n")
     print(recipes)
-
-    print(f"Saved recipes to recipes_{model_name}_{num_recipes}.csv")
-
     
     

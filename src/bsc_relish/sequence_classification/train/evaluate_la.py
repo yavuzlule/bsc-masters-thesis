@@ -33,9 +33,10 @@ def evaluate(model, data_loader, device):
             outputs = model(
                 input_ids=input_ids,
                 attention_mask=attention_mask,
+                lang_ids=batch["lang_ids"].to(device)
             )
 
-            logits = outputs.logits
+            logits = outputs
 
             loss = loss_fn(logits, labels)
             total_loss += loss.item()

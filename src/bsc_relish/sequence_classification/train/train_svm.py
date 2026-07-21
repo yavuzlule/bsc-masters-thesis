@@ -1,20 +1,14 @@
 import os
+from joblib import dump
 import numpy as np
-from sentence_transformers import SentenceTransformer
-from transformers import AutoTokenizer
 import yaml
 import json
 import importlib
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
-from bsc_relish.preprocess.chunk.chunk import expand_chunks
-from bsc_relish.sequence_classification.train.evaluate import evaluate_logreg, evaluate_svm, evaluate_xgboost
+from bsc_relish.sequence_classification.train.evaluate import evaluate_svm
 import yaml
-from joblib import dump
-
-from bsc_relish.utils.utils import get_embedding
-
 
 # -------------------------
 # Utils
@@ -30,6 +24,8 @@ def load_model(model_path: str, params: dict):
     module = importlib.import_module(module_name)
     model_class = getattr(module, class_name)
     return model_class(**params)
+
+
 
 
 
@@ -58,7 +54,6 @@ def save_outputs(model, run_dir, report, config):
     print("Saved to: " + run_dir)
 
 
-
 # -------------------------
 # Main
 # -------------------------
@@ -67,40 +62,11 @@ from datetime import datetime
 
 
 def main(df):
-    config = load_config("configs/xgboost.yaml")
+    config = load_config("configs/svm.yaml")
 
     # Load data
     train_df = df
-    target = "label"
-
-    print(len(train_df))
-    preprocess_config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml")
-
-
-
-    rows = train_df.rename(columns={"chunk_text": "text"}).to_dict(orient="records")
-    model_name = config["model"]["name"]
-
-
-    tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
-    embedding_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
-
-    # Obtain embeddings (allminilm-embeddings-v2)
-    expanded = expand_chunks(
-        preprocess_config,
-        tokenizer,
-        rows,
-        preprocess_config["preprocessing"]["chunking"]["max_words"],
-    )
-    train_df["embedding"] = train_df["text"].apply(lambda x: get_embedding(x, embedding_model))
-
-
-
-
-
-
-    # Reset indices
-    train_df = train_df.reset_index(drop=True)
+    target = config["data"]["target_column"]
 
     #X = train_df.drop(columns=[target])
     X = train_df["embedding"].tolist() 
@@ -127,7 +93,7 @@ def main(df):
     pipeline.fit(X_train, y_train)
 
     # Evaluate
-    report, cm = evaluate_xgboost(pipeline, X_test, y_test)
+    report, cm = evaluate_svm(pipeline, X_test, y_test)
 
     # Save outputs
     run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
@@ -137,9 +103,9 @@ def main(df):
 
     run_dir = os.path.join(base_dir, model_name, run_id)
     os.makedirs(run_dir, exist_ok=True)
-
-
+    save_data_path = f"{run_dir}/dataset.parquet"
     save_outputs(model, run_dir, report, config)
+    df.to_parquet(save_data_path)
 
 
 if __name__ == "__main__":
@@ -148,7 +114,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--config", required=True, help="Path to config.yaml")
     args = parser.parse_args()
-    config = load_config(args.config)
+    config = load_config("configs/svm.yaml")
 
     df = pd.read_parquet(config["df"])
     main(df)

@@ -18,7 +18,7 @@ from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.impute import SimpleImputer
 from bsc_relish.preprocess.chunk.chunk import expand_chunks
-from bsc_relish.sequence_classification.train.evaluate import evaluate
+from bsc_relish.sequence_classification.train.evaluate_la import evaluate
 import logging
 import yaml
 from torch import device, nn
@@ -45,7 +45,42 @@ language_order = ['english',
                   'dutch']
 
 
+import torch
+import torch.nn as nn
+from transformers import AutoModel
 
+class LanguageAwareClassifier(nn.Module):
+    def __init__(self, model_name, num_labels, num_languages):
+        super().__init__()
+
+        self.encoder = AutoModel.from_pretrained(model_name, use_safetensors=True)
+
+        hidden_size = self.encoder.config.hidden_size
+
+        self.lang_embedding = nn.Embedding(num_languages, 32)
+
+        self.classifier = nn.Sequential(
+            nn.Linear(hidden_size + 32, hidden_size),
+            nn.ReLU(),
+            nn.Dropout(0.1),
+            nn.Linear(hidden_size, num_labels)
+        )
+
+    def forward(self, input_ids, attention_mask, lang_ids):
+        outputs = self.encoder(
+            input_ids=input_ids,
+            attention_mask=attention_mask,
+            lang_ids=lang_ids
+        )
+
+        text_repr = outputs.last_hidden_state[:, 0]  # CLS token
+        lang_repr = self.lang_embedding(lang_ids)
+
+        combined = torch.cat([text_repr, lang_repr], dim=1)
+
+        return self.classifier(combined)
+    
+    
 class TextClassificationDataset(Dataset):
     def __init__(self, texts, labels, lang_ids, tokenizer, max_length):
         self.texts = texts.reset_index(drop=True)
@@ -93,13 +128,17 @@ def train(device, model, data_loader, optimizer, scheduler, loss_fn):
         labels = batch["label"].to(device)
         lang_ids = batch["lang_ids"].to(device)
         optimizer.zero_grad()
+        assert lang_ids.min() >= 0
+        assert lang_ids.max() < model.lang_embedding.num_embeddings
 
+        assert labels.min() >= 0
         outputs = model(
             input_ids=input_ids,
-            attention_mask=attention_mask
+            attention_mask=attention_mask,
+            lang_ids=lang_ids
         )
 
-        logits = outputs.logits
+        logits = outputs
         loss = loss_fn(logits, labels)
 
         loss.backward()
@@ -161,7 +200,8 @@ def main(df):
 
     df = balance_classes(df, "label")
     df["language"] = df["language"].str.lower()
-
+    df = df[df["language"].isin(language_order)]
+    print(len(df))
     preprocess_config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml")
 
     df["language"] = pd.Categorical(
@@ -169,7 +209,13 @@ def main(df):
         categories=language_order,
         ordered=True,
     )
-    df["lang_id"] = df["language"].cat.codes
+    
+    UNK_ID = len(language_order)
+
+    df["lang_id"] = df["language"].apply(
+        lambda x: language_order.index(x) if x in language_order else UNK_ID
+    )
+
 
     rows = df.rename(columns={"chunk_text": "text"}).to_dict(orient="records")
     model_name = config["model"]["name"]
@@ -268,10 +314,13 @@ def main(df):
                 train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
                 val_loader = DataLoader(val_dataset, batch_size=batch_size)
 
-                model = AutoModelForSequenceClassification.from_pretrained(
-                    model_name,
-                    num_labels=len(df["label"].unique()),
-                    use_safetensors=True,
+                num_labels = len(df["label"].unique())
+                num_languages = len(df["lang_id"].unique())
+
+                model = LanguageAwareClassifier(
+                    model_name=model_name,
+                    num_labels=num_labels,
+                    num_languages=train_df["lang_id"].nunique() + 1  # +1 for unknown language
                 ).to(device)
 
                 optimizer = torch.optim.AdamW(model.parameters(), lr=lr)
@@ -289,6 +338,7 @@ def main(df):
                 # training
                 # -------------------------
                 for epoch in range(epochs):
+                    print(f"Epoch: {epoch}\n")
                     train(device, model, train_loader, optimizer, scheduler, loss_fn)
 
                 # -------------------------
@@ -333,8 +383,8 @@ def main(df):
             run_id
         )
         os.makedirs(run_dir, exist_ok=True)
-
-        model.save_pretrained(run_dir)
+        save_path = os.path.join(run_dir, "model_weights.pth")
+        torch.save(model.state_dict(), save_path)
         tokenizer.save_pretrained(run_dir)
 
         # log as MLflow artifact (IMPORTANT)

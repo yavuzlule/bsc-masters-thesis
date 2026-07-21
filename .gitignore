@@ -90,11 +90,15 @@ htmlcov/
 # =====================
 # Model Logs (already in MLFlow)
 # =====================
-mlruns/
-xlmr-title-ner/
 
 results/
 
 outputs/
 
 mlruns/
+
+# =====================
+# JSON Files
+# =====================
+
+*.json

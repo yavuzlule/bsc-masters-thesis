@@ -1,3 +1,5 @@
+from datetime import datetime
+from time import time
 import torch
 import pandas as pd
 from transformers import AutoModelForSequenceClassification, AutoTokenizer, RobertaForSequenceClassification, RobertaTokenizer, XLMRobertaForSequenceClassification, XLMRobertaTokenizer
@@ -43,20 +45,23 @@ def load_roberta_model(model_path):
         tuple: (model, tokenizer)
     """
     print("Loading tokenizer...")
-    model = XLMRobertaForSequenceClassification.from_pretrained("FacebookAI/xlm-mlm-en-2048", num_labels=2, use_safetensors=True)
-    print("\n\n\nMODEL LOADED\n\n")
+    tokenizer = AutoTokenizer.from_pretrained(model_path)
 
-    # Train
-    tokenizer = AutoTokenizer.from_pretrained("FacebookAI/xlm-mlm-en-2048")
+    print("Loading model architecture...")
+    model = XLMRobertaForSequenceClassification.from_pretrained(
+        model_path,
+        num_labels=2,
+        use_safetensors=True,
+    )        
     print("Loading safetensors weights...")
-    state_dict = load_file(model_path)
+    #state_dict = load_file(model_path)
     
     # Convert TensorFlow naming to PyTorch
     print("Converting TensorFlow parameters to PyTorch format...")
-    state_dict = convert_tf_to_pytorch_layernorm(state_dict)
+    #state_dict = convert_tf_to_pytorch_layernorm(state_dict)
     
     # Load with strict=False to handle any remaining mismatches
-    model.load_state_dict(state_dict, strict=False)
+    #model.load_state_dict(state_dict)
     
     # Set to evaluation mode
     model.eval()
@@ -121,111 +126,76 @@ def predict_single_text(text, model, tokenizer, device, max_length=512):
     return label_1_probability
 
 
-def infer_roberta_batch(df, model_path, column_name='chunk_text', batch_size=8, max_length=512):
-    """
-    Infer RoBERTa probabilities for all texts in a DataFrame.
-    
-    Args:
-        df (pd.DataFrame): Input DataFrame
-        model_path (str): Path to the safetensors model file
-        column_name (str): Name of the column containing text to classify
-        batch_size (int): Batch size for processing
-        max_length (int): Maximum token length
-    
-    Returns:
-        pd.DataFrame: DataFrame with added 'Roberta-base-proba' column
-    """
-    print("Loading model and tokenizer...")
-    model, tokenizer = load_roberta_model(model_path)
-    device = get_device()
-    model.to(device)
-    
-    print(f"Processing {len(df)} texts...")
-    probabilities = []
-    
-    for idx, text in enumerate(df[column_name]):
-        if idx % 100 == 0:
-            print(f"  Processed {idx}/{len(df)}")
-        
-        try:
-            prob = predict_single_text(text, model, tokenizer, device, max_length)
-            probabilities.append(prob)
-        except Exception as e:
-            print(f"  Error processing row {idx}: {e}")
-            probabilities.append(None)
-    
-    # Add column to DataFrame
-    df['xlmroberta-base-proba'] = probabilities
-    
-    print("Done!")
-    return df
+def infer_roberta_optimized(
+    df,
+    model_path,
+    column_name="chunk_text",
+    batch_size=32,
+    max_length=256,
+):
+    import torch
+    import numpy as np
+    from tqdm.auto import tqdm
+    from transformers import AutoTokenizer, XLMRobertaForSequenceClassification
 
+    df = df[df["label"].isin([0, 1])].copy()
 
-def infer_roberta_optimized(df, model_path, column_name='chunk_text', batch_size=32, max_length=512):
-    """
-    Optimized batch inference using vectorized operations.
-    More efficient than processing one-by-one.
-    
-    Args:
-        df (pd.DataFrame): Input DataFrame
-        model_path (str): Path to the safetensors model file
-        column_name (str): Name of the column containing text to classify
-        batch_size (int): Batch size for processing
-        max_length (int): Maximum token length
-    
-    Returns:
-        pd.DataFrame: DataFrame with added 'Roberta-base-proba' column
-    """
     print("Loading model and tokenizer...")
-    model, tokenizer = load_roberta_model(model_path)
-    device = get_device()
+
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+
+    model = XLMRobertaForSequenceClassification.from_pretrained(
+        model_path,
+        num_labels=2,
+        use_safetensors=True,
+    )
+    tokenizer = AutoTokenizer.from_pretrained(model_path)
+
     model.to(device)
-    
-    texts = df[column_name].tolist()
+    model.eval()
+
+    texts = df[column_name].fillna("").astype(str).tolist()
     all_probabilities = []
-    
+
     print(f"Processing {len(texts)} texts in batches of {batch_size}...")
-    
-    for batch_start in range(0, len(texts), batch_size):
+
+    batch_starts = range(0, len(texts), batch_size)
+
+    for batch_start in tqdm(
+        batch_starts,
+        total=(len(texts) + batch_size - 1) // batch_size,
+        desc="Inference",
+    ):
         batch_end = min(batch_start + batch_size, len(texts))
         batch_texts = texts[batch_start:batch_end]
-        
-        print(f"  Batch {batch_start}-{batch_end}")
-        
+
         try:
-            # Tokenize batch
             inputs = tokenizer(
                 batch_texts,
                 max_length=max_length,
-                padding='max_length',
+                padding=True,
                 truncation=True,
-                return_tensors='pt'
+                return_tensors="pt",
             )
-            
-            # Move to device
-            inputs = {key: val.to(device) for key, val in inputs.items()}
-            
-            # Forward pass
+
+            inputs = {k: v.to(device) for k, v in inputs.items()}
+
             with torch.no_grad():
                 outputs = model(**inputs)
-            
-            # Get probabilities
-            logits = outputs.logits
-            probabilities = torch.softmax(logits, dim=-1)
-            
-            # Extract label 1 probabilities
-            label_1_probs = probabilities[:, 1].cpu().numpy().tolist()
+
+            probs = torch.softmax(outputs.logits, dim=-1)
+            label_1_probs = probs[:, 1].cpu().numpy()
+
             all_probabilities.extend(label_1_probs)
-        
+
         except Exception as e:
-            print(f"  Error processing batch {batch_start}-{batch_end}: {e}")
-            all_probabilities.extend([None] * len(batch_texts))
-    
-    # Add column to DataFrame
-    df['xlmroberta-base-proba'] = all_probabilities
-    
-    print("Done!")
+            tqdm.write(f"Batch error {batch_start}-{batch_end}: {e}")
+            all_probabilities.extend([np.nan] * len(batch_texts))
+
+    df["xlmroberta-base-proba"] = all_probabilities
+
     return df
+
 
 def debug_logits(df, model_path, column_name='chunk_text', num_samples=5):
     """Check raw logits being produced"""
@@ -264,15 +234,17 @@ def debug_logits(df, model_path, column_name='chunk_text', num_samples=5):
 # Usage
 if __name__ == "__main__":
     # Load your DataFrame
-    data_path = "/Users/yavuzlule/Desktop/bsc-relish/notebooks/relish_chunked.parquet"
+    data_path = "/media/M2_disk/yavuz/bsc-masters-thesis/data/interim/chunked_256/2026-06-17_06-46-11-multilingual-xlm-256/dataset.parquet"
     df = pd.read_parquet(data_path)
-    model_path='/Users/yavuzlule/Desktop/bsc-relish/results/xlmroberta-base/2026-05-19_21-52-34/model.safetensors'
+    model_path='/media/M2_disk/yavuz/bsc-masters-thesis/results/FacebookAI/xlm-mlm-en-2048/2026-06-12_14-39-54'
     # Option 1: Single-by-single processing (slower, more memory efficient)
     # df = infer_roberta_batch(df, model_path='path/to/model.safetensors')
     #debug_logits(df, model_path, num_samples=5)
-    
+    run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
     # Option 2: Batch processing (faster, recommended)
     df = infer_roberta_optimized(df, model_path=model_path, batch_size=32)
-    save_data_path = "/Users/yavuzlule/Desktop/bsc-relish/notebooks/relish_chunked_xlm.parquet"
+    save_data_path = f"data/test/miriam-test-xlm-proba-{run_id}.parquet"
+    print(f"Saving results to: {save_data_path}")
     # Save results
     df.to_parquet(save_data_path)
