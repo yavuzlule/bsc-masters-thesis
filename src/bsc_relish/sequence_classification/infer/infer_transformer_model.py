@@ -1,9 +1,12 @@
 from datetime import datetime
 import torch
 import pandas as pd
-from transformers import DistilBertForSequenceClassification, DistilBertTokenizer
+from transformers import AutoModelForSequenceClassification, AutoTokenizer, BertForSequenceClassification, BertTokenizer
 from safetensors.torch import load_file
 from pathlib import Path
+
+from bsc_relish.preprocess.chunk.chunk import expand_chunks
+from bsc_relish.utils.utils import load_config
 def convert_tf_to_pytorch_layernorm(state_dict):
     """
     Convert TensorFlow LayerNorm parameters (gamma, beta) to PyTorch (weight, bias).
@@ -43,10 +46,10 @@ def load_roberta_model(model_path):
         tuple: (model, tokenizer)
     """
     print("Loading tokenizer...")
-    tokenizer = DistilBertTokenizer.from_pretrained(model_path)
+    tokenizer = BertTokenizer.from_pretrained(model_path)
 
     print("Loading model architecture...")
-    model = DistilBertForSequenceClassification.from_pretrained(
+    model = BertForSequenceClassification.from_pretrained(
         model_path,
         num_labels=2,
         use_safetensors=True,
@@ -67,61 +70,6 @@ def load_roberta_model(model_path):
     
     return model, tokenizer
 
-def get_device():
-    """
-    Determine the best available device (GPU or CPU).
-    
-    Returns:
-        torch.device: The device to use for inference
-    """
-    if torch.cuda.is_available():
-        device = torch.device('cuda')
-        print(f"Using GPU: {torch.cuda.get_device_name(0)}")
-    else:
-        device = torch.device('cpu')
-        print("Using CPU")
-    
-    return device
-
-
-def predict_single_text(text, model, tokenizer, device, max_length=512):
-    """
-    Get prediction probability for a single text.
-    
-    Args:
-        text (str): Text to classify
-        model: The RoBERTa model
-        tokenizer: The tokenizer
-        device (torch.device): Device to use
-        max_length (int): Maximum token length
-    
-    Returns:
-        float: Probability of belonging to label 1
-    """
-    # Tokenize input
-    inputs = tokenizer(
-        text,
-        max_length=max_length,
-        padding='max_length',
-        truncation=True,
-        return_tensors='pt'
-    )
-    
-    # Move to device
-    inputs = {key: val.to(device) for key, val in inputs.items()}
-    
-    # Forward pass
-    with torch.no_grad():
-        outputs = model(**inputs)
-    
-    # Get logits and apply softmax to get probabilities
-    logits = outputs.logits
-    probabilities = torch.softmax(logits, dim=-1)
-    
-    # Return probability of label 1 (second class)
-    label_1_probability = probabilities[0][1].item()
-    
-    return label_1_probability
 
 
 def infer_bert_optimized(
@@ -142,12 +90,12 @@ def infer_bert_optimized(
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
-    model = DistilBertForSequenceClassification.from_pretrained(
+    model = BertForSequenceClassification.from_pretrained(
         model_path,
         num_labels=2,
         use_safetensors=True,
     )
-    tokenizer = DistilBertTokenizer.from_pretrained(model_path)
+    tokenizer = BertTokenizer.from_pretrained(model_path)
 
     model.to(device)
     model.eval()
@@ -190,50 +138,42 @@ def infer_bert_optimized(
             tqdm.write(f"Batch error {batch_start}-{batch_end}: {e}")
             all_probabilities.extend([np.nan] * len(batch_texts))
 
-    df["distilbert-base-proba"] = all_probabilities
+    df["bert-base-proba"] = all_probabilities
 
     return df
 
 
-def debug_logits(df, model_path, column_name='chunk_text', num_samples=5):
-    """Check raw logits being produced"""
-    print("Loading model...")
-    model, tokenizer = load_roberta_model(model_path)
-    
-    print(f"\nChecking logits for first {num_samples} samples:\n")
-
-    for idx in range(min(num_samples, len(df))):
-        text = df[column_name].iloc[idx]
-
-        inputs = tokenizer(
-            text,
-            max_length=512,
-            padding='max_length',
-            truncation=True,
-            return_tensors='pt'
-        )
-        inputs = {k: v for k, v in inputs.items()}
-
-        with torch.no_grad():
-            outputs = model(**inputs)
-
-        logits = outputs.logits[0]
-        probs = torch.softmax(logits, dim=-1)
-
-        print(f"Sample {idx}:")
-        print(f"  Text preview: {text[:80]}...")
-        print(f"  Logits: [{logits[0].item():.4f}, {logits[1].item():.4f}]")
-        print(f"  Probabilities: [{probs[0].item():.4f}, {probs[1].item():.4f}]")
-        print(f"  Logit difference: {abs(logits[0].item() - logits[1].item()):.4f}")
-        print()
-
 # Usage
 if __name__ == "__main__":
     # Load your DataFrame
+    config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/distilbert.yaml")
 
-    data_path = "/media/M2_disk/yavuz/bsc-masters-thesis/data/interim/chunked_256/2026-06-13_11-58-49-distilbert-256-test/dataset.parquet"
+    data_path = config["df"]
     df = pd.read_parquet(data_path)
-    model_path='/media/M2_disk/yavuz/bsc-masters-thesis/results/distilbert-base-uncased/2026-06-12_14-41-34'
+    preprocess_config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml")
+
+    print(len(df))
+
+
+
+    rows = df.rename(columns={"chunk_text": "text"}).to_dict(orient="records")
+    model_name = config["model"]["name"]
+
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+    expanded = expand_chunks(
+        preprocess_config,
+        tokenizer,
+        rows,
+        preprocess_config["preprocessing"]["chunking"]["max_words"],
+    )
+
+    df = pd.DataFrame(expanded)
+
+
+    # Reset indices
+    df = df.reset_index(drop=True)
+    model_path='/media/M2_disk/yavuz/bsc-masters-thesis/results/distilbert-base-uncased/2026-07-03_08-21-11'
     # Option 1: Single-by-single processing (slower, more memory efficient)
     #df = infer_bert_batch(df, model_path='path/to/model.safetensors')
     #debug_logits(df, model_path, num_samples=5)
@@ -241,7 +181,7 @@ if __name__ == "__main__":
 
     # Option 2: Batch processing (faster, recommended)
     df = infer_bert_optimized(df, model_path=model_path, batch_size=32)
-    save_data_path = f"data/test/miriam-test-distilbert-proba-{run_id}.parquet"
+    save_data_path = f"data/test/multilingual-test-distilbert-proba-{run_id}.parquet"
     print(f"Saving results to: {save_data_path}")
     # Save results
     df.to_parquet(save_data_path)

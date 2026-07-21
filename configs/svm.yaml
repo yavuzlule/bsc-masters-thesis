@@ -1,22 +1,19 @@
 model:
-  name: logistic_regression
-  type: sklearn.linear_model.LogisticRegression
+  name: svm
+  type: sklearn.svm.SVC
 
   params:
     C: 1.0
-    solver: saga
-    max_iter: 500
-    class_weight: "balanced"
+    kernel: rbf
+    gamma: scale
+    class_weight: balanced
+    probability: true
     random_state: 42
 
 training:
   test_size: 0.2
   stratify: true
 
-  cross_validation:
-    enabled: false   # enable later if needed
-    folds: 5
-    scoring: roc_auc
 
 evaluation:
   metrics:
@@ -35,5 +32,6 @@ data:
   interim_path: "data/interim"
   target_column: label
 
-df: "/media/M2_disk/yavuz/bsc-masters-thesis/data/test/multilingual_test.parquet"
+
 #df: "/media/M2_disk/yavuz/bsc-masters-thesis/data/train/preprocessed_miriam_corpus_train.parquet"
+df: "/media/M2_disk/yavuz/bsc-masters-thesis/data/test/multilingual_test.parquet"

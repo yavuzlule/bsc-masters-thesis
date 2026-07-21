@@ -9,7 +9,8 @@ from tqdm.auto import tqdm
 from transformers import AutoModel, AutoTokenizer
 from safetensors.torch import load_file as load_safetensors
 
-from bsc_relish.sequence_classification.train.train_distilbert import load_config
+from bsc_relish.utils.models import LanguageAwareClassifier
+from bsc_relish.utils.utils import get_device, load_config
 
 language_order = [
     "english",
@@ -34,47 +35,6 @@ language_order = [
 UNK_ID = len(language_order)
 
 
-class LanguageAwareClassifier(nn.Module):
-    def __init__(self, model_name, num_labels, num_languages):
-        super().__init__()
-
-        self.encoder = AutoModel.from_pretrained(
-            model_name,
-            use_safetensors=True,
-        )
-
-        hidden_size = self.encoder.config.hidden_size
-
-        self.lang_embedding = nn.Embedding(num_languages, 32)
-
-        self.classifier = nn.Sequential(
-            nn.Linear(hidden_size + 32, hidden_size),
-            nn.ReLU(),
-            nn.Dropout(0.1),
-            nn.Linear(hidden_size, num_labels),
-        )
-
-    def forward(self, input_ids, attention_mask, lang_ids):
-        outputs = self.encoder(
-            input_ids=input_ids,
-            attention_mask=attention_mask,
-        )
-
-        text_repr = outputs.last_hidden_state[:, 0]
-        lang_repr = self.lang_embedding(lang_ids)
-
-        combined = torch.cat([text_repr, lang_repr], dim=1)
-
-        return self.classifier(combined)
-
-
-def get_device():
-    if torch.cuda.is_available():
-        print(f"Using GPU: {torch.cuda.get_device_name(0)}")
-        return torch.device("cuda")
-
-    print("Using CPU")
-    return torch.device("cpu")
 
 
 def load_model(model_dir, base_model_name="bert-base-uncased"):
@@ -119,51 +79,6 @@ def load_model(model_dir, base_model_name="bert-base-uncased"):
 
     return model, tokenizer, device
 
-
-
-from pathlib import Path
-
-import torch
-from safetensors.torch import load_file
-from transformers import AutoTokenizer
-
-
-def load_model_safetensor(
-    model_dir,
-    base_model_name="bert-base-uncased",
-):
-    """
-    model_dir/
-    ├── model.safetensors
-    ├── tokenizer files
-    └── metrics.json
-    """
-
-    device = get_device()
-
-    tokenizer = AutoTokenizer.from_pretrained(model_dir)
-
-    state_dict = load_file(
-        str(Path(model_dir) / "model.safetensors")
-    )
-
-    num_languages = state_dict[
-        "lang_embedding.weight"
-    ].shape[0]
-
-    model = LanguageAwareClassifier(
-        model_name=base_model_name,
-        num_labels=2,
-        num_languages=num_languages,
-    )
-
-    model.load_state_dict(state_dict)
-
-    model.to(device)
-    model.eval()
-
-    return model, tokenizer, device
-
 def prepare_language_ids(df):
     df = df.copy()
 
@@ -181,7 +96,6 @@ def prepare_language_ids(df):
     )
 
     return df
-
 
 def infer_language_aware(
     df,
@@ -260,7 +174,6 @@ def infer_language_aware(
     df["language_aware_proba"] = probabilities
 
     return df
-
 
 if __name__ == "__main__":
     import argparse

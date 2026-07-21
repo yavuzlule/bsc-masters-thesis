@@ -1,19 +1,13 @@
 import os
 from datetime import datetime
-
 import pandas as pd
 from sentence_transformers import SentenceTransformer
-from sklearn.model_selection import train_test_split
-from transformers import AutoTokenizer, Pipeline
-
+from transformers import AutoTokenizer
 from bsc_relish.preprocess.chunk.chunk import expand_chunks
-from bsc_relish.sequence_classification.train.evaluate import evaluate_logreg, evaluate_svm, evaluate_xgboost
-from bsc_relish.sequence_classification.train.train_logreg import load_model, save_outputs, load_config
 from joblib import load
 from datetime import datetime
 import os
-
-from bsc_relish.utils.utils import get_embedding
+from bsc_relish.utils.utils import evaluate_classical_model, get_embedding, load_config, save_outputs
 
 def main(df):
     config = load_config("configs/logreg.yaml")
@@ -23,8 +17,6 @@ def main(df):
     preprocess_config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml")
 
     print(len(df))
-
-
 
     rows = df.rename(columns={"chunk_text": "text"}).to_dict(orient="records")
     model_name = config["model"]["name"]
@@ -62,7 +54,7 @@ def main(df):
 
 
     # Evaluate
-    report, cm = evaluate_xgboost(model, X, y)
+    report, cm = evaluate_classical_model(model, X, y)
 
     # Save outputs
     run_id = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")

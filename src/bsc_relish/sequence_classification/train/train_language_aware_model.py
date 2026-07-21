@@ -19,186 +19,28 @@ import torch.nn as nn
 from transformers import AutoModel
 
 from bsc_relish.preprocess.chunk.chunk import expand_chunks
-from bsc_relish.sequence_classification.train.evaluate import evaluate
-#from bsc_relish.visualize_report import confusion_matrix_heatmap
+from bsc_relish.utils.models import LanguageAwareClassifier, LanguageAwareTextClassificationDataset
+from bsc_relish.utils.utils import balance_classes, evaluate_la, load_config, save_outputs_torch, train_la
+
+language_order = ['english', 
+                  'old german', 
+                  'catalan', 
+                  'multiple', 
+                  'italian', 
+                  'latin',
+                  'french', 
+                  'old french', 
+                  'venetian/italian', 
+                  'old danish', 
+                  'middle dutch', 
+                  'middle low german', 
+                  'early modern english', 
+                  'middle french', 
+                  'spanish', 
+                  'german', 
+                  'dutch']
 
 
-# During training:
-# - Forward pass outputs logits
-# - Loss function (CrossEntropyLoss) applies softmax internally
-# - You get probabilities during inference with softmax
-
-    
-class TextClassificationDataset(Dataset):
-    def __init__(self, texts, labels, tokenizer, max_length):
-        self.texts = texts.reset_index(drop=True)
-        self.labels = labels.reset_index(drop=True)
-
-        self.tokenizer = tokenizer
-        self.max_length = max_length
-
-    def __len__(self):
-        return len(self.texts)
-
-    def __getitem__(self, idx):
-        text = self.texts.iloc[idx]
-        label = self.labels.iloc[idx]
-
-        encoding = self.tokenizer(
-            text,
-            max_length=self.max_length,
-            padding='max_length',
-            truncation=True,
-            return_tensors='pt'
-        )
-
-        return {
-            "input_ids": encoding["input_ids"].squeeze(0),
-            "attention_mask": encoding["attention_mask"].squeeze(0),
-            "label": torch.tensor(label, dtype=torch.long),
-        }
-
-
-
-def train(device, model, data_loader, optimizer, scheduler, loss_fn):
-    model = model.to(device)
-    model.train()
-
-    total_loss = 0.0
-    progress_bar = tqdm(data_loader, desc="Training")
-
-    for batch in progress_bar:
-        input_ids = batch["input_ids"].to(device)
-        attention_mask = batch["attention_mask"].to(device)
-        labels = batch["label"].to(device)
-        optimizer.zero_grad()
-
-        assert labels.min() >= 0
-        outputs = model(
-            input_ids=input_ids,
-            attention_mask=attention_mask
-        )
-
-        logits = outputs.logits
-        loss = loss_fn(logits, labels)
-
-        loss.backward()
-        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
-
-        optimizer.step()
-        scheduler.step()
-
-        total_loss += loss.item()
-        progress_bar.set_postfix(loss=loss.item())
-
-    return total_loss / len(data_loader)
-
-# -------------------------
-# Utils
-# -------------------------
-
-def load_config(path: str) -> dict:
-    with open(path, "r") as f:
-        return yaml.safe_load(f)
-
-
-def load_model(model_path: str, params: dict):
-    module_name, class_name = model_path.rsplit(".", 1)
-    module = importlib.import_module(module_name)
-    model_class = getattr(module, class_name)
-    return model_class(**params)
-
-def balance_classes(df, label_col):
-    if label_col not in df.columns:
-        raise ValueError(f"Missing '{label_col}'. Columns: {df.columns.tolist()}")
-
-    min_count = df[label_col].value_counts().min()
-
-    print(f"Balancing classes to {min_count} samples each.")
-
-    balanced_df = (
-        df.groupby(label_col, group_keys=False)
-          .sample(n=min_count, random_state=42)
-          .reset_index(drop=True)
-    )
-
-    return balanced_df
-
-
-def save_outputs_torch(
-    run_dir, model, tokenizer, report, config,
-    train_loss_arr, val_loss_arr, val_accuracy_arr,
-    val_roc_auc_arr, val_f1_arr
-):
-    os.makedirs(run_dir, exist_ok=True)
-
-    epochs_path = os.path.join(run_dir, "training_curves.npz")
-    np.savez(
-        epochs_path,
-        train_loss=train_loss_arr,
-        val_loss=val_loss_arr,
-        accuracy=val_accuracy_arr,
-        roc_auc=val_roc_auc_arr,
-        f1_score=val_f1_arr
-    )
-
-    metrics_path = os.path.join(run_dir, "metrics.json")
-    logs_path = os.path.join(run_dir, "logs.txt")
-    config_path = os.path.join(run_dir, "config.yaml")
-
-    if config.get("output", {}).get("save_model", False):
-        save_path = os.path.join(run_dir, "model_weights.pth")
-        torch.save(model.state_dict(), save_path)
-        tokenizer.save_pretrained(run_dir)
-
-    with open(metrics_path, "w") as f:
-        json.dump(report, f, indent=2)
-
-    with open(config_path, "w") as f:
-        yaml.dump(config, f, default_flow_style=False)
-
-    with open(logs_path, "w") as f:
-        f.write(f"Validation Accuracy: {report.get('accuracy', 0):.4f}\n")
-        f.write(f"Validation Loss: {report.get('loss', 0):.4f}\n")
-        f.write(f"ROC AUC: {report.get('roc_auc', 0):.4f}\n")
-        f.write(json.dumps(report, indent=2))
-
-
-def save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr):
-
-    #epochs_path = os.path.join(run_dir, "training_curves.npz")
-    #np.savez(epochs_path, train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)
-
-    metrics_path = os.path.join(run_dir, "metrics.json")
-    logs_path = os.path.join(run_dir, "logs.txt")
-    config_path = os.path.join(run_dir, "config.yaml")
-
-
-    if config["output"]["save_model"]:
-        model.save_pretrained(run_dir)
-        tokenizer.save_pretrained(run_dir)
-
-    # Predictions
-    with open(metrics_path, "w") as f:
-        json.dump(report, f, indent=2)
-
-    with open(config_path, "w") as f:
-        yaml.dump(config, f)
-
-    with open(logs_path, "w") as f:
-        f.write(f"Validation Accuracy: {report['accuracy']:.4f}\n")
-        f.write(f"Validation Loss: {report['loss']:.4f}\n")
-        f.write(f"ROC AUC: {report['roc_auc']:.4f}\n")
-        f.write(json.dumps(report, indent=2))
-
-
-def save_epoch_outputs(run_dir, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr):
-    epochs_path = os.path.join(run_dir, "training_curves.npz")
-    np.savez(epochs_path, train_loss=train_loss_arr, val_loss=val_loss_arr, accuracy=val_accuracy_arr, roc_auc=val_roc_auc_arr, f1_score=val_f1_arr)
-
-# -------------------------
-# Main
-# -------------------------
 import os
 from datetime import datetime
 
@@ -210,9 +52,22 @@ def main(df, config):
     preprocess_config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml")
 
     df = balance_classes(df, "label")
+    df["language"] = df["language"].str.lower()
+    df = df[df["language"].isin(language_order)]
     print(len(df))
     preprocess_config = load_config("/media/M2_disk/yavuz/bsc-masters-thesis/configs/preprocess.yaml")
 
+    df["language"] = pd.Categorical(
+        df["language"],
+        categories=language_order,
+        ordered=True,
+    )
+    
+    UNK_ID = len(language_order)
+
+    df["lang_id"] = df["language"].apply(
+        lambda x: language_order.index(x) if x in language_order else UNK_ID
+    )
 
 
     rows = df.rename(columns={"chunk_text": "text"}).to_dict(orient="records")
@@ -228,6 +83,12 @@ def main(df, config):
     )
 
     df = pd.DataFrame(expanded)
+
+
+    
+
+    df = df[["chunk_text", "label", "language", "lang_id"]]
+
 
 
     # Reset indices
@@ -252,17 +113,19 @@ def main(df, config):
     val_df = val_df.reset_index(drop=True)
 
     # Train dataset
-    train_dataset = TextClassificationDataset(
+    train_dataset = LanguageAwareTextClassificationDataset(
         train_df["chunk_text"],
         train_df["label"],
+        train_df["lang_id"],
         tokenizer,
         max_length,
     )
 
     # Validation dataset
-    val_dataset = TextClassificationDataset(
+    val_dataset = LanguageAwareTextClassificationDataset(
         val_df["chunk_text"],
         val_df["label"],
+        val_df["lang_id"],
         tokenizer,
         max_length,
     )
@@ -277,11 +140,12 @@ def main(df, config):
 
     # Build pipeline
     num_labels = len(df["label"].unique())
-    model = AutoModelForSequenceClassification.from_pretrained(
-        model_name,
-        num_labels=num_labels,
-        use_safetensors=True,
-    )
+    model = LanguageAwareClassifier(
+                    model_name=model_name,
+                    num_labels=num_labels,
+                    num_languages=train_df["lang_id"].nunique() + 1  # +1 for unknown language
+                ).to(device)
+    
 
 
     print(f"Using device: {device}")
@@ -336,7 +200,7 @@ def main(df, config):
 
         
         # ---- Train ----
-        train_loss = train(
+        train_loss = train_la(
             device,
             model,
             train_dataloader,
@@ -346,7 +210,7 @@ def main(df, config):
         )
 
         # ---- Validation ----
-        report, cm = evaluate(
+        report, cm = evaluate_la(
             model,
             val_dataloader,  # validation dataloader required
             device=device
@@ -393,7 +257,7 @@ def main(df, config):
     print(f"Training completed in: {int(hours)}h {int(minutes)}m {int(seconds)}s \n")
 
 
-    report, cm = evaluate(model, val_dataloader, device=device)
+    report, cm = evaluate_la(model, val_dataloader, device=device)
   
     print(f"Accuracy: {report['accuracy']:.4f}")
     print(f"Loss: {report['loss']:.4f}")
@@ -405,16 +269,16 @@ def main(df, config):
     model_name = config["model"]["name"]
     base_dir = config["output"]["base_dir"]
 
+
+
+    #save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
+
     run_dir = os.path.join(
-        base_dir,
-        model_name,
+        config["output"]["base_dir"],
+        model_name + "_la",
         run_id
     )
-
-    save_outputs(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
-
-
-    #save_outputs_torch(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
+    save_outputs_torch(run_dir, model, tokenizer, report, config, train_loss_arr, val_loss_arr, val_accuracy_arr, val_roc_auc_arr, val_f1_arr)
     #confusion_matrix_heatmap(run_dir)
 
     mlflow.log_artifacts(os.path.join(run_dir))
